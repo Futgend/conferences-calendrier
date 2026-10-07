@@ -291,6 +291,57 @@ def mois_abr(s):
     return None
 
 
+JOUR_RE = re.compile(r"^(?:lundi|mardi|mercredi|jeudi|vendredi|samedi|dimanche)\s+(\d{1,2})(?:er)?\s+([^\W\d_]+)", re.I)
+HEURE_PROG_RE = re.compile(r"^(\d{1,2})\s*h\s*(\d{2})?\s*(?:[-–—]\s*(\d{1,2})\s*h\s*(\d{2})?\s*)?[:\-–—]\s*(.*)")
+
+
+def ehess_programme(page, debut, fin):
+    """Horaires jour par jour d'un événement de plusieurs jours, lus dans son programme.
+    Renvoie [(jour, (h1, m1, h2, m2, fin_estimee))]. La fin est estimée (dernière session + 1h30)
+    quand le programme ne la donne pas."""
+    article = page.select_one("article") or page
+    jours, courant = {}, None
+    for brut in article.get_text("\n").split("\n"):
+        ligne = " ".join(brut.split())
+        if not ligne:
+            continue
+        m = JOUR_RE.match(ligne)
+        if m and len(ligne) < 40:
+            courant = None
+            mois = MOIS.get(m.group(2).lower())
+            if mois:
+                for annee in {debut.year, fin.year}:
+                    try:
+                        jour = datetime(annee, mois, int(m.group(1))).date()
+                    except ValueError:
+                        continue
+                    if debut <= jour <= fin:
+                        courant = jour
+                        jours.setdefault(jour, [])
+                        break
+            continue
+        h = HEURE_PROG_RE.match(ligne)
+        if h and courant is not None:
+            fin_prog = (int(h.group(3)), int(h.group(4) or 0)) if h.group(3) else None
+            jours[courant].append((int(h.group(1)), int(h.group(2) or 0), fin_prog, h.group(5)))
+    resultat = []
+    for jour in sorted(jours):
+        items = jours[jour]
+        if not items:
+            continue
+        h1, m1 = items[0][0], items[0][1]
+        dernier = items[-1]
+        if dernier[2]:
+            h2, m2, estime = dernier[2][0], dernier[2][1], False
+        elif re.match(r"fin\b", dernier[3], re.I):
+            h2, m2, estime = dernier[0], dernier[1], False
+        else:
+            total = min(dernier[0] * 60 + dernier[1] + 90, 23 * 60 + 59)
+            h2, m2, estime = total // 60, total % 60, True
+        resultat.append((jour, (h1, m1, h2, m2, estime)))
+    return resultat
+
+
 def ehess():
     r = requests.get(EHESS_LISTE, headers=HEADERS, timeout=30)
     r.raise_for_status()
@@ -325,6 +376,7 @@ def ehess():
         url = f"{EHESS_BASE}/{href.lstrip('/')}"
         # page de détail : lieu exact, horaires, accès, résumé
         place, heures, acces, resume = "", None, "", ""
+        jours_prog = []
         try:
             pr = requests.get(url, headers=HEADERS, timeout=30)
             pr.raise_for_status()
@@ -340,12 +392,31 @@ def ehess():
             meta = page.select_one('meta[name="description"]')
             if meta and meta.get("content"):
                 resume = " ".join(meta["content"].split())[:300]
+            jours_prog = ehess_programme(page, jour0.date(), jour1.date())
         except Exception as exc:
             print(f"ERREUR détail {url}: {exc}", file=sys.stderr)
         if not place:
             ville = card.select_one(".caption .title p.subtitle")
             place = " ".join(ville.get_text(" ").split()) if ville else ""
         note = ""
+        if multi and jours_prog and len(jours_prog) == (jour1.date() - jour0.date()).days + 1:
+            for jour, (h1, m1, h2, m2, estime) in jours_prog:  # un événement par jour, aux horaires du programme
+                debut = datetime(jour.year, jour.month, jour.day, h1, m1, tzinfo=PARIS)
+                fin = datetime(jour.year, jour.month, jour.day, h2, m2, tzinfo=PARIS)
+                if fin <= debut:
+                    fin = debut + timedelta(hours=2)
+                lignes = [
+                    f"Catégorie : {', '.join(categories)}" if categories else "",
+                    f"Accès : {acces}" if acces else "",
+                    "Horaires d'après le programme" + (" (heure de fin estimée)" if estime else ""),
+                    resume,
+                    f"Lien : {url}",
+                ]
+                events[(url, debut)] = {
+                    "title": titre, "start": debut, "end": fin, "all_day": False, "place": place,
+                    "description": "\n".join(x for x in lignes if x), "url": url,
+                }
+            continue
         if multi:  # plusieurs jours : événement sur la durée, horaires dans la description
             start, end, all_day = jour0, jour1 + timedelta(days=1), True
             if d0[3] is not None:
@@ -369,7 +440,7 @@ def ehess():
             resume,
             f"Lien : {url}",
         ]
-        events[url] = {
+        events[(url, start)] = {
             "title": titre, "start": start, "end": end, "all_day": all_day, "place": place,
             "description": "\n".join(x for x in desc if x), "url": url,
         }

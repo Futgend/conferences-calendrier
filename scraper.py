@@ -3,6 +3,7 @@ Pour ajouter une institution : écrire une fonction qui renvoie la liste des
 événements, puis l'ajouter au dictionnaire SOURCES.
 """
 import hashlib
+import json
 import sys
 from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
@@ -170,10 +171,39 @@ def academie_des_sciences():
     return sorted(events, key=lambda e: e["start"])
 
 
+def academie_depuis_fichier():
+    """Le site bloque GitHub : on lit un fichier mis à jour à la main."""
+    with open("academie-des-sciences.json", encoding="utf-8") as f:
+        data = json.load(f)
+    events = []
+    for d in data:
+        desc = [
+            f"Type : {d['type']}" if d.get("type") else "",
+            f"Public : {d['audience']}" if d.get("audience") else "",
+            f"Inscription : {d['status']}" if d.get("status") else "",
+            d.get("summary", ""),
+            f"Lien : {d['url']}",
+        ]
+        events.append({
+            "title": d["title"], "start": parse_dt(d["start"]), "end": parse_dt(d["end"]),
+            "all_day": False, "place": d.get("place", ""),
+            "description": "\n".join(x for x in desc if x), "url": d["url"],
+        })
+    return sorted(events, key=lambda e: e["start"])
+
+
+def academie_avec_secours():
+    try:
+        return academie_des_sciences()
+    except Exception as exc:
+        print(f"Académie : site inaccessible ({exc}), lecture du fichier manuel.", file=sys.stderr)
+        return academie_depuis_fichier()
+
+
 # Une entrée par institution : nom du fichier -> (nom du calendrier, fonction)
 SOURCES = {
     "college-de-france": ("Conférences Collège de France", college_de_france),
-    "academie-des-sciences": ("Conférences Académie des sciences", academie_des_sciences),
+    "academie-des-sciences": ("Conférences Académie des sciences", academie_avec_secours),
 }
 # Ancien nom de fichier, conservé le temps de changer d'abonnement
 LEGACY = {"college-de-france": "conferences"}

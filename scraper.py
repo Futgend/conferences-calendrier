@@ -33,7 +33,7 @@ def get_cards(url):
 
 def txt(card, selector):
     el = card.select_one(selector)
-    return el.get_text(strip=True) if el else ""
+    return " ".join(el.get_text().split()) if el else ""
 
 
 def make_event(card, parent="", default_url=""):

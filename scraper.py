@@ -110,9 +110,60 @@ def college_de_france():
     return sorted(events.values(), key=lambda e: e["start"])
 
 
+ACAD_BASE = "https://www.academie-sciences.fr"
+
+
+def academie_des_sciences():
+    r = requests.get(f"{ACAD_BASE}/events", headers=HEADERS, timeout=30)
+    r.raise_for_status()
+    soup = BeautifulSoup(r.text, "html.parser")
+    events = []
+    for card in soup.select(".NodeEventTeaser"):
+        link = card.select_one(".NodeEventTeaser-title a")
+        t = card.select_one("time[datetime]")
+        if not link or not t:
+            continue
+        url = ACAD_BASE + link["href"]
+        title = " ".join(link.get_text().split())
+        start = parse_dt(t["datetime"])
+        end = start + timedelta(hours=2)
+        summary = ""
+        try:  # la page de détail donne l'heure de fin et un résumé
+            pr = requests.get(url, headers=HEADERS, timeout=30)
+            pr.raise_for_status()
+            page = BeautifulSoup(pr.text, "html.parser")
+            times = page.select("time[datetime]")
+            if len(times) > 1:
+                candidate = parse_dt(times[1]["datetime"])
+                if timedelta(0) < candidate - start <= timedelta(hours=12):
+                    end = candidate
+            meta = page.select_one('meta[name="description"]')
+            if meta and meta.get("content"):
+                summary = " ".join(meta["content"].split())
+                if summary.startswith(title):
+                    summary = summary[len(title):].strip()
+        except Exception as exc:
+            print(f"ERREUR détail {url}: {exc}", file=sys.stderr)
+        desc = [
+            f"Type : {txt(card, '.NodeEventTeaser-type')}" if txt(card, ".NodeEventTeaser-type") else "",
+            f"Public : {txt(card, '.NodeEventTeaser-audience')}" if txt(card, ".NodeEventTeaser-audience") else "",
+            f"Inscription : {txt(card, '.NodeEventTeaser-status')}" if txt(card, ".NodeEventTeaser-status") else "",
+            summary,
+            f"Lien : {url}",
+        ]
+        events.append({
+            "title": title, "start": start, "end": end, "all_day": False,
+            "place": txt(card, ".NodeEventTeaser-location"),
+            "description": "\n".join(x for x in desc if x),
+            "url": url,
+        })
+    return sorted(events, key=lambda e: e["start"])
+
+
 # Une entrée par institution : nom du fichier -> (nom du calendrier, fonction)
 SOURCES = {
     "college-de-france": ("Conférences Collège de France", college_de_france),
+    "academie-des-sciences": ("Conférences Académie des sciences", academie_des_sciences),
 }
 # Ancien nom de fichier, conservé le temps de changer d'abonnement
 LEGACY = {"college-de-france": "conferences"}

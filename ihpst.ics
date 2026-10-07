@@ -1,0 +1,459 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendrier-conferences//FR
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Conférences IHPST
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:00d1ae3851d74fb87858f37e10fa9436@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20261012T090000Z
+DTEND:20261012T103000Z
+SUMMARY:Webinaire : comprendre le cancer autrement
+LOCATION:Visio Zoom
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'écouter : Michel Morange (Sorbonne Université\, IHPST).Titre de l'intervention : « Les biologistes moléculaires face au cancer »Inscription obligatoireProgramme complet du webinaire\nLien : https://ihpst.pantheonsorbonne.fr/evenements/webinaire-comprendre-le-cancer-autrement-0
+URL:https://ihpst.pantheonsorbonne.fr/evenements/webinaire-comprendre-le-cancer-autrement-0
+END:VEVENT
+BEGIN:VEVENT
+UID:eebf0d6b78227c18d933c6aa243f2c33@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20261013T160000Z
+DTEND:20261013T173000Z
+SUMMARY:Séminaire PhilSci
+LOCATION:IHPST - Salle de conférence - 13\, Rue du Four 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nDans le cadre du séminaire PhilSci\, nous aurons le plaisir d'entendre Maxime Hilbert\, doctorant à l'Université de Namur\, sur le sujet suivant : L'émergence diachronique : histoire philosophique d'un concept invisibilisé.Résumé :Bien que la notion contemporaine d’émergence suscite un certain nombre de controverses quant à la manière dont elle devrait être définie et aux objets auxquels elle devrait\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philsci-23
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philsci-23
+END:VEVENT
+BEGIN:VEVENT
+UID:3282246e9b30a778e57adfc300804b39@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20261014T164500Z
+DTEND:20261014T180000Z
+SUMMARY:Soirée Philosophie\, sciences et société à la Sorbonne
+LOCATION:IHPST - Salle des confÃ©rences - 13 Rue du Four 75006 Paris
+DESCRIPTION:Catégorie : Débat\nNous aurons le plaisir d'écouter Olivier Rey sur le thème : STATISTIQUES : Peut-on réduire le monde aux nombres?Informations\nLien : https://ihpst.pantheonsorbonne.fr/evenements/soiree-philosophie-sciences-et-societe-la-sorbonne-0
+URL:https://ihpst.pantheonsorbonne.fr/evenements/soiree-philosophie-sciences-et-societe-la-sorbonne-0
+END:VEVENT
+BEGIN:VEVENT
+UID:5915682b5b632498ffc23e736272d028@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20261015T080000Z
+DTEND:20261015T093000Z
+SUMMARY:Atelier de lecture des "Recherches philosophiques" de Wittgenstein
+LOCATION:IHPST - Salle de conférence - 13\, Rue du Four 75006 Paris
+DESCRIPTION:Catégorie : Atelier\nL’atelier de lecture des Recherches philosophiques de Wittgenstein est un projet de lecture suivie de l’intégralité des Recherches philosophiques. Le groupe de travail rassemble des participant·es issus de différents horizons philosophiques et ayant des degrés variés de familiarité avec l’œuvre de Wittgenstein.Les séances se déroulent dans un format relativement informel et se concentrent sur les \nLien : https://ihpst.pantheonsorbonne.fr/evenements/atelier-de-lecture-recherches-philosophiques-de-wittgenstein-1
+URL:https://ihpst.pantheonsorbonne.fr/evenements/atelier-de-lecture-recherches-philosophiques-de-wittgenstein-1
+END:VEVENT
+BEGIN:VEVENT
+UID:72edab8c40dc6d46453511e982bfcdb2@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20261015T103000Z
+DTEND:20261015T120000Z
+SUMMARY:Séminaire général
+LOCATION:IHPST - Salle de conférences - 13 Rue du Four - 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'accueillir Harry Long (University College London).Titre de l'intervention : The Granularity Tradeoff Résumé :A common method in philosophy describes examples\, cases\, scenarios or vignettes and asks whether readers agree with certain judgements about them. Call this reasoning from examples. The philosophico-scientific species of that method takes scientific inference as its\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-general-26
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-general-26
+END:VEVENT
+BEGIN:VEVENT
+UID:07ee2b3ba98130c23bdc6482c6dabd4f@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20261015T130000Z
+DTEND:20261015T143000Z
+SUMMARY:Séminaire PhilSciCog
+LOCATION:IHPST - Salle des confÃ©rences - 13 Rue du Four 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'écouter Daniela Duarte-Domingues\, Paris Brain Institute et CRNL Résumé : A venirLien zoom\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philscicog-18
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philscicog-18
+END:VEVENT
+BEGIN:VEVENT
+UID:108bf0c4039159052306f6d2df9fde5a@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20261019T140000Z
+DTEND:20261019T153000Z
+SUMMARY:Séminaire PhilMath
+LOCATION:IHPST - Salle de conférence - 13\, Rue du Four - 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'écouter Jouko Väänänen (University of Helsinski).Titre et résumé à venirLe séminaire peut être suivi en présence ou via zoom.Lien zoomProgramme 2026/2027\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philmath-35
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philmath-35
+END:VEVENT
+BEGIN:VEVENT
+UID:eccca589b0ad57d13347d4e573bd303a@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20261019T153000Z
+DTEND:20261019T170000Z
+SUMMARY:Séminaire PhilMath
+LOCATION:IHPST - Salle de conférences - 13 Rue du Four - 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'écouter Mario Gunther (IHPST\, Université Paris 1 Panthéon-Sorbonne) qui interviendra sur le sujet suivant : The Epochetic Theory of Causation (with Holger Andreas)Résumé :Why do we judge an event to be a cause? In our forthcoming book\, Holger Andreas and I offer a fresh answer: causation is epochetic dependence along an inferential path where each step genuinely depends on\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philmath-29
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philmath-29
+END:VEVENT
+BEGIN:VEVENT
+UID:79e3ac66536579da9347be7da1d548f0@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20261103T100000Z
+DTEND:20261103T113000Z
+SUMMARY:PANALM
+LOCATION:Salle de réunion de l’Institut Jean Nicod\, Rez-de-chaussé\, Pavillon Jardin\, 29 rue d’Ulm\, 75005 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous avons le plaisir d'accueillir Michael Caie (University of Toronto) sur le sujet suivant : Names and Higher-Order LogicAbstract: A number of central puzzles in philosophy turn on the grammatical category of names. Two important cases are Frege’s puzzle and the puzzle of Empty Names. In this talk\, I’ll consider how resources from higher-order logic may be used to provide new treatments of these\nLien : https://ihpst.pantheonsorbonne.fr/evenements/panalm
+URL:https://ihpst.pantheonsorbonne.fr/evenements/panalm
+END:VEVENT
+BEGIN:VEVENT
+UID:72fbf42bfce587953ebbc29b4f6a5ddd@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20261103T170000Z
+DTEND:20261103T190000Z
+SUMMARY:Séminaire Histoire et philosophie de la psychiatrie
+LOCATION:
+DESCRIPTION:Catégorie : Séminaire\nLieu à venir\nNous aurons le plaisir d'écouter Pierre-Henri Ortiz (université d’Angers) sur le sujet suivant : Purger\, exercer\, discipliner : la psychiatrie antique entre médecine et éducation.Résumé à venirOrganisateurs : Ronan de Calan\, Mathieu Frèrejouan et Denis ForestInscriptionProgramme 2026\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-histoire-et-philosophie-de-la-psychiatrie-1
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-histoire-et-philosophie-de-la-psychiatrie-1
+END:VEVENT
+BEGIN:VEVENT
+UID:087db73267ce837caf706d5df938342d@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20261104T140000Z
+DTEND:20261104T153000Z
+SUMMARY:Séminaire PhilSciCog
+LOCATION:IHPST - Salle des confÃ©rences - 13 Rue du Four 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'écouter Christopher Stevens\, Immunoconcept\, Univ. BordeauxLien zoom\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philscicog-19
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philscicog-19
+END:VEVENT
+BEGIN:VEVENT
+UID:25bcd09a38b53513882e48b7e8b9f703@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20261106T133000Z
+DTEND:20261106T150000Z
+SUMMARY:Séminaire PhilBio
+LOCATION:IHPST - Salle de conférences - 13 Rue du Four - 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'accueillir : Caroline Angleraux (Univ.Aix-Marseille) et Ghyslain Bolduc (Cégep Édouard-Montpetit\, Québec) qui interviendront sur le sujet suivant : Claude Bernard face à Darwin\, Kant et Haeckel. Penser le vivant autrement.Organisation : Claudia Gadaleta\, Sandra Ranchon et Jeanne Trouvé Contacts : claudia.gadaleta@univ-paris1.fr\, sandra.ranchon@etu.univ-paris1.fr\, jeanne.tr\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philbio-23
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philbio-23
+END:VEVENT
+BEGIN:VEVENT
+UID:1cfbfb98b6589cb92134a24b91bbf189@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20261109T160000Z
+DTEND:20261109T180000Z
+SUMMARY:Séminaire PhilMath
+LOCATION:IHPST - Salle de conférences - 13 Rue du Four - 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'accueillir Rachel Boddy (IHPST\, Université Paris 1 Panthéon-Sorbonne).Titre : à venirRésumé : à venirLe séminaire peut être suivi en présence ou via zoom.Lien zoom à venirProgramme 2026/2027\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philmath-30
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philmath-30
+END:VEVENT
+BEGIN:VEVENT
+UID:7b5523d565d4b8f7f0a86d04e4196958@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20261112T113000Z
+DTEND:20261112T130000Z
+SUMMARY:Séminaire général
+LOCATION:IHPST - Salle de conférences - 13 Rue du Four - 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'entendre Alexander Franklin (King's College London).Titre et résumé à venirProgramme 2026-2027Organisation : Rachel Boddy\, Bernardo Marques\, Auguste Nahas\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-general-27
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-general-27
+END:VEVENT
+BEGIN:VEVENT
+UID:143868961b054e4a5c95e1c99887bace@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20261118T174500Z
+DTEND:20261118T190000Z
+SUMMARY:Soirée Philosophie\, sciences et société à la Sorbonne
+LOCATION:IHPST - Salle de conférence - 13\, Rue du Four 75006 Paris
+DESCRIPTION:Catégorie : Débat\nÉNERGIE NUCLÉAIRE : Les 40 ans de l'accident de TchernobylIntervenant :Gauthier Fontaine\, doctorant en philosophie des sciences\, travaille sur les conséquences environnementales des accidents nucléaires. Il étudie notamment les pratiques de modélisation et les controverses autour du bilan écologique de la catastrophe de Tchernobyl. Informations\nLien : https://ihpst.pantheonsorbonne.fr/evenements/soiree-philosophie-sciences-et-societe-la-sorbonne-1
+URL:https://ihpst.pantheonsorbonne.fr/evenements/soiree-philosophie-sciences-et-societe-la-sorbonne-1
+END:VEVENT
+BEGIN:VEVENT
+UID:2e591506a08935a2bd55ac0eb4900d21@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20261127T133000Z
+DTEND:20261127T150000Z
+SUMMARY:Séminaire PhilBio
+LOCATION:IHPST - Salle de conférences - 13 Rue du Four - 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'accueillir : Fridolin Gross (Université de Bordeaux) qui interviendra sur le sujet suivant : Towards theory-free classifications in single-cell biology?Organisation : Claudia Gadaleta\, Sandra Ranchon et Jeanne Trouvé Contacts : claudia.gadaleta@univ-paris1.fr\, sandra.ranchon@etu.univ-paris1.fr\, jeanne.trouve@univ-paris1.frProgramme 2026/2027\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philbio-25
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philbio-25
+END:VEVENT
+BEGIN:VEVENT
+UID:de8262c360da9e7eabadf90c74898119@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20261201T170000Z
+DTEND:20261201T190000Z
+SUMMARY:Séminaire Histoire et philosophie de la psychiatrie
+LOCATION:Ã  venir
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'écouter Vincent Barras (IHM\, CHUV-UNIL\, Université de Lausanne) sur le sujet suivant : Thérapie de l’âme et politique : le traité des Facultés de l’âme de Galien (2ème siècle après J.C.) et ses enjeux.Résumé à venirOrganisateurs : Ronan de Calan\, Mathieu Frèrejouan et Denis ForestInscriptionProgramme 2026\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-histoire-et-philosophie-de-la-psychiatrie-2
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-histoire-et-philosophie-de-la-psychiatrie-2
+END:VEVENT
+BEGIN:VEVENT
+UID:cf5b4ceaf07f66ada217cb4180ed5650@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20261207T160000Z
+DTEND:20261207T180000Z
+SUMMARY:Séminaire PhilMath
+LOCATION:IHPST - Salle de conférences - 13 Rue du Four - 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'écouter Denis Bonnay (Nanterre Université).Titre : à venirRésumé : à venirLe séminaire peut être suivi en présence ou via zoom.Lien zoom à venirProgramme 2026/2027\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philmath-31
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philmath-31
+END:VEVENT
+BEGIN:VEVENT
+UID:05d5047a42c62d125a81aeb6f8b1b941@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20261209T100000Z
+DTEND:20261209T113000Z
+SUMMARY:PANALM
+LOCATION:IHPST - Salle des confÃ©rence - 13\, Rue du Four 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'accueillir Jessica Carter (Université d'Aahrus).Titre et résumé à venirSite internet de PANALM Participants : PANALM est ouvert à toute personne intéressée\, des étudiants aux chercheurs dans les disciplines voisines.Organisation et coordination : Andrew Arana (Université de Lorraine\, Archives Henri Poincaré)\, Valeria Giardino (CNRS\, Institut Jean Nicod)\, Yacin Hamami (CNRS\nLien : https://ihpst.pantheonsorbonne.fr/evenements/panalm-0
+URL:https://ihpst.pantheonsorbonne.fr/evenements/panalm-0
+END:VEVENT
+BEGIN:VEVENT
+UID:b463183d6548795ff6c55d95dd88b97b@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20261210T100000Z
+DTEND:20261210T113000Z
+SUMMARY:Webinaire : comprendre le cancer autrement
+LOCATION:Visio Zoom
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'écouter : Julie Pannequin (CNRS\, IGF Montpellier)Alexandre Francq (Université Paris 1 Panthéon-Sorbonne).Titre de l'intervention : « Au-delà de l’éradication : cancer\, plasticité et chronicité »Inscription obligatoireProgramme complet du webinaire\nLien : https://ihpst.pantheonsorbonne.fr/evenements/webinaire-comprendre-le-cancer-autrement-1
+URL:https://ihpst.pantheonsorbonne.fr/evenements/webinaire-comprendre-le-cancer-autrement-1
+END:VEVENT
+BEGIN:VEVENT
+UID:2c47c743ee5d2416008cdad2062e9cff@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20261210T113000Z
+DTEND:20261210T130000Z
+SUMMARY:Séminaire général
+LOCATION:IHPST - Salle de conférences - 13 Rue du Four - 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'entendre Julie Jebeille\, Univ. of Bern.Titre et résumé à venirProgramme 2026/2027Organisation : Rachel Boddy\, Bernardo Marques\, Auguste Nahas\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-general-28
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-general-28
+END:VEVENT
+BEGIN:VEVENT
+UID:3bf78365f25bd4222763a511d78b8a47@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20261210T140000Z
+DTEND:20261210T153000Z
+SUMMARY:Séminaire PhilSciCog
+LOCATION:IHPST - Salle des confÃ©rences - 13 Rue du Four 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'écouter Mehdi Khamassi\, ISIR\, Sorbonne Univ.Cette séance avec Mehdi Khamassi aura exceptionnellement lieu sur le Campus de Jussieu\, bâtiment Cassan\, salle B501.Lien zoom\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philscicog-20
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philscicog-20
+END:VEVENT
+BEGIN:VEVENT
+UID:29e3801c0f0461b25547f0a21fe36b76@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20261216T174500Z
+DTEND:20261216T190000Z
+SUMMARY:Soirée Philosophie\, sciences et société à la Sorbonne
+LOCATION:IHPST - Salle de conférence - 13\, Rue du Four 75006 Paris
+DESCRIPTION:Catégorie : Débat\nBIOLOGIE : L'autonomie du vivantIntervenant·es :Matteo Mossio est directeur de recherche au CNRS à l’IHPST. Il travaille principalement sur des questions philosophiques et théoriques liées à l’autonomie biologique. Ana Soto est biologiste à l'Université Tufts (Boston). Elle a été l’une des pionnières à approcher le cancer comme un problème de développement en postulant la théorie du champ d’organi\nLien : https://ihpst.pantheonsorbonne.fr/evenements/soiree-philosophie-sciences-et-societe-la-sorbonne-2
+URL:https://ihpst.pantheonsorbonne.fr/evenements/soiree-philosophie-sciences-et-societe-la-sorbonne-2
+END:VEVENT
+BEGIN:VEVENT
+UID:860f65893d5e677c3da3525ce5b15ebc@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20270121T113000Z
+DTEND:20270121T130000Z
+SUMMARY:Séminaire général
+LOCATION:IHPST - Salle des conférences - 13\, Rue du Four 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'accueillir Davide Rizza (University of East Anglia) Titre et résumé à venirProgramme 2026-2027Organisation : Rachel Boddy\, Bernardo Marques\, Auguste Nahas\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-general-30
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-general-30
+END:VEVENT
+BEGIN:VEVENT
+UID:aad5cdb951e1a20bb1641175bd6c137d@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20270129T130000Z
+DTEND:20270129T143000Z
+SUMMARY:Séminaire PhilBio
+LOCATION:IHPST - Salle de conférences - 13 Rue du Four - 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'accueillir : Christophe Malaterre (CNRS) qui interviendra sur le sujet suivant : Cadrages épistémiques et pluralité des savoirs scientifiques : le cas de l’astrobiologie.Organisation : Claudia Gadaleta\, Sandra Ranchon et Jeanne Trouvé Contacts : claudia.gadaleta@univ-paris1.fr\, sandra.ranchon@etu.univ-paris1.fr\, jeanne.trouve@univ-paris1.frProgramme 2026/2027\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philbio-26
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philbio-26
+END:VEVENT
+BEGIN:VEVENT
+UID:4155823fbc63bdde10b6cac0591fcda1@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20270129T140000Z
+DTEND:20270129T153000Z
+SUMMARY:Séminaire PhilSciCog
+LOCATION:IHPST - Salle des confÃ©rences - 13 Rue du Four 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'écouter Cédric Sueur\, Anthropo-Lab\, Univ Strasbourg.Exceptionnellement\, cette séance aura lieu un vendredi.Lien zoom\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philscicog-21
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philscicog-21
+END:VEVENT
+BEGIN:VEVENT
+UID:1f8406ce39c75b493d1fbcd6e062ae37@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20270208T160000Z
+DTEND:20270208T180000Z
+SUMMARY:Séminaire PhilMath
+LOCATION:IHPST - Salle de conférences - 13 Rue du Four - 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'écouter Sonja Smets (ILLC\, University of Amsterdam).Titre : à venirRésumé : à venirLe séminaire peut être suivi en présence ou via zoom.Lien zoom à venirProgramme 2026/2027\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philmath-32
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philmath-32
+END:VEVENT
+BEGIN:VEVENT
+UID:605d03efb571ed7f309fef7cb1822822@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20270211T133000Z
+DTEND:20270211T150000Z
+SUMMARY:Séminaire PhilBio
+LOCATION:IHPST - Salle de conférences - 13 Rue du Four - 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'accueillir : Andrea Angelini (Université Paris 8) qui interviendra sur le sujet suivant : Entre système et histoire : quelques réflexions autour du statut épistémologique de l'écologie.Organisation : Claudia Gadaleta\, Sandra Ranchon et Jeanne Trouvé Contacts : claudia.gadaleta@univ-paris1.fr\, sandra.ranchon@etu.univ-paris1.fr\, jeanne.trouve@univ-paris1.frProgramme 2026/202\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philbio-27
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philbio-27
+END:VEVENT
+BEGIN:VEVENT
+UID:b4b624b7f0efcca2a99660ca84ffa07f@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20270225T113000Z
+DTEND:20270225T130000Z
+SUMMARY:Séminaire général
+LOCATION:IHPST - Salle de conférence - 13\, Rue du Four - 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'entendre Benedikt Eastaugh (University of Warwick).Titre et résumé à venirProgramme 2026-2027Organisation : Rachel Boddy\, Bernardo Marques\, Auguste Nahas\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-general-29
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-general-29
+END:VEVENT
+BEGIN:VEVENT
+UID:188e50307ca5d8cc4f6039a0c5dec3bd@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20270225T140000Z
+DTEND:20270225T153000Z
+SUMMARY:Séminaire PhilSciCog
+LOCATION:IHPST - Salle des confÃ©rences - 13 Rue du Four 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'écouter Chloé Mondémé\, Laboratoire Triangle\, CNRS\, ENS de Lyon.Lien zoom\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philscicog-22
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philscicog-22
+END:VEVENT
+BEGIN:VEVENT
+UID:74e79ef599f72c078b58d57848d7ea80@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20270308T160000Z
+DTEND:20270308T180000Z
+SUMMARY:Séminaire PhilMath
+LOCATION:IHPST - Salle de conférences - 13 Rue du Four - 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'écouter Élodie Cassan (Université de Rouen Normandie).Titre : à venirRésumé : à venirLe séminaire peut être suivi en présence ou via zoom.Lien zoom à venirProgramme 2026/2027\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philmath-33
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philmath-33
+END:VEVENT
+BEGIN:VEVENT
+UID:d2e3bac8d44a82998dc5518f157e8992@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20270311T100000Z
+DTEND:20270311T113000Z
+SUMMARY:Webinaire : comprendre le cancer autrement
+LOCATION:Visio Zoom
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'entendre :Mathis Bernard (GEMASS\, CNRS-Sorbonne Université)Titre de l'intervention : Stratifier pour mieux soigner. La complexification de la nosologie des cancers comme aboutissement de la médecine moderneInscription obligatoireProgramme complet du webinaire\nLien : https://ihpst.pantheonsorbonne.fr/evenements/webinaire-comprendre-le-cancer-autrement-2
+URL:https://ihpst.pantheonsorbonne.fr/evenements/webinaire-comprendre-le-cancer-autrement-2
+END:VEVENT
+BEGIN:VEVENT
+UID:957ac65bfd154f7bda0f08178004cf75@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20270312T133000Z
+DTEND:20270312T150000Z
+SUMMARY:Séminaire PhilBio
+LOCATION:IHPST - Salle de conférences - 13 Rue du Four - 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'accueillir : Andra Meneganzin (Université de Bordeaux) qui interviendra sur le sujet suivant : Stasis\, Variability and Novelty in the Middle Pleistocene: Blinders and Traces of Neanderthal Innovativeness.Organisation : Claudia Gadaleta\, Sandra Ranchon et Jeanne Trouvé Contacts : claudia.gadaleta@univ-paris1.fr\, sandra.ranchon@etu.univ-paris1.fr\, jeanne.trouve@univ-paris1.f\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philbio-28
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philbio-28
+END:VEVENT
+BEGIN:VEVENT
+UID:79c1c176454917af6120ff49ca3b13a5@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20270318T140000Z
+DTEND:20270318T153000Z
+SUMMARY:Séminaire PhilSciCog
+LOCATION:IHPST - Salle des confÃ©rences - 13 Rue du Four 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'écouter Romain Brette\, ISIR\, Sorbonne Univ.Lien zoom\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philscicog-23
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philscicog-23
+END:VEVENT
+BEGIN:VEVENT
+UID:189835bbceb02e68b0af61b518fe2787@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20270325T113000Z
+DTEND:20270325T130000Z
+SUMMARY:Séminaire général
+LOCATION:IHPST - Salle de conférence - 13\, Rue du Four - 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'entendre André Ariew (University of Missouri).Titre et résumé à venirProgramme 2026-2027Organisation : Rachel Boddy\, Bernardo Marques\, Auguste Nahas\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-general-31
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-general-31
+END:VEVENT
+BEGIN:VEVENT
+UID:1f8c36073befb12fcfec53c33efa46f5@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20270405T150000Z
+DTEND:20270405T170000Z
+SUMMARY:Séminaire PhilMath
+LOCATION:IHPST - Salle de conférences - 13 Rue du Four - 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'écouter Beau Madison Mount (University of Oxford).Titre : à venirRésumé : à venirLe séminaire peut être suivi en présence ou via zoom.Lien zoom à venirProgramme 2026/2027\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philmath-34
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philmath-34
+END:VEVENT
+BEGIN:VEVENT
+UID:cf3bafc63248b51ec6f2d1ac284dafd2@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20270413T123000Z
+DTEND:20270413T140000Z
+SUMMARY:Séminaire PhilBio
+LOCATION:IHPST - Salle de conférences - 13 Rue du Four - 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'accueillir : Francesca Arena (Université de Genève) qui interviendra sur le sujet suivant : Un androcentrisme ignorant. Semence et masculinités au siècle des Lumières.Organisation : Claudia Gadaleta\, Sandra Ranchon et Jeanne Trouvé Contacts : claudia.gadaleta@univ-paris1.fr\, sandra.ranchon@etu.univ-paris1.fr\, jeanne.trouve@univ-paris1.frProgramme 2026/2027\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philbio-29
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philbio-29
+END:VEVENT
+BEGIN:VEVENT
+UID:ea7a230fd0941a87d51ffeac4cc748a9@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20270422T103000Z
+DTEND:20270422T120000Z
+SUMMARY:Séminaire général
+LOCATION:IHPST - Salle de conférence - 13\, Rue du Four - 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'entendre Adrian Currie (University of Exeter).Titre et résumé à venirProgramme 2026-2027Organisation : Rachel Boddy\, Bernardo Marques\, Auguste Nahas\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-general-32
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-general-32
+END:VEVENT
+BEGIN:VEVENT
+UID:0cf41bb4b7c8de660369b9a55ef8d530@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20270422T130000Z
+DTEND:20270422T143000Z
+SUMMARY:Séminaire PhilSciCog
+LOCATION:IHPST - Salle des confÃ©rences - 13 Rue du Four 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'écouter Hourya Sinaceur\, Univ. Paris 1 Panthéon Sorbonne.Lien zoom\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philscicog-24
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philscicog-24
+END:VEVENT
+BEGIN:VEVENT
+UID:3903ba9581bcc5801a022ace455dbf22@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20270520T103000Z
+DTEND:20270520T120000Z
+SUMMARY:Séminaire général
+LOCATION:IHPST - Salle de conférence - 13\, Rue du Four - 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'entendre Mazviita Chirimuuta (University of Edinburgh).Titre et résumé à venirProgramme 2026-2027Organisation : Rachel Boddy\, Bernardo Marques\, Auguste Nahas\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-general-33
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-general-33
+END:VEVENT
+BEGIN:VEVENT
+UID:086a1ff588eeb38dab1258839989776b@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20270524T090000Z
+DTEND:20270524T103000Z
+SUMMARY:Webinaire : comprendre le cancer autrement
+LOCATION:Visio Zoom
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'entendre : Marie Gaille (ENS-PSL-CNRS-Collège de France)Titre à venirInscription obligatoireProgramme complet du webinaire\nLien : https://ihpst.pantheonsorbonne.fr/evenements/webinaire-comprendre-le-cancer-autrement-3
+URL:https://ihpst.pantheonsorbonne.fr/evenements/webinaire-comprendre-le-cancer-autrement-3
+END:VEVENT
+BEGIN:VEVENT
+UID:05adde836b7f3961c94f8423035d5740@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20270528T123000Z
+DTEND:20270528T140000Z
+SUMMARY:Séminaire PhilBio
+LOCATION:IHPST - Salle de conférences - 13 Rue du Four - 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'accueillir : Marie Kaiser (Bielefeld University) qui interviendra sur le sujet suivant : Concepts and Measures of Social Behavior Across Species.Organisation : Claudia Gadaleta\, Sandra Ranchon et Jeanne Trouvé Contacts : claudia.gadaleta@univ-paris1.fr\, sandra.ranchon@etu.univ-paris1.fr\, jeanne.trouve@univ-paris1.frProgramme 2026/2027\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philbio-30
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philbio-30
+END:VEVENT
+BEGIN:VEVENT
+UID:6a65d264425b703e61ab5bd1b167ee14@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20270607T150000Z
+DTEND:20270607T170000Z
+SUMMARY:Séminaire PhilMath
+LOCATION:IHPST - Salle de conférence - 13\, Rue du Four - 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'écouter Juliette Kennedy (University of Helsinski).Titre et résumé à venirLe séminaire peut être suivi en présence ou via zoom.Lien zoom à venirProgramme 2026/2027\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philmath-36
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philmath-36
+END:VEVENT
+BEGIN:VEVENT
+UID:7bf3de15930bf804744914ee5d8e8cb6@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20270611T123000Z
+DTEND:20270611T140000Z
+SUMMARY:Séminaire PhilBio
+LOCATION:IHPST - Salle de conférences - 13 Rue du Four - 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'accueillir : Jean-Pascal Capp (INSA Toulouse) qui interviendra sur le sujet suivant : How does selection for function occur in cancer: Origins in tissue disruption and cellular stochasticity\, consequences for tumor organization and therapeutic targeting.Organisation : Claudia Gadaleta\, Sandra Ranchon et Jeanne Trouvé Contacts : claudia.gadaleta@univ-paris1.fr\, sandra.ranch\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philbio-31
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-philbio-31
+END:VEVENT
+BEGIN:VEVENT
+UID:78469c3a4d882664bf2d6a5786d04f25@conferences
+DTSTAMP:20261007T153033Z
+DTSTART:20270617T103000Z
+DTEND:20270617T120000Z
+SUMMARY:Séminaire général
+LOCATION:IHPST - Salle de conférence - 13\, Rue du Four - 75006 Paris
+DESCRIPTION:Catégorie : Séminaire\nNous aurons le plaisir d'entendre Michela Massimi (University of Edinburgh).Titre et résumé à venirProgramme 2026-2027Organisation : Rachel Boddy\, Bernardo Marques\, Auguste Nahas\nLien : https://ihpst.pantheonsorbonne.fr/evenements/seminaire-general-34
+URL:https://ihpst.pantheonsorbonne.fr/evenements/seminaire-general-34
+END:VEVENT
+END:VCALENDAR

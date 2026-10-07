@@ -1,6 +1,6 @@
-"""Génère conferences.ics à partir des agendas de conférences.
-v1 : source Collège de France uniquement. D'autres sources s'ajoutent
-en écrivant une fonction de plus et en l'ajoutant à SOURCES.
+"""Génère un fichier .ics par institution à partir des agendas de conférences.
+Pour ajouter une institution : écrire une fonction qui renvoie la liste des
+événements, puis l'ajouter au dictionnaire SOURCES.
 """
 import hashlib
 import sys
@@ -110,7 +110,12 @@ def college_de_france():
     return sorted(events.values(), key=lambda e: e["start"])
 
 
-SOURCES = [college_de_france]
+# Une entrée par institution : nom du fichier -> (nom du calendrier, fonction)
+SOURCES = {
+    "college-de-france": ("Conférences Collège de France", college_de_france),
+}
+# Ancien nom de fichier, conservé le temps de changer d'abonnement
+LEGACY = {"college-de-france": "conferences"}
 
 
 def esc(t):
@@ -123,10 +128,10 @@ def fmt(dt, all_day):
     return dt.astimezone(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
 
 
-def build_ics(events):
+def build_ics(events, name):
     now = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
     out = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//calendrier-conferences//FR",
-           "CALSCALE:GREGORIAN", "X-WR-CALNAME:Conférences", "X-WR-TIMEZONE:Europe/Paris",
+           "CALSCALE:GREGORIAN", f"X-WR-CALNAME:{name}", "X-WR-TIMEZONE:Europe/Paris",
            "REFRESH-INTERVAL;VALUE=DURATION:PT6H", "X-PUBLISHED-TTL:PT6H"]
     for e in events:
         uid = hashlib.md5((e["url"] + e["start"].isoformat()).encode()).hexdigest() + "@conferences"
@@ -142,20 +147,27 @@ def build_ics(events):
 
 
 def main():
-    events = []
-    for source in SOURCES:
+    ok = 0
+    for key, (cal_name, fetch) in SOURCES.items():
         try:
-            events += source()
+            events = fetch()
         except Exception as exc:  # une source en panne ne bloque pas les autres
-            print(f"ERREUR source {source.__name__}: {exc}", file=sys.stderr)
-    if KEYWORDS:
-        kw = [k.lower() for k in KEYWORDS]
-        events = [e for e in events if any(k in (e["title"] + e["description"]).lower() for k in kw)]
-    if not events:
-        sys.exit("Aucun événement trouvé : le fichier existant est conservé.")
-    with open("conferences.ics", "w", encoding="utf-8", newline="") as f:
-        f.write(build_ics(events))
-    print(f"{len(events)} événements écrits dans conferences.ics")
+            print(f"ERREUR {key}: {exc}", file=sys.stderr)
+            continue
+        if KEYWORDS:
+            kw = [k.lower() for k in KEYWORDS]
+            events = [e for e in events if any(k in (e["title"] + e["description"]).lower() for k in kw)]
+        if not events:
+            print(f"{key}: aucun événement trouvé, fichier existant conservé.", file=sys.stderr)
+            continue
+        ics = build_ics(events, cal_name)
+        for filename in [key] + ([LEGACY[key]] if key in LEGACY else []):
+            with open(f"{filename}.ics", "w", encoding="utf-8", newline="") as f:
+                f.write(ics)
+        print(f"{key}: {len(events)} événements écrits")
+        ok += 1
+    if ok == 0:
+        sys.exit("Aucune source n'a fonctionné.")
 
 
 if __name__ == "__main__":

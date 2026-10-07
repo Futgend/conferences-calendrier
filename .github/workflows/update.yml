@@ -19,6 +19,6 @@ jobs:
         run: |
           git config user.name "calendrier-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add conferences.ics
+          git add *.ics
           git diff --cached --quiet || git commit -m "Mise à jour des conférences"
           git push

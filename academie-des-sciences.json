@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Innovation thérapeutique",
+    "start": "2026-10-13T12:30:00Z",
+    "end": "2026-10-13T15:00:00Z",
+    "place": "Grande Salle des séances | 23 Quai de Conti 75006 Paris",
+    "type": "Conférences",
+    "audience": "Tous publics",
+    "status": "Inscriptions ouvertes",
+    "summary": "Une demi-journée pour explorer les nouveaux horizons de la recherche thérapeutique : chimie thérapeutique à partir des produits de la mer, CAR-T cells, thérapie génique et imagerie ultrasonore ultrarapide.",
+    "url": "https://www.academie-sciences.fr/innovation-therapeutique"
+  },
+  {
+    "title": "Viruses as Agents of Eukaryotic Genome Evolution",
+    "start": "2026-11-17T13:30:00Z",
+    "end": "2026-11-17T16:00:00Z",
+    "place": "Grande salle des séances - Institut de France - 23 quai de Conti",
+    "type": "Conférences",
+    "audience": "Tous publics",
+    "status": "Inscriptions à venir",
+    "summary": "While recurring epidemics have highlighted viruses for their potential to cause disease, this conference will focus on aspects related to their overall impact on the evolution of species.",
+    "url": "https://www.academie-sciences.fr/viruses-agents-eukaryotic-genome-evolution"
+  },
+  {
+    "title": "Séquençage du génome humain : 25 ans après",
+    "start": "2026-11-20T08:00:00Z",
+    "end": "2026-11-20T18:00:00Z",
+    "place": "Auditorium André et Liliane Bettencourt - 3 rue Mazarine - Institut de France",
+    "type": "Colloques",
+    "audience": "Scientifiques & chercheurs",
+    "status": "Inscriptions ouvertes",
+    "summary": "Ce colloque reviendra sur les grandes avancées issues du séquençage du génome humain, en explorant ses zones désormais éclaircies, la dynamique évolutive du génome et les nouvelles technologies révélant la complexité du cerveau et de la régulation génétique.",
+    "url": "https://www.academie-sciences.fr/sequencage-du-genome-humain-25-ans-apres"
+  },
+  {
+    "title": "Prédictabilité, que peut-on prévoir ?",
+    "start": "2026-12-01T13:00:00Z",
+    "end": "2026-12-01T16:00:00Z",
+    "place": "Grande Salle des séances | 23 Quai de Conti 75006 Paris",
+    "type": "Conférences",
+    "audience": "Scientifiques & chercheurs",
+    "status": "Inscriptions à venir",
+    "summary": "Entre déterminisme et imprévisibilité, cette conférence explore les limites de la prédiction scientifique et les formes d’incertitude qui émergent dans les systèmes complexes.",
+    "url": "https://www.academie-sciences.fr/predictabilite-que-peut-prevoir"
+  },
+  {
+    "title": "Rencontre avec Mickael Tanter",
+    "start": "2026-12-08T17:00:00Z",
+    "end": "2026-12-08T18:00:00Z",
+    "place": "Grande salle des séances - Institut de France - 23 quai de Conti",
+    "type": "Rencontres",
+    "audience": "Tous publics",
+    "status": "Inscriptions à venir",
+    "summary": "De la physique des ondes au fonctionnement du corps humain",
+    "url": "https://www.academie-sciences.fr/rencontre-avec-mickael-tanter"
+  }
+]

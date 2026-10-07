@@ -534,8 +534,8 @@ SOURCES = {
     "ehess": ("Conférences EHESS", ehess),
     "ihpst": ("Conférences IHPST", ihpst),
 }
-# Ancien nom de fichier, conservé le temps de changer d'abonnement
-LEGACY = {"college-de-france": "conferences"}
+# Anciens noms de fichier (aucun pour le moment)
+LEGACY = {}
 
 
 def esc(t):

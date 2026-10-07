@@ -4,6 +4,7 @@ Pour ajouter une institution : écrire une fonction qui renvoie la liste des
 """
 import hashlib
 import json
+import re
 import sys
 from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
@@ -30,6 +31,12 @@ def get_cards(url):
     r = requests.get(url, headers=HEADERS, timeout=30)
     r.raise_for_status()
     return BeautifulSoup(r.text, "html.parser").select(".card-event")
+
+
+def get_cards_from(url, selector):
+    r = requests.get(url, headers=HEADERS, timeout=30)
+    r.raise_for_status()
+    return BeautifulSoup(r.text, "html.parser").select(selector)
 
 
 def txt(card, selector):
@@ -200,10 +207,71 @@ def academie_avec_secours():
         return academie_depuis_fichier()
 
 
+IDC_BASE = "https://institutducerveau.org"
+IDC_PAGES = 6  # 6 événements par page
+MOIS = {"janvier": 1, "février": 2, "fevrier": 2, "mars": 3, "avril": 4, "mai": 5, "juin": 6,
+        "juillet": 7, "août": 8, "aout": 8, "septembre": 9, "octobre": 10, "novembre": 11,
+        "décembre": 12, "decembre": 12}
+DATE_RE = re.compile(r"(\d{1,2})\s+([^\W\d_]+)\s+(\d{4})")
+HEURE_RE = re.compile(r"(\d{1,2})\s*h\s*(\d{2})?")
+
+
+def institut_du_cerveau():
+    events = {}
+    for page in range(IDC_PAGES):
+        url = (f"{IDC_BASE}/agenda?field_date_start_value=&field_date_end_value="
+               f"&field_event_category_value=All&page={page}")
+        cards = get_cards_from(url, ".card-event")
+        if not cards:
+            break
+        for card in cards:
+            link = card.select_one("a.card-event-title")
+            raw = txt(card, ".card-event-dates")
+            if not link or not raw:
+                continue
+            text = raw.lower()
+            dates = [(int(d), MOIS.get(m), int(y)) for d, m, y in DATE_RE.findall(text)]
+            dates = [x for x in dates if x[1]]
+            if not dates:
+                continue
+            heures = [(int(h), int(mn or 0)) for h, mn in HEURE_RE.findall(DATE_RE.sub("", text))]
+            d0, d1 = dates[0], dates[-1]
+            if heures:
+                start = datetime(d0[2], d0[1], d0[0], heures[0][0], heures[0][1], tzinfo=PARIS)
+                if len(heures) > 1:
+                    end = datetime(d1[2], d1[1], d1[0], heures[1][0], heures[1][1], tzinfo=PARIS)
+                else:
+                    end = start + timedelta(hours=1)
+                if end <= start:
+                    end = start + timedelta(hours=1)
+                all_day = False
+            else:  # pas d'horaire : événement sur la journée (ou plusieurs jours)
+                start = datetime(d0[2], d0[1], d0[0], tzinfo=PARIS)
+                end = datetime(d1[2], d1[1], d1[0], tzinfo=PARIS) + timedelta(days=1)
+                all_day = True
+            href = IDC_BASE + link["href"]
+            bottom = txt(card, ".card-event-bottom")
+            place = txt(card, ".card-event-location")
+            desc = [
+                f"Catégorie : {txt(card, '.card-event-category')}" if txt(card, ".card-event-category") else "",
+                "Aussi à distance" if "distance" in bottom.lower() else "",
+                "Lieu : à l'extérieur de l'Institut (voir la page)" if "extérieur" in bottom.lower() else "",
+                txt(card, ".card-event-text"),
+                f"Lien : {href}",
+            ]
+            events[(href, start)] = {
+                "title": txt(card, ".card-event-title"), "start": start, "end": end,
+                "all_day": all_day, "place": place,
+                "description": "\n".join(x for x in desc if x), "url": href,
+            }
+    return sorted(events.values(), key=lambda e: e["start"])
+
+
 # Une entrée par institution : nom du fichier -> (nom du calendrier, fonction)
 SOURCES = {
     "college-de-france": ("Conférences Collège de France", college_de_france),
     "academie-des-sciences": ("Conférences Académie des sciences", academie_avec_secours),
+    "institut-du-cerveau": ("Conférences Institut du Cerveau", institut_du_cerveau),
 }
 # Ancien nom de fichier, conservé le temps de changer d'abonnement
 LEGACY = {"college-de-france": "conferences"}

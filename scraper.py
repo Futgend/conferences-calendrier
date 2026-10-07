@@ -17,7 +17,7 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (calendrier-conferences perso)"}
 KEYWORDS = []  # ex : ["cognit", "cerveau", "esprit", "neuro", "philosophie"]
 
 CDF_BASE = "https://www.college-de-france.fr"
-CDF_PAGES = 4  # nombre de pages d'agenda à lire (30 événements par page)
+CDF_PAGES = 6  # nombre de pages d'agenda à lire (30 événements par page)
 
 
 def parse_dt(value):
@@ -25,53 +25,89 @@ def parse_dt(value):
     return dt.astimezone(PARIS)
 
 
+def get_cards(url):
+    r = requests.get(url, headers=HEADERS, timeout=30)
+    r.raise_for_status()
+    return BeautifulSoup(r.text, "html.parser").select(".card-event")
+
+
+def txt(card, selector):
+    el = card.select_one(selector)
+    return el.get_text(strip=True) if el else ""
+
+
+def make_event(card, parent="", default_url=""):
+    """Transforme une carte en événement, ou None si elle n'a pas d'horaire propre."""
+    times = card.select(".card-event__time--desktop time[datetime]")
+    link = card.select_one("a.card-event__link")
+    title = txt(card, ".card-event__title-decorator")
+    if not times or not title:
+        return None
+    start = parse_dt(times[0]["datetime"])
+    end = parse_dt(times[1]["datetime"]) if len(times) > 1 else start + timedelta(hours=1)
+    if end <= start:
+        end = start + timedelta(hours=1)
+    url = CDF_BASE + link["href"] if link else default_url
+    desc = [
+        f"Colloque : {parent}" if parent else "",
+        f"Type : {txt(card, '.card-event__type')}" if txt(card, ".card-event__type") else "",
+        f"Intervenant : {txt(card, '.card-event__main-speaker')}" if txt(card, ".card-event__main-speaker") else "",
+        f"Cycle : {txt(card, '.card-event__cycle')}" if txt(card, ".card-event__cycle") else "",
+        f"Info : {txt(card, '.card-event__status')}" if txt(card, ".card-event__status") else "",
+        f"Lien : {url}" if url else "",
+    ]
+    return {
+        "title": title, "start": start, "end": end, "all_day": False,
+        "place": txt(card, ".card-event__place"),
+        "description": "\n".join(x for x in desc if x),
+        "url": url,
+    }
+
+
+def container_range(card, url):
+    """Plage de dates d'un colloque, quand on ne trouve pas son programme."""
+    stamps = [t["datetime"] for t in card.select("time[datetime]") if not t["datetime"].endswith("Z")]
+    if not stamps:
+        return None
+    start = parse_dt(stamps[0])
+    end = parse_dt(stamps[1]) if len(stamps) > 1 else start + timedelta(hours=1)
+    if end <= start:
+        end = start + timedelta(hours=1)
+    title = txt(card, ".card-event__title-decorator")
+    return {"title": title, "start": start, "end": end, "all_day": False,
+            "place": txt(card, ".card-event__place"),
+            "description": f"Colloque\nLien : {url}", "url": url}
+
+
 def college_de_france():
-    events = []
+    events = {}
+    containers = {}  # colloques : un par page, même s'ils apparaissent plusieurs jours
     for page in range(CDF_PAGES):
-        r = requests.get(f"{CDF_BASE}/fr/agenda?page={page}", headers=HEADERS, timeout=30)
-        r.raise_for_status()
-        soup = BeautifulSoup(r.text, "html.parser")
-        for card in soup.select(".card-event"):
-            link = card.select_one("a.card-event__link")
-            title = card.select_one(".card-event__title-decorator")
-            if not link or not title:
+        for card in get_cards(f"{CDF_BASE}/fr/agenda?page={page}"):
+            ev = make_event(card)
+            if ev:
+                events[(ev["title"], ev["start"])] = ev
                 continue
-            speaker = card.select_one(".card-event__main-speaker")
-            cycle = card.select_one(".card-event__cycle")
-            place = card.select_one(".card-event__place")
-            kind = card.select_one(".card-event__type")
-            status = card.select_one(".card-event__status")
-
-            times = card.select(".card-event__time--desktop time[datetime]")
-            start = end = None
-            all_day = False
-            if times:
-                start = parse_dt(times[0]["datetime"])
-                end = parse_dt(times[1]["datetime"]) if len(times) > 1 else start + timedelta(hours=1)
-            else:  # colloque sur plusieurs jours, pas d'horaire
-                d = card.select_one("time.smart-date__start[datetime]")
-                if not d:
-                    continue
-                start = parse_dt(d["datetime"]).replace(hour=0, minute=0)
-                end = start + timedelta(days=1)
-                all_day = True
-
-            desc = [
-                f"Type : {kind.get_text(strip=True)}" if kind else "",
-                f"Intervenant : {speaker.get_text(strip=True)}" if speaker else "",
-                f"Cycle : {cycle.get_text(strip=True)}" if cycle else "",
-                f"Info : {status.get_text(strip=True)}" if status else "",
-                f"Lien : {CDF_BASE}{link['href']}",
-            ]
-            events.append({
-                "source": "Collège de France",
-                "title": title.get_text(strip=True),
-                "start": start, "end": end, "all_day": all_day,
-                "place": place.get_text(strip=True) if place else "",
-                "description": "\n".join(x for x in desc if x),
-                "url": CDF_BASE + link["href"],
-            })
-    return events
+            link = card.select_one("a.card-event__link")
+            if link and link["href"] not in containers:
+                containers[link["href"]] = card
+    for href, card in containers.items():
+        url = CDF_BASE + href
+        parent = txt(card, ".card-event__title-decorator")
+        sessions = []
+        try:
+            for sc in get_cards(url):
+                ev = make_event(sc, parent=parent, default_url=url)
+                if ev:
+                    sessions.append(ev)
+        except Exception as exc:
+            print(f"ERREUR programme {url}: {exc}", file=sys.stderr)
+        if not sessions:
+            ev = container_range(card, url)
+            sessions = [ev] if ev else []
+        for ev in sessions:
+            events[(ev["title"], ev["start"])] = ev
+    return sorted(events.values(), key=lambda e: e["start"])
 
 
 SOURCES = [college_de_france]

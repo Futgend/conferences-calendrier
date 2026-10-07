@@ -111,10 +111,20 @@ def college_de_france():
 
 
 ACAD_BASE = "https://www.academie-sciences.fr"
+# Ce site refuse les visiteurs automatiques : on se présente comme un navigateur
+BROWSER_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+    "Accept-Language": "fr-FR,fr;q=0.9,en;q=0.8",
+    "Accept-Encoding": "gzip, deflate",
+    "Upgrade-Insecure-Requests": "1",
+}
 
 
 def academie_des_sciences():
-    r = requests.get(f"{ACAD_BASE}/events", headers=HEADERS, timeout=30)
+    session = requests.Session()
+    session.headers.update(BROWSER_HEADERS)
+    r = session.get(f"{ACAD_BASE}/events", timeout=30)
     r.raise_for_status()
     soup = BeautifulSoup(r.text, "html.parser")
     events = []
@@ -129,7 +139,7 @@ def academie_des_sciences():
         end = start + timedelta(hours=2)
         summary = ""
         try:  # la page de détail donne l'heure de fin et un résumé
-            pr = requests.get(url, headers=HEADERS, timeout=30)
+            pr = session.get(url, timeout=30)
             pr.raise_for_status()
             page = BeautifulSoup(pr.text, "html.parser")
             times = page.select("time[datetime]")

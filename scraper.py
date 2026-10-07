@@ -505,7 +505,7 @@ def ihpst():
                 if ics:
                     try:
                         ir = requests.get(IHPST_BASE + ics["href"], headers=HEADERS, timeout=30)
-                        m = re.search(r"DESCRIPTION[^:\r\n]*:([^\r\n]*)", ir.text)
+                        m = re.search(r"DESCRIPTION[^:\r\n]*:([^\r\n]*)", ir.content.decode("utf-8", "replace"))
                         if m:
                             place = m.group(1).replace("\\,", ",").replace("\\n", " ").strip()
                     except Exception:

@@ -447,12 +447,92 @@ def ehess():
     return sorted(events.values(), key=lambda e: e["start"])
 
 
+IHPST_BASE = "https://ihpst.pantheonsorbonne.fr"
+IHPST_PAGES = 6  # 12 événements par page
+# Titres ignorés : formations internes (en minuscules)
+IHPST_EXCLUDE = ("formation interne",)
+IHPST_LIEU_RE = re.compile(r"^.*?\d{2}/\d{2}/\d{4}\s*-\s*\d{1,2}:\d{2}\s*")
+
+
+def ihpst():
+    events = {}
+    for page in range(IHPST_PAGES):
+        cards = get_cards_from(f"{IHPST_BASE}/evenements?page={page}", "article.event")
+        if not cards:
+            break
+        for card in cards:
+            lien = card.select_one("a[href]")
+            titre = txt(card, ".title")
+            jour = txt(card, ".date-day-entry").lower()
+            if not lien or not titre or not jour:
+                continue
+            if any(x in titre.lower() for x in IHPST_EXCLUDE):
+                continue
+            d = [(int(a), MOIS.get(b), int(c)) for a, b, c in DATE_RE.findall(jour)]
+            d = [x for x in d if x[1]]
+            if not d:
+                continue
+            j, mo, an = d[0]
+            bloc = card.select_one(".date-hours-wrapper")
+            heures = HEURE_RE.findall(bloc.get_text(" ")) if bloc else []
+            if heures:
+                start = datetime(an, mo, j, int(heures[0][0]), int(heures[0][1] or 0), tzinfo=PARIS)
+                if len(heures) > 1:
+                    end = datetime(an, mo, j, int(heures[1][0]), int(heures[1][1] or 0), tzinfo=PARIS)
+                else:
+                    end = start + timedelta(hours=1, minutes=30)
+                if end <= start:
+                    end = start + timedelta(hours=1, minutes=30)
+                all_day = False
+            else:
+                start = datetime(an, mo, j, tzinfo=PARIS)
+                end = start + timedelta(days=1)
+                all_day = True
+            href = lien["href"]
+            url = href if href.startswith("http") else IHPST_BASE + href
+            place, resume = "", ""
+            try:  # page de détail : lieu exact et résumé
+                pr = requests.get(url, headers=HEADERS, timeout=30)
+                pr.raise_for_status()
+                detail = BeautifulSoup(pr.text, "html.parser")
+                lieu = txt(detail, ".location-content")
+                place = IHPST_LIEU_RE.sub("", lieu).strip() if lieu else ""
+                resume = txt(detail, ".field--name-bp-text")[:400]
+            except Exception as exc:
+                print(f"ERREUR détail {url}: {exc}", file=sys.stderr)
+            if not place:  # secours : le fichier calendrier du site donne le lieu
+                ics = card.select_one('a[href*="icsfiles"]')
+                if ics:
+                    try:
+                        ir = requests.get(IHPST_BASE + ics["href"], headers=HEADERS, timeout=30)
+                        m = re.search(r"DESCRIPTION[^:\r\n]*:([^\r\n]*)", ir.text)
+                        if m:
+                            place = m.group(1).replace("\\,", ",").replace("\\n", " ").strip()
+                    except Exception:
+                        pass
+            note = "Lieu à venir" if place.lower() in ("à venir", "a venir") else ""
+            if note:
+                place = ""
+            desc = [
+                f"Catégorie : {txt(card, '.categ-style')}" if txt(card, ".categ-style") else "",
+                note,
+                resume,
+                f"Lien : {url}",
+            ]
+            events[(url, start)] = {
+                "title": titre, "start": start, "end": end, "all_day": all_day, "place": place,
+                "description": "\n".join(x for x in desc if x), "url": url,
+            }
+    return sorted(events.values(), key=lambda e: e["start"])
+
+
 # Une entrée par institution : nom du fichier -> (nom du calendrier, fonction)
 SOURCES = {
     "college-de-france": ("Conférences Collège de France", college_de_france),
     "academie-des-sciences": ("Conférences Académie des sciences", academie_avec_secours),
     "institut-du-cerveau": ("Conférences Institut du Cerveau", institut_du_cerveau),
     "ehess": ("Conférences EHESS", ehess),
+    "ihpst": ("Conférences IHPST", ihpst),
 }
 # Ancien nom de fichier, conservé le temps de changer d'abonnement
 LEGACY = {"college-de-france": "conferences"}

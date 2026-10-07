@@ -209,6 +209,8 @@ def academie_avec_secours():
 
 IDC_BASE = "https://institutducerveau.org"
 IDC_PAGES = 6  # 6 événements par page
+# Catégories ignorées : événements destinés à un public scientifique (en minuscules)
+IDC_EXCLUDE = {"événements scientifiques"}
 MOIS = {"janvier": 1, "février": 2, "fevrier": 2, "mars": 3, "avril": 4, "mai": 5, "juin": 6,
         "juillet": 7, "août": 8, "aout": 8, "septembre": 9, "octobre": 10, "novembre": 11,
         "décembre": 12, "decembre": 12}
@@ -229,6 +231,8 @@ def institut_du_cerveau():
             raw = txt(card, ".card-event-dates")
             if not link or not raw:
                 continue
+            if txt(card, ".card-event-category").lower() in IDC_EXCLUDE:
+                continue  # événement destiné à un public scientifique
             text = raw.lower()
             dates = [(int(d), MOIS.get(m), int(y)) for d, m, y in DATE_RE.findall(text)]
             dates = [x for x in dates if x[1]]

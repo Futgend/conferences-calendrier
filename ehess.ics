@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:0acea516819246812388561434f39a7c@conferences
-DTSTAMP:20261007T021821Z
+DTSTAMP:20261007T105912Z
 DTSTART:20261008T073000Z
 DTEND:20261008T160000Z
 SUMMARY:Autour du livre Éclats du romantisme de Raymond Bellour
@@ -18,7 +18,7 @@ URL:https://www.ehess.fr/jcms/279420_JEvent/fr/autour-du-livre-eclats-du-romanti
 END:VEVENT
 BEGIN:VEVENT
 UID:47f2d2df8de290c59aeb1a5a2717602d@conferences
-DTSTAMP:20261007T021821Z
+DTSTAMP:20261007T105912Z
 DTSTART:20261012T070000Z
 DTEND:20261012T150000Z
 SUMMARY:Articuler étude de la sexualité et de la religion : socialisations\, institutions et politisations
@@ -28,7 +28,7 @@ URL:https://www.ehess.fr/jcms/278053_JEvent/fr/articuler-etude-de-la-sexualite-e
 END:VEVENT
 BEGIN:VEVENT
 UID:ac0eaa5d9dcf2097d031e7771c9d84fa@conferences
-DTSTAMP:20261007T021821Z
+DTSTAMP:20261007T105912Z
 DTSTART:20261012T120000Z
 DTEND:20261012T131500Z
 SUMMARY:Réunions d'information "Reprise d'études"
@@ -38,7 +38,7 @@ URL:https://www.ehess.fr/jcms/37175_JEvent/fr/reunions-d-information-reprise-d-e
 END:VEVENT
 BEGIN:VEVENT
 UID:ba01943f648dbd97296090e39c6cb782@conferences
-DTSTAMP:20261007T021821Z
+DTSTAMP:20261007T105912Z
 DTSTART:20261013T070000Z
 DTEND:20261013T170000Z
 SUMMARY:Les rencontres doctorales - SoLaRe
@@ -48,7 +48,7 @@ URL:https://www.ehess.fr/jcms/284330_JEvent/fr/les-rencontres-doctorales-solare
 END:VEVENT
 BEGIN:VEVENT
 UID:03757718d1498be3bb058c681b13af38@conferences
-DTSTAMP:20261007T021821Z
+DTSTAMP:20261007T105912Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261117
 SUMMARY:Le terrain religieux\, un terrain comme un autre ? Matérialités\, postures\, défiances et confiances
@@ -58,17 +58,17 @@ URL:https://www.ehess.fr/jcms/283762_JEvent/fr/le-terrain-religieux-un-terrain-c
 END:VEVENT
 BEGIN:VEVENT
 UID:c480c224508c20e9a60e8b25e9cb981d@conferences
-DTSTAMP:20261007T021821Z
+DTSTAMP:20261007T105912Z
 DTSTART:20261015T070000Z
 DTEND:20261015T170000Z
 SUMMARY:Les violences en milieux éducatifs : quelle histoire\, quelles actrices et quels acteurs\, quels enjeux ?
 LOCATION:Campus Condorcet - Centre des colloques Place du Front populaire\, 93322 Aubervilliers cedex
-DESCRIPTION:Catégorie : Journé(e) d'études\nAccès : Entrée libre\nProgramme de la journée À partir de 9h15 : Accueil café Faculty Club\, Maison des chercheurs Centre des colloques\, Auditorium 250 9h30-10h — Introduction de la journée Introduction de la journée par les organisatrices : Raphaëlle Fontenaille\, Margot Legal\, Akhésa Moummi (CéSor\, EHESS) Propos introduc\nLien : https://www.ehess.fr/jcms/268470_JEvent/fr/les-violences-en-milieux-educatifs-quelle-histoire-quelles-actrices-et-quels-acteurs-quels-enjeux
+DESCRIPTION:Catégorie : Journé(e) d'études\nAccès : Entrée libre\nCette journée vise à interroger la pluralité des violences en milieu éducatif ainsi que leurs différents registres (physique\, psychologique\, moral). Elle entend analyser les mécanismes sociaux et institutionnels qui ont favorisé leur banalisation\, mais aussi ceux qui ont permis leur mise en visibili\nLien : https://www.ehess.fr/jcms/268470_JEvent/fr/les-violences-en-milieux-educatifs-quelle-histoire-quelles-actrices-et-quels-acteurs-quels-enjeux
 URL:https://www.ehess.fr/jcms/268470_JEvent/fr/les-violences-en-milieux-educatifs-quelle-histoire-quelles-actrices-et-quels-acteurs-quels-enjeux
 END:VEVENT
 BEGIN:VEVENT
 UID:601e8ddf421554e1d79a4a54b895e629@conferences
-DTSTAMP:20261007T021821Z
+DTSTAMP:20261007T105912Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261121
 SUMMARY:La psychologisation des violences faites aux femmes

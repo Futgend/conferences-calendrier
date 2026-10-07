@@ -271,11 +271,117 @@ def institut_du_cerveau():
     return sorted(events.values(), key=lambda e: e["start"])
 
 
+EHESS_BASE = "https://www.ehess.fr"
+EHESS_LISTE = EHESS_BASE + "/jcms/kmo_28682/fr/agenda-de-l-ehess"
+# Catégories ignorées : soutenances et vie étudiante (en minuscules)
+EHESS_EXCLUDE = {"soutenance hdr", "vie étudiante"}
+MOIS_ABR = [("janv", 1), ("fév", 2), ("fev", 2), ("mars", 3), ("avr", 4), ("mai", 5), ("juin", 6),
+            ("juil", 7), ("aoû", 8), ("aou", 8), ("sept", 9), ("oct", 10), ("nov", 11),
+            ("déc", 12), ("dec", 12)]
+EHESS_DATE_RE = re.compile(r"(\d{1,2})\s+([^\W\d_]+\.?)\s+(\d{4})(?:\s+(\d{1,2})h(\d{2})?)?")
+EHESS_HEURES_RE = re.compile(r"De\s+(\d{1,2})h(\d{2})?\s+à\s+(\d{1,2})h(\d{2})?")
+EHESS_LIEU_RE = re.compile(r"\s(?:Le|Du)\s\d{1,2}/\d{1,2}/\d{4}")
+
+
+def mois_abr(s):
+    s = s.lower().strip(".")
+    for prefixe, num in MOIS_ABR:
+        if s.startswith(prefixe):
+            return num
+    return None
+
+
+def ehess():
+    r = requests.get(EHESS_LISTE, headers=HEADERS, timeout=30)
+    r.raise_for_status()
+    soup = BeautifulSoup(r.text, "html.parser")
+    aujourdhui = datetime.now(PARIS).date()
+    events = {}
+    for card in soup.select("a.jnews-event-card"):
+        href = card.get("href", "")
+        titre = txt(card, ".jnews-event-title")
+        bloc = card.select_one(".dates")
+        if not href or not titre or not bloc:
+            continue
+        categories = [" ".join(c.get_text().split()) for c in card.select(".meta-cat")]
+        if any(c.lower() in EHESS_EXCLUDE for c in categories):
+            continue
+        brut = " ".join(bloc.get_text(" ").split())
+        dates = []
+        for d, m, y, h, mn in EHESS_DATE_RE.findall(brut):
+            if mois_abr(m):
+                dates.append((int(y), mois_abr(m), int(d), int(h) if h else None, int(mn) if mn else 0))
+        if not dates:
+            continue
+        d0, d1 = dates[0], dates[-1]
+        if (d1[0], d1[1], d1[2]) < (d0[0], d0[1], d0[2]):
+            d1 = d0  # date de fin incohérente sur le site : on garde le début seul
+        jour0 = datetime(d0[0], d0[1], d0[2], tzinfo=PARIS)
+        jour1 = datetime(d1[0], d1[1], d1[2], tzinfo=PARIS)
+        multi = jour1.date() > jour0.date()
+        fin_du_jour = jour1.date() if multi else jour0.date()
+        if fin_du_jour < aujourdhui:
+            continue  # événement passé
+        url = f"{EHESS_BASE}/{href.lstrip('/')}"
+        # page de détail : lieu exact, horaires, accès, résumé
+        place, heures, acces, resume = "", None, "", ""
+        try:
+            pr = requests.get(url, headers=HEADERS, timeout=30)
+            pr.raise_for_status()
+            page = BeautifulSoup(pr.text, "html.parser")
+            infos = [" ".join(e.get_text(" ").split()) for e in page.select(".infos-container .line-infos")]
+            ligne = infos[0] if infos else ""
+            acces = infos[1] if len(infos) > 1 else ""
+            m = EHESS_LIEU_RE.search(ligne)
+            place = ligne[:m.start()].strip() if m else ""
+            hm = EHESS_HEURES_RE.search(ligne)
+            if hm:
+                heures = (int(hm.group(1)), int(hm.group(2) or 0), int(hm.group(3)), int(hm.group(4) or 0))
+            meta = page.select_one('meta[name="description"]')
+            if meta and meta.get("content"):
+                resume = " ".join(meta["content"].split())[:300]
+        except Exception as exc:
+            print(f"ERREUR détail {url}: {exc}", file=sys.stderr)
+        if not place:
+            ville = card.select_one(".caption .title p.subtitle")
+            place = " ".join(ville.get_text(" ").split()) if ville else ""
+        note = ""
+        if multi:  # plusieurs jours : événement sur la durée, horaires dans la description
+            start, end, all_day = jour0, jour1 + timedelta(days=1), True
+            if d0[3] is not None:
+                note = f"Du {d0[2]:02d}/{d0[1]:02d} à {d0[3]}h{d0[4]:02d} au {d1[2]:02d}/{d1[1]:02d}" + (f" à {d1[3]}h{d1[4]:02d}" if d1[3] is not None else "")
+        elif heures:
+            start = jour0.replace(hour=heures[0], minute=heures[1])
+            end = jour0.replace(hour=heures[2], minute=heures[3])
+            all_day = False
+        elif d0[3] is not None and (d0[3], d0[4]) != (0, 0):
+            start = jour0.replace(hour=d0[3], minute=d0[4])
+            end = start + timedelta(hours=2)
+            all_day = False
+        else:
+            start, end, all_day = jour0, jour0 + timedelta(days=1), True
+        if not all_day and end <= start:
+            end = start + timedelta(hours=2)
+        desc = [
+            f"Catégorie : {', '.join(categories)}" if categories else "",
+            f"Accès : {acces}" if acces else "",
+            note,
+            resume,
+            f"Lien : {url}",
+        ]
+        events[url] = {
+            "title": titre, "start": start, "end": end, "all_day": all_day, "place": place,
+            "description": "\n".join(x for x in desc if x), "url": url,
+        }
+    return sorted(events.values(), key=lambda e: e["start"])
+
+
 # Une entrée par institution : nom du fichier -> (nom du calendrier, fonction)
 SOURCES = {
     "college-de-france": ("Conférences Collège de France", college_de_france),
     "academie-des-sciences": ("Conférences Académie des sciences", academie_avec_secours),
     "institut-du-cerveau": ("Conférences Institut du Cerveau", institut_du_cerveau),
+    "ehess": ("Conférences EHESS", ehess),
 }
 # Ancien nom de fichier, conservé le temps de changer d'abonnement
 LEGACY = {"college-de-france": "conferences"}

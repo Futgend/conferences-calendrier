@@ -1,0 +1,79 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendrier-conferences//FR
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Conférences EHESS
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:0acea516819246812388561434f39a7c@conferences
+DTSTAMP:20261007T021821Z
+DTSTART:20261008T073000Z
+DTEND:20261008T160000Z
+SUMMARY:Autour du livre Éclats du romantisme de Raymond Bellour
+LOCATION:EHESS - Paris 54 boulevard Raspail\, 75006 Paris
+DESCRIPTION:Catégorie : Journé(e) d'études\nLa journée d'étude est consacrée à l'ouvrage Éclats du romantisme de Raymond Bellour\, en sa présence. Elle a lieu le jeudi 8 octobre 2026\, de 9h30 à 18h\, à l'EHESS\, 54 bd Raspail\, salle du CRAL\, B2-18 (Bâtiment B\, 2e étage\, salle 18)\, 75006 Paris.\nLien : https://www.ehess.fr/jcms/279420_JEvent/fr/autour-du-livre-eclats-du-romantisme-de-raymond-bellour
+URL:https://www.ehess.fr/jcms/279420_JEvent/fr/autour-du-livre-eclats-du-romantisme-de-raymond-bellour
+END:VEVENT
+BEGIN:VEVENT
+UID:47f2d2df8de290c59aeb1a5a2717602d@conferences
+DTSTAMP:20261007T021821Z
+DTSTART:20261012T070000Z
+DTEND:20261012T150000Z
+SUMMARY:Articuler étude de la sexualité et de la religion : socialisations\, institutions et politisations
+LOCATION:Humathèque Condorcet 10 cours des Humanités\, 93322 Aubervilliers cedex
+DESCRIPTION:Catégorie : EHESS\, Journé(e) d'études\nLe comité d’organisation : Benjamin Dubrulle (UHA/SAGE)\, Estelle Fisson (Université de Stockholm/CSO)\, Daphné Le Jehan (EHESS/CéSor)\, Marion Maudet (Lyon 2/Centre Max Weber) Le comité scientifique : Céline Béraud\, Mickaël Durand\, Béatrice de Gasquet\, Gwendoline Malogne-Fer\, Camille Masclet\, Alexandr\nLien : https://www.ehess.fr/jcms/278053_JEvent/fr/articuler-etude-de-la-sexualite-et-de-la-religion-socialisations-institutions-et-politisations
+URL:https://www.ehess.fr/jcms/278053_JEvent/fr/articuler-etude-de-la-sexualite-et-de-la-religion-socialisations-institutions-et-politisations
+END:VEVENT
+BEGIN:VEVENT
+UID:ac0eaa5d9dcf2097d031e7771c9d84fa@conferences
+DTSTAMP:20261007T021821Z
+DTSTART:20261012T120000Z
+DTEND:20261012T131500Z
+SUMMARY:Réunions d'information "Reprise d'études"
+LOCATION:En visioconférence Lien communiqué après votre inscription
+DESCRIPTION:Le service de la formation continue de l'EHESS organise des réunions d'informations ouvertes à toute personne intéressée par une reprise d'études. Vous pourrez à cette occasion vous informer sur les diplômes délivrés par l'établissement\, les dispositifs de la formation continue et les possibilités d\nLien : https://www.ehess.fr/jcms/37175_JEvent/fr/reunions-d-information-reprise-d-etudes
+URL:https://www.ehess.fr/jcms/37175_JEvent/fr/reunions-d-information-reprise-d-etudes
+END:VEVENT
+BEGIN:VEVENT
+UID:ba01943f648dbd97296090e39c6cb782@conferences
+DTSTAMP:20261007T021821Z
+DTSTART:20261013T070000Z
+DTEND:20261013T170000Z
+SUMMARY:Les rencontres doctorales - SoLaRe
+LOCATION:Collège doctoral européen Collège doctoral européen\, 46 bd de la Victoire\, 67000 Strasbourg
+DESCRIPTION:Accès : Entrée libre\nÀ l’occasion de sa première année\, le Laboratoire doctoral SoLaRe (Sociétés\, Laïcités\, Religions) organise une journée de rencontres dédiée aux jeunes chercheuses et chercheurs travaillant sur le fait religieux.\nLien : https://www.ehess.fr/jcms/284330_JEvent/fr/les-rencontres-doctorales-solare
+URL:https://www.ehess.fr/jcms/284330_JEvent/fr/les-rencontres-doctorales-solare
+END:VEVENT
+BEGIN:VEVENT
+UID:03757718d1498be3bb058c681b13af38@conferences
+DTSTAMP:20261007T021821Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261117
+SUMMARY:Le terrain religieux\, un terrain comme un autre ? Matérialités\, postures\, défiances et confiances
+LOCATION:Salle Europe de la MISHA 5 allée du Général Rouvillois 67000 Strasbourg
+DESCRIPTION:Du 14/10 à 9h00 au 16/11 à 19h00\nÀ travers des objets et photographies proposées par des doctorants et masterants en sciences sociales du religieux\, l’exposition donne à voir ce qui\, dans l’enquête de terrain\, reste souvent à la marge du texte scientifique : les objets reçus des enquêtés\, les gestes et postures adoptées pour s’inté\nLien : https://www.ehess.fr/jcms/283762_JEvent/fr/le-terrain-religieux-un-terrain-comme-un-autre-materialites-postures-defiances-et-confiances
+URL:https://www.ehess.fr/jcms/283762_JEvent/fr/le-terrain-religieux-un-terrain-comme-un-autre-materialites-postures-defiances-et-confiances
+END:VEVENT
+BEGIN:VEVENT
+UID:c480c224508c20e9a60e8b25e9cb981d@conferences
+DTSTAMP:20261007T021821Z
+DTSTART:20261015T070000Z
+DTEND:20261015T170000Z
+SUMMARY:Les violences en milieux éducatifs : quelle histoire\, quelles actrices et quels acteurs\, quels enjeux ?
+LOCATION:Campus Condorcet - Centre des colloques Place du Front populaire\, 93322 Aubervilliers cedex
+DESCRIPTION:Catégorie : Journé(e) d'études\nAccès : Entrée libre\nProgramme de la journée À partir de 9h15 : Accueil café Faculty Club\, Maison des chercheurs Centre des colloques\, Auditorium 250 9h30-10h — Introduction de la journée Introduction de la journée par les organisatrices : Raphaëlle Fontenaille\, Margot Legal\, Akhésa Moummi (CéSor\, EHESS) Propos introduc\nLien : https://www.ehess.fr/jcms/268470_JEvent/fr/les-violences-en-milieux-educatifs-quelle-histoire-quelles-actrices-et-quels-acteurs-quels-enjeux
+URL:https://www.ehess.fr/jcms/268470_JEvent/fr/les-violences-en-milieux-educatifs-quelle-histoire-quelles-actrices-et-quels-acteurs-quels-enjeux
+END:VEVENT
+BEGIN:VEVENT
+UID:601e8ddf421554e1d79a4a54b895e629@conferences
+DTSTAMP:20261007T021821Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261121
+SUMMARY:La psychologisation des violences faites aux femmes
+LOCATION:Campus Condorcet Cours des Humanités\, 93300 Aubervilliers
+DESCRIPTION:Catégorie : Colloque\nAccès : Sur inscription\nColloque organisé par Jessica Blouin (Triangle/ENS de Lyon)\, Auréliane Couppey (LIER-FYT/EHESS) et Stéphanie Pache (CIRST/UQAM) les 19 et 20 novembre 2026.\nLien : https://www.ehess.fr/jcms/258092_JEvent/fr/la-psychologisation-des-violences-faites-aux-femmes
+URL:https://www.ehess.fr/jcms/258092_JEvent/fr/la-psychologisation-des-violences-faites-aux-femmes
+END:VEVENT
+END:VCALENDAR

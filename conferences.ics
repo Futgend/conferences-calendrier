@@ -1,0 +1,1209 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendrier-conferences//FR
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Conférences
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:108dc3e12d63ae3aa6f5af2c90374cc2@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261007T123000Z
+DTEND:20261007T133000Z
+SUMMARY:The Origin of Cortical Interneurons in Human Brain Development
+LOCATION:Amphithéâtre Guillaume-Budé\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Conférencier invité\nIntervenant : Arnold Kriegstein\nCycle : Insights into the Development\, Evolution\, and Diseases of the Human Neocortex\nLien : https://www.college-de-france.fr/fr/agenda/conferencier-invite/insights-into-the-development-evolution-and-diseases-of-the-human-neocortex/the-origin-of-cortical-interneurons-in-human-brain-development
+URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/insights-into-the-development-evolution-and-diseases-of-the-human-neocortex/the-origin-of-cortical-interneurons-in-human-brain-development
+END:VEVENT
+BEGIN:VEVENT
+UID:9cd9fcb39f61d22aab2a32b73caa50c4@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261007T143000Z
+DTEND:20261007T163000Z
+SUMMARY:Faire face au changement climatique
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Esther Duflo\nCycle : Solidarité et politiques publiques face aux défis contemporains : l’exemple de la France\nInfo : Forte affluence\nLien : https://www.college-de-france.fr/fr/agenda/cours/solidarite-et-politiques-publiques-face-aux-defis-contemporains-exemple-de-la-france/faire-face-au-changement-climatique
+URL:https://www.college-de-france.fr/fr/agenda/cours/solidarite-et-politiques-publiques-face-aux-defis-contemporains-exemple-de-la-france/faire-face-au-changement-climatique
+END:VEVENT
+BEGIN:VEVENT
+UID:144de55ee2eb729fb9e61a3553db5dda@conferences
+DTSTAMP:20261007T001205Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Pourquoi et comment innover aujourd'hui ?
+LOCATION:
+DESCRIPTION:Type : Colloque\nIntervenant : Collège de France\nLien : https://www.college-de-france.fr/fr/agenda/colloque/pourquoi-et-comment-innover-aujourd-hui
+URL:https://www.college-de-france.fr/fr/agenda/colloque/pourquoi-et-comment-innover-aujourd-hui
+END:VEVENT
+BEGIN:VEVENT
+UID:c49b08fab440a9d2b142ec540c9d3cd7@conferences
+DTSTAMP:20261007T001205Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:La quête de l’eau atmosphérique
+LOCATION:
+DESCRIPTION:Type : Colloque\nIntervenant : Laurence Boisson de Chazournes\, Thomas Römer\nLien : https://www.college-de-france.fr/fr/agenda/colloque/la-quete-de-eau-atmospherique
+URL:https://www.college-de-france.fr/fr/agenda/colloque/la-quete-de-eau-atmospherique
+END:VEVENT
+BEGIN:VEVENT
+UID:c49b08fab440a9d2b142ec540c9d3cd7@conferences
+DTSTAMP:20261007T001205Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:La quête de l’eau atmosphérique
+LOCATION:
+DESCRIPTION:Type : Colloque\nIntervenant : Laurence Boisson de Chazournes\, Thomas Römer\nLien : https://www.college-de-france.fr/fr/agenda/colloque/la-quete-de-eau-atmospherique
+URL:https://www.college-de-france.fr/fr/agenda/colloque/la-quete-de-eau-atmospherique
+END:VEVENT
+BEGIN:VEVENT
+UID:3f7c111cf9a080db659558365621ac56@conferences
+DTSTAMP:20261007T001205Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Les Cultures de Tintin. Objectif centenaire
+LOCATION:
+DESCRIPTION:Type : Colloque\nIntervenant : Objectif Centenaire\nInfo : Non enregistré\nLien : https://www.college-de-france.fr/fr/agenda/colloque/les-cultures-de-tintin-objectif-centenaire
+URL:https://www.college-de-france.fr/fr/agenda/colloque/les-cultures-de-tintin-objectif-centenaire
+END:VEVENT
+BEGIN:VEVENT
+UID:9a97061e79693b1d523777c867cd2d39@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261012T143000Z
+DTEND:20261012T153000Z
+SUMMARY:Genomic Insights into Cortical Expansion and Language Function
+LOCATION:Amphithéâtre Maurice-Halbwachs\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Conférencier invité\nIntervenant : Arnold Kriegstein\nCycle : Insights into the Development\, Evolution\, and Diseases of the Human Neocortex\nLien : https://www.college-de-france.fr/fr/agenda/conferencier-invite/insights-into-the-development-evolution-and-diseases-of-the-human-neocortex/genomic-insights-into-cortical-expansion-and-language-function
+URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/insights-into-the-development-evolution-and-diseases-of-the-human-neocortex/genomic-insights-into-cortical-expansion-and-language-function
+END:VEVENT
+BEGIN:VEVENT
+UID:3f7c111cf9a080db659558365621ac56@conferences
+DTSTAMP:20261007T001205Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Les Cultures de Tintin. Objectif centenaire
+LOCATION:
+DESCRIPTION:Type : Colloque\nIntervenant : Objectif Centenaire\nInfo : Non enregistré\nLien : https://www.college-de-france.fr/fr/agenda/colloque/les-cultures-de-tintin-objectif-centenaire
+URL:https://www.college-de-france.fr/fr/agenda/colloque/les-cultures-de-tintin-objectif-centenaire
+END:VEVENT
+BEGIN:VEVENT
+UID:87a7410e1fba8ef783aaea6668024b71@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261013T140000Z
+DTEND:20261013T150000Z
+SUMMARY:Palaeolithic Origins of Seafaring: Theoretical\, Simulation\, and Experimental Approaches
+LOCATION:Amphithéâtre Guillaume-Budé\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Conférencier invité\nIntervenant : Yousuke Kaifu\nCycle : Yousuke Kaifu\nInfo : Non enregistré\nLien : https://www.college-de-france.fr/fr/agenda/conferencier-invite/yousuke-kaifu/palaeolithic-origins-of-seafaring-theoretical-simulation-and-experimental-approaches
+URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/yousuke-kaifu/palaeolithic-origins-of-seafaring-theoretical-simulation-and-experimental-approaches
+END:VEVENT
+BEGIN:VEVENT
+UID:3638a336a34d303955c24d576a42a4e2@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261013T153000Z
+DTEND:20261013T170000Z
+SUMMARY:Foucault et la vie du Collège : dialogue avec les pairs\, création de chaires
+LOCATION:Amphithéâtre Maurice-Halbwachs\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Grand événement\nIntervenant : Aurèle Méthivier & Sandra Boehringer\nCycle : Michel Foucault au Collège de France\nLien : https://www.college-de-france.fr/fr/agenda/grand-evenement/michel-foucault-au-college-de-france/foucault-et-la-vie-du-college-dialogue-avec-les-pairs-creation-de-chaires
+URL:https://www.college-de-france.fr/fr/agenda/grand-evenement/michel-foucault-au-college-de-france/foucault-et-la-vie-du-college-dialogue-avec-les-pairs-creation-de-chaires
+END:VEVENT
+BEGIN:VEVENT
+UID:ac167c1edfb9eba47f3ddf2366d13506@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261014T143000Z
+DTEND:20261014T153000Z
+SUMMARY:Developing a Cell-Based Therapy for Medically-Intractable Epilepsy
+LOCATION:Amphithéâtre Maurice-Halbwachs\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Conférencier invité\nIntervenant : Arnold Kriegstein\nCycle : Insights into the Development\, Evolution\, and Diseases of the Human Neocortex\nLien : https://www.college-de-france.fr/fr/agenda/conferencier-invite/insights-into-the-development-evolution-and-diseases-of-the-human-neocortex/developing-cell-based-therapy-for-medically-intractable-epilepsy
+URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/insights-into-the-development-evolution-and-diseases-of-the-human-neocortex/developing-cell-based-therapy-for-medically-intractable-epilepsy
+END:VEVENT
+BEGIN:VEVENT
+UID:468017d1c20742d565d3a6a5dbc6e8e0@conferences
+DTSTAMP:20261007T001205Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:L'animal
+LOCATION:
+DESCRIPTION:Type : Colloque\nIntervenant : Colloques de rentrée\nInfo : Forte affluence\nLien : https://www.college-de-france.fr/fr/animal
+URL:https://www.college-de-france.fr/fr/animal
+END:VEVENT
+BEGIN:VEVENT
+UID:468017d1c20742d565d3a6a5dbc6e8e0@conferences
+DTSTAMP:20261007T001205Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:L'animal
+LOCATION:
+DESCRIPTION:Type : Colloque\nIntervenant : Colloques de rentrée\nInfo : Forte affluence\nLien : https://www.college-de-france.fr/fr/animal
+URL:https://www.college-de-france.fr/fr/animal
+END:VEVENT
+BEGIN:VEVENT
+UID:468017d1c20742d565d3a6a5dbc6e8e0@conferences
+DTSTAMP:20261007T001205Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:L'animal
+LOCATION:
+DESCRIPTION:Type : Colloque\nIntervenant : Colloques de rentrée\nInfo : Forte affluence\nLien : https://www.college-de-france.fr/fr/animal
+URL:https://www.college-de-france.fr/fr/animal
+END:VEVENT
+BEGIN:VEVENT
+UID:b4f78c0f95c8f0dcc7ee6e50977ce07b@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261019T090000Z
+DTEND:20261019T103000Z
+SUMMARY:Les « Épouses du dieu » à Thèbes (1)
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Laurent Coulon\nCycle : Les « Épouses du dieu » à Thèbes\nLien : https://www.college-de-france.fr/fr/agenda/cours/les-epouses-du-dieu-thebes/les-epouses-du-dieu-thebes-1
+URL:https://www.college-de-france.fr/fr/agenda/cours/les-epouses-du-dieu-thebes/les-epouses-du-dieu-thebes-1
+END:VEVENT
+BEGIN:VEVENT
+UID:1a32d9e0e432258ae948b3851ddd8b25@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261020T120000Z
+DTEND:20261020T140000Z
+SUMMARY:Les nouvelles idées sont-elles plus difficiles à trouver ? (2)
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Philippe Aghion\nCycle : Les nouvelles idées sont-elles plus difficiles à trouver ?\nInfo : Forte affluence\nLien : https://www.college-de-france.fr/fr/agenda/cours/les-nouvelles-idees-sont-elles-plus-difficiles-trouver/les-nouvelles-idees-sont-elles-plus-difficiles-trouver-2
+URL:https://www.college-de-france.fr/fr/agenda/cours/les-nouvelles-idees-sont-elles-plus-difficiles-trouver/les-nouvelles-idees-sont-elles-plus-difficiles-trouver-2
+END:VEVENT
+BEGIN:VEVENT
+UID:48837cbdab161ebccb7e8499e4d05000@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261021T144500Z
+DTEND:20261021T164500Z
+SUMMARY:Les planètes telluriques : caractéristiques orbitales\, physiques et compositionnelles
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Alessandro Morbidelli\nCycle : La formation des planètes telluriques\nLien : https://www.college-de-france.fr/fr/agenda/cours/la-formation-des-planetes-telluriques/les-planetes-telluriques-caracteristiques-orbitales-physiques-et-compositionnelles
+URL:https://www.college-de-france.fr/fr/agenda/cours/la-formation-des-planetes-telluriques/les-planetes-telluriques-caracteristiques-orbitales-physiques-et-compositionnelles
+END:VEVENT
+BEGIN:VEVENT
+UID:aeac846840ae612ec4352c0e6faf8a54@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261026T100000Z
+DTEND:20261026T113000Z
+SUMMARY:Les « Épouses du dieu » à Thèbes (2)
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Laurent Coulon\nCycle : Les « Épouses du dieu » à Thèbes\nLien : https://www.college-de-france.fr/fr/agenda/cours/les-epouses-du-dieu-thebes/les-epouses-du-dieu-thebes-2
+URL:https://www.college-de-france.fr/fr/agenda/cours/les-epouses-du-dieu-thebes/les-epouses-du-dieu-thebes-2
+END:VEVENT
+BEGIN:VEVENT
+UID:65a9b8820fa6145cdbc39b587ed31c9a@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261027T130000Z
+DTEND:20261027T150000Z
+SUMMARY:Les nouvelles idées sont-elles plus difficiles à trouver ?(3)
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Philippe Aghion\nCycle : Les nouvelles idées sont-elles plus difficiles à trouver ?\nInfo : Forte affluence\nLien : https://www.college-de-france.fr/fr/agenda/cours/les-nouvelles-idees-sont-elles-plus-difficiles-trouver/les-nouvelles-idees-sont-elles-plus-difficiles-trouver-3
+URL:https://www.college-de-france.fr/fr/agenda/cours/les-nouvelles-idees-sont-elles-plus-difficiles-trouver/les-nouvelles-idees-sont-elles-plus-difficiles-trouver-3
+END:VEVENT
+BEGIN:VEVENT
+UID:8d0a2377a49a824b97cff562c8874a56@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261028T100000Z
+DTEND:20261028T113000Z
+SUMMARY:Représenter les Adoratrices aux époques tardives
+LOCATION:Amphithéâtre Guillaume-Budé\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Séminaire\nIntervenant : Olivier Perdu\nCycle : Autour des « Épouses du dieu » en Égypte ancienne : recherches récentes et éléments de comparaison\nLien : https://www.college-de-france.fr/fr/agenda/seminaire/autour-des-epouses-du-dieu-en-egypte-ancienne-recherches-recentes-et-elements-de-comparaison/representer-les-adoratrices-aux-epoques-tardives
+URL:https://www.college-de-france.fr/fr/agenda/seminaire/autour-des-epouses-du-dieu-en-egypte-ancienne-recherches-recentes-et-elements-de-comparaison/representer-les-adoratrices-aux-epoques-tardives
+END:VEVENT
+BEGIN:VEVENT
+UID:13b67e7d005a2bc7260b3a29f1ba105f@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261028T154500Z
+DTEND:20261028T174500Z
+SUMMARY:La Lune et sa formation
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Alessandro Morbidelli\nCycle : La formation des planètes telluriques\nLien : https://www.college-de-france.fr/fr/agenda/cours/la-formation-des-planetes-telluriques/la-lune-et-sa-formation
+URL:https://www.college-de-france.fr/fr/agenda/cours/la-formation-des-planetes-telluriques/la-lune-et-sa-formation
+END:VEVENT
+BEGIN:VEVENT
+UID:0a117a60edeffa5b071cb09422e420c7@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261029T170000Z
+DTEND:20261029T180000Z
+SUMMARY:Faire mieux
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Leçon inaugurale\nIntervenant : Claire Denis\nLien : https://www.college-de-france.fr/fr/agenda/lecon-inaugurale/faire-mieux/faire-mieux
+URL:https://www.college-de-france.fr/fr/agenda/lecon-inaugurale/faire-mieux/faire-mieux
+END:VEVENT
+BEGIN:VEVENT
+UID:d15cd3f3b65ede4e591f0858e59d8a31@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261102T093000Z
+DTEND:20261102T113000Z
+SUMMARY:Lecture de textes en lien avec le cours(1)
+LOCATION:Institut des Civilisations - Salle Françoise-Héritier
+DESCRIPTION:Type : Séminaire\nIntervenant : Dominique Charpin\nCycle : Lecture de textes en lien avec le cours\nLien : https://www.college-de-france.fr/fr/agenda/seminaire/lecture-de-textes-en-lien-avec-le-cours/lecture-de-textes-en-lien-avec-le-cours-1
+URL:https://www.college-de-france.fr/fr/agenda/seminaire/lecture-de-textes-en-lien-avec-le-cours/lecture-de-textes-en-lien-avec-le-cours-1
+END:VEVENT
+BEGIN:VEVENT
+UID:8fc26f1e56f8f48fb74150e5a2e82108@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261102T100000Z
+DTEND:20261102T113000Z
+SUMMARY:Les « Épouses du dieu » à Thèbes(3)
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Laurent Coulon\nCycle : Les « Épouses du dieu » à Thèbes\nLien : https://www.college-de-france.fr/fr/agenda/cours/les-epouses-du-dieu-thebes/les-epouses-du-dieu-thebes-3
+URL:https://www.college-de-france.fr/fr/agenda/cours/les-epouses-du-dieu-thebes/les-epouses-du-dieu-thebes-3
+END:VEVENT
+BEGIN:VEVENT
+UID:cb7659ad55ed3080726dad8e346945f2@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261102T140000Z
+DTEND:20261102T160000Z
+SUMMARY:Le Stalker- En présence d’Aurélien Barrau
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Claire Denis & Aurélien Barrau\nCycle : Sortir de cette chambre à moi\, chanceler\, chavirer\nLien : https://www.college-de-france.fr/fr/agenda/cours/sortir-de-cette-chambre-moi-chanceler-chavirer/le-stalker-en-presence-aurelien-barrau
+URL:https://www.college-de-france.fr/fr/agenda/cours/sortir-de-cette-chambre-moi-chanceler-chavirer/le-stalker-en-presence-aurelien-barrau
+END:VEVENT
+BEGIN:VEVENT
+UID:479b832b6497de97120baab232af7081@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261103T130000Z
+DTEND:20261103T150000Z
+SUMMARY:Les nouvelles idées sont-elles plus difficiles à trouver ? (4)
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Philippe Aghion\nCycle : Les nouvelles idées sont-elles plus difficiles à trouver ?\nInfo : Forte affluence\nLien : https://www.college-de-france.fr/fr/agenda/cours/les-nouvelles-idees-sont-elles-plus-difficiles-trouver/les-nouvelles-idees-sont-elles-plus-difficiles-trouver-4
+URL:https://www.college-de-france.fr/fr/agenda/cours/les-nouvelles-idees-sont-elles-plus-difficiles-trouver/les-nouvelles-idees-sont-elles-plus-difficiles-trouver-4
+END:VEVENT
+BEGIN:VEVENT
+UID:9e7d733dd98d81b17e920a5ba7c99ec1@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261103T133000Z
+DTEND:20261103T150000Z
+SUMMARY:Stress oxydant et réponse thérapeutique (3)(1)
+LOCATION:Amphithéâtre Guillaume-Budé\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Hugues de Thé\nCycle : Stress oxydant et réponse thérapeutique (3)\nLien : https://www.college-de-france.fr/fr/agenda/cours/stress-oxydant-et-reponse-therapeutique-3/stress-oxydant-et-reponse-therapeutique-3-1
+URL:https://www.college-de-france.fr/fr/agenda/cours/stress-oxydant-et-reponse-therapeutique-3/stress-oxydant-et-reponse-therapeutique-3-1
+END:VEVENT
+BEGIN:VEVENT
+UID:59b82ad83cc02b56176e7d312809563f@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261103T163000Z
+DTEND:20261103T180000Z
+SUMMARY:Foucault enseignant : cohérence d’une trajectoire et place dans l’œuvre
+LOCATION:Amphithéâtre Maurice-Halbwachs\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Grand événement\nIntervenant : Philippe Sabot & Elisabetta Basso\nCycle : Michel Foucault au Collège de France\nLien : https://www.college-de-france.fr/fr/agenda/grand-evenement/michel-foucault-au-college-de-france/foucault-enseignant-coherence-une-trajectoire-et-place-dans-oeuvre-0
+URL:https://www.college-de-france.fr/fr/agenda/grand-evenement/michel-foucault-au-college-de-france/foucault-enseignant-coherence-une-trajectoire-et-place-dans-oeuvre-0
+END:VEVENT
+BEGIN:VEVENT
+UID:7148bab84b9263a5fa5250cce9a924a4@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261104T090000Z
+DTEND:20261104T110000Z
+SUMMARY:La question de la Palestine au XXIesiècle(1)
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Henry Laurens\nCycle : La question de la Palestine au XXIe siècle\nInfo : Forte affluence\nLien : https://www.college-de-france.fr/fr/agenda/cours/la-question-de-la-palestine-au-xxie-siecle/la-question-de-la-palestine-au-xxie-siecle-1
+URL:https://www.college-de-france.fr/fr/agenda/cours/la-question-de-la-palestine-au-xxie-siecle/la-question-de-la-palestine-au-xxie-siecle-1
+END:VEVENT
+BEGIN:VEVENT
+UID:e22230f4a95fa2afc7e5c9bc70ccd662@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261104T100000Z
+DTEND:20261104T113000Z
+SUMMARY:Une prêtresse en Grèce ancienne : un prêtre comme un autre ?
+LOCATION:Amphithéâtre Guillaume-Budé\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Séminaire\nIntervenant : Vinciane Pirenne-Delforge\nCycle : Autour des « Épouses du dieu » en Égypte ancienne : recherches récentes et éléments de comparaison\nLien : https://www.college-de-france.fr/fr/agenda/seminaire/autour-des-epouses-du-dieu-en-egypte-ancienne-recherches-recentes-et-elements-de-comparaison/une-pretresse-en-grece-ancienne-un-pretre-comme-un-autre
+URL:https://www.college-de-france.fr/fr/agenda/seminaire/autour-des-epouses-du-dieu-en-egypte-ancienne-recherches-recentes-et-elements-de-comparaison/une-pretresse-en-grece-ancienne-un-pretre-comme-un-autre
+END:VEVENT
+BEGIN:VEVENT
+UID:fb34d95ad1e2314b92aa0415f8033ad0@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261104T100000Z
+DTEND:20261104T110000Z
+SUMMARY:The Noetic Theory of Aesthetic Experience
+LOCATION:Salle 2\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Conférencier invité\nIntervenant : Elisabeth Schellekens\nCycle : Aesthetic Experience\nLien : https://www.college-de-france.fr/fr/agenda/conferencier-invite/aesthetic-experience/the-noetic-theory-of-aesthetic-experience
+URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/aesthetic-experience/the-noetic-theory-of-aesthetic-experience
+END:VEVENT
+BEGIN:VEVENT
+UID:0483f21a5ea2fadda4d7cfb58f8f3dc4@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261104T154500Z
+DTEND:20261104T174500Z
+SUMMARY:Chronologie de la formation des planètes telluriques
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Alessandro Morbidelli\nCycle : La formation des planètes telluriques\nLien : https://www.college-de-france.fr/fr/agenda/cours/la-formation-des-planetes-telluriques/chronologie-de-la-formation-des-planetes-telluriques
+URL:https://www.college-de-france.fr/fr/agenda/cours/la-formation-des-planetes-telluriques/chronologie-de-la-formation-des-planetes-telluriques
+END:VEVENT
+BEGIN:VEVENT
+UID:7a7338c4c0e148ec71279dc74448ad4c@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261104T163000Z
+DTEND:20261104T173000Z
+SUMMARY:La souveraineté alimentaire et la transition agroécologique en Europe(1)
+LOCATION:Amphithéâtre Maurice-Halbwachs\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Conférencier invité\nIntervenant : Olivier De Schutter\nCycle : La souveraineté alimentaire et la transition agroécologique en Europe\nLien : https://www.college-de-france.fr/fr/agenda/conferencier-invite/la-souverainete-alimentaire-et-la-transition-agro-ecologique-en-europe/la-souverainete-alimentaire-et-la-transition-agroecologique-en-europe-1
+URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/la-souverainete-alimentaire-et-la-transition-agro-ecologique-en-europe/la-souverainete-alimentaire-et-la-transition-agroecologique-en-europe-1
+END:VEVENT
+BEGIN:VEVENT
+UID:e6140d27ba168c8b51b6ce485f843b9c@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261105T083000Z
+DTEND:20261105T100000Z
+SUMMARY:Introduction à l'équivalence et au raffinement entre programmes
+LOCATION:Amphithéâtre Mireille-Delmas-Marty\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Xavier Leroy\nCycle : Équivalences de programmes\nLien : https://www.college-de-france.fr/fr/agenda/cours/equivalences-de-programmes/introduction-equivalence-et-au-raffinement-entre-programmes
+URL:https://www.college-de-france.fr/fr/agenda/cours/equivalences-de-programmes/introduction-equivalence-et-au-raffinement-entre-programmes
+END:VEVENT
+BEGIN:VEVENT
+UID:065ac02d4e98a9ee22c2b6d05be6f6a3@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261105T101500Z
+DTEND:20261105T111500Z
+SUMMARY:Concurrency Theory: From Its Origins Towards a Science of Processes
+LOCATION:Amphithéâtre Mireille-Delmas-Marty\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Séminaire\nIntervenant : Davide Sangiorgi\nCycle : Équivalences de programmes\nLien : https://www.college-de-france.fr/fr/agenda/seminaire/equivalences-de-programmes/concurrency-theory-from-its-origins-towards-science-of-processes
+URL:https://www.college-de-france.fr/fr/agenda/seminaire/equivalences-de-programmes/concurrency-theory-from-its-origins-towards-science-of-processes
+END:VEVENT
+BEGIN:VEVENT
+UID:05c28035e92c980355e364791ae88e6e@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261105T130000Z
+DTEND:20261105T140000Z
+SUMMARY:Chemical Technologies for Recycling Plastics Designed to Last
+LOCATION:Amphithéâtre Mireille-Delmas-Marty\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Conférencier invité\nIntervenant : Troels Skrydstrup\nCycle : Contributions to a Sustainable Chemical Industry\nLien : https://www.college-de-france.fr/fr/agenda/conferencier-invite/contributions-to-sustainable-chemical-industry/chemical-technologies-for-recycling-plastics-designed-to-last
+URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/contributions-to-sustainable-chemical-industry/chemical-technologies-for-recycling-plastics-designed-to-last
+END:VEVENT
+BEGIN:VEVENT
+UID:b0b300335170556e85587b53ec116599@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261105T140000Z
+DTEND:20261105T150000Z
+SUMMARY:La souveraineté alimentaire et la transition agroécologique en Europe (2)
+LOCATION:Amphithéâtre Maurice-Halbwachs\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Conférencier invité\nIntervenant : Olivier De Schutter\nCycle : La souveraineté alimentaire et la transition agroécologique en Europe\nLien : https://www.college-de-france.fr/fr/agenda/conferencier-invite/la-souverainete-alimentaire-et-la-transition-agroecologique-en-europe/la-souverainete-alimentaire-et-la-transition-agroecologique-en-europe-2
+URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/la-souverainete-alimentaire-et-la-transition-agroecologique-en-europe/la-souverainete-alimentaire-et-la-transition-agroecologique-en-europe-2
+END:VEVENT
+BEGIN:VEVENT
+UID:8f23d6436d3ea38572d992a1a1f73428@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261105T170000Z
+DTEND:20261105T180000Z
+SUMMARY:L’hématologie\, au carrefour des disciplines biomédicales : un aller‑retour entre recherche fondamentale et clinique
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Leçon inaugurale\nIntervenant : Olivier Hermine\nLien : https://www.college-de-france.fr/fr/agenda/lecon-inaugurale/hematologie-au-carrefour-des-disciplines-biomedicales-un-aller-retour-entre-recherche-fondamentale/hematologie-au-carrefour-des-disciplines-biomedicales-un-aller-retour-entre-recherche-fondamentale
+URL:https://www.college-de-france.fr/fr/agenda/lecon-inaugurale/hematologie-au-carrefour-des-disciplines-biomedicales-un-aller-retour-entre-recherche-fondamentale/hematologie-au-carrefour-des-disciplines-biomedicales-un-aller-retour-entre-recherche-fondamentale
+END:VEVENT
+BEGIN:VEVENT
+UID:d253b72b768f6179b29d9fbf75f7d00c@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261106T083000Z
+DTEND:20261106T100000Z
+SUMMARY:Biogenèse et biologie du globule rouge et pathologies associées(1)
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Olivier Hermine\nCycle : Biogenèse et biologie du globule rouge et pathologies associées\nLien : https://www.college-de-france.fr/fr/agenda/cours/biogenese-et-biologie-du-globule-rouge-et-pathologies-associees/biogenese-et-biologie-du-globule-rouge-et-pathologies-associees-1
+URL:https://www.college-de-france.fr/fr/agenda/cours/biogenese-et-biologie-du-globule-rouge-et-pathologies-associees/biogenese-et-biologie-du-globule-rouge-et-pathologies-associees-1
+END:VEVENT
+BEGIN:VEVENT
+UID:8f4d12c9c715d9ab47c1f59db466d387@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261106T100000Z
+DTEND:20261106T110000Z
+SUMMARY:Aesthetic Discovery\, Exploration and Conceptual Mapping
+LOCATION:Salle 2\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Conférencier invité\nIntervenant : Elisabeth Schellekens\nCycle : Aesthetic Experience\nLien : https://www.college-de-france.fr/fr/agenda/conferencier-invite/aesthetic-experience/aesthetic-discovery-exploration-and-conceptual-mapping
+URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/aesthetic-experience/aesthetic-discovery-exploration-and-conceptual-mapping
+END:VEVENT
+BEGIN:VEVENT
+UID:2a225cfb445725108f78418a0d568351@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261106T130000Z
+DTEND:20261106T150000Z
+SUMMARY:Les arts au défi des sciences sociales (suite)(1)
+LOCATION:Amphithéâtre Maurice-Halbwachs\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Pierre-Michel Menger\nCycle : Les arts au défi des sciences sociales (suite)\nLien : https://www.college-de-france.fr/fr/agenda/cours/les-arts-au-defi-des-sciences-sociales-suite/les-arts-au-defi-des-sciences-sociales-suite-1
+URL:https://www.college-de-france.fr/fr/agenda/cours/les-arts-au-defi-des-sciences-sociales-suite/les-arts-au-defi-des-sciences-sociales-suite-1
+END:VEVENT
+BEGIN:VEVENT
+UID:e5957b2d9926b56f27d150c09f8ff407@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261106T133000Z
+DTEND:20261106T150000Z
+SUMMARY:Un trésor mythologique inédit : la mosaïque romaine d'Aréthuse (Syrie Centrale) et ses inscriptions uniques
+LOCATION:Salle 2\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Conférencier invité\nIntervenant : Houmam Saad & Komait Abdallah\nLien : https://www.college-de-france.fr/fr/agenda/conferencier-invite/un-tresor-mythologique-inedit-la-mosaique-romaine-arethuse-syrie-centrale-et-ses-inscriptions/un-tresor-mythologique-inedit-la-mosaique-romaine-arethuse-syrie-centrale-et-ses-inscriptions
+URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/un-tresor-mythologique-inedit-la-mosaique-romaine-arethuse-syrie-centrale-et-ses-inscriptions/un-tresor-mythologique-inedit-la-mosaique-romaine-arethuse-syrie-centrale-et-ses-inscriptions
+END:VEVENT
+BEGIN:VEVENT
+UID:ec79d0645903772c53c84f0d95dc873c@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261109T093000Z
+DTEND:20261109T110000Z
+SUMMARY:Concepts et modes de présentation(1)
+LOCATION:Amphithéâtre Maurice-Halbwachs\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : François Recanati\nCycle : Concepts et modes de présentation\nLien : https://www.college-de-france.fr/fr/agenda/cours/concepts-et-modes-de-presentation/concepts-et-modes-de-presentation-1
+URL:https://www.college-de-france.fr/fr/agenda/cours/concepts-et-modes-de-presentation/concepts-et-modes-de-presentation-1
+END:VEVENT
+BEGIN:VEVENT
+UID:970949d794e115cb243f13200354e9fa@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261109T093000Z
+DTEND:20261109T113000Z
+SUMMARY:Lecture de textes en lien avec le cours(2)
+LOCATION:Institut des Civilisations - Salle Françoise-Héritier
+DESCRIPTION:Type : Séminaire\nIntervenant : Dominique Charpin\nCycle : Lecture de textes en lien avec le cours\nLien : https://www.college-de-france.fr/fr/agenda/seminaire/lecture-de-textes-en-lien-avec-le-cours/lecture-de-textes-en-lien-avec-le-cours-2
+URL:https://www.college-de-france.fr/fr/agenda/seminaire/lecture-de-textes-en-lien-avec-le-cours/lecture-de-textes-en-lien-avec-le-cours-2
+END:VEVENT
+BEGIN:VEVENT
+UID:cd6b2547681731a2f4c4da032c7d260d@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261109T100000Z
+DTEND:20261109T113000Z
+SUMMARY:Les « Épouses du dieu » à Thèbes(4)
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Laurent Coulon\nCycle : Les « Épouses du dieu » à Thèbes\nLien : https://www.college-de-france.fr/fr/agenda/cours/les-epouses-du-dieu-thebes/les-epouses-du-dieu-thebes-4
+URL:https://www.college-de-france.fr/fr/agenda/cours/les-epouses-du-dieu-thebes/les-epouses-du-dieu-thebes-4
+END:VEVENT
+BEGIN:VEVENT
+UID:75079cf2f9265d88c88c30342b005f11@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261109T140000Z
+DTEND:20261109T160000Z
+SUMMARY:« Une femme blanche » – Un dialogue avec Marie Ndiaye
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Claire Denis & Marie NDiaye\nCycle : Sortir de cette chambre à moi\, chanceler\, chavirer\nLien : https://www.college-de-france.fr/fr/agenda/cours/sortir-de-cette-chambre-moi-chanceler-chavirer/une-femme-blanche-un-dialogue-avec-marie-ndiaye
+URL:https://www.college-de-france.fr/fr/agenda/cours/sortir-de-cette-chambre-moi-chanceler-chavirer/une-femme-blanche-un-dialogue-avec-marie-ndiaye
+END:VEVENT
+BEGIN:VEVENT
+UID:dd72630e1a80eac522a0a8e16bc8add9@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261109T150000Z
+DTEND:20261109T163000Z
+SUMMARY:Introduction : bioénergétique
+LOCATION:Amphithéâtre Mireille-Delmas-Marty\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Jean-François Joanny\nCycle : Bioénergétique et métabolisme\nLien : https://www.college-de-france.fr/fr/agenda/cours/bioenergetique-et-metabolisme/introduction-bioenergetique
+URL:https://www.college-de-france.fr/fr/agenda/cours/bioenergetique-et-metabolisme/introduction-bioenergetique
+END:VEVENT
+BEGIN:VEVENT
+UID:9e8eb4d5d66225d535789fef40bdaee1@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261110T130000Z
+DTEND:20261110T140000Z
+SUMMARY:Developing Carbon Capture Technologies
+LOCATION:Amphithéâtre Mireille-Delmas-Marty\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Conférencier invité\nIntervenant : Troels Skrydstrup\nCycle : Contributions to a Sustainable Chemical Industry\nLien : https://www.college-de-france.fr/fr/agenda/conferencier-invite/contributions-to-sustainable-chemical-industry/developing-carbon-capture-technologies
+URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/contributions-to-sustainable-chemical-industry/developing-carbon-capture-technologies
+END:VEVENT
+BEGIN:VEVENT
+UID:6e933a3140a1401c8b5a65409603ccf7@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261112T083000Z
+DTEND:20261112T100000Z
+SUMMARY:Approches dénotationnelles et full abstraction
+LOCATION:Amphithéâtre Mireille-Delmas-Marty\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Xavier Leroy\nCycle : Équivalences de programmes\nLien : https://www.college-de-france.fr/fr/agenda/cours/equivalences-de-programmes/approches-denotationnelles-et-full-abstraction
+URL:https://www.college-de-france.fr/fr/agenda/cours/equivalences-de-programmes/approches-denotationnelles-et-full-abstraction
+END:VEVENT
+BEGIN:VEVENT
+UID:86e47d4bf67a2ac7611927561679f2ff@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261112T100000Z
+DTEND:20261112T110000Z
+SUMMARY:Retour vers le Dao : entre empire et emprise(1)
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Anne Cheng\nCycle : Retour vers le Dao : entre empire et emprise\nLien : https://www.college-de-france.fr/fr/agenda/cours/retour-vers-le-dao-entre-empire-et-emprise/retour-vers-le-dao-entre-empire-et-emprise-1
+URL:https://www.college-de-france.fr/fr/agenda/cours/retour-vers-le-dao-entre-empire-et-emprise/retour-vers-le-dao-entre-empire-et-emprise-1
+END:VEVENT
+BEGIN:VEVENT
+UID:e73b61bf9d32dd89ad4f0cca7caa609f@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261112T101500Z
+DTEND:20261112T111500Z
+SUMMARY:L'équivalence d'interaction
+LOCATION:Amphithéâtre Mireille-Delmas-Marty\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Séminaire\nIntervenant : Adrienne Lancelot\nCycle : Équivalences de programmes\nLien : https://www.college-de-france.fr/fr/agenda/seminaire/equivalences-de-programmes/equivalence-interaction
+URL:https://www.college-de-france.fr/fr/agenda/seminaire/equivalences-de-programmes/equivalence-interaction
+END:VEVENT
+BEGIN:VEVENT
+UID:fa65ab83a52eac934402e07d87a7cacb@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261112T163000Z
+DTEND:20261112T173000Z
+SUMMARY:La souveraineté alimentaire et la transition agroécologique en Europe(3)
+LOCATION:Amphithéâtre Maurice-Halbwachs\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Conférencier invité\nIntervenant : Olivier De Schutter\nCycle : La souveraineté alimentaire et la transition agroécologique en Europe\nLien : https://www.college-de-france.fr/fr/agenda/conferencier-invite/la-souverainete-alimentaire-et-la-transition-agroecologique-en-europe/la-souverainete-alimentaire-et-la-transition-agroecologique-en-europe-3
+URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/la-souverainete-alimentaire-et-la-transition-agroecologique-en-europe/la-souverainete-alimentaire-et-la-transition-agroecologique-en-europe-3
+END:VEVENT
+BEGIN:VEVENT
+UID:fc627fc55231286c67fe801dbac531dd@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261113T083000Z
+DTEND:20261113T100000Z
+SUMMARY:Biogenèse et biologie du globule rouge et pathologies associées(2)
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Olivier Hermine\nCycle : Biogenèse et biologie du globule rouge et pathologies associées\nLien : https://www.college-de-france.fr/fr/agenda/cours/biogenese-et-biologie-du-globule-rouge-et-pathologies-associees/biogenese-et-biologie-du-globule-rouge-et-pathologies-associees-2
+URL:https://www.college-de-france.fr/fr/agenda/cours/biogenese-et-biologie-du-globule-rouge-et-pathologies-associees/biogenese-et-biologie-du-globule-rouge-et-pathologies-associees-2
+END:VEVENT
+BEGIN:VEVENT
+UID:011c4a107d2235ced0c368b1c41061df@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261113T100000Z
+DTEND:20261113T110000Z
+SUMMARY:Representative Democracy in Reflexive Globalization
+LOCATION:Amphithéâtre Mireille-Delmas-Marty\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Conférencier invité\nIntervenant : Philipp Dann\nLien : https://www.college-de-france.fr/fr/agenda/conferencier-invite/philipp-dann/representative-democracy-in-reflexive-globalization
+URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/philipp-dann/representative-democracy-in-reflexive-globalization
+END:VEVENT
+BEGIN:VEVENT
+UID:c5a13ea72b68dada6e93c54f2e83517e@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261113T130000Z
+DTEND:20261113T150000Z
+SUMMARY:Les arts au défi des sciences sociales (suite)(2)
+LOCATION:Amphithéâtre Maurice-Halbwachs\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Pierre-Michel Menger\nCycle : Les arts au défi des sciences sociales (suite)\nLien : https://www.college-de-france.fr/fr/agenda/cours/les-arts-au-defi-des-sciences-sociales-suite/les-arts-au-defi-des-sciences-sociales-suite-2
+URL:https://www.college-de-france.fr/fr/agenda/cours/les-arts-au-defi-des-sciences-sociales-suite/les-arts-au-defi-des-sciences-sociales-suite-2
+END:VEVENT
+BEGIN:VEVENT
+UID:e2d8df54d7128a24d5aa17b80de99cdc@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261113T163000Z
+DTEND:20261113T173000Z
+SUMMARY:La souveraineté alimentaire et la transition agroécologique en Europe (4)
+LOCATION:Amphithéâtre Maurice-Halbwachs\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Conférencier invité\nIntervenant : Olivier De Schutter\nCycle : La souveraineté alimentaire et la transition agroécologique en Europe\nLien : https://www.college-de-france.fr/fr/agenda/conferencier-invite/la-souverainete-alimentaire-et-la-transition-agroecologique-en-europe/la-souverainete-alimentaire-et-la-transition-agroecologique-en-europe-4
+URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/la-souverainete-alimentaire-et-la-transition-agroecologique-en-europe/la-souverainete-alimentaire-et-la-transition-agroecologique-en-europe-4
+END:VEVENT
+BEGIN:VEVENT
+UID:f9d64557a08446c8834b15dba2452267@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261116T093000Z
+DTEND:20261116T110000Z
+SUMMARY:Concepts et modes de présentation(2)
+LOCATION:Amphithéâtre Maurice-Halbwachs\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : François Recanati\nCycle : Concepts et modes de présentation\nLien : https://www.college-de-france.fr/fr/agenda/cours/concepts-et-modes-de-presentation/concepts-et-modes-de-presentation-2
+URL:https://www.college-de-france.fr/fr/agenda/cours/concepts-et-modes-de-presentation/concepts-et-modes-de-presentation-2
+END:VEVENT
+BEGIN:VEVENT
+UID:b2afb15caa77cfddd84097b1b0794e94@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261116T093000Z
+DTEND:20261116T113000Z
+SUMMARY:Lecture de textes en lien avec le cours(3)
+LOCATION:Institut des Civilisations - Salle Françoise-Héritier
+DESCRIPTION:Type : Séminaire\nIntervenant : Dominique Charpin\nCycle : Lecture de textes en lien avec le cours\nLien : https://www.college-de-france.fr/fr/agenda/seminaire/lecture-de-textes-en-lien-avec-le-cours/lecture-de-textes-en-lien-avec-le-cours-3
+URL:https://www.college-de-france.fr/fr/agenda/seminaire/lecture-de-textes-en-lien-avec-le-cours/lecture-de-textes-en-lien-avec-le-cours-3
+END:VEVENT
+BEGIN:VEVENT
+UID:3e5fdba64f2d1417a708ece2f7187e1f@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261116T100000Z
+DTEND:20261116T113000Z
+SUMMARY:Les « Épouses du dieu » à Thèbes(5)
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Laurent Coulon\nCycle : Les « Épouses du dieu » à Thèbes\nLien : https://www.college-de-france.fr/fr/agenda/cours/les-epouses-du-dieu-thebes/les-epouses-du-dieu-thebes-5
+URL:https://www.college-de-france.fr/fr/agenda/cours/les-epouses-du-dieu-thebes/les-epouses-du-dieu-thebes-5
+END:VEVENT
+BEGIN:VEVENT
+UID:92fbb258e9ac166f82df0baf8616211b@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261116T140000Z
+DTEND:20261116T160000Z
+SUMMARY:La photographie
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Claire Denis\nCycle : Sortir de cette chambre à moi\, chanceler\, chavirer\nLien : https://www.college-de-france.fr/fr/agenda/cours/sortir-de-cette-chambre-moi-chanceler-chavirer/la-photographie
+URL:https://www.college-de-france.fr/fr/agenda/cours/sortir-de-cette-chambre-moi-chanceler-chavirer/la-photographie
+END:VEVENT
+BEGIN:VEVENT
+UID:268679ff7eade0908480b2fe9bd5205e@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261116T150000Z
+DTEND:20261116T163000Z
+SUMMARY:Réactions chimiques et métabolisme
+LOCATION:Amphithéâtre Mireille-Delmas-Marty\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Jean-François Joanny\nCycle : Bioénergétique et métabolisme\nLien : https://www.college-de-france.fr/fr/agenda/cours/bioenergetique-et-metabolisme/reactions-chimiques-et-metabolisme
+URL:https://www.college-de-france.fr/fr/agenda/cours/bioenergetique-et-metabolisme/reactions-chimiques-et-metabolisme
+END:VEVENT
+BEGIN:VEVENT
+UID:11340c0c278e2c9aac8743c762ecef35@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261117T090000Z
+DTEND:20261117T110000Z
+SUMMARY:Introduction : de la chaleur vitale à l’énergie libre
+LOCATION:Amphithéâtre Guillaume-Budé\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Thomas Lecuit\nCycle : Bioénergétique et métabolisme\nLien : https://www.college-de-france.fr/fr/agenda/cours/bioenergetique-et-metabolisme/introduction-de-la-chaleur-vitale-energie-libre
+URL:https://www.college-de-france.fr/fr/agenda/cours/bioenergetique-et-metabolisme/introduction-de-la-chaleur-vitale-energie-libre
+END:VEVENT
+BEGIN:VEVENT
+UID:d9db9d6850855cc77da076e062f6031b@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261117T130000Z
+DTEND:20261117T150000Z
+SUMMARY:Les nouvelles idées sont-elles plus difficiles à trouver ?(5)
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Philippe Aghion\nCycle : Les nouvelles idées sont-elles plus difficiles à trouver ?\nInfo : Forte affluence\nLien : https://www.college-de-france.fr/fr/agenda/cours/les-nouvelles-idees-sont-elles-plus-difficiles-trouver/les-nouvelles-idees-sont-elles-plus-difficiles-trouver-5
+URL:https://www.college-de-france.fr/fr/agenda/cours/les-nouvelles-idees-sont-elles-plus-difficiles-trouver/les-nouvelles-idees-sont-elles-plus-difficiles-trouver-5
+END:VEVENT
+BEGIN:VEVENT
+UID:64083f16dafffcb94f18003cb8a9b948@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261117T133000Z
+DTEND:20261117T150000Z
+SUMMARY:Stress oxydant et réponse thérapeutique (3)(2)
+LOCATION:Amphithéâtre Guillaume-Budé\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Hugues de Thé\nCycle : Stress oxydant et réponse thérapeutique (3)\nLien : https://www.college-de-france.fr/fr/agenda/cours/stress-oxydant-et-reponse-therapeutique-3/stress-oxydant-et-reponse-therapeutique-3-2
+URL:https://www.college-de-france.fr/fr/agenda/cours/stress-oxydant-et-reponse-therapeutique-3/stress-oxydant-et-reponse-therapeutique-3-2
+END:VEVENT
+BEGIN:VEVENT
+UID:ebe3f00956bdc0b2f30173059035cb1a@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261118T090000Z
+DTEND:20261118T110000Z
+SUMMARY:La question de la Palestine au XXIesiècle(2)
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Henry Laurens\nCycle : La question de la Palestine au XXIe siècle\nInfo : Forte affluence\nLien : https://www.college-de-france.fr/fr/agenda/cours/la-question-de-la-palestine-au-xxie-siecle/la-question-de-la-palestine-au-xxie-siecle-2
+URL:https://www.college-de-france.fr/fr/agenda/cours/la-question-de-la-palestine-au-xxie-siecle/la-question-de-la-palestine-au-xxie-siecle-2
+END:VEVENT
+BEGIN:VEVENT
+UID:0a0848c5549fcfb6cb1b8bff7d0696e6@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261118T100000Z
+DTEND:20261118T113000Z
+SUMMARY:Karomâmâ : figure de bronze d’une Adoratrice d’Amon au service d’Osiris dans Karnak
+LOCATION:Amphithéâtre Guillaume-Budé\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Séminaire\nIntervenant : Florence Gombert-Meurice\nCycle : Autour des « Épouses du dieu » en Égypte ancienne : recherches récentes et éléments de comparaison\nLien : https://www.college-de-france.fr/fr/agenda/seminaire/autour-des-epouses-du-dieu-en-egypte-ancienne-recherches-recentes-et-elements-de-comparaison/karomama-figure-de-bronze-une-adoratrice-amon-au-service-osiris-dans-karnak
+URL:https://www.college-de-france.fr/fr/agenda/seminaire/autour-des-epouses-du-dieu-en-egypte-ancienne-recherches-recentes-et-elements-de-comparaison/karomama-figure-de-bronze-une-adoratrice-amon-au-service-osiris-dans-karnak
+END:VEVENT
+BEGIN:VEVENT
+UID:5cd9993589df5cf34d8666d403c4801b@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261118T154500Z
+DTEND:20261118T174500Z
+SUMMARY:La formation des planètes telluriques I : premiers modèles
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Alessandro Morbidelli\nCycle : La formation des planètes telluriques\nLien : https://www.college-de-france.fr/fr/agenda/cours/la-formation-des-planetes-telluriques/la-formation-des-planetes-telluriques-i-premiers-modeles
+URL:https://www.college-de-france.fr/fr/agenda/cours/la-formation-des-planetes-telluriques/la-formation-des-planetes-telluriques-i-premiers-modeles
+END:VEVENT
+BEGIN:VEVENT
+UID:dbeb50dd3d9290221e39cee8f182d690@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261119T083000Z
+DTEND:20261119T100000Z
+SUMMARY:Bisimulations 1
+LOCATION:Amphithéâtre Mireille-Delmas-Marty\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Xavier Leroy\nCycle : Équivalences de programmes\nLien : https://www.college-de-france.fr/fr/agenda/cours/equivalences-de-programmes/bisimulations-1
+URL:https://www.college-de-france.fr/fr/agenda/cours/equivalences-de-programmes/bisimulations-1
+END:VEVENT
+BEGIN:VEVENT
+UID:fe923f78306d110be440fd8414074a01@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261119T100000Z
+DTEND:20261119T110000Z
+SUMMARY:Retour vers le Dao : entre empire et emprise(2)
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Anne Cheng\nCycle : Retour vers le Dao : entre empire et emprise\nLien : https://www.college-de-france.fr/fr/agenda/cours/retour-vers-le-dao-entre-empire-et-emprise/retour-vers-le-dao-entre-empire-et-emprise-2
+URL:https://www.college-de-france.fr/fr/agenda/cours/retour-vers-le-dao-entre-empire-et-emprise/retour-vers-le-dao-entre-empire-et-emprise-2
+END:VEVENT
+BEGIN:VEVENT
+UID:b867f1502e529103327d0fc8be797d5f@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261119T101500Z
+DTEND:20261119T111500Z
+SUMMARY:Sémantiques de jeux des langages de programmation
+LOCATION:Amphithéâtre Mireille-Delmas-Marty\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Séminaire\nIntervenant : Pierre Clairambault\nCycle : Équivalences de programmes\nLien : https://www.college-de-france.fr/fr/agenda/seminaire/equivalences-de-programmes/semantiques-de-jeux-des-langages-de-programmation
+URL:https://www.college-de-france.fr/fr/agenda/seminaire/equivalences-de-programmes/semantiques-de-jeux-des-langages-de-programmation
+END:VEVENT
+BEGIN:VEVENT
+UID:7af8c6de52e6b2d461d0e9d84a8d0aa6@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261120T130000Z
+DTEND:20261120T150000Z
+SUMMARY:Les arts au défi des sciences sociales (suite)(3)
+LOCATION:Amphithéâtre Maurice-Halbwachs\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Pierre-Michel Menger\nCycle : Les arts au défi des sciences sociales (suite)\nLien : https://www.college-de-france.fr/fr/agenda/cours/les-arts-au-defi-des-sciences-sociales-suite/les-arts-au-defi-des-sciences-sociales-suite-3
+URL:https://www.college-de-france.fr/fr/agenda/cours/les-arts-au-defi-des-sciences-sociales-suite/les-arts-au-defi-des-sciences-sociales-suite-3
+END:VEVENT
+BEGIN:VEVENT
+UID:798e8ce8c6b220f5e06281943db3de32@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261123T093000Z
+DTEND:20261123T110000Z
+SUMMARY:Concepts et modes de présentation(3)
+LOCATION:Amphithéâtre Maurice-Halbwachs\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : François Recanati\nCycle : Concepts et modes de présentation\nLien : https://www.college-de-france.fr/fr/agenda/cours/concepts-et-modes-de-presentation/concepts-et-modes-de-presentation-3
+URL:https://www.college-de-france.fr/fr/agenda/cours/concepts-et-modes-de-presentation/concepts-et-modes-de-presentation-3
+END:VEVENT
+BEGIN:VEVENT
+UID:f70d0e489c97fedf51ed29a47385f756@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261123T093000Z
+DTEND:20261123T113000Z
+SUMMARY:Lecture de textes en lien avec le cours(4)
+LOCATION:Institut des Civilisations - Salle Françoise-Héritier
+DESCRIPTION:Type : Séminaire\nIntervenant : Dominique Charpin\nCycle : Lecture de textes en lien avec le cours\nLien : https://www.college-de-france.fr/fr/agenda/seminaire/lecture-de-textes-en-lien-avec-le-cours/lecture-de-textes-en-lien-avec-le-cours-4
+URL:https://www.college-de-france.fr/fr/agenda/seminaire/lecture-de-textes-en-lien-avec-le-cours/lecture-de-textes-en-lien-avec-le-cours-4
+END:VEVENT
+BEGIN:VEVENT
+UID:da16008dd8c3ad3d01eb08bcd2cee950@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261123T100000Z
+DTEND:20261123T113000Z
+SUMMARY:Les « Épouses du dieu » à Thèbes(6)
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Laurent Coulon\nCycle : Les « Épouses du dieu » à Thèbes\nLien : https://www.college-de-france.fr/fr/agenda/cours/les-epouses-du-dieu-thebes/les-epouses-du-dieu-thebes-6
+URL:https://www.college-de-france.fr/fr/agenda/cours/les-epouses-du-dieu-thebes/les-epouses-du-dieu-thebes-6
+END:VEVENT
+BEGIN:VEVENT
+UID:7e45f21ace0b74a58087d82792f457d4@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261123T140000Z
+DTEND:20261123T160000Z
+SUMMARY:Sortir de cette chambre à moi\, chanceler\, chavirer(4)
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Claire Denis & Wajdi Mouawad\nCycle : Sortir de cette chambre à moi\, chanceler\, chavirer\nLien : https://www.college-de-france.fr/fr/agenda/cours/sortir-de-cette-chambre-moi-chanceler-chavirer/sortir-de-cette-chambre-moi-chanceler-chavirer-4
+URL:https://www.college-de-france.fr/fr/agenda/cours/sortir-de-cette-chambre-moi-chanceler-chavirer/sortir-de-cette-chambre-moi-chanceler-chavirer-4
+END:VEVENT
+BEGIN:VEVENT
+UID:1c0fe6b349abf0d1ca07499d6aeee317@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261123T150000Z
+DTEND:20261123T163000Z
+SUMMARY:Théorie chimio-osmotique et régulation de l'ATP
+LOCATION:Amphithéâtre Mireille-Delmas-Marty\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Jean-François Joanny\nCycle : Bioénergétique et métabolisme\nLien : https://www.college-de-france.fr/fr/agenda/cours/bioenergetique-et-metabolisme/theorie-chimio-osmotique-et-regulation-de-atp
+URL:https://www.college-de-france.fr/fr/agenda/cours/bioenergetique-et-metabolisme/theorie-chimio-osmotique-et-regulation-de-atp
+END:VEVENT
+BEGIN:VEVENT
+UID:70a4a9667f6910459a4172a9dd360b3f@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261124T090000Z
+DTEND:20261124T110000Z
+SUMMARY:Le vivant hors d’équilibre
+LOCATION:Amphithéâtre Guillaume-Budé\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Thomas Lecuit\nCycle : Bioénergétique et métabolisme\nLien : https://www.college-de-france.fr/fr/agenda/cours/bioenergetique-et-metabolisme/le-vivant-hors-equilibre
+URL:https://www.college-de-france.fr/fr/agenda/cours/bioenergetique-et-metabolisme/le-vivant-hors-equilibre
+END:VEVENT
+BEGIN:VEVENT
+UID:0fd313e26df84901b708f4907930c89b@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261124T130000Z
+DTEND:20261124T150000Z
+SUMMARY:Les nouvelles idées sont-elles plus difficiles à trouver ?(6)
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Philippe Aghion\nCycle : Les nouvelles idées sont-elles plus difficiles à trouver ?\nInfo : Forte affluence\nLien : https://www.college-de-france.fr/fr/agenda/cours/les-nouvelles-idees-sont-elles-plus-difficiles-trouver/les-nouvelles-idees-sont-elles-plus-difficiles-trouver-6
+URL:https://www.college-de-france.fr/fr/agenda/cours/les-nouvelles-idees-sont-elles-plus-difficiles-trouver/les-nouvelles-idees-sont-elles-plus-difficiles-trouver-6
+END:VEVENT
+BEGIN:VEVENT
+UID:9665226691f421c78c4d6e19b49f3875@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261124T133000Z
+DTEND:20261124T150000Z
+SUMMARY:Stress oxydant et réponse thérapeutique (3)(3)
+LOCATION:Amphithéâtre Guillaume-Budé\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Hugues de Thé\nCycle : Stress oxydant et réponse thérapeutique (3)\nLien : https://www.college-de-france.fr/fr/agenda/cours/stress-oxydant-et-reponse-therapeutique-3/stress-oxydant-et-reponse-therapeutique-3-3
+URL:https://www.college-de-france.fr/fr/agenda/cours/stress-oxydant-et-reponse-therapeutique-3/stress-oxydant-et-reponse-therapeutique-3-3
+END:VEVENT
+BEGIN:VEVENT
+UID:9e17573883a17d52f23755979aafe37c@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261124T163000Z
+DTEND:20261124T180000Z
+SUMMARY:Travailler avec Foucault : les séminaires du Collège
+LOCATION:Amphithéâtre Maurice-Halbwachs\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Grand événement\nIntervenant : Pasquale Pasquino & Carolina Verlengia\nCycle : Michel Foucault au Collège de France\nLien : https://www.college-de-france.fr/fr/agenda/grand-evenement/michel-foucault-au-college-de-france/travailler-avec-foucault-les-seminaires-du-college
+URL:https://www.college-de-france.fr/fr/agenda/grand-evenement/michel-foucault-au-college-de-france/travailler-avec-foucault-les-seminaires-du-college
+END:VEVENT
+BEGIN:VEVENT
+UID:30f06cecfb1f4e8beee0140ca9b2f202@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261125T090000Z
+DTEND:20261125T110000Z
+SUMMARY:La question de la Palestine au XXIesiècle(3)
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Henry Laurens\nCycle : La question de la Palestine au XXIe siècle\nInfo : Forte affluence\nLien : https://www.college-de-france.fr/fr/agenda/cours/la-question-de-la-palestine-au-xxie-siecle/la-question-de-la-palestine-au-xxie-siecle-3
+URL:https://www.college-de-france.fr/fr/agenda/cours/la-question-de-la-palestine-au-xxie-siecle/la-question-de-la-palestine-au-xxie-siecle-3
+END:VEVENT
+BEGIN:VEVENT
+UID:e80cbfb14f9c54423b9f43ca1cbefaac@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261125T100000Z
+DTEND:20261125T113000Z
+SUMMARY:Les ouchebtis des Divines Adoratrices et la question de leur lieu d’inhumation
+LOCATION:Amphithéâtre Guillaume-Budé\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Séminaire\nIntervenant : Raphaële Meffre\nCycle : Autour des « Épouses du dieu » en Égypte ancienne : recherches récentes et éléments de comparaison\nLien : https://www.college-de-france.fr/fr/agenda/seminaire/autour-des-epouses-du-dieu-en-egypte-ancienne-recherches-recentes-et-elements-de-comparaison/les-ouchebtis-des-divines-adoratrices-et-la-question-de-leur-lieu-inhumation
+URL:https://www.college-de-france.fr/fr/agenda/seminaire/autour-des-epouses-du-dieu-en-egypte-ancienne-recherches-recentes-et-elements-de-comparaison/les-ouchebtis-des-divines-adoratrices-et-la-question-de-leur-lieu-inhumation
+END:VEVENT
+BEGIN:VEVENT
+UID:9fb1a7ebb73cf2d2422f46224206ef4e@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261125T154500Z
+DTEND:20261125T174500Z
+SUMMARY:La formation des planètes telluriques II : nouveaux modèles
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Alessandro Morbidelli\nCycle : La formation des planètes telluriques\nLien : https://www.college-de-france.fr/fr/agenda/cours/la-formation-des-planetes-telluriques/la-formation-des-planetes-telluriques-ii-nouveaux-modeles
+URL:https://www.college-de-france.fr/fr/agenda/cours/la-formation-des-planetes-telluriques/la-formation-des-planetes-telluriques-ii-nouveaux-modeles
+END:VEVENT
+BEGIN:VEVENT
+UID:b577584426edb36e616f0549786a3140@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261126T083000Z
+DTEND:20261126T100000Z
+SUMMARY:Bisimulations 2
+LOCATION:Amphithéâtre Mireille-Delmas-Marty\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Xavier Leroy\nCycle : Équivalences de programmes\nLien : https://www.college-de-france.fr/fr/agenda/cours/equivalences-de-programmes/bisimulations-2
+URL:https://www.college-de-france.fr/fr/agenda/cours/equivalences-de-programmes/bisimulations-2
+END:VEVENT
+BEGIN:VEVENT
+UID:8485ba6693bf674b57963db16b1d2191@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261126T100000Z
+DTEND:20261126T110000Z
+SUMMARY:Retour vers le Dao : entre empire et emprise(3)
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Anne Cheng\nCycle : Retour vers le Dao : entre empire et emprise\nLien : https://www.college-de-france.fr/fr/agenda/cours/retour-vers-le-dao-entre-empire-et-emprise/retour-vers-le-dao-entre-empire-et-emprise-3
+URL:https://www.college-de-france.fr/fr/agenda/cours/retour-vers-le-dao-entre-empire-et-emprise/retour-vers-le-dao-entre-empire-et-emprise-3
+END:VEVENT
+BEGIN:VEVENT
+UID:e63a4fe82678019221855fb30798998e@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261126T101500Z
+DTEND:20261126T111500Z
+SUMMARY:Théorèmes de point fixe et coinduction sans coinduction
+LOCATION:Amphithéâtre Mireille-Delmas-Marty\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Séminaire\nIntervenant : Damien Pous\nCycle : Équivalences de programmes\nLien : https://www.college-de-france.fr/fr/agenda/seminaire/equivalences-de-programmes/theoremes-de-point-fixe-et-coinduction-sans-coinduction
+URL:https://www.college-de-france.fr/fr/agenda/seminaire/equivalences-de-programmes/theoremes-de-point-fixe-et-coinduction-sans-coinduction
+END:VEVENT
+BEGIN:VEVENT
+UID:db9b8b5e404d6e6f595e1c877602e737@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261126T130000Z
+DTEND:20261126T140000Z
+SUMMARY:The Future of the Chemical Industry: Beyond Fossil Hydrocarbons
+LOCATION:Amphithéâtre Mireille-Delmas-Marty\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Conférencier invité\nIntervenant : Troels Skrydstrup\nCycle : Contributions to a Sustainable Chemical Industry\nLien : https://www.college-de-france.fr/fr/agenda/conferencier-invite/contributions-to-sustainable-chemical-industry/the-future-of-the-chemical-industry-beyond-fossil-hydrocarbons
+URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/contributions-to-sustainable-chemical-industry/the-future-of-the-chemical-industry-beyond-fossil-hydrocarbons
+END:VEVENT
+BEGIN:VEVENT
+UID:a1965e62a89fbf3b2ece396be34d4b86@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261127T083000Z
+DTEND:20261127T100000Z
+SUMMARY:Biogenèse et biologie du globule rouge et pathologies associées(3)
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Olivier Hermine\nCycle : Biogenèse et biologie du globule rouge et pathologies associées\nLien : https://www.college-de-france.fr/fr/agenda/cours/biogenese-et-biologie-du-globule-rouge-et-pathologies-associees/biogenese-et-biologie-du-globule-rouge-et-pathologies-associees-3
+URL:https://www.college-de-france.fr/fr/agenda/cours/biogenese-et-biologie-du-globule-rouge-et-pathologies-associees/biogenese-et-biologie-du-globule-rouge-et-pathologies-associees-3
+END:VEVENT
+BEGIN:VEVENT
+UID:56b6be2ae0666ada994c7ef270a4e4a4@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261127T100000Z
+DTEND:20261127T110000Z
+SUMMARY:Géants technologiques mondiaux et privatisation du droit
+LOCATION:Salle 2\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Conférencier invité\nIntervenant : Vincent Martenet\nLien : https://www.college-de-france.fr/fr/agenda/conferencier-invite/vincent-martenet/geants-technologiques-mondiaux-et-privatisation-du-droit
+URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/vincent-martenet/geants-technologiques-mondiaux-et-privatisation-du-droit
+END:VEVENT
+BEGIN:VEVENT
+UID:20890217f5987c32655c56c40077743e@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261127T130000Z
+DTEND:20261127T150000Z
+SUMMARY:Les arts au défi des sciences sociales (suite)(4)
+LOCATION:Amphithéâtre Maurice-Halbwachs\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Pierre-Michel Menger\nCycle : Les arts au défi des sciences sociales (suite)\nLien : https://www.college-de-france.fr/fr/agenda/cours/les-arts-au-defi-des-sciences-sociales-suite/les-arts-au-defi-des-sciences-sociales-suite-4
+URL:https://www.college-de-france.fr/fr/agenda/cours/les-arts-au-defi-des-sciences-sociales-suite/les-arts-au-defi-des-sciences-sociales-suite-4
+END:VEVENT
+BEGIN:VEVENT
+UID:4997ea3cfeea796b591687f73c3ff71c@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261130T093000Z
+DTEND:20261130T110000Z
+SUMMARY:Concepts et modes de présentation(4)
+LOCATION:Amphithéâtre Maurice-Halbwachs\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : François Recanati\nCycle : Concepts et modes de présentation\nLien : https://www.college-de-france.fr/fr/agenda/cours/concepts-et-modes-de-presentation/concepts-et-modes-de-presentation-4
+URL:https://www.college-de-france.fr/fr/agenda/cours/concepts-et-modes-de-presentation/concepts-et-modes-de-presentation-4
+END:VEVENT
+BEGIN:VEVENT
+UID:830305b563c07d1224f16a6b3591ce03@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261130T093000Z
+DTEND:20261130T113000Z
+SUMMARY:Lecture de textes en lien avec le cours(5)
+LOCATION:Institut des Civilisations - Salle Françoise-Héritier
+DESCRIPTION:Type : Séminaire\nIntervenant : Dominique Charpin\nCycle : Lecture de textes en lien avec le cours\nLien : https://www.college-de-france.fr/fr/agenda/seminaire/lecture-de-textes-en-lien-avec-le-cours/lecture-de-textes-en-lien-avec-le-cours-5
+URL:https://www.college-de-france.fr/fr/agenda/seminaire/lecture-de-textes-en-lien-avec-le-cours/lecture-de-textes-en-lien-avec-le-cours-5
+END:VEVENT
+BEGIN:VEVENT
+UID:0c61e734fae39ef474a39ca40184ec29@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261130T100000Z
+DTEND:20261130T113000Z
+SUMMARY:Les « Épouses du dieu » à Thèbes(7)
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Laurent Coulon\nCycle : Les « Épouses du dieu » à Thèbes\nLien : https://www.college-de-france.fr/fr/agenda/cours/les-epouses-du-dieu-thebes/les-epouses-du-dieu-thebes-7
+URL:https://www.college-de-france.fr/fr/agenda/cours/les-epouses-du-dieu-thebes/les-epouses-du-dieu-thebes-7
+END:VEVENT
+BEGIN:VEVENT
+UID:2c9393355211db0997f2a474c1ece353@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261130T140000Z
+DTEND:20261130T160000Z
+SUMMARY:Chester Himes\, William Faulkner\,La boucle du Nigerde Paul Bowles et de Miquel Barceló.Peau noire\, masques blancsde Frantz Fanon
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Claire Denis\nCycle : Sortir de cette chambre à moi\, chanceler\, chavirer\nLien : https://www.college-de-france.fr/fr/agenda/cours/sortir-de-cette-chambre-moi-chanceler-chavirer/chester-himes-william-faulkner-la-boucle-du-niger-de-paul-bowles-et-de-miquel-barcelo-peau-noire
+URL:https://www.college-de-france.fr/fr/agenda/cours/sortir-de-cette-chambre-moi-chanceler-chavirer/chester-himes-william-faulkner-la-boucle-du-niger-de-paul-bowles-et-de-miquel-barcelo-peau-noire
+END:VEVENT
+BEGIN:VEVENT
+UID:b9515d0a584226a91c94040104c6777a@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261130T150000Z
+DTEND:20261130T163000Z
+SUMMARY:Thermodynamique du métabolisme
+LOCATION:Amphithéâtre Guillaume-Budé\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Jean-François Joanny\nCycle : Bioénergétique et métabolisme\nLien : https://www.college-de-france.fr/fr/agenda/cours/bioenergetique-et-metabolisme/thermodynamique-du-metabolisme
+URL:https://www.college-de-france.fr/fr/agenda/cours/bioenergetique-et-metabolisme/thermodynamique-du-metabolisme
+END:VEVENT
+BEGIN:VEVENT
+UID:bf69eea7eeddd8139c7a247486fe377d@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261201T090000Z
+DTEND:20261201T110000Z
+SUMMARY:Voies métaboliques : principes et régulation
+LOCATION:Amphithéâtre Guillaume-Budé\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Thomas Lecuit\nCycle : Bioénergétique et métabolisme\nLien : https://www.college-de-france.fr/fr/agenda/cours/bioenergetique-et-metabolisme/voies-metaboliques-principes-et-regulation
+URL:https://www.college-de-france.fr/fr/agenda/cours/bioenergetique-et-metabolisme/voies-metaboliques-principes-et-regulation
+END:VEVENT
+BEGIN:VEVENT
+UID:399dc26de8e739fb2a77b69ef3833fec@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261201T133000Z
+DTEND:20261201T150000Z
+SUMMARY:Stress oxydant et réponse thérapeutique (3)(4)
+LOCATION:Amphithéâtre Maurice-Halbwachs\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Hugues de Thé\nCycle : Stress oxydant et réponse thérapeutique (3)\nLien : https://www.college-de-france.fr/fr/agenda/cours/stress-oxydant-et-reponse-therapeutique-3/stress-oxydant-et-reponse-therapeutique-3-4
+URL:https://www.college-de-france.fr/fr/agenda/cours/stress-oxydant-et-reponse-therapeutique-3/stress-oxydant-et-reponse-therapeutique-3-4
+END:VEVENT
+BEGIN:VEVENT
+UID:94d26375eaad1e83456a9560a057f8a3@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261202T090000Z
+DTEND:20261202T110000Z
+SUMMARY:La question de la Palestine au XXIesiècle(4)
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Henry Laurens\nCycle : La question de la Palestine au XXIe siècle\nInfo : Forte affluence\nLien : https://www.college-de-france.fr/fr/agenda/cours/la-question-de-la-palestine-au-xxie-siecle/la-question-de-la-palestine-au-xxie-siecle-4
+URL:https://www.college-de-france.fr/fr/agenda/cours/la-question-de-la-palestine-au-xxie-siecle/la-question-de-la-palestine-au-xxie-siecle-4
+END:VEVENT
+BEGIN:VEVENT
+UID:1049e58fd0f0adb1d496df7669d02beb@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261202T100000Z
+DTEND:20261202T113000Z
+SUMMARY:Les sarcophages des épouses du dieu et de leurs plus hauts fonctionnaires. L’évolution de leur décoration sous les aspects régionaux\, sociaux et chronologiques
+LOCATION:Amphithéâtre Guillaume-Budé\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Séminaire\nIntervenant : Mareike Wagner\nCycle : Autour des « Épouses du dieu » en Égypte ancienne : recherches récentes et éléments de comparaison\nLien : https://www.college-de-france.fr/fr/agenda/seminaire/autour-des-epouses-du-dieu-en-egypte-ancienne-recherches-recentes-et-elements-de-comparaison/les-sarcophages-des-epouses-du-dieu-et-de-leurs-plus-hauts-fonctionnaires-evolution-de-leur
+URL:https://www.college-de-france.fr/fr/agenda/seminaire/autour-des-epouses-du-dieu-en-egypte-ancienne-recherches-recentes-et-elements-de-comparaison/les-sarcophages-des-epouses-du-dieu-et-de-leurs-plus-hauts-fonctionnaires-evolution-de-leur
+END:VEVENT
+BEGIN:VEVENT
+UID:71a6cac340fc8f8b87eeb317896db9ae@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261202T154500Z
+DTEND:20261202T174500Z
+SUMMARY:Focus sur Mercure \; le modèle alternatif de lapebble accretion
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Alessandro Morbidelli\nCycle : La formation des planètes telluriques\nLien : https://www.college-de-france.fr/fr/agenda/cours/la-formation-des-planetes-telluriques/focus-sur-mercure-le-modele-alternatif-de-la-pebble-accretion
+URL:https://www.college-de-france.fr/fr/agenda/cours/la-formation-des-planetes-telluriques/focus-sur-mercure-le-modele-alternatif-de-la-pebble-accretion
+END:VEVENT
+BEGIN:VEVENT
+UID:a95f794daa5c4978ca4a7bcdb18429b9@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261203T083000Z
+DTEND:20261203T100000Z
+SUMMARY:Relations logiques 1
+LOCATION:Amphithéâtre Mireille-Delmas-Marty\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Xavier Leroy\nCycle : Équivalences de programmes\nLien : https://www.college-de-france.fr/fr/agenda/cours/equivalences-de-programmes/relations-logiques-1
+URL:https://www.college-de-france.fr/fr/agenda/cours/equivalences-de-programmes/relations-logiques-1
+END:VEVENT
+BEGIN:VEVENT
+UID:71ab5463ff6f2250bac40e8c91cb7d51@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261203T100000Z
+DTEND:20261203T110000Z
+SUMMARY:Retour vers le Dao : entre empire et emprise(4)
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Anne Cheng\nCycle : Retour vers le Dao : entre empire et emprise\nLien : https://www.college-de-france.fr/fr/agenda/cours/retour-vers-le-dao-entre-empire-et-emprise/retour-vers-le-dao-entre-empire-et-emprise-4
+URL:https://www.college-de-france.fr/fr/agenda/cours/retour-vers-le-dao-entre-empire-et-emprise/retour-vers-le-dao-entre-empire-et-emprise-4
+END:VEVENT
+BEGIN:VEVENT
+UID:676ac835fa5708fe692fbcf171b77603@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261203T101500Z
+DTEND:20261203T111500Z
+SUMMARY:Logique relationnelle probabiliste et ses applications à la cryptographie
+LOCATION:Amphithéâtre Mireille-Delmas-Marty\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Séminaire\nIntervenant : Benjamin Grégoire\nCycle : Équivalences de programmes\nLien : https://www.college-de-france.fr/fr/agenda/seminaire/equivalences-de-programmes/logique-relationnelle-probabiliste-et-ses-applications-la-cryptographie
+URL:https://www.college-de-france.fr/fr/agenda/seminaire/equivalences-de-programmes/logique-relationnelle-probabiliste-et-ses-applications-la-cryptographie
+END:VEVENT
+BEGIN:VEVENT
+UID:853c835b65cf98512a389b0431ec1ab7@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261203T130000Z
+DTEND:20261203T140000Z
+SUMMARY:Carbon Isotope Labeling: A necessity for Pharmaceutical Development
+LOCATION:Amphithéâtre Mireille-Delmas-Marty\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Conférencier invité\nIntervenant : Troels Skrydstrup\nCycle : Contributions to a Sustainable Chemical Industry\nLien : https://www.college-de-france.fr/fr/agenda/conferencier-invite/contributions-to-sustainable-chemical-industry/carbon-isotope-labeling-necessity-for-pharmaceutical-development
+URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/contributions-to-sustainable-chemical-industry/carbon-isotope-labeling-necessity-for-pharmaceutical-development
+END:VEVENT
+BEGIN:VEVENT
+UID:8c516e82415ad326216137ee2ac0229a@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261203T170000Z
+DTEND:20261203T180000Z
+SUMMARY:Microbiologie planétaire
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Leçon inaugurale\nIntervenant : Tâm Mignot\nLien : https://www.college-de-france.fr/fr/agenda/lecon-inaugurale/microbiologie-planetaire/microbiologie-planetaire
+URL:https://www.college-de-france.fr/fr/agenda/lecon-inaugurale/microbiologie-planetaire/microbiologie-planetaire
+END:VEVENT
+BEGIN:VEVENT
+UID:3fb34d05f4a4c00bb0e2900bd23d2e5d@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261204T083000Z
+DTEND:20261204T100000Z
+SUMMARY:Biogenèse et biologie du globule rouge et pathologies associées(4)
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Olivier Hermine\nCycle : Biogenèse et biologie du globule rouge et pathologies associées\nLien : https://www.college-de-france.fr/fr/agenda/cours/biogenese-et-biologie-du-globule-rouge-et-pathologies-associees/biogenese-et-biologie-du-globule-rouge-et-pathologies-associees-4
+URL:https://www.college-de-france.fr/fr/agenda/cours/biogenese-et-biologie-du-globule-rouge-et-pathologies-associees/biogenese-et-biologie-du-globule-rouge-et-pathologies-associees-4
+END:VEVENT
+BEGIN:VEVENT
+UID:647f49cec02a7bea14c5c0929f03ca6f@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261207T093000Z
+DTEND:20261207T110000Z
+SUMMARY:Concepts et modes de présentation(5)
+LOCATION:Amphithéâtre Maurice-Halbwachs\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : François Recanati\nCycle : Concepts et modes de présentation\nLien : https://www.college-de-france.fr/fr/agenda/cours/concepts-et-modes-de-presentation/concepts-et-modes-de-presentation-5
+URL:https://www.college-de-france.fr/fr/agenda/cours/concepts-et-modes-de-presentation/concepts-et-modes-de-presentation-5
+END:VEVENT
+BEGIN:VEVENT
+UID:685a03a044ecb492cf74df3c4e98d4d0@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261207T093000Z
+DTEND:20261207T113000Z
+SUMMARY:Lecture de textes en lien avec le cours(6)
+LOCATION:Institut des Civilisations - Salle Françoise-Héritier
+DESCRIPTION:Type : Séminaire\nIntervenant : Dominique Charpin\nCycle : Lecture de textes en lien avec le cours\nLien : https://www.college-de-france.fr/fr/agenda/seminaire/lecture-de-textes-en-lien-avec-le-cours/lecture-de-textes-en-lien-avec-le-cours-6
+URL:https://www.college-de-france.fr/fr/agenda/seminaire/lecture-de-textes-en-lien-avec-le-cours/lecture-de-textes-en-lien-avec-le-cours-6
+END:VEVENT
+BEGIN:VEVENT
+UID:afe6081f2bb14fb9ef75724030a88c9e@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261207T140000Z
+DTEND:20261207T160000Z
+SUMMARY:Écrire\, tourner\, monter
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Claire Denis\nCycle : Sortir de cette chambre à moi\, chanceler\, chavirer\nLien : https://www.college-de-france.fr/fr/agenda/cours/sortir-de-cette-chambre-moi-chanceler-chavirer/ecrire-tourner-monter
+URL:https://www.college-de-france.fr/fr/agenda/cours/sortir-de-cette-chambre-moi-chanceler-chavirer/ecrire-tourner-monter
+END:VEVENT
+BEGIN:VEVENT
+UID:fd2444aa88f3125c4a86a56286b42ce6@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261207T150000Z
+DTEND:20261207T163000Z
+SUMMARY:Lois d'échelle métaboliques. Loi de Kleiber
+LOCATION:Amphithéâtre Mireille-Delmas-Marty\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Jean-François Joanny\nCycle : Bioénergétique et métabolisme\nLien : https://www.college-de-france.fr/fr/agenda/cours/bioenergetique-et-metabolisme/lois-echelle-metaboliques-loi-de-kleiber
+URL:https://www.college-de-france.fr/fr/agenda/cours/bioenergetique-et-metabolisme/lois-echelle-metaboliques-loi-de-kleiber
+END:VEVENT
+BEGIN:VEVENT
+UID:8d3dd6711a7c078c82ef1a75dca76571@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261208T090000Z
+DTEND:20261208T110000Z
+SUMMARY:Budget énergétique cellulaire et de l'organisme
+LOCATION:Amphithéâtre Guillaume-Budé\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Thomas Lecuit\nCycle : Bioénergétique et métabolisme\nLien : https://www.college-de-france.fr/fr/agenda/cours/bioenergetique-et-metabolisme/budget-energetique-cellulaire-et-de-organisme
+URL:https://www.college-de-france.fr/fr/agenda/cours/bioenergetique-et-metabolisme/budget-energetique-cellulaire-et-de-organisme
+END:VEVENT
+BEGIN:VEVENT
+UID:3104adf19c32fad6584aa3b033011534@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261209T090000Z
+DTEND:20261209T110000Z
+SUMMARY:La question de la Palestine au XXIesiècle(5)
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Henry Laurens\nCycle : La question de la Palestine au XXIe siècle\nInfo : Forte affluence\nLien : https://www.college-de-france.fr/fr/agenda/cours/la-question-de-la-palestine-au-xxie-siecle/la-question-de-la-palestine-au-xxie-siecle-5
+URL:https://www.college-de-france.fr/fr/agenda/cours/la-question-de-la-palestine-au-xxie-siecle/la-question-de-la-palestine-au-xxie-siecle-5
+END:VEVENT
+BEGIN:VEVENT
+UID:ca3eeed013356b21ed9fb4a7c658d35a@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261209T100000Z
+DTEND:20261209T113000Z
+SUMMARY:Les réseaux de pouvoir de reines\, princesses et prêtresses de l’Ancien au Nouvel Empire
+LOCATION:Amphithéâtre Guillaume-Budé\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Séminaire\nIntervenant : Émilie Martinet\nCycle : Autour des « Épouses du dieu » en Égypte ancienne : recherches récentes et éléments de comparaison\nLien : https://www.college-de-france.fr/fr/agenda/seminaire/autour-des-epouses-du-dieu-en-egypte-ancienne-recherches-recentes-et-elements-de-comparaison/les-reseaux-de-pouvoir-de-reines-princesses-et-pretresses-de-ancien-au-nouvel-empire
+URL:https://www.college-de-france.fr/fr/agenda/seminaire/autour-des-epouses-du-dieu-en-egypte-ancienne-recherches-recentes-et-elements-de-comparaison/les-reseaux-de-pouvoir-de-reines-princesses-et-pretresses-de-ancien-au-nouvel-empire
+END:VEVENT
+BEGIN:VEVENT
+UID:6e1a1cfda782c8fde3d58780502db61b@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261209T133000Z
+DTEND:20261209T150000Z
+SUMMARY:Prêtresses et femmes consacrées dans la Babylonie du IIemillénaire
+LOCATION:Amphithéâtre Guillaume-Budé\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Séminaire\nIntervenant : Lucile Barberon\nCycle : Autour des « Épouses du dieu » en Égypte ancienne : recherches récentes et éléments de comparaison\nLien : https://www.college-de-france.fr/fr/agenda/seminaire/autour-des-epouses-du-dieu-en-egypte-ancienne-recherches-recentes-et-elements-de-comparaison/pretresses-et-femmes-consacrees-dans-la-babylonie-du-iie-millenaire
+URL:https://www.college-de-france.fr/fr/agenda/seminaire/autour-des-epouses-du-dieu-en-egypte-ancienne-recherches-recentes-et-elements-de-comparaison/pretresses-et-femmes-consacrees-dans-la-babylonie-du-iie-millenaire
+END:VEVENT
+BEGIN:VEVENT
+UID:1d41eb69bb603d1b1f20bbf7931c8a06@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261210T083000Z
+DTEND:20261210T100000Z
+SUMMARY:Relations logiques 2
+LOCATION:Amphithéâtre Mireille-Delmas-Marty\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Xavier Leroy\nCycle : Équivalences de programmes\nLien : https://www.college-de-france.fr/fr/agenda/cours/equivalences-de-programmes/relations-logiques-2
+URL:https://www.college-de-france.fr/fr/agenda/cours/equivalences-de-programmes/relations-logiques-2
+END:VEVENT
+BEGIN:VEVENT
+UID:99e22636a5dccb81f5e642d962663c92@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261210T100000Z
+DTEND:20261210T110000Z
+SUMMARY:Retour vers le Dao : entre empire et emprise(5)
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Anne Cheng\nCycle : Retour vers le Dao : entre empire et emprise\nLien : https://www.college-de-france.fr/fr/agenda/cours/retour-vers-le-dao-entre-empire-et-emprise/retour-vers-le-dao-entre-empire-et-emprise-5
+URL:https://www.college-de-france.fr/fr/agenda/cours/retour-vers-le-dao-entre-empire-et-emprise/retour-vers-le-dao-entre-empire-et-emprise-5
+END:VEVENT
+BEGIN:VEVENT
+UID:2474b057d941988c0b3f33189114c48e@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261210T101500Z
+DTEND:20261210T111500Z
+SUMMARY:La sémantique de l'allocation dynamique : des noms frais aux faisceaux
+LOCATION:Amphithéâtre Mireille-Delmas-Marty\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Séminaire\nIntervenant : Guilhème Jaber\nCycle : Équivalences de programmes\nLien : https://www.college-de-france.fr/fr/agenda/seminaire/equivalences-de-programmes/la-semantique-de-allocation-dynamique-des-noms-frais-aux-faisceaux
+URL:https://www.college-de-france.fr/fr/agenda/seminaire/equivalences-de-programmes/la-semantique-de-allocation-dynamique-des-noms-frais-aux-faisceaux
+END:VEVENT
+BEGIN:VEVENT
+UID:797a54b3a692b4118b2c524740bd5b6d@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261210T130000Z
+DTEND:20261210T143000Z
+SUMMARY:La matière noire de la biodiversité et l’arbre du vivant
+LOCATION:Amphithéâtre Maurice-Halbwachs\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Tâm Mignot\nCycle : La nouvelle microbiologie : de la molécule aux écosystèmes\nLien : https://www.college-de-france.fr/fr/agenda/cours/la-nouvelle-microbiologie-de-la-molecule-aux-ecosystemes/la-matiere-noire-de-la-biodiversite-et-arbre-du-vivant
+URL:https://www.college-de-france.fr/fr/agenda/cours/la-nouvelle-microbiologie-de-la-molecule-aux-ecosystemes/la-matiere-noire-de-la-biodiversite-et-arbre-du-vivant
+END:VEVENT
+BEGIN:VEVENT
+UID:cd20b21433d38efd49b3d93f40727537@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261210T170000Z
+DTEND:20261210T180000Z
+SUMMARY:Société juste\, société heureuse
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Leçon inaugurale\nIntervenant : Marc Fleurbaey\nLien : https://www.college-de-france.fr/fr/agenda/lecon-inaugurale/societe-juste-societe-heureuse/societe-juste-societe-heureuse
+URL:https://www.college-de-france.fr/fr/agenda/lecon-inaugurale/societe-juste-societe-heureuse/societe-juste-societe-heureuse
+END:VEVENT
+BEGIN:VEVENT
+UID:7a25db4eb3041fcfd5a1a5dcadac7f2b@conferences
+DTSTAMP:20261007T001205Z
+DTSTART:20261214T093000Z
+DTEND:20261214T110000Z
+SUMMARY:Concepts et modes de présentation(6)
+LOCATION:Amphithéâtre Maurice-Halbwachs\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : François Recanati\nCycle : Concepts et modes de présentation\nLien : https://www.college-de-france.fr/fr/agenda/cours/concepts-et-modes-de-presentation/concepts-et-modes-de-presentation-6
+URL:https://www.college-de-france.fr/fr/agenda/cours/concepts-et-modes-de-presentation/concepts-et-modes-de-presentation-6
+END:VEVENT
+END:VCALENDAR

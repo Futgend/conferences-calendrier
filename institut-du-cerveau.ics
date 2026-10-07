@@ -1,0 +1,169 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendrier-conferences//FR
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Conférences Institut du Cerveau
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:28958e499168ff0d9a305cd4429c6182@conferences
+DTSTAMP:20261007T014450Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261008
+SUMMARY:Neurepiomics 2026
+LOCATION:
+DESCRIPTION:Catégorie : Événements scientifiques\nLieu : à l'extérieur de l'Institut (voir la page)\nNeurepiomics est une école d'été et un atelier multidisciplinaires et internationaux consacrés à l'avancement de la recherche de pointe en neuroépidémiologie à l'ère Omics.\nLien : https://institutducerveau.org/agenda/neurepiomics-2026
+URL:https://institutducerveau.org/agenda/neurepiomics-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:01ee74dbdbf417197cbb6c386dac8501@conferences
+DTSTAMP:20261007T014450Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261010
+SUMMARY:Formation pratique intensive sur la stimulation cérébrale non invasive destinée aux scientifiques et aux cliniciens-chercheurs
+LOCATION:Institut du Cerveau
+DESCRIPTION:Catégorie : Événements scientifiques\nCette formation intensive de trois jours offre une introduction complète aux principes\, aux technologies et aux applications de la stimulation cérébrale non invasive (NIBS). Elle s'adresse à un groupe restreint et diversifié de 20 chercheurs\, allant d'étudiants en master et de doctorants à des chercheurs postdoctoraux\, en passant par des cliniciens-chercheurs et de jeunes responsables de projet\, réunissant ainsi des parcours scientifiques\, des étapes de carrière et des perspectives complémentaires dans le domaine de la NIBS.\nLien : https://institutducerveau.org/agenda/formation-pratique-intensive-sur-stimulation-cerebrale-non-invasive-destinee-aux-scientifiques-et-aux-cliniciens-chercheurs
+URL:https://institutducerveau.org/agenda/formation-pratique-intensive-sur-stimulation-cerebrale-non-invasive-destinee-aux-scientifiques-et-aux-cliniciens-chercheurs
+END:VEVENT
+BEGIN:VEVENT
+UID:ac1e65185cfb5d3e8f5851f21e00ac65@conferences
+DTSTAMP:20261007T014450Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:3e symposium: sur le lien entre la physique et le métabolisme dans les fonctions cérébrales
+LOCATION:
+DESCRIPTION:Catégorie : Événements scientifiques\nLieu : à l'extérieur de l'Institut (voir la page)\nDans le cadre d'une initiative conjointe entre l'hôpital pour enfants Sant Joan de Déu de Barcelone et l'Institut du Cerveau\, les Drs A. Garcia-Cazorla et Fanny Mochel vous invitent à Barcelone une ville qui a\, au cours des dernières décennies\, consolidé sa position comme l'un des pôles les plus dynamiques et dynamiques d'Europe pour la science et la santé.\nLien : https://institutducerveau.org/agenda/3e-symposium-sur-lien-entre-physique-et-metabolisme-dans-fonctions-cerebrales
+URL:https://institutducerveau.org/agenda/3e-symposium-sur-lien-entre-physique-et-metabolisme-dans-fonctions-cerebrales
+END:VEVENT
+BEGIN:VEVENT
+UID:d9f149e58c598fbeea47b819513c1b3c@conferences
+DTSTAMP:20261007T014450Z
+DTSTART:20261012T090000Z
+DTEND:20261012T100000Z
+SUMMARY:Conférences scientifiques : Juliette GODIN (en anglais)
+LOCATION:Institut du Cerveau
+DESCRIPTION:Catégorie : Événements scientifiques\nSpeaker : Juliette GODIN\, Team Leader At Igbmc Institute Of Genetics And Molecular And Cellular Biology"Trnas : les architectes du développement cérébral"\nLien : https://institutducerveau.org/agenda/conferences-scientifiques-juliette-godin-en-anglais
+URL:https://institutducerveau.org/agenda/conferences-scientifiques-juliette-godin-en-anglais
+END:VEVENT
+BEGIN:VEVENT
+UID:6a4100dedc6eadba86718bce88f8d331@conferences
+DTSTAMP:20261007T014450Z
+DTSTART:20261012T163000Z
+DTEND:20261012T173000Z
+SUMMARY:Network Neuroscience : comprendre le cerveau comme un réseau social
+LOCATION:Institut du Cerveau
+DESCRIPTION:Catégorie : Rendez-vous de l'Institut du Cerveau\nEt si notre cerveau fonctionnait comme un immense réseau social ? Cette conférence nous emmène au cœur de cette comparaison surprenante.\nLien : https://institutducerveau.org/agenda/network-neuroscience-comprendre-cerveau-comme-reseau-social
+URL:https://institutducerveau.org/agenda/network-neuroscience-comprendre-cerveau-comme-reseau-social
+END:VEVENT
+BEGIN:VEVENT
+UID:8b991f3046652c47441ee5821ed5dd64@conferences
+DTSTAMP:20261007T014450Z
+DTSTART:20261015T160000Z
+DTEND:20261015T170000Z
+SUMMARY:A quoi donc sert la conscience ?
+LOCATION:Institut du Cerveau
+DESCRIPTION:Catégorie : Conférences Sciences\, art et culture\nAussi à distance\nJeudi 15 octobre avec Stéphane CHARPIER\, professeur de neurosciences à Sorbonne Université et directeur de recherches à l’Institut du Cerveau. Il est l’auteur du Cauchemar de Descartes\, publié chez Albin Michel en 2025.\nLien : https://institutducerveau.org/agenda/quoi-donc-sert-conscience
+URL:https://institutducerveau.org/agenda/quoi-donc-sert-conscience
+END:VEVENT
+BEGIN:VEVENT
+UID:7c42adad9818a3b114083f653eaafdd1@conferences
+DTSTAMP:20261007T014450Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261022
+SUMMARY:Experimental and Computational Advances on APP and Amyloid-β Research
+LOCATION:Institut du Cerveau
+DESCRIPTION:Catégorie : Événements scientifiques\nL’atelier intitulé “Progrès expérimentaux et computationnels sur la recherche sur l’amyloïde et le β-amyloïde” réunira des experts de renom pour aborder un défi central dans la recherche sur la maladie d’Alzheimer (MA): comprendre la structure\, l’agrégation et l’impact biologique des espèces d’amyloïdes-β (Aβ) et leur relation avec la protéine précurseur amyloïde (APP).\nLien : https://institutducerveau.org/agenda/experimental-and-computational-advances-app-and-amyloid-b-research
+URL:https://institutducerveau.org/agenda/experimental-and-computational-advances-app-and-amyloid-b-research
+END:VEVENT
+BEGIN:VEVENT
+UID:2cdf3ef5d1bb3c3b27d836a0bea645aa@conferences
+DTSTAMP:20261007T014450Z
+DTSTART:20261102T100000Z
+DTEND:20261102T110000Z
+SUMMARY:Conférences scientifiques : Ana FRANCHESCHI (en anglais)
+LOCATION:Institut du Cerveau
+DESCRIPTION:Catégorie : Événements scientifiques\nSpeaker : Ana FRANCHESCHI\, Director of Dementia Imaging and Director of Molecular Neuroimaging at Barbara and Donald Zucker School of Medicine at Hofstra/Northwell"La TEP à l'amyloïde et à la protéine TAU à l'ère des traitements modificateurs de la maladie"\nLien : https://institutducerveau.org/agenda/conferences-scientifiques-ana-francheschi-en-anglais
+URL:https://institutducerveau.org/agenda/conferences-scientifiques-ana-francheschi-en-anglais
+END:VEVENT
+BEGIN:VEVENT
+UID:cbdba2c6c09ccdf286453ff952f3e96c@conferences
+DTSTAMP:20261007T014450Z
+DTSTART:20261109T100000Z
+DTEND:20261109T110000Z
+SUMMARY:Conférences scientifiques : Pierre-Yves OUDEYER (en anglais)
+LOCATION:Institut du Cerveau
+DESCRIPTION:Catégorie : Événements scientifiques\nSpeaker : Pierre-Yves OUDEYER\, Research director at Inria Center of University of Bordeaux"La curiosité dans le développement humain : théories\, expériences et applications dans le domaine de l'IA et de l'éducation"\nLien : https://institutducerveau.org/agenda/conferences-scientifiques-pierre-yves-oudeyer-en-anglais
+URL:https://institutducerveau.org/agenda/conferences-scientifiques-pierre-yves-oudeyer-en-anglais
+END:VEVENT
+BEGIN:VEVENT
+UID:0ae2b58319d1ef806753a7f37acade25@conferences
+DTSTAMP:20261007T014450Z
+DTSTART:20261119T170000Z
+DTEND:20261119T180000Z
+SUMMARY:L'épilepsie
+LOCATION:Institut du Cerveau
+DESCRIPTION:Catégorie : Conférences Sciences\, art et culture\nAussi à distance\nJeudi 19 novembre avec Vincent NAVARRO\, responsable de l’Unité d’épilepsie et de l’Unité d’EEG\, Hôpital Pitié Salpêtrière\, APHP\, Sorbonne Université\nLien : https://institutducerveau.org/agenda/lepilepsie
+URL:https://institutducerveau.org/agenda/lepilepsie
+END:VEVENT
+BEGIN:VEVENT
+UID:0f11e60064615b00c2ebb0541e268ee9@conferences
+DTSTAMP:20261007T014450Z
+DTSTART:20261124T084500Z
+DTEND:20261124T110000Z
+SUMMARY:Conférence Les matinales de l'Institut du Cerveau : Recherche sur la sclérose latérale amyotrophique
+LOCATION:Institut du Cerveau
+DESCRIPTION:Catégorie : Matinales de l'Institut du Cerveau\nAussi à distance\nRendez-vous le 24 novembre de 9h45 à 12h00 pour découvrir la sclérose latérale amyotrophique (SLA\, aussi appelée « maladie de Charcot »). Cette conférence sera l'opportunité de comprendre les dernières avancées de la recherche et notamment les liens étroits entre la SLA et la démence fronto-temporale. L’importance des collaborations internationales seront également mises en lumière\, avec un focus particulier sur l’initiative européenne CURE-ND qui se mobilise sur la SLA.\nLien : https://institutducerveau.org/agenda/conference-matinales-linstitut-cerveau-recherche-sur-sclerose-laterale-amyotrophique
+URL:https://institutducerveau.org/agenda/conference-matinales-linstitut-cerveau-recherche-sur-sclerose-laterale-amyotrophique
+END:VEVENT
+BEGIN:VEVENT
+UID:f1b7e549c8bab94d7d8009af1f03d781@conferences
+DTSTAMP:20261007T014450Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261207
+SUMMARY:The Body in Dialogue: How the Brain Communicates with Organs
+LOCATION:Institut du Cerveau
+DESCRIPTION:Catégorie : Événements scientifiques\nComment le cerveau communique-t-il avec le reste du corps? Des messagers moléculaires aux interactions entre les organes entiers\, cet événement interdisciplinaire de 4 jours explore le dialogue continu entre le cerveau et les autres systèmes organiques à travers le règne animal.\nLien : https://institutducerveau.org/agenda/body-dialogue-how-brain-communicates-organs
+URL:https://institutducerveau.org/agenda/body-dialogue-how-brain-communicates-organs
+END:VEVENT
+BEGIN:VEVENT
+UID:d112d3ef232704a9709490bebf276f02@conferences
+DTSTAMP:20261007T014450Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261210
+SUMMARY:Paris Ultrasound Workshop: De la théorie au montage expérimental avancé et à l'analyse des données
+LOCATION:Institut du Cerveau
+DESCRIPTION:Catégorie : Événements scientifiques\nL'imagerie par ultrasons fonctionnels (fUSi) est une technologie de modalité novatrice qui permet de surveiller l'hémodynamique mésoéchelle cérébrale avec une haute résolution spatio-temporelle dans un champ de vision englobant à la fois les structures corticales et sous-corticales. Démontrée pour la première fois in vivo en 2011 chez des rats\, elle a gagné en popularité au cours de la dernière décennie et apparaît maintenant comme une modalité d'enregistrement à part entière dans les neurosciences comportementales\, présente chez plus de 10 espèces.\nLien : https://institutducerveau.org/agenda/paris-ultrasound-workshop-theorie-au-montage-experimental-avance-et-lanalyse-donnees
+URL:https://institutducerveau.org/agenda/paris-ultrasound-workshop-theorie-au-montage-experimental-avance-et-lanalyse-donnees
+END:VEVENT
+BEGIN:VEVENT
+UID:9430e60474dd12734b77cd3f34ac0ed3@conferences
+DTSTAMP:20261007T014450Z
+DTSTART:20270121T170000Z
+DTEND:20270121T180000Z
+SUMMARY:L'Illusion
+LOCATION:Institut du Cerveau
+DESCRIPTION:Catégorie : Conférences Sciences\, art et culture\nAussi à distance\nJeudi 21 janvier avec Yann FRISCH\, illusionniste et acteur\nLien : https://institutducerveau.org/agenda/lillusion
+URL:https://institutducerveau.org/agenda/lillusion
+END:VEVENT
+BEGIN:VEVENT
+UID:7664bf0d9de4a4693a51bb88a4097a4c@conferences
+DTSTAMP:20261007T014450Z
+DTSTART:20270318T170000Z
+DTEND:20270318T180000Z
+SUMMARY:La dépression
+LOCATION:Institut du Cerveau
+DESCRIPTION:Catégorie : Conférences Sciences\, art et culture\nAussi à distance\nJeudi 18 mars avec Philippe FOSSATI\, psychiatre\, Chef du service de Psychiatrie de l'Hôpital de la Pitié-Salpetrière\nLien : https://institutducerveau.org/agenda/depression
+URL:https://institutducerveau.org/agenda/depression
+END:VEVENT
+BEGIN:VEVENT
+UID:16aa8241d003ebba31d43072833e3ed1@conferences
+DTSTAMP:20261007T014450Z
+DTSTART:20270520T160000Z
+DTEND:20270520T170000Z
+SUMMARY:La mémoire dans tous ses états
+LOCATION:Institut du Cerveau
+DESCRIPTION:Catégorie : Conférences Sciences\, art et culture\nAussi à distance\nJeudi 20 mai avec Bruno DUBOIS\, Neurologue et Directeur du CERMAD\nLien : https://institutducerveau.org/agenda/memoire-dans-tous-ses-etats
+URL:https://institutducerveau.org/agenda/memoire-dans-tous-ses-etats
+END:VEVENT
+END:VCALENDAR

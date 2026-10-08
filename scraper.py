@@ -571,12 +571,73 @@ def enseignements_ehess():
     return sorted(events, key=lambda e: e["start"])
 
 
+IISMM_URL = "https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027"
+JOURS_FR = ["lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"]
+IISMM_RE = re.compile(r"^(lundi|mardi|mercredi|jeudi|vendredi|samedi|dimanche)\s+(\d{1,2})(?:er)?\s+([^\W\d_]+)(?:\s+(\d{4}))?\s+de\s+(\d{1,2})h(\d{2})?\s+à\s+(\d{1,2})h(\d{2})?\s*$", re.I)
+
+
+def iismm_conferences():
+    """Une conférence par séance du cycle de conférences publiques de l'IISMM (page de l'EHESS)."""
+    pr = requests.get(IISMM_URL, headers=HEADERS, timeout=30)
+    pr.raise_for_status()
+    page = BeautifulSoup(pr.text, "html.parser")
+    article = page.select_one("article") or page
+    lignes = [" ".join(l.split()) for l in article.get_text("\n").split("\n")]
+    lignes = [l for l in lignes if l]
+    texte = " ".join(lignes)
+    m = re.search(r"Lieu\s*:\s*(.*?\d{5}\s+Paris)", texte)
+    place = m.group(1).strip() if m else "BULAC, 65 rue des Grands Moulins 75013 Paris"
+    annees = sorted({int(a) for a in re.findall(r"/(20\d{2})\b", texte)}) or [2026, 2027]
+    events, i = [], 0
+    while i < len(lignes):
+        h = IISMM_RE.match(lignes[i])
+        i += 1
+        if not h:
+            continue
+        mois = MOIS.get(h.group(3).lower())
+        candidats = [int(h.group(4))] if h.group(4) else annees
+        jour = None
+        for a in candidats:
+            try:
+                d = datetime(a, mois, int(h.group(2)))
+            except (ValueError, TypeError):
+                continue
+            if JOURS_FR[d.weekday()] == h.group(1).lower():
+                jour = d
+                break
+        if jour is None:
+            continue
+        bloc = []
+        while (i < len(lignes) and not IISMM_RE.match(lignes[i]) and not lignes[i].startswith("Affiche")
+               and not set(lignes[i]) <= set("—–-− ")):
+            bloc.append(lignes[i])
+            i += 1
+        theme = bloc[0] if bloc else "Conférence publique"
+        start = datetime(jour.year, jour.month, jour.day, int(h.group(5)), int(h.group(6) or 0), tzinfo=PARIS)
+        end = datetime(jour.year, jour.month, jour.day, int(h.group(7)), int(h.group(8) or 0), tzinfo=PARIS)
+        desc = ["Cycle de conférences publiques de l'IISMM 2026-2027 : l'islam en Asie",
+                "Entrée libre sans inscription préalable"] + bloc[1:] + [f"Lien : {IISMM_URL}"]
+        events.append({"title": f"IISMM · {theme}", "start": start, "end": end, "all_day": False,
+                       "place": place, "description": "\n".join(desc), "url": f"{IISMM_URL}#{jour.date().isoformat()}"})
+    return events
+
+
+def ehess_complet():
+    """Agenda de l'EHESS, avec les conférences de l'IISMM séance par séance (et non en un seul bloc annuel)."""
+    evenements = [e for e in ehess() if not ("iismm" in e["title"].lower() and "cycle" in e["title"].lower())]
+    try:
+        evenements += iismm_conferences()
+    except Exception as exc:
+        print(f"ERREUR IISMM: {exc}", file=sys.stderr)
+    return sorted(evenements, key=lambda e: e["start"])
+
+
 # Une entrée par institution : nom du fichier -> (nom du calendrier, fonction)
 SOURCES = {
     "college-de-france": ("Conférences Collège de France", college_de_france),
     "academie-des-sciences": ("Conférences Académie des sciences", academie_avec_secours),
     "institut-du-cerveau": ("Conférences Institut du Cerveau", institut_du_cerveau),
-    "ehess": ("Conférences EHESS", ehess),
+    "ehess": ("Conférences EHESS", ehess_complet),
     "ihpst": ("Conférences IHPST", ihpst),
     "enseignements-ehess": ("Enseignements EHESS sciences cognitives", enseignements_ehess),
 }

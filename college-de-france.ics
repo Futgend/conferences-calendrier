@@ -7,28 +7,8 @@ X-WR-TIMEZONE:Europe/Paris
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:9ffdd2944fc4e5f5cce67178a43ea68b@conferences
-DTSTAMP:20261008T202635Z
-DTSTART:20261008T120000Z
-DTEND:20261008T121000Z
-SUMMARY:Mot d’ouverture
-LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
-DESCRIPTION:Colloque : Pourquoi et comment innover aujourd'hui ?\nType : Colloque\nIntervenant : Thomas Römer & Sylvie Corréard\nCycle : Pourquoi et comment innover aujourd'hui ?\nLien : https://www.college-de-france.fr/fr/agenda/colloque/pourquoi-et-comment-innover-aujourd-hui/mot-ouverture
-URL:https://www.college-de-france.fr/fr/agenda/colloque/pourquoi-et-comment-innover-aujourd-hui/mot-ouverture
-END:VEVENT
-BEGIN:VEVENT
-UID:3695ae7dc92a7975459c9bae52be0444@conferences
-DTSTAMP:20261008T202635Z
-DTSTART:20261008T121000Z
-DTEND:20261008T122000Z
-SUMMARY:Introduction
-LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
-DESCRIPTION:Colloque : Pourquoi et comment innover aujourd'hui ?\nType : Colloque\nIntervenant : Pierre Corvol\nCycle : Pourquoi et comment innover aujourd'hui ?\nLien : https://www.college-de-france.fr/fr/agenda/colloque/pourquoi-et-comment-innover-aujourd-hui/introduction
-URL:https://www.college-de-france.fr/fr/agenda/colloque/pourquoi-et-comment-innover-aujourd-hui/introduction
-END:VEVENT
-BEGIN:VEVENT
 UID:b880e2a74d37ec385df1e02ced5a6ae9@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261008T121500Z
 DTEND:20261008T123000Z
 SUMMARY:Ouverture & introduction
@@ -37,18 +17,8 @@ DESCRIPTION:Colloque : La quête de l’eau atmosphérique\nType : Colloque\nInt
 URL:https://www.college-de-france.fr/fr/agenda/colloque/la-quete-de-eau-atmospherique/ouverture-introduction
 END:VEVENT
 BEGIN:VEVENT
-UID:d4ec6d0caed61c1a32464f9627e84e89@conferences
-DTSTAMP:20261008T202635Z
-DTSTART:20261008T122000Z
-DTEND:20261008T124500Z
-SUMMARY:Vers la restauration visuelle : dix ans après
-LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
-DESCRIPTION:Colloque : Pourquoi et comment innover aujourd'hui ?\nType : Colloque\nIntervenant : José-Alain Sahel\nCycle : Pourquoi et comment innover aujourd'hui ?\nLien : https://www.college-de-france.fr/fr/agenda/colloque/pourquoi-et-comment-innover-aujourd-hui/vers-la-restauration-visuelle-dix-ans-apres
-URL:https://www.college-de-france.fr/fr/agenda/colloque/pourquoi-et-comment-innover-aujourd-hui/vers-la-restauration-visuelle-dix-ans-apres
-END:VEVENT
-BEGIN:VEVENT
 UID:60fd5f1bc0730a2493a2715419f236ae@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261008T123000Z
 DTEND:20261008T141500Z
 SUMMARY:L’eau atmosphérique : une évidence naturelle\, une réalité scientifique\, une absence juridique
@@ -57,38 +27,8 @@ DESCRIPTION:Colloque : La quête de l’eau atmosphérique\nType : Colloque\nInt
 URL:https://www.college-de-france.fr/fr/agenda/colloque/la-quete-de-eau-atmospherique/eau-atmospherique-une-evidence-naturelle-une-realite-scientifique-une-absence-juridique
 END:VEVENT
 BEGIN:VEVENT
-UID:59412708bcabde2b39b6fe9ecb8e2392@conferences
-DTSTAMP:20261008T202635Z
-DTSTART:20261008T124500Z
-DTEND:20261008T131000Z
-SUMMARY:De l’étude des boîtes quantiques à l’ordinateur quantique
-LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
-DESCRIPTION:Colloque : Pourquoi et comment innover aujourd'hui ?\nType : Colloque\nIntervenant : Pascale Senellart\nCycle : Pourquoi et comment innover aujourd'hui ?\nLien : https://www.college-de-france.fr/fr/agenda/colloque/pourquoi-et-comment-innover-aujourd-hui/de-etude-des-boites-quantiques-ordinateur-quantique
-URL:https://www.college-de-france.fr/fr/agenda/colloque/pourquoi-et-comment-innover-aujourd-hui/de-etude-des-boites-quantiques-ordinateur-quantique
-END:VEVENT
-BEGIN:VEVENT
-UID:bd1d2384d9251c1616009639a35270ae@conferences
-DTSTAMP:20261008T202635Z
-DTSTART:20261008T131000Z
-DTEND:20261008T135500Z
-SUMMARY:L’eau\, entre science(s) et innovation
-LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
-DESCRIPTION:Colloque : Pourquoi et comment innover aujourd'hui ?\nType : Colloque\nIntervenant : Lydéric Bocquet\nCycle : Pourquoi et comment innover aujourd'hui ?\nLien : https://www.college-de-france.fr/fr/agenda/colloque/pourquoi-et-comment-innover-aujourd-hui/eau-entre-sciences-et-innovation
-URL:https://www.college-de-france.fr/fr/agenda/colloque/pourquoi-et-comment-innover-aujourd-hui/eau-entre-sciences-et-innovation
-END:VEVENT
-BEGIN:VEVENT
-UID:fd0ffe451659fc99288a810b76a27be6@conferences
-DTSTAMP:20261008T202635Z
-DTSTART:20261008T135500Z
-DTEND:20261008T143500Z
-SUMMARY:Intervention de Florent Menegaux\, Président du groupe Michelin
-LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
-DESCRIPTION:Colloque : Pourquoi et comment innover aujourd'hui ?\nType : Colloque\nIntervenant : Florent Menegaux\nCycle : Pourquoi et comment innover aujourd'hui ?\nLien : https://www.college-de-france.fr/fr/agenda/colloque/pourquoi-et-comment-innover-aujourd-hui/intervention-de-florent-menegaux-president-du-groupe-michelin
-URL:https://www.college-de-france.fr/fr/agenda/colloque/pourquoi-et-comment-innover-aujourd-hui/intervention-de-florent-menegaux-president-du-groupe-michelin
-END:VEVENT
-BEGIN:VEVENT
 UID:e714050e183b3a947b04995847901a5b@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261008T143000Z
 DTEND:20261008T161500Z
 SUMMARY:Contrôler l’eau atmosphérique : enjeux historiques\, économiques et politiques
@@ -97,28 +37,8 @@ DESCRIPTION:Colloque : La quête de l’eau atmosphérique\nType : Colloque\nInt
 URL:https://www.college-de-france.fr/fr/agenda/colloque/la-quete-de-eau-atmospherique/controler-eau-atmospherique-enjeux-historiques-economiques-et-politiques
 END:VEVENT
 BEGIN:VEVENT
-UID:7ecee2bcf73259999254e754514e6656@conferences
-DTSTAMP:20261008T202635Z
-DTSTART:20261008T143500Z
-DTEND:20261008T154500Z
-SUMMARY:Table ronde « Pourquoi et comment innover ? »
-LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
-DESCRIPTION:Colloque : Pourquoi et comment innover aujourd'hui ?\nType : Colloque\nIntervenant : Yves Bréchet\, Florence Lambert\, Jean-François Nogrette & Mickael Tanter\nCycle : Pourquoi et comment innover aujourd'hui ?\nLien : https://www.college-de-france.fr/fr/agenda/colloque/pourquoi-et-comment-innover-aujourd-hui/table-ronde-pourquoi-et-comment-innover
-URL:https://www.college-de-france.fr/fr/agenda/colloque/pourquoi-et-comment-innover-aujourd-hui/table-ronde-pourquoi-et-comment-innover
-END:VEVENT
-BEGIN:VEVENT
-UID:c02f7f32c3cce67d1b4c3c9e38a01e70@conferences
-DTSTAMP:20261008T202635Z
-DTSTART:20261008T154500Z
-DTEND:20261008T160000Z
-SUMMARY:Conclusion
-LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
-DESCRIPTION:Colloque : Pourquoi et comment innover aujourd'hui ?\nType : Colloque\nIntervenant : Philippe Aghion\nCycle : Pourquoi et comment innover aujourd'hui ?\nLien : https://www.college-de-france.fr/fr/agenda/colloque/pourquoi-et-comment-innover-aujourd-hui/conclusion
-URL:https://www.college-de-france.fr/fr/agenda/colloque/pourquoi-et-comment-innover-aujourd-hui/conclusion
-END:VEVENT
-BEGIN:VEVENT
 UID:365675924dfae09c4476e4d73480997e@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261009T064500Z
 DTEND:20261009T083000Z
 SUMMARY:L’exploitation de l’eau atmosphérique : usages et réglementation
@@ -128,7 +48,7 @@ URL:https://www.college-de-france.fr/fr/agenda/colloque/la-quete-de-eau-atmosphe
 END:VEVENT
 BEGIN:VEVENT
 UID:13d002855189c24615a577e7d2018a65@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261009T084500Z
 DTEND:20261009T103000Z
 SUMMARY:La captation de l’eau atmosphérique comme modification de l’environnement : quelles limites éthiques\, juridiques et philosophiques ?
@@ -138,7 +58,7 @@ URL:https://www.college-de-france.fr/fr/agenda/colloque/la-quete-de-eau-atmosphe
 END:VEVENT
 BEGIN:VEVENT
 UID:1c642655e24987a1d82f7836c1cb64bd@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261009T103000Z
 DTEND:20261009T110000Z
 SUMMARY:Propos conclusifs
@@ -148,7 +68,7 @@ URL:https://www.college-de-france.fr/fr/agenda/colloque/la-quete-de-eau-atmosphe
 END:VEVENT
 BEGIN:VEVENT
 UID:e607c47ff83aec431d52e6ed1eb326c0@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261012T070000Z
 DTEND:20261012T150000Z
 SUMMARY:Les Cultures de Tintin. Objectif centenaire (1)
@@ -158,7 +78,7 @@ URL:https://www.college-de-france.fr/fr/agenda/colloque/les-cultures-de-tintin-o
 END:VEVENT
 BEGIN:VEVENT
 UID:9a97061e79693b1d523777c867cd2d39@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261012T143000Z
 DTEND:20261012T153000Z
 SUMMARY:Genomic Insights into Cortical Expansion and Language Function
@@ -168,7 +88,7 @@ URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/insights-into
 END:VEVENT
 BEGIN:VEVENT
 UID:6897773925c068559da74bcf2fa0454e@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261013T070000Z
 DTEND:20261013T150000Z
 SUMMARY:Les Cultures de Tintin. Objectif centenaire (2)
@@ -178,7 +98,7 @@ URL:https://www.college-de-france.fr/fr/agenda/colloque/les-cultures-de-tintin-o
 END:VEVENT
 BEGIN:VEVENT
 UID:87a7410e1fba8ef783aaea6668024b71@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261013T140000Z
 DTEND:20261013T150000Z
 SUMMARY:Palaeolithic Origins of Seafaring: Theoretical\, Simulation\, and Experimental Approaches
@@ -188,7 +108,7 @@ URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/yousuke-kaifu
 END:VEVENT
 BEGIN:VEVENT
 UID:3638a336a34d303955c24d576a42a4e2@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261013T153000Z
 DTEND:20261013T170000Z
 SUMMARY:Foucault et la vie du Collège : dialogue avec les pairs\, création de chaires
@@ -198,7 +118,7 @@ URL:https://www.college-de-france.fr/fr/agenda/grand-evenement/michel-foucault-a
 END:VEVENT
 BEGIN:VEVENT
 UID:ac167c1edfb9eba47f3ddf2366d13506@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261014T143000Z
 DTEND:20261014T153000Z
 SUMMARY:Developing a Cell-Based Therapy for Medically-Intractable Epilepsy
@@ -208,7 +128,7 @@ URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/insights-into
 END:VEVENT
 BEGIN:VEVENT
 UID:797da69d8f957d73add9c1c3dd14abfe@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261014T160000Z
 DTEND:20261014T180000Z
 SUMMARY:L’animal : dialogue philosophique et lectures littéraires
@@ -218,7 +138,7 @@ URL:https://www.college-de-france.fr/fr/agenda/colloque/animal/animal-dialogue-p
 END:VEVENT
 BEGIN:VEVENT
 UID:6d1277b2c875613f4c4ccd810f9df791@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261015T073000Z
 DTEND:20261015T081000Z
 SUMMARY:L’animal dans la Bible
@@ -228,7 +148,7 @@ URL:https://www.college-de-france.fr/fr/agenda/colloque/animal/animal-dans-la-bi
 END:VEVENT
 BEGIN:VEVENT
 UID:82802f7103dab809c4896fe43e0f0960@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261015T081000Z
 DTEND:20261015T085000Z
 SUMMARY:L’animal du biologiste : machine\, organisme\, agent
@@ -238,7 +158,7 @@ URL:https://www.college-de-france.fr/fr/agenda/colloque/animal/animal-du-biologi
 END:VEVENT
 BEGIN:VEVENT
 UID:ad8db7bd50baf8fd153f48c119740935@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261015T091000Z
 DTEND:20261015T095000Z
 SUMMARY:L’orang-outan dans l’anthropologie des Lumières
@@ -248,7 +168,7 @@ URL:https://www.college-de-france.fr/fr/agenda/colloque/animal/orang-outan-dans-
 END:VEVENT
 BEGIN:VEVENT
 UID:b70d7555c9088db021be404f919da25b@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261015T095000Z
 DTEND:20261015T103000Z
 SUMMARY:Arches zoopoétiques : littérature et déluges contemporains
@@ -258,7 +178,7 @@ URL:https://www.college-de-france.fr/fr/agenda/colloque/animal/arches-zoopoetiqu
 END:VEVENT
 BEGIN:VEVENT
 UID:dbeb38b92527958e5088af6453a792f0@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261015T120000Z
 DTEND:20261015T124000Z
 SUMMARY:Le cheval d’avant et après notre histoire commune
@@ -268,7 +188,7 @@ URL:https://www.college-de-france.fr/fr/agenda/colloque/animal/le-cheval-avant-e
 END:VEVENT
 BEGIN:VEVENT
 UID:e5d792f5acd60eea7c64d6981cf461e2@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261015T124000Z
 DTEND:20261015T132000Z
 SUMMARY:Les maladies des animaux sont-elles des vengeances contre les humains ?
@@ -278,7 +198,7 @@ URL:https://www.college-de-france.fr/fr/agenda/colloque/animal/les-maladies-des-
 END:VEVENT
 BEGIN:VEVENT
 UID:e0dbdab0bf6b46143741e766619ed609@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261015T132000Z
 DTEND:20261015T140000Z
 SUMMARY:Les études précliniques et cliniques en recherche translationnelle
@@ -288,7 +208,7 @@ URL:https://www.college-de-france.fr/fr/agenda/colloque/animal/les-etudes-precli
 END:VEVENT
 BEGIN:VEVENT
 UID:3b44b7b3a427b923567d7ccc0020ab71@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261015T142000Z
 DTEND:20261015T150000Z
 SUMMARY:L’animal saisi par le droit : la perspective romaine
@@ -298,7 +218,7 @@ URL:https://www.college-de-france.fr/fr/agenda/colloque/animal/animal-saisi-par-
 END:VEVENT
 BEGIN:VEVENT
 UID:b11d7119e8f22ea9e6802bc5d04d6e8f@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261015T150000Z
 DTEND:20261015T154000Z
 SUMMARY:La place de l'humain en biologie par rapport aux animaux : un animal comme les autres ou à l'origine de la pire crise de la biodiversité ?
@@ -308,7 +228,7 @@ URL:https://www.college-de-france.fr/fr/agenda/colloque/animal/la-place-de-humai
 END:VEVENT
 BEGIN:VEVENT
 UID:0c6db812cf0dfc23fbf99b82dbbb7a60@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261016T073000Z
 DTEND:20261016T081000Z
 SUMMARY:Sapiens dans l’histoire du vivant : être et ne pas être un animal
@@ -318,7 +238,7 @@ URL:https://www.college-de-france.fr/fr/agenda/colloque/animal/sapiens-dans-hist
 END:VEVENT
 BEGIN:VEVENT
 UID:6fbc325f178c68c548282f92a8481e34@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261016T081000Z
 DTEND:20261016T085000Z
 SUMMARY:Aux origines du langage : que nous disent nos cousins primates ?
@@ -328,7 +248,7 @@ URL:https://www.college-de-france.fr/fr/agenda/colloque/animal/aux-origines-du-l
 END:VEVENT
 BEGIN:VEVENT
 UID:458148696a9ae3804000b8c2b993e00b@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261016T091000Z
 DTEND:20261016T095000Z
 SUMMARY:La complexité cognitive d’un cerveau miniaturisé : cognition et cerveau chez les abeilles
@@ -338,7 +258,7 @@ URL:https://www.college-de-france.fr/fr/agenda/colloque/animal/la-complexite-cog
 END:VEVENT
 BEGIN:VEVENT
 UID:589f0aa474e495fc1bb7a87a5384d6a5@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261016T095000Z
 DTEND:20261016T103000Z
 SUMMARY:Mouvements collectifs dans les groupes animaux : quand un banc de poissons est confronté à l’IA\, la réalité virtuelle\, des robots et des drones
@@ -348,7 +268,7 @@ URL:https://www.college-de-france.fr/fr/agenda/colloque/animal/mouvements-collec
 END:VEVENT
 BEGIN:VEVENT
 UID:9fe64b478bea356dd6981c35f7a6bc74@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261016T120000Z
 DTEND:20261016T124000Z
 SUMMARY:Penser la pensée animale ? Quelques tentatives dans l’Inde ancienne et médiévale
@@ -358,7 +278,7 @@ URL:https://www.college-de-france.fr/fr/agenda/colloque/animal/penser-la-pensee-
 END:VEVENT
 BEGIN:VEVENT
 UID:8448354e0b4b5be8ea23865505db5662@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261016T124000Z
 DTEND:20261016T132000Z
 SUMMARY:De la tragédie aux Bouphonies : variations sur le sacrifice grec comme meurtre
@@ -368,7 +288,7 @@ URL:https://www.college-de-france.fr/fr/agenda/colloque/animal/de-la-tragedie-au
 END:VEVENT
 BEGIN:VEVENT
 UID:bc9d1c6c57af857e0307f59637ee33ce@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261016T133000Z
 DTEND:20261016T141000Z
 SUMMARY:Les affres d'un prédateur empathique
@@ -378,7 +298,7 @@ URL:https://www.college-de-france.fr/fr/agenda/colloque/animal/les-affres-un-pre
 END:VEVENT
 BEGIN:VEVENT
 UID:72a35c4e616a45da815655521a4f8466@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261016T141000Z
 DTEND:20261016T150000Z
 SUMMARY:Du « propre de l'homme » à l'éthologie philosophique
@@ -388,7 +308,7 @@ URL:https://www.college-de-france.fr/fr/agenda/colloque/animal/du-propre-de-homm
 END:VEVENT
 BEGIN:VEVENT
 UID:b4f78c0f95c8f0dcc7ee6e50977ce07b@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261019T090000Z
 DTEND:20261019T103000Z
 SUMMARY:Les « Épouses du dieu » à Thèbes (1)
@@ -398,7 +318,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/les-epouses-du-dieu-thebes/
 END:VEVENT
 BEGIN:VEVENT
 UID:1a32d9e0e432258ae948b3851ddd8b25@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261020T120000Z
 DTEND:20261020T140000Z
 SUMMARY:Les nouvelles idées sont-elles plus difficiles à trouver ? (2)
@@ -408,7 +328,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/les-nouvelles-idees-sont-el
 END:VEVENT
 BEGIN:VEVENT
 UID:48837cbdab161ebccb7e8499e4d05000@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261021T144500Z
 DTEND:20261021T164500Z
 SUMMARY:Les planètes telluriques : caractéristiques orbitales\, physiques et compositionnelles
@@ -418,7 +338,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/la-formation-des-planetes-t
 END:VEVENT
 BEGIN:VEVENT
 UID:aeac846840ae612ec4352c0e6faf8a54@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261026T100000Z
 DTEND:20261026T113000Z
 SUMMARY:Les « Épouses du dieu » à Thèbes (2)
@@ -428,7 +348,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/les-epouses-du-dieu-thebes/
 END:VEVENT
 BEGIN:VEVENT
 UID:65a9b8820fa6145cdbc39b587ed31c9a@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261027T130000Z
 DTEND:20261027T150000Z
 SUMMARY:Les nouvelles idées sont-elles plus difficiles à trouver ? (3)
@@ -438,7 +358,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/les-nouvelles-idees-sont-el
 END:VEVENT
 BEGIN:VEVENT
 UID:8d0a2377a49a824b97cff562c8874a56@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261028T100000Z
 DTEND:20261028T113000Z
 SUMMARY:Représenter les Adoratrices aux époques tardives
@@ -448,7 +368,7 @@ URL:https://www.college-de-france.fr/fr/agenda/seminaire/autour-des-epouses-du-d
 END:VEVENT
 BEGIN:VEVENT
 UID:13b67e7d005a2bc7260b3a29f1ba105f@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261028T154500Z
 DTEND:20261028T174500Z
 SUMMARY:La Lune et sa formation
@@ -458,7 +378,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/la-formation-des-planetes-t
 END:VEVENT
 BEGIN:VEVENT
 UID:0a117a60edeffa5b071cb09422e420c7@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261029T170000Z
 DTEND:20261029T180000Z
 SUMMARY:Faire mieux
@@ -468,7 +388,7 @@ URL:https://www.college-de-france.fr/fr/agenda/lecon-inaugurale/faire-mieux/fair
 END:VEVENT
 BEGIN:VEVENT
 UID:d15cd3f3b65ede4e591f0858e59d8a31@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261102T093000Z
 DTEND:20261102T113000Z
 SUMMARY:Lecture de textes en lien avec le cours (1)
@@ -478,7 +398,7 @@ URL:https://www.college-de-france.fr/fr/agenda/seminaire/lecture-de-textes-en-li
 END:VEVENT
 BEGIN:VEVENT
 UID:8fc26f1e56f8f48fb74150e5a2e82108@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261102T100000Z
 DTEND:20261102T113000Z
 SUMMARY:Les « Épouses du dieu » à Thèbes (3)
@@ -488,7 +408,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/les-epouses-du-dieu-thebes/
 END:VEVENT
 BEGIN:VEVENT
 UID:cb7659ad55ed3080726dad8e346945f2@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261102T140000Z
 DTEND:20261102T160000Z
 SUMMARY:Le Stalker - En présence d’Aurélien Barrau
@@ -498,7 +418,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/sortir-de-cette-chambre-moi
 END:VEVENT
 BEGIN:VEVENT
 UID:479b832b6497de97120baab232af7081@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261103T130000Z
 DTEND:20261103T150000Z
 SUMMARY:Les nouvelles idées sont-elles plus difficiles à trouver ? (4)
@@ -508,7 +428,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/les-nouvelles-idees-sont-el
 END:VEVENT
 BEGIN:VEVENT
 UID:9e7d733dd98d81b17e920a5ba7c99ec1@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261103T133000Z
 DTEND:20261103T150000Z
 SUMMARY:Stress oxydant et réponse thérapeutique (3) (1)
@@ -518,7 +438,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/stress-oxydant-et-reponse-t
 END:VEVENT
 BEGIN:VEVENT
 UID:59b82ad83cc02b56176e7d312809563f@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261103T163000Z
 DTEND:20261103T180000Z
 SUMMARY:Foucault enseignant : cohérence d’une trajectoire et place dans l’œuvre
@@ -528,7 +448,7 @@ URL:https://www.college-de-france.fr/fr/agenda/grand-evenement/michel-foucault-a
 END:VEVENT
 BEGIN:VEVENT
 UID:7148bab84b9263a5fa5250cce9a924a4@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261104T090000Z
 DTEND:20261104T110000Z
 SUMMARY:La question de la Palestine au XXIe siècle (1)
@@ -538,7 +458,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/la-question-de-la-palestine
 END:VEVENT
 BEGIN:VEVENT
 UID:e22230f4a95fa2afc7e5c9bc70ccd662@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261104T100000Z
 DTEND:20261104T113000Z
 SUMMARY:Une prêtresse en Grèce ancienne : un prêtre comme un autre ?
@@ -548,7 +468,7 @@ URL:https://www.college-de-france.fr/fr/agenda/seminaire/autour-des-epouses-du-d
 END:VEVENT
 BEGIN:VEVENT
 UID:fb34d95ad1e2314b92aa0415f8033ad0@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261104T100000Z
 DTEND:20261104T110000Z
 SUMMARY:The Noetic Theory of Aesthetic Experience
@@ -558,7 +478,7 @@ URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/aesthetic-exp
 END:VEVENT
 BEGIN:VEVENT
 UID:0483f21a5ea2fadda4d7cfb58f8f3dc4@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261104T154500Z
 DTEND:20261104T174500Z
 SUMMARY:Chronologie de la formation des planètes telluriques
@@ -568,7 +488,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/la-formation-des-planetes-t
 END:VEVENT
 BEGIN:VEVENT
 UID:7a7338c4c0e148ec71279dc74448ad4c@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261104T163000Z
 DTEND:20261104T173000Z
 SUMMARY:La souveraineté alimentaire et la transition agroécologique en Europe (1)
@@ -578,7 +498,7 @@ URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/la-souveraine
 END:VEVENT
 BEGIN:VEVENT
 UID:e6140d27ba168c8b51b6ce485f843b9c@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261105T083000Z
 DTEND:20261105T100000Z
 SUMMARY:Introduction à l'équivalence et au raffinement entre programmes
@@ -588,7 +508,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/equivalences-de-programmes/
 END:VEVENT
 BEGIN:VEVENT
 UID:065ac02d4e98a9ee22c2b6d05be6f6a3@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261105T101500Z
 DTEND:20261105T111500Z
 SUMMARY:Concurrency Theory: From Its Origins Towards a Science of Processes
@@ -598,7 +518,7 @@ URL:https://www.college-de-france.fr/fr/agenda/seminaire/equivalences-de-program
 END:VEVENT
 BEGIN:VEVENT
 UID:05c28035e92c980355e364791ae88e6e@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261105T130000Z
 DTEND:20261105T140000Z
 SUMMARY:Chemical Technologies for Recycling Plastics Designed to Last
@@ -608,7 +528,7 @@ URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/contributions
 END:VEVENT
 BEGIN:VEVENT
 UID:b0b300335170556e85587b53ec116599@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261105T140000Z
 DTEND:20261105T150000Z
 SUMMARY:La souveraineté alimentaire et la transition agroécologique en Europe (2)
@@ -618,7 +538,7 @@ URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/la-souveraine
 END:VEVENT
 BEGIN:VEVENT
 UID:8f23d6436d3ea38572d992a1a1f73428@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261105T170000Z
 DTEND:20261105T180000Z
 SUMMARY:L’hématologie\, au carrefour des disciplines biomédicales : un aller‑retour entre recherche fondamentale et clinique
@@ -628,7 +548,7 @@ URL:https://www.college-de-france.fr/fr/agenda/lecon-inaugurale/hematologie-au-c
 END:VEVENT
 BEGIN:VEVENT
 UID:d253b72b768f6179b29d9fbf75f7d00c@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261106T083000Z
 DTEND:20261106T100000Z
 SUMMARY:Biogenèse et biologie du globule rouge et pathologies associées (1)
@@ -638,7 +558,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/biogenese-et-biologie-du-gl
 END:VEVENT
 BEGIN:VEVENT
 UID:8f4d12c9c715d9ab47c1f59db466d387@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261106T100000Z
 DTEND:20261106T110000Z
 SUMMARY:Aesthetic Discovery\, Exploration and Conceptual Mapping
@@ -648,7 +568,7 @@ URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/aesthetic-exp
 END:VEVENT
 BEGIN:VEVENT
 UID:2a225cfb445725108f78418a0d568351@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261106T130000Z
 DTEND:20261106T150000Z
 SUMMARY:Les arts au défi des sciences sociales (suite) (1)
@@ -658,7 +578,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/les-arts-au-defi-des-scienc
 END:VEVENT
 BEGIN:VEVENT
 UID:e5957b2d9926b56f27d150c09f8ff407@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261106T133000Z
 DTEND:20261106T150000Z
 SUMMARY:Un trésor mythologique inédit : la mosaïque romaine d'Aréthuse (Syrie centrale) et ses inscriptions uniques
@@ -668,7 +588,7 @@ URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/un-tresor-myt
 END:VEVENT
 BEGIN:VEVENT
 UID:ec79d0645903772c53c84f0d95dc873c@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261109T093000Z
 DTEND:20261109T110000Z
 SUMMARY:Concepts et modes de présentation (1)
@@ -678,7 +598,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/concepts-et-modes-de-presen
 END:VEVENT
 BEGIN:VEVENT
 UID:970949d794e115cb243f13200354e9fa@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261109T093000Z
 DTEND:20261109T113000Z
 SUMMARY:Lecture de textes en lien avec le cours (2)
@@ -688,7 +608,7 @@ URL:https://www.college-de-france.fr/fr/agenda/seminaire/lecture-de-textes-en-li
 END:VEVENT
 BEGIN:VEVENT
 UID:cd6b2547681731a2f4c4da032c7d260d@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261109T100000Z
 DTEND:20261109T113000Z
 SUMMARY:Les « Épouses du dieu » à Thèbes (4)
@@ -698,7 +618,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/les-epouses-du-dieu-thebes/
 END:VEVENT
 BEGIN:VEVENT
 UID:75079cf2f9265d88c88c30342b005f11@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261109T140000Z
 DTEND:20261109T160000Z
 SUMMARY:« Une femme blanche » – Un dialogue avec Marie NDiaye
@@ -708,7 +628,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/sortir-de-cette-chambre-moi
 END:VEVENT
 BEGIN:VEVENT
 UID:dd72630e1a80eac522a0a8e16bc8add9@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261109T150000Z
 DTEND:20261109T163000Z
 SUMMARY:Introduction : bioénergétique
@@ -718,7 +638,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/bioenergetique-et-metabolis
 END:VEVENT
 BEGIN:VEVENT
 UID:9e8eb4d5d66225d535789fef40bdaee1@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261110T130000Z
 DTEND:20261110T140000Z
 SUMMARY:Developing Carbon Capture Technologies
@@ -728,7 +648,7 @@ URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/contributions
 END:VEVENT
 BEGIN:VEVENT
 UID:6e933a3140a1401c8b5a65409603ccf7@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261112T083000Z
 DTEND:20261112T100000Z
 SUMMARY:Approches dénotationnelles et full abstraction
@@ -738,7 +658,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/equivalences-de-programmes/
 END:VEVENT
 BEGIN:VEVENT
 UID:86e47d4bf67a2ac7611927561679f2ff@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261112T100000Z
 DTEND:20261112T110000Z
 SUMMARY:Retour vers le Dao : entre empire et emprise (1)
@@ -748,7 +668,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/retour-vers-le-dao-entre-em
 END:VEVENT
 BEGIN:VEVENT
 UID:e73b61bf9d32dd89ad4f0cca7caa609f@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261112T101500Z
 DTEND:20261112T111500Z
 SUMMARY:L'équivalence d'interaction
@@ -758,7 +678,7 @@ URL:https://www.college-de-france.fr/fr/agenda/seminaire/equivalences-de-program
 END:VEVENT
 BEGIN:VEVENT
 UID:fa65ab83a52eac934402e07d87a7cacb@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261112T163000Z
 DTEND:20261112T173000Z
 SUMMARY:La souveraineté alimentaire et la transition agroécologique en Europe (3)
@@ -768,7 +688,7 @@ URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/la-souveraine
 END:VEVENT
 BEGIN:VEVENT
 UID:fc627fc55231286c67fe801dbac531dd@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261113T083000Z
 DTEND:20261113T100000Z
 SUMMARY:Biogenèse et biologie du globule rouge et pathologies associées (2)
@@ -778,7 +698,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/biogenese-et-biologie-du-gl
 END:VEVENT
 BEGIN:VEVENT
 UID:011c4a107d2235ced0c368b1c41061df@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261113T100000Z
 DTEND:20261113T110000Z
 SUMMARY:Representative Democracy in Reflexive Globalization
@@ -788,7 +708,7 @@ URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/philipp-dann/
 END:VEVENT
 BEGIN:VEVENT
 UID:c5a13ea72b68dada6e93c54f2e83517e@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261113T130000Z
 DTEND:20261113T150000Z
 SUMMARY:Les arts au défi des sciences sociales (suite) (2)
@@ -798,7 +718,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/les-arts-au-defi-des-scienc
 END:VEVENT
 BEGIN:VEVENT
 UID:e2d8df54d7128a24d5aa17b80de99cdc@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261113T163000Z
 DTEND:20261113T173000Z
 SUMMARY:La souveraineté alimentaire et la transition agroécologique en Europe (4)
@@ -808,7 +728,7 @@ URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/la-souveraine
 END:VEVENT
 BEGIN:VEVENT
 UID:f9d64557a08446c8834b15dba2452267@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261116T093000Z
 DTEND:20261116T110000Z
 SUMMARY:Concepts et modes de présentation (2)
@@ -818,7 +738,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/concepts-et-modes-de-presen
 END:VEVENT
 BEGIN:VEVENT
 UID:b2afb15caa77cfddd84097b1b0794e94@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261116T093000Z
 DTEND:20261116T113000Z
 SUMMARY:Lecture de textes en lien avec le cours (3)
@@ -828,7 +748,7 @@ URL:https://www.college-de-france.fr/fr/agenda/seminaire/lecture-de-textes-en-li
 END:VEVENT
 BEGIN:VEVENT
 UID:3e5fdba64f2d1417a708ece2f7187e1f@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261116T100000Z
 DTEND:20261116T113000Z
 SUMMARY:Les « Épouses du dieu » à Thèbes (5)
@@ -838,7 +758,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/les-epouses-du-dieu-thebes/
 END:VEVENT
 BEGIN:VEVENT
 UID:92fbb258e9ac166f82df0baf8616211b@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261116T140000Z
 DTEND:20261116T160000Z
 SUMMARY:La photographie
@@ -848,7 +768,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/sortir-de-cette-chambre-moi
 END:VEVENT
 BEGIN:VEVENT
 UID:268679ff7eade0908480b2fe9bd5205e@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261116T150000Z
 DTEND:20261116T163000Z
 SUMMARY:Réactions chimiques et métabolisme
@@ -858,7 +778,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/bioenergetique-et-metabolis
 END:VEVENT
 BEGIN:VEVENT
 UID:11340c0c278e2c9aac8743c762ecef35@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261117T090000Z
 DTEND:20261117T110000Z
 SUMMARY:Introduction : de la chaleur vitale à l’énergie libre
@@ -868,7 +788,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/bioenergetique-et-metabolis
 END:VEVENT
 BEGIN:VEVENT
 UID:d9db9d6850855cc77da076e062f6031b@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261117T130000Z
 DTEND:20261117T150000Z
 SUMMARY:Les nouvelles idées sont-elles plus difficiles à trouver ? (5)
@@ -878,7 +798,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/les-nouvelles-idees-sont-el
 END:VEVENT
 BEGIN:VEVENT
 UID:64083f16dafffcb94f18003cb8a9b948@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261117T133000Z
 DTEND:20261117T150000Z
 SUMMARY:Stress oxydant et réponse thérapeutique (3) (2)
@@ -888,7 +808,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/stress-oxydant-et-reponse-t
 END:VEVENT
 BEGIN:VEVENT
 UID:ebe3f00956bdc0b2f30173059035cb1a@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261118T090000Z
 DTEND:20261118T110000Z
 SUMMARY:La question de la Palestine au XXIe siècle (2)
@@ -898,7 +818,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/la-question-de-la-palestine
 END:VEVENT
 BEGIN:VEVENT
 UID:0a0848c5549fcfb6cb1b8bff7d0696e6@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261118T100000Z
 DTEND:20261118T113000Z
 SUMMARY:Karomâmâ : figure de bronze d’une Adoratrice d’Amon au service d’Osiris dans Karnak
@@ -908,7 +828,7 @@ URL:https://www.college-de-france.fr/fr/agenda/seminaire/autour-des-epouses-du-d
 END:VEVENT
 BEGIN:VEVENT
 UID:5cd9993589df5cf34d8666d403c4801b@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261118T154500Z
 DTEND:20261118T174500Z
 SUMMARY:La formation des planètes telluriques I : premiers modèles
@@ -918,7 +838,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/la-formation-des-planetes-t
 END:VEVENT
 BEGIN:VEVENT
 UID:dbeb50dd3d9290221e39cee8f182d690@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261119T083000Z
 DTEND:20261119T100000Z
 SUMMARY:Bisimulations 1
@@ -928,7 +848,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/equivalences-de-programmes/
 END:VEVENT
 BEGIN:VEVENT
 UID:fe923f78306d110be440fd8414074a01@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261119T100000Z
 DTEND:20261119T110000Z
 SUMMARY:Retour vers le Dao : entre empire et emprise (2)
@@ -938,7 +858,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/retour-vers-le-dao-entre-em
 END:VEVENT
 BEGIN:VEVENT
 UID:b867f1502e529103327d0fc8be797d5f@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261119T101500Z
 DTEND:20261119T111500Z
 SUMMARY:Sémantiques de jeux des langages de programmation
@@ -948,7 +868,7 @@ URL:https://www.college-de-france.fr/fr/agenda/seminaire/equivalences-de-program
 END:VEVENT
 BEGIN:VEVENT
 UID:7af8c6de52e6b2d461d0e9d84a8d0aa6@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261120T130000Z
 DTEND:20261120T150000Z
 SUMMARY:Les arts au défi des sciences sociales (suite) (3)
@@ -958,7 +878,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/les-arts-au-defi-des-scienc
 END:VEVENT
 BEGIN:VEVENT
 UID:798e8ce8c6b220f5e06281943db3de32@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261123T093000Z
 DTEND:20261123T110000Z
 SUMMARY:Concepts et modes de présentation (3)
@@ -968,7 +888,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/concepts-et-modes-de-presen
 END:VEVENT
 BEGIN:VEVENT
 UID:f70d0e489c97fedf51ed29a47385f756@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261123T093000Z
 DTEND:20261123T113000Z
 SUMMARY:Lecture de textes en lien avec le cours (4)
@@ -978,7 +898,7 @@ URL:https://www.college-de-france.fr/fr/agenda/seminaire/lecture-de-textes-en-li
 END:VEVENT
 BEGIN:VEVENT
 UID:da16008dd8c3ad3d01eb08bcd2cee950@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261123T100000Z
 DTEND:20261123T113000Z
 SUMMARY:Les « Épouses du dieu » à Thèbes (6)
@@ -988,7 +908,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/les-epouses-du-dieu-thebes/
 END:VEVENT
 BEGIN:VEVENT
 UID:7bc5dac6b0970378b60ab879a10fe55f@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261123T140000Z
 DTEND:20261123T160000Z
 SUMMARY:En présence de Wajdi Mouawad
@@ -998,7 +918,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/sortir-de-cette-chambre-moi
 END:VEVENT
 BEGIN:VEVENT
 UID:1c0fe6b349abf0d1ca07499d6aeee317@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261123T150000Z
 DTEND:20261123T163000Z
 SUMMARY:Théorie chimio-osmotique et régulation de l'ATP
@@ -1008,7 +928,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/bioenergetique-et-metabolis
 END:VEVENT
 BEGIN:VEVENT
 UID:70a4a9667f6910459a4172a9dd360b3f@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261124T090000Z
 DTEND:20261124T110000Z
 SUMMARY:Le vivant hors d’équilibre
@@ -1018,7 +938,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/bioenergetique-et-metabolis
 END:VEVENT
 BEGIN:VEVENT
 UID:0fd313e26df84901b708f4907930c89b@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261124T130000Z
 DTEND:20261124T150000Z
 SUMMARY:Les nouvelles idées sont-elles plus difficiles à trouver ? (6)
@@ -1028,7 +948,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/les-nouvelles-idees-sont-el
 END:VEVENT
 BEGIN:VEVENT
 UID:9665226691f421c78c4d6e19b49f3875@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261124T133000Z
 DTEND:20261124T150000Z
 SUMMARY:Stress oxydant et réponse thérapeutique (3) (3)
@@ -1038,7 +958,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/stress-oxydant-et-reponse-t
 END:VEVENT
 BEGIN:VEVENT
 UID:9e17573883a17d52f23755979aafe37c@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261124T163000Z
 DTEND:20261124T180000Z
 SUMMARY:Travailler avec Foucault : les séminaires du Collège
@@ -1048,7 +968,7 @@ URL:https://www.college-de-france.fr/fr/agenda/grand-evenement/michel-foucault-a
 END:VEVENT
 BEGIN:VEVENT
 UID:30f06cecfb1f4e8beee0140ca9b2f202@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261125T090000Z
 DTEND:20261125T110000Z
 SUMMARY:La question de la Palestine au XXIe siècle (3)
@@ -1058,7 +978,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/la-question-de-la-palestine
 END:VEVENT
 BEGIN:VEVENT
 UID:e80cbfb14f9c54423b9f43ca1cbefaac@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261125T100000Z
 DTEND:20261125T113000Z
 SUMMARY:Les ouchebtis des Divines Adoratrices et la question de leur lieu d’inhumation
@@ -1068,7 +988,7 @@ URL:https://www.college-de-france.fr/fr/agenda/seminaire/autour-des-epouses-du-d
 END:VEVENT
 BEGIN:VEVENT
 UID:9fb1a7ebb73cf2d2422f46224206ef4e@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261125T154500Z
 DTEND:20261125T174500Z
 SUMMARY:La formation des planètes telluriques II : nouveaux modèles
@@ -1078,7 +998,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/la-formation-des-planetes-t
 END:VEVENT
 BEGIN:VEVENT
 UID:b577584426edb36e616f0549786a3140@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261126T083000Z
 DTEND:20261126T100000Z
 SUMMARY:Bisimulations 2
@@ -1088,7 +1008,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/equivalences-de-programmes/
 END:VEVENT
 BEGIN:VEVENT
 UID:8485ba6693bf674b57963db16b1d2191@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261126T100000Z
 DTEND:20261126T110000Z
 SUMMARY:Retour vers le Dao : entre empire et emprise (3)
@@ -1098,7 +1018,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/retour-vers-le-dao-entre-em
 END:VEVENT
 BEGIN:VEVENT
 UID:e63a4fe82678019221855fb30798998e@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261126T101500Z
 DTEND:20261126T111500Z
 SUMMARY:Théorèmes de point fixe et coinduction sans coinduction
@@ -1108,7 +1028,7 @@ URL:https://www.college-de-france.fr/fr/agenda/seminaire/equivalences-de-program
 END:VEVENT
 BEGIN:VEVENT
 UID:db9b8b5e404d6e6f595e1c877602e737@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261126T130000Z
 DTEND:20261126T140000Z
 SUMMARY:The Future of the Chemical Industry: Beyond Fossil Hydrocarbons
@@ -1118,7 +1038,7 @@ URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/contributions
 END:VEVENT
 BEGIN:VEVENT
 UID:a1965e62a89fbf3b2ece396be34d4b86@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261127T083000Z
 DTEND:20261127T100000Z
 SUMMARY:Biogenèse et biologie du globule rouge et pathologies associées (3)
@@ -1128,7 +1048,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/biogenese-et-biologie-du-gl
 END:VEVENT
 BEGIN:VEVENT
 UID:56b6be2ae0666ada994c7ef270a4e4a4@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261127T100000Z
 DTEND:20261127T110000Z
 SUMMARY:Géants technologiques mondiaux et privatisation du droit
@@ -1138,7 +1058,7 @@ URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/vincent-marte
 END:VEVENT
 BEGIN:VEVENT
 UID:20890217f5987c32655c56c40077743e@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261127T130000Z
 DTEND:20261127T150000Z
 SUMMARY:Les arts au défi des sciences sociales (suite) (4)
@@ -1148,7 +1068,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/les-arts-au-defi-des-scienc
 END:VEVENT
 BEGIN:VEVENT
 UID:4997ea3cfeea796b591687f73c3ff71c@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261130T093000Z
 DTEND:20261130T110000Z
 SUMMARY:Concepts et modes de présentation (4)
@@ -1158,7 +1078,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/concepts-et-modes-de-presen
 END:VEVENT
 BEGIN:VEVENT
 UID:830305b563c07d1224f16a6b3591ce03@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261130T093000Z
 DTEND:20261130T113000Z
 SUMMARY:Lecture de textes en lien avec le cours (5)
@@ -1168,7 +1088,7 @@ URL:https://www.college-de-france.fr/fr/agenda/seminaire/lecture-de-textes-en-li
 END:VEVENT
 BEGIN:VEVENT
 UID:0c61e734fae39ef474a39ca40184ec29@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261130T100000Z
 DTEND:20261130T113000Z
 SUMMARY:Les « Épouses du dieu » à Thèbes (7)
@@ -1178,7 +1098,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/les-epouses-du-dieu-thebes/
 END:VEVENT
 BEGIN:VEVENT
 UID:2c9393355211db0997f2a474c1ece353@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261130T140000Z
 DTEND:20261130T160000Z
 SUMMARY:Chester Himes\, William Faulkner\, La boucle du Niger de Paul Bowles et de Miquel Barceló. Peau noire\, masques blancs de Frantz Fanon
@@ -1188,7 +1108,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/sortir-de-cette-chambre-moi
 END:VEVENT
 BEGIN:VEVENT
 UID:b9515d0a584226a91c94040104c6777a@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261130T150000Z
 DTEND:20261130T163000Z
 SUMMARY:Thermodynamique du métabolisme
@@ -1198,7 +1118,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/bioenergetique-et-metabolis
 END:VEVENT
 BEGIN:VEVENT
 UID:bf69eea7eeddd8139c7a247486fe377d@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261201T090000Z
 DTEND:20261201T110000Z
 SUMMARY:Voies métaboliques : principes et régulation
@@ -1208,7 +1128,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/bioenergetique-et-metabolis
 END:VEVENT
 BEGIN:VEVENT
 UID:399dc26de8e739fb2a77b69ef3833fec@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261201T133000Z
 DTEND:20261201T150000Z
 SUMMARY:Stress oxydant et réponse thérapeutique (3) (4)
@@ -1218,7 +1138,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/stress-oxydant-et-reponse-t
 END:VEVENT
 BEGIN:VEVENT
 UID:94d26375eaad1e83456a9560a057f8a3@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261202T090000Z
 DTEND:20261202T110000Z
 SUMMARY:La question de la Palestine au XXIe siècle (4)
@@ -1228,7 +1148,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/la-question-de-la-palestine
 END:VEVENT
 BEGIN:VEVENT
 UID:1049e58fd0f0adb1d496df7669d02beb@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261202T100000Z
 DTEND:20261202T113000Z
 SUMMARY:Les sarcophages des épouses du dieu et de leurs plus hauts fonctionnaires. L’évolution de leur décoration sous les aspects régionaux\, sociaux et chronologiques
@@ -1238,7 +1158,7 @@ URL:https://www.college-de-france.fr/fr/agenda/seminaire/autour-des-epouses-du-d
 END:VEVENT
 BEGIN:VEVENT
 UID:73f1108a0e735faa4766d5a84b416c0e@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261202T154500Z
 DTEND:20261202T174500Z
 SUMMARY:Focus sur Vénus et Mercure : le modèle alternatif de la pebble accretion
@@ -1248,7 +1168,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/la-formation-des-planetes-t
 END:VEVENT
 BEGIN:VEVENT
 UID:a95f794daa5c4978ca4a7bcdb18429b9@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261203T083000Z
 DTEND:20261203T100000Z
 SUMMARY:Relations logiques 1
@@ -1258,7 +1178,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/equivalences-de-programmes/
 END:VEVENT
 BEGIN:VEVENT
 UID:71ab5463ff6f2250bac40e8c91cb7d51@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261203T100000Z
 DTEND:20261203T110000Z
 SUMMARY:Retour vers le Dao : entre empire et emprise (4)
@@ -1268,7 +1188,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/retour-vers-le-dao-entre-em
 END:VEVENT
 BEGIN:VEVENT
 UID:676ac835fa5708fe692fbcf171b77603@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261203T101500Z
 DTEND:20261203T111500Z
 SUMMARY:Logique relationnelle probabiliste et ses applications à la cryptographie
@@ -1278,7 +1198,7 @@ URL:https://www.college-de-france.fr/fr/agenda/seminaire/equivalences-de-program
 END:VEVENT
 BEGIN:VEVENT
 UID:853c835b65cf98512a389b0431ec1ab7@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261203T130000Z
 DTEND:20261203T140000Z
 SUMMARY:Carbon Isotope Labeling: A necessity for Pharmaceutical Development
@@ -1288,7 +1208,7 @@ URL:https://www.college-de-france.fr/fr/agenda/conferencier-invite/contributions
 END:VEVENT
 BEGIN:VEVENT
 UID:8c516e82415ad326216137ee2ac0229a@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261203T170000Z
 DTEND:20261203T180000Z
 SUMMARY:Microbiologie planétaire
@@ -1298,7 +1218,7 @@ URL:https://www.college-de-france.fr/fr/agenda/lecon-inaugurale/microbiologie-pl
 END:VEVENT
 BEGIN:VEVENT
 UID:3fb34d05f4a4c00bb0e2900bd23d2e5d@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261204T083000Z
 DTEND:20261204T100000Z
 SUMMARY:Biogenèse et biologie du globule rouge et pathologies associées (4)
@@ -1308,7 +1228,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/biogenese-et-biologie-du-gl
 END:VEVENT
 BEGIN:VEVENT
 UID:647f49cec02a7bea14c5c0929f03ca6f@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261207T093000Z
 DTEND:20261207T110000Z
 SUMMARY:Concepts et modes de présentation (5)
@@ -1318,7 +1238,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/concepts-et-modes-de-presen
 END:VEVENT
 BEGIN:VEVENT
 UID:685a03a044ecb492cf74df3c4e98d4d0@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261207T093000Z
 DTEND:20261207T113000Z
 SUMMARY:Lecture de textes en lien avec le cours (6)
@@ -1328,7 +1248,7 @@ URL:https://www.college-de-france.fr/fr/agenda/seminaire/lecture-de-textes-en-li
 END:VEVENT
 BEGIN:VEVENT
 UID:afe6081f2bb14fb9ef75724030a88c9e@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261207T140000Z
 DTEND:20261207T160000Z
 SUMMARY:Écrire\, tourner\, monter
@@ -1338,7 +1258,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/sortir-de-cette-chambre-moi
 END:VEVENT
 BEGIN:VEVENT
 UID:fd2444aa88f3125c4a86a56286b42ce6@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261207T150000Z
 DTEND:20261207T163000Z
 SUMMARY:Lois d'échelle métaboliques. Loi de Kleiber
@@ -1348,7 +1268,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/bioenergetique-et-metabolis
 END:VEVENT
 BEGIN:VEVENT
 UID:8d3dd6711a7c078c82ef1a75dca76571@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261208T090000Z
 DTEND:20261208T110000Z
 SUMMARY:Budget énergétique cellulaire et de l'organisme
@@ -1358,7 +1278,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/bioenergetique-et-metabolis
 END:VEVENT
 BEGIN:VEVENT
 UID:3104adf19c32fad6584aa3b033011534@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261209T090000Z
 DTEND:20261209T110000Z
 SUMMARY:La question de la Palestine au XXIe siècle (5)
@@ -1368,7 +1288,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/la-question-de-la-palestine
 END:VEVENT
 BEGIN:VEVENT
 UID:ca3eeed013356b21ed9fb4a7c658d35a@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261209T100000Z
 DTEND:20261209T113000Z
 SUMMARY:Les réseaux de pouvoir de reines\, princesses et prêtresses de l’Ancien au Nouvel Empire
@@ -1378,7 +1298,7 @@ URL:https://www.college-de-france.fr/fr/agenda/seminaire/autour-des-epouses-du-d
 END:VEVENT
 BEGIN:VEVENT
 UID:6e1a1cfda782c8fde3d58780502db61b@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261209T133000Z
 DTEND:20261209T150000Z
 SUMMARY:Prêtresses et femmes consacrées dans la Babylonie du IIe millénaire
@@ -1388,7 +1308,7 @@ URL:https://www.college-de-france.fr/fr/agenda/seminaire/autour-des-epouses-du-d
 END:VEVENT
 BEGIN:VEVENT
 UID:1d41eb69bb603d1b1f20bbf7931c8a06@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261210T083000Z
 DTEND:20261210T100000Z
 SUMMARY:Relations logiques 2
@@ -1398,7 +1318,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/equivalences-de-programmes/
 END:VEVENT
 BEGIN:VEVENT
 UID:99e22636a5dccb81f5e642d962663c92@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261210T100000Z
 DTEND:20261210T110000Z
 SUMMARY:Retour vers le Dao : entre empire et emprise (5)
@@ -1408,7 +1328,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/retour-vers-le-dao-entre-em
 END:VEVENT
 BEGIN:VEVENT
 UID:2474b057d941988c0b3f33189114c48e@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261210T101500Z
 DTEND:20261210T111500Z
 SUMMARY:La sémantique de l'allocation dynamique : des noms frais aux faisceaux
@@ -1418,7 +1338,7 @@ URL:https://www.college-de-france.fr/fr/agenda/seminaire/equivalences-de-program
 END:VEVENT
 BEGIN:VEVENT
 UID:797a54b3a692b4118b2c524740bd5b6d@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261210T130000Z
 DTEND:20261210T143000Z
 SUMMARY:La matière noire de la biodiversité et l’arbre du vivant
@@ -1428,7 +1348,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/la-nouvelle-microbiologie-d
 END:VEVENT
 BEGIN:VEVENT
 UID:cd20b21433d38efd49b3d93f40727537@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261210T170000Z
 DTEND:20261210T180000Z
 SUMMARY:Société juste\, société heureuse
@@ -1438,7 +1358,7 @@ URL:https://www.college-de-france.fr/fr/agenda/lecon-inaugurale/societe-juste-so
 END:VEVENT
 BEGIN:VEVENT
 UID:7a25db4eb3041fcfd5a1a5dcadac7f2b@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261214T093000Z
 DTEND:20261214T110000Z
 SUMMARY:Concepts et modes de présentation (6)
@@ -1448,7 +1368,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/concepts-et-modes-de-presen
 END:VEVENT
 BEGIN:VEVENT
 UID:1ee35f659b5f69534a4b041fa141ceb2@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261214T093000Z
 DTEND:20261214T113000Z
 SUMMARY:Lecture de textes en lien avec le cours (7)
@@ -1458,7 +1378,7 @@ URL:https://www.college-de-france.fr/fr/agenda/seminaire/lecture-de-textes-en-li
 END:VEVENT
 BEGIN:VEVENT
 UID:2cf75904181eff2df1b1dd2a313c8bff@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261214T100000Z
 DTEND:20261214T113000Z
 SUMMARY:Les « Épouses du dieu » à Thèbes (8)
@@ -1468,7 +1388,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/les-epouses-du-dieu-thebes/
 END:VEVENT
 BEGIN:VEVENT
 UID:4f1aae8bef2b5ac91fb5448c674a1c43@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261214T140000Z
 DTEND:20261214T160000Z
 SUMMARY:La musique
@@ -1478,7 +1398,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/sortir-de-cette-chambre-moi
 END:VEVENT
 BEGIN:VEVENT
 UID:088d253d53897c88571fc116768ec8bf@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261214T150000Z
 DTEND:20261214T163000Z
 SUMMARY:Métabolisme des cellules cancéreuses. Effet Warburg
@@ -1488,7 +1408,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/bioenergetique-et-metabolis
 END:VEVENT
 BEGIN:VEVENT
 UID:e0f235c9f53a8bff7a95ba32cdd95abd@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261215T090000Z
 DTEND:20261215T100000Z
 SUMMARY:Au-delà du PIB: pourquoi et vers quoi?
@@ -1498,7 +1418,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/de-nouveaux-indicateurs-pou
 END:VEVENT
 BEGIN:VEVENT
 UID:8393dc23b9806d1bc15de60020d577aa@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261215T090000Z
 DTEND:20261215T110000Z
 SUMMARY:Contraintes énergétiques
@@ -1508,7 +1428,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/bioenergetique-et-metabolis
 END:VEVENT
 BEGIN:VEVENT
 UID:accebe36d047e577eba1f11439bfe936@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261215T163000Z
 DTEND:20261215T180000Z
 SUMMARY:Histoire et postérité d’une leçon : « Qu’est-ce que les Lumières ? »
@@ -1518,7 +1438,7 @@ URL:https://www.college-de-france.fr/fr/agenda/grand-evenement/michel-foucault-a
 END:VEVENT
 BEGIN:VEVENT
 UID:6748d7ac6d54aa2151a715f968b0256f@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261216T090000Z
 DTEND:20261216T110000Z
 SUMMARY:La question de la Palestine au XXIe siècle (6)
@@ -1528,7 +1448,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/la-question-de-la-palestine
 END:VEVENT
 BEGIN:VEVENT
 UID:17f8c0b025e75798d690562dd10e88ea@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261216T100000Z
 DTEND:20261216T113000Z
 SUMMARY:Agency in Image Making: Visual Strategies of the God’s Wives of Amun
@@ -1538,7 +1458,7 @@ URL:https://www.college-de-france.fr/fr/agenda/seminaire/autour-des-epouses-du-d
 END:VEVENT
 BEGIN:VEVENT
 UID:da68b5a0516dd06c7f542b39fd187d86@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261217T083000Z
 DTEND:20261217T100000Z
 SUMMARY:Logiques de programmes relationnelles
@@ -1548,7 +1468,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/equivalences-de-programmes/
 END:VEVENT
 BEGIN:VEVENT
 UID:2271c6f2093b23fdd1f148bd4f898feb@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261217T100000Z
 DTEND:20261217T110000Z
 SUMMARY:Retour vers le Dao : entre empire et emprise (6)
@@ -1558,7 +1478,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/retour-vers-le-dao-entre-em
 END:VEVENT
 BEGIN:VEVENT
 UID:db9a70152a1771e8838c7b250611df23@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261217T101500Z
 DTEND:20261217T111500Z
 SUMMARY:Équivalences de programmes (7)
@@ -1568,7 +1488,7 @@ URL:https://www.college-de-france.fr/fr/agenda/seminaire/equivalences-de-program
 END:VEVENT
 BEGIN:VEVENT
 UID:96a5f41ac4585c1a459ec40e74de1ca4@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261217T130000Z
 DTEND:20261217T143000Z
 SUMMARY:Interactions entre micro-organismes
@@ -1578,7 +1498,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/la-nouvelle-microbiologie-d
 END:VEVENT
 BEGIN:VEVENT
 UID:39bdf57c251ec1cd7fd40f71694c626a@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261218T130000Z
 DTEND:20261218T143000Z
 SUMMARY:Biogenèse et biologie du globule rouge et pathologies associées (5)
@@ -1588,7 +1508,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/biogenese-et-biologie-du-gl
 END:VEVENT
 BEGIN:VEVENT
 UID:e421a26e035b3e46d323ff6b857d11fd@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20261218T143000Z
 DTEND:20261218T160000Z
 SUMMARY:Biogenèse et biologie du globule rouge et pathologies associées (1)
@@ -1598,7 +1518,7 @@ URL:https://www.college-de-france.fr/fr/agenda/seminaire/biogenese-et-biologie-d
 END:VEVENT
 BEGIN:VEVENT
 UID:edc576a5e03551c839ea20997301194d@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270104T100000Z
 DTEND:20270104T113000Z
 SUMMARY:Les « Épouses du dieu » à Thèbes (9)
@@ -1608,7 +1528,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/les-epouses-du-dieu-thebes/
 END:VEVENT
 BEGIN:VEVENT
 UID:db028bc456c3c08065fdbe065dd43e60@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270104T140000Z
 DTEND:20270104T160000Z
 SUMMARY:Adapter un livre
@@ -1618,7 +1538,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/sortir-de-cette-chambre-moi
 END:VEVENT
 BEGIN:VEVENT
 UID:d8efb43b4f1e4b4085ec3e7fd06357f4@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270105T090000Z
 DTEND:20270105T100000Z
 SUMMARY:Au-delà du profit: pourquoi et vers quoi?
@@ -1628,7 +1548,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/de-nouveaux-indicateurs-pou
 END:VEVENT
 BEGIN:VEVENT
 UID:2267a132cf616e4050b0ef56d188eabd@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270105T130000Z
 DTEND:20270105T140000Z
 SUMMARY:Vies et morts de François Villon (1)
@@ -1638,7 +1558,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/vies-et-morts-de-francois-v
 END:VEVENT
 BEGIN:VEVENT
 UID:4ee4d908fa799252ea10d5af7b9f84af@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270105T160000Z
 DTEND:20270105T170000Z
 SUMMARY:Trouble dans la littérature (1)
@@ -1648,7 +1568,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/trouble-dans-la-litterature
 END:VEVENT
 BEGIN:VEVENT
 UID:f119061273722c945a08cebdb5277a18@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270105T170000Z
 DTEND:20270105T180000Z
 SUMMARY:Littérature générale et singulière (1)
@@ -1658,7 +1578,7 @@ URL:https://www.college-de-france.fr/fr/agenda/seminaire/litterature-generale-et
 END:VEVENT
 BEGIN:VEVENT
 UID:65178a048263502dc013c14a9717b699@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270106T090000Z
 DTEND:20270106T110000Z
 SUMMARY:Chaos et phénomènes universels en théorie spectrale (1)
@@ -1668,7 +1588,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/chaos-et-phenomenes-univers
 END:VEVENT
 BEGIN:VEVENT
 UID:b6c40dd27179d586c3f1126371d770ad@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270106T100000Z
 DTEND:20270106T113000Z
 SUMMARY:Vierges ou épouses : le statut des prêtresses romaines
@@ -1678,7 +1598,7 @@ URL:https://www.college-de-france.fr/fr/agenda/seminaire/autour-des-epouses-du-d
 END:VEVENT
 BEGIN:VEVENT
 UID:5a2cb7e54f7c524d80c5c7076371ee27@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270106T130000Z
 DTEND:20270106T140000Z
 SUMMARY:Charlatans (2) : trouble dans l’autorité (1)
@@ -1688,7 +1608,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/charlatans-2-trouble-dans-a
 END:VEVENT
 BEGIN:VEVENT
 UID:3e8437fc54786fadaf47a29f8f7cf380@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270106T160000Z
 DTEND:20270106T173000Z
 SUMMARY:La femme est-elle un Homme préhistorique comme les autres ? (1)
@@ -1698,7 +1618,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/la-femme-est-elle-un-homme-
 END:VEVENT
 BEGIN:VEVENT
 UID:a6cc0bf9026cef969d3d10c1cbbfe099@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270107T100000Z
 DTEND:20270107T110000Z
 SUMMARY:Retour vers le Dao : entre empire et emprise (7)
@@ -1708,7 +1628,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/retour-vers-le-dao-entre-em
 END:VEVENT
 BEGIN:VEVENT
 UID:c1965332eff959aa2006ae7cb9e58c7a@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270107T130000Z
 DTEND:20270107T143000Z
 SUMMARY:Interactions entre micro-organismes et leurs hôtes : pathogenèse et symbiose\, une question de contexte
@@ -1718,7 +1638,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/la-nouvelle-microbiologie-d
 END:VEVENT
 BEGIN:VEVENT
 UID:772aa6b2189deaa2d38c81ec18022f4f@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270108T083000Z
 DTEND:20270108T100000Z
 SUMMARY:Biogenèse et biologie du globule rouge et pathologies associées (6)
@@ -1728,7 +1648,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/biogenese-et-biologie-du-gl
 END:VEVENT
 BEGIN:VEVENT
 UID:f6fd6b2443640d07ba01557b2176b79b@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270108T100000Z
 DTEND:20270108T113000Z
 SUMMARY:Biogenèse et biologie du globule rouge et pathologies associées (2)
@@ -1738,7 +1658,7 @@ URL:https://www.college-de-france.fr/fr/agenda/seminaire/biogenese-et-biologie-d
 END:VEVENT
 BEGIN:VEVENT
 UID:47952a45453048cfd05685d22be06ee7@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270111T100000Z
 DTEND:20270111T110000Z
 SUMMARY:Villes de Mésopotamie à l’époque paléo-babylonienne : un tour d’horizon (1)
@@ -1748,7 +1668,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/villes-de-mesopotamie-epoqu
 END:VEVENT
 BEGIN:VEVENT
 UID:4406f1d996be7228081ed23dbb7c0163@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270112T090000Z
 DTEND:20270112T100000Z
 SUMMARY:Le bonheur national brut et ses limites
@@ -1758,7 +1678,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/de-nouveaux-indicateurs-pou
 END:VEVENT
 BEGIN:VEVENT
 UID:dafccc8354a8f050789bcb66b832dc97@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270112T130000Z
 DTEND:20270112T140000Z
 SUMMARY:Vies et morts de François Villon (2)
@@ -1768,7 +1688,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/vies-et-morts-de-francois-v
 END:VEVENT
 BEGIN:VEVENT
 UID:c95f9d4111d84b41ab2902bdcca84324@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270112T160000Z
 DTEND:20270112T170000Z
 SUMMARY:Trouble dans la littérature (2)
@@ -1778,7 +1698,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/trouble-dans-la-litterature
 END:VEVENT
 BEGIN:VEVENT
 UID:be51a3d0a5bd2a47e64db461939d52a3@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270112T170000Z
 DTEND:20270112T180000Z
 SUMMARY:Littérature générale et singulière (2)
@@ -1788,7 +1708,7 @@ URL:https://www.college-de-france.fr/fr/agenda/seminaire/litterature-generale-et
 END:VEVENT
 BEGIN:VEVENT
 UID:ca1e1524711ab8b5ac5913d0dd5a7611@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270113T083000Z
 DTEND:20270113T100000Z
 SUMMARY:Modèles de diffusion et multi-échelles en intelligence artificielle (1)
@@ -1798,7 +1718,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/modeles-de-diffusion-et-mul
 END:VEVENT
 BEGIN:VEVENT
 UID:c2f24c73060596c1075b7ae5decad049@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270113T090000Z
 DTEND:20270113T110000Z
 SUMMARY:Chaos et phénomènes universels en théorie spectrale (2)
@@ -1808,7 +1728,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/chaos-et-phenomenes-univers
 END:VEVENT
 BEGIN:VEVENT
 UID:20255bec2a8788735aaae374b90ff6bb@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270113T100000Z
 DTEND:20270113T113000Z
 SUMMARY:Modèles de diffusion et multi-échelles en intelligence artificielle (1)
@@ -1818,7 +1738,7 @@ URL:https://www.college-de-france.fr/fr/agenda/seminaire/modeles-de-diffusion-et
 END:VEVENT
 BEGIN:VEVENT
 UID:ebcac5dc806375b3b5b099f594170951@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270113T130000Z
 DTEND:20270113T140000Z
 SUMMARY:Charlatans (2) : trouble dans l’autorité (2)
@@ -1828,7 +1748,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/charlatans-2-trouble-dans-a
 END:VEVENT
 BEGIN:VEVENT
 UID:05d52ccc24b9cd3e8489cfe1cfdcc57b@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270113T160000Z
 DTEND:20270113T173000Z
 SUMMARY:La femme est-elle un Homme préhistorique comme les autres ? (2)
@@ -1838,7 +1758,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/la-femme-est-elle-un-homme-
 END:VEVENT
 BEGIN:VEVENT
 UID:8307a40dd1f44d2da70ef0bc1c776886@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270114T130000Z
 DTEND:20270114T143000Z
 SUMMARY:Biofilms et microbiotes\, le collectif microbien
@@ -1848,7 +1768,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/la-nouvelle-microbiologie-d
 END:VEVENT
 BEGIN:VEVENT
 UID:e94fb711a87d1e8600c560fe858e847b@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270114T133000Z
 DTEND:20270114T143000Z
 SUMMARY:Retour vers le Dao : entre empire et emprise (8)
@@ -1858,7 +1778,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/retour-vers-le-dao-entre-em
 END:VEVENT
 BEGIN:VEVENT
 UID:0028c49c09d9a5ce19c9f11bd0a777a1@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270114T170000Z
 DTEND:20270114T180000Z
 SUMMARY:« La chancelante équivocité du monde ». Philosophie et politique des intraduisibles
@@ -1868,7 +1788,7 @@ URL:https://www.college-de-france.fr/fr/agenda/lecon-inaugurale/la-chancelante-e
 END:VEVENT
 BEGIN:VEVENT
 UID:754f25aa7f324032e0ef5aa7c1630999@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270118T100000Z
 DTEND:20270118T110000Z
 SUMMARY:Villes de Mésopotamie à l’époque paléo-babylonienne : un tour d’horizon (2)
@@ -1878,7 +1798,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/villes-de-mesopotamie-epoqu
 END:VEVENT
 BEGIN:VEVENT
 UID:b548f2e2a7a5d5754b033d72be71fa76@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270118T130000Z
 DTEND:20270118T143000Z
 SUMMARY:Villes en été\, villages en hiver : récentes découvertes au sujet de la Corne de l’Afrique au Moyen Âge (1) Introduction
@@ -1888,7 +1808,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/villes-en-ete-villages-en-h
 END:VEVENT
 BEGIN:VEVENT
 UID:a8c24e2dcedeee46c55a34e3e0c3a3a6@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270118T163000Z
 DTEND:20270118T173000Z
 SUMMARY:Exposer la traduction
@@ -1898,7 +1818,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/la-langue-de-europe/exposer
 END:VEVENT
 BEGIN:VEVENT
 UID:08f82c885b682e529af6afc5ae27a480@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270119T083000Z
 DTEND:20270119T100000Z
 SUMMARY:Espèces réactives et intermédiaires (2) (1)
@@ -1908,7 +1828,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/especes-reactives-et-interm
 END:VEVENT
 BEGIN:VEVENT
 UID:fe8d4da79c2ce7ee6b7c52335b5c6bcb@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270119T090000Z
 DTEND:20270119T100000Z
 SUMMARY:L'égalité des chances et la responsabilité individuelle
@@ -1918,7 +1838,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/de-nouveaux-indicateurs-pou
 END:VEVENT
 BEGIN:VEVENT
 UID:bd4f957b7c15aa80ab25d9f1b6b91307@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270119T100000Z
 DTEND:20270119T110000Z
 SUMMARY:Espèces réactives et intermédiaires (2) (1)
@@ -1928,7 +1848,7 @@ URL:https://www.college-de-france.fr/fr/agenda/seminaire/especes-reactives-et-in
 END:VEVENT
 BEGIN:VEVENT
 UID:7b99d8695432e14707b948040d7bbb52@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270119T130000Z
 DTEND:20270119T140000Z
 SUMMARY:Vies et morts de François Villon (3)
@@ -1938,7 +1858,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/vies-et-morts-de-francois-v
 END:VEVENT
 BEGIN:VEVENT
 UID:20017f42d05be9480eface68219b30cf@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270119T160000Z
 DTEND:20270119T170000Z
 SUMMARY:Trouble dans la littérature (3)
@@ -1948,7 +1868,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/trouble-dans-la-litterature
 END:VEVENT
 BEGIN:VEVENT
 UID:2c3883a42f3551d20fbd83bf606dd6d5@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270119T170000Z
 DTEND:20270119T180000Z
 SUMMARY:Littérature générale et singulière (3)
@@ -1958,7 +1878,7 @@ URL:https://www.college-de-france.fr/fr/agenda/seminaire/litterature-generale-et
 END:VEVENT
 BEGIN:VEVENT
 UID:52ea5ce39d63f9742e2fd1795995a0f3@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270120T083000Z
 DTEND:20270120T100000Z
 SUMMARY:Modèles de diffusion et multi-échelles en intelligence artificielle (2)
@@ -1968,7 +1888,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/modeles-de-diffusion-et-mul
 END:VEVENT
 BEGIN:VEVENT
 UID:4d796ca9caae12f0097ec9f6a18eddd8@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270120T090000Z
 DTEND:20270120T110000Z
 SUMMARY:Chaos et phénomènes universels en théorie spectrale (3)
@@ -1978,7 +1898,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/chaos-et-phenomenes-univers
 END:VEVENT
 BEGIN:VEVENT
 UID:d59c26eab276990f7fe4e5d44578eaed@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270120T100000Z
 DTEND:20270120T113000Z
 SUMMARY:Modèles de diffusion et multi-échelles en intelligence artificielle (2)
@@ -1988,7 +1908,7 @@ URL:https://www.college-de-france.fr/fr/agenda/seminaire/modeles-de-diffusion-et
 END:VEVENT
 BEGIN:VEVENT
 UID:f1abc3da4863bd182aaa0346b8e51789@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270120T130000Z
 DTEND:20270120T140000Z
 SUMMARY:Charlatans (2) : trouble dans l’autorité (3)
@@ -1998,7 +1918,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/charlatans-2-trouble-dans-a
 END:VEVENT
 BEGIN:VEVENT
 UID:b8049abc5f29c1068c1e4209ff18810e@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270120T160000Z
 DTEND:20270120T173000Z
 SUMMARY:La femme est-elle un Homme préhistorique comme les autres ? (3)
@@ -2008,7 +1928,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/la-femme-est-elle-un-homme-
 END:VEVENT
 BEGIN:VEVENT
 UID:99b94d1cd32bceb9b015c507f71536cc@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270121T100000Z
 DTEND:20270121T110000Z
 SUMMARY:Retour vers le Dao : entre empire et emprise (9)
@@ -2018,7 +1938,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/retour-vers-le-dao-entre-em
 END:VEVENT
 BEGIN:VEVENT
 UID:15b28585f7f19dc6d41aa16eb320e295@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270121T130000Z
 DTEND:20270121T143000Z
 SUMMARY:Les micro-organismes\, architectes des écosystèmes
@@ -2028,7 +1948,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/la-nouvelle-microbiologie-d
 END:VEVENT
 BEGIN:VEVENT
 UID:1fcc1d86ca961a4538a582efb4ab4e74@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270121T170000Z
 DTEND:20270121T180000Z
 SUMMARY:Étudier la propagation des maladies infectieuses : à la croisée de l’épidémiologie\, des mathématiques et de la santé publique
@@ -2038,7 +1958,7 @@ URL:https://www.college-de-france.fr/fr/agenda/lecon-inaugurale/etudier-la-propa
 END:VEVENT
 BEGIN:VEVENT
 UID:87ee88a923b00c85c8fa23a07e9c41e9@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270125T100000Z
 DTEND:20270125T110000Z
 SUMMARY:Modéliser la propagation d’un agent infectieux à travers différentes structures populationnelles
@@ -2048,7 +1968,7 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/modeliser-les-epidemies-don
 END:VEVENT
 BEGIN:VEVENT
 UID:98b715f0cce1f4811067e885803e697e@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270125T100000Z
 DTEND:20270125T110000Z
 SUMMARY:Villes de Mésopotamie à l’époque paléo-babylonienne : un tour d’horizon (3)
@@ -2058,12 +1978,32 @@ URL:https://www.college-de-france.fr/fr/agenda/cours/villes-de-mesopotamie-epoqu
 END:VEVENT
 BEGIN:VEVENT
 UID:08f8e26d6498a3855b5e7cb0cc3dd85c@conferences
-DTSTAMP:20261008T202635Z
+DTSTAMP:20261008T225801Z
 DTSTART:20270125T130000Z
 DTEND:20270125T143000Z
 SUMMARY:Villes en été\, villages en hiver : récentes découvertes au sujet de la Corne de l’Afrique au Moyen Âge (2) Freins et avancées de la recherche
 LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
 DESCRIPTION:Type : Cours\nIntervenant : François-Xavier Fauvelle\nCycle : Villes en été\, villages en hiver : récentes découvertes au sujet de la Corne de l’Afrique au Moyen Âge\nLien : https://www.college-de-france.fr/fr/agenda/cours/villes-en-ete-villages-en-hiver-recentes-decouvertes-au-sujet-de-la-corne-de-afrique-au-moyen-age/villes-en-ete-villages-en-hiver-recentes-decouvertes-au-sujet-de-la-corne-de-afrique-au-moyen-age-2
 URL:https://www.college-de-france.fr/fr/agenda/cours/villes-en-ete-villages-en-hiver-recentes-decouvertes-au-sujet-de-la-corne-de-afrique-au-moyen-age/villes-en-ete-villages-en-hiver-recentes-decouvertes-au-sujet-de-la-corne-de-afrique-au-moyen-age-2
+END:VEVENT
+BEGIN:VEVENT
+UID:8e1dcf9203abfcf34fb33d25d4b0eb5a@conferences
+DTSTAMP:20261008T225801Z
+DTSTART:20270125T163000Z
+DTEND:20270125T173000Z
+SUMMARY:« Plus d’une langue ». Le premier Dictionnaire des intraduisibles
+LOCATION:Amphithéâtre Marguerite-de-Navarre\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Barbara Cassin\nCycle : La langue de l’Europe ?\nLien : https://www.college-de-france.fr/fr/agenda/cours/la-langue-de-europe/plus-une-langue-le-premier-dictionnaire-des-intraduisibles
+URL:https://www.college-de-france.fr/fr/agenda/cours/la-langue-de-europe/plus-une-langue-le-premier-dictionnaire-des-intraduisibles
+END:VEVENT
+BEGIN:VEVENT
+UID:b6f0b3a804f2135ce6e7be43024c49a4@conferences
+DTSTAMP:20261008T225801Z
+DTSTART:20270126T083000Z
+DTEND:20270126T100000Z
+SUMMARY:Espèces réactives et intermédiaires (2) (2)
+LOCATION:Amphithéâtre Mireille-Delmas-Marty\, Site Marcelin-Berthelot
+DESCRIPTION:Type : Cours\nIntervenant : Louis Fensterbank\nCycle : Espèces réactives et intermédiaires (2)\nLien : https://www.college-de-france.fr/fr/agenda/cours/especes-reactives-et-intermediaires-2/especes-reactives-et-intermediaires-2-2
+URL:https://www.college-de-france.fr/fr/agenda/cours/especes-reactives-et-intermediaires-2/especes-reactives-et-intermediaires-2-2
 END:VEVENT
 END:VCALENDAR

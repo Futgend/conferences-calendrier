@@ -526,6 +526,12 @@ def ihpst():
     return sorted(events.values(), key=lambda e: e["start"])
 
 
+RAPPELS = {
+    "UE560": "Mot de passe du cours (Moodle) : à retrouver dans ton app Mots de passe.",
+    "UE244": "Mot de passe des documents du cours : à retrouver dans ton app Mots de passe.",
+}
+
+
 def enseignements_ehess():
     """Séances des cours de sciences cognitives à l'EHESS, déduites du rythme annoncé sur Néobab."""
     with open("enseignements-ehess.json", encoding="utf-8") as f:
@@ -560,7 +566,7 @@ def enseignements_ehess():
                     f"Lecture : {extra['lecture']}" if extra.get("lecture") else "",
                     f"Intervenant invité : {extra['intervenant']}" if extra.get("intervenant") else "",
                     f"Supports : {extra['supports']}" if extra.get("supports") else "",
-                    f"Enseignants : {c['enseignants']}", note,
+                    f"Enseignants : {c['enseignants']}", note, RAPPELS.get(c["ue"], ""),
                     f"Moodle : {c['moodle']}" if c.get("moodle") else "",
                     *[f"{n} : {u}" for n, u in c.get("liens", [])], f"Lien : {url}"] if x),
                 "url": f"{c.get('moodle') or c.get('site') or url}#{d}",

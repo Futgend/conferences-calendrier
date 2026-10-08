@@ -539,20 +539,28 @@ def enseignements_ehess():
         if c["statut"] == "a_confirmer":
             note = (f"DATES À CONFIRMER : {c['annonce']} séances annoncées pour {n} créneaux possibles "
                     "(vacances et jours fériés déjà retirés).")
+        elif c["statut"] == "confirme":
+            note = "Dates et salles d'après le programme du cours sur Moodle."
         elif c["statut"] == "calcule":
             note = "Dates calculées d'après les indications de la page (2e mardi du mois)."
         else:
             note = "Dates déduites du rythme annoncé et des vacances de Paris (concordent avec le nombre de séances annoncé)."
-        for i, d in enumerate(c["dates"], 1):
+        for i, item in enumerate(c["dates"], 1):
+            d = item["d"] if isinstance(item, dict) else item
+            extra = item if isinstance(item, dict) else {}
             y, mo, j = map(int, d.split("-"))
             seance = f"créneau {i} sur {n} possibles" if c["statut"] == "a_confirmer" else f"séance {i}/{n}"
             events.append({
-                "title": c["titre"],
+                "title": c["titre"] + (" · " + extra["sujet"] if extra.get("sujet") else ""),
                 "start": datetime(y, mo, j, h1, m1, tzinfo=PARIS),
                 "end": datetime(y, mo, j, h2, m2, tzinfo=PARIS),
-                "all_day": False, "place": c["lieu"],
-                "description": "\n".join([f"{c['ue']} · {seance}", f"Enseignants : {c['enseignants']}", note, f"Lien : {url}"]),
-                "url": f"{url}#{d}",
+                "all_day": False, "place": extra.get("lieu", c["lieu"]),
+                "description": "\n".join(x for x in [
+                    f"{c['ue']} · {seance}" + (f" : {extra['sujet']}" if extra.get("sujet") else ""),
+                    f"Lecture : {extra['lecture']}" if extra.get("lecture") else "",
+                    f"Enseignants : {c['enseignants']}", note,
+                    f"Moodle : {c['moodle']}" if c.get("moodle") else "", f"Lien : {url}"] if x),
+                "url": f"{c.get('moodle', url)}#{d}",
             })
     return sorted(events, key=lambda e: e["start"])
 

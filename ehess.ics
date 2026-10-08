@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:24e79c7207780b4d33dd60ce9fbe0222@conferences
-DTSTAMP:20261008T192912Z
+DTSTAMP:20261008T202649Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20270618
 SUMMARY:Conférences publiques de l’IISMM - Cycle 2026-2027
@@ -18,7 +18,7 @@ URL:https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-
 END:VEVENT
 BEGIN:VEVENT
 UID:0acea516819246812388561434f39a7c@conferences
-DTSTAMP:20261008T192912Z
+DTSTAMP:20261008T202649Z
 DTSTART:20261008T073000Z
 DTEND:20261008T160000Z
 SUMMARY:Autour du livre Éclats du romantisme de Raymond Bellour
@@ -28,7 +28,7 @@ URL:https://www.ehess.fr/jcms/279420_JEvent/fr/autour-du-livre-eclats-du-romanti
 END:VEVENT
 BEGIN:VEVENT
 UID:47f2d2df8de290c59aeb1a5a2717602d@conferences
-DTSTAMP:20261008T192912Z
+DTSTAMP:20261008T202649Z
 DTSTART:20261012T070000Z
 DTEND:20261012T150000Z
 SUMMARY:Articuler étude de la sexualité et de la religion : socialisations\, institutions et politisations
@@ -38,7 +38,7 @@ URL:https://www.ehess.fr/jcms/278053_JEvent/fr/articuler-etude-de-la-sexualite-e
 END:VEVENT
 BEGIN:VEVENT
 UID:ac0eaa5d9dcf2097d031e7771c9d84fa@conferences
-DTSTAMP:20261008T192912Z
+DTSTAMP:20261008T202649Z
 DTSTART:20261012T120000Z
 DTEND:20261012T131500Z
 SUMMARY:Réunions d'information "Reprise d'études"
@@ -48,7 +48,7 @@ URL:https://www.ehess.fr/jcms/37175_JEvent/fr/reunions-d-information-reprise-d-e
 END:VEVENT
 BEGIN:VEVENT
 UID:ba01943f648dbd97296090e39c6cb782@conferences
-DTSTAMP:20261008T192912Z
+DTSTAMP:20261008T202649Z
 DTSTART:20261013T070000Z
 DTEND:20261013T170000Z
 SUMMARY:Les rencontres doctorales - SoLaRe
@@ -58,7 +58,7 @@ URL:https://www.ehess.fr/jcms/284330_JEvent/fr/les-rencontres-doctorales-solare
 END:VEVENT
 BEGIN:VEVENT
 UID:03757718d1498be3bb058c681b13af38@conferences
-DTSTAMP:20261008T192912Z
+DTSTAMP:20261008T202649Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261117
 SUMMARY:Le terrain religieux\, un terrain comme un autre ? Matérialités\, postures\, défiances et confiances
@@ -68,7 +68,7 @@ URL:https://www.ehess.fr/jcms/283762_JEvent/fr/le-terrain-religieux-un-terrain-c
 END:VEVENT
 BEGIN:VEVENT
 UID:c480c224508c20e9a60e8b25e9cb981d@conferences
-DTSTAMP:20261008T192912Z
+DTSTAMP:20261008T202649Z
 DTSTART:20261015T070000Z
 DTEND:20261015T170000Z
 SUMMARY:Les violences en milieux éducatifs : quelle histoire\, quelles actrices et quels acteurs\, quels enjeux ?
@@ -78,7 +78,7 @@ URL:https://www.ehess.fr/jcms/268470_JEvent/fr/les-violences-en-milieux-educatif
 END:VEVENT
 BEGIN:VEVENT
 UID:04693afee2b2c0ea4dd1680e129f3bf3@conferences
-DTSTAMP:20261008T192912Z
+DTSTAMP:20261008T202649Z
 DTSTART:20261119T080000Z
 DTEND:20261119T172000Z
 SUMMARY:La psychologisation des violences faites aux femmes
@@ -88,7 +88,7 @@ URL:https://www.ehess.fr/jcms/258092_JEvent/fr/la-psychologisation-des-violences
 END:VEVENT
 BEGIN:VEVENT
 UID:b8079c7a697d9a4074aa01d0be6d96ee@conferences
-DTSTAMP:20261008T192912Z
+DTSTAMP:20261008T202649Z
 DTSTART:20261120T080000Z
 DTEND:20261120T180000Z
 SUMMARY:La psychologisation des violences faites aux femmes

@@ -526,6 +526,37 @@ def ihpst():
     return sorted(events.values(), key=lambda e: e["start"])
 
 
+def enseignements_ehess():
+    """Séances des cours de sciences cognitives à l'EHESS, déduites du rythme annoncé sur Néobab."""
+    with open("enseignements-ehess.json", encoding="utf-8") as f:
+        cours = json.load(f)
+    events = []
+    for c in cours:
+        n = len(c["dates"])
+        h1, m1 = map(int, c["debut"].split(":"))
+        h2, m2 = map(int, c["fin"].split(":"))
+        url = f"https://enseignements.ehess.fr/2026-2027/ue/{c['ue'][2:]}"
+        if c["statut"] == "a_confirmer":
+            note = (f"DATES À CONFIRMER : {c['annonce']} séances annoncées pour {n} créneaux possibles "
+                    "(vacances et jours fériés déjà retirés).")
+        elif c["statut"] == "calcule":
+            note = "Dates calculées d'après les indications de la page (2e mardi du mois)."
+        else:
+            note = "Dates déduites du rythme annoncé et des vacances de Paris (concordent avec le nombre de séances annoncé)."
+        for i, d in enumerate(c["dates"], 1):
+            y, mo, j = map(int, d.split("-"))
+            seance = f"créneau {i} sur {n} possibles" if c["statut"] == "a_confirmer" else f"séance {i}/{n}"
+            events.append({
+                "title": c["titre"],
+                "start": datetime(y, mo, j, h1, m1, tzinfo=PARIS),
+                "end": datetime(y, mo, j, h2, m2, tzinfo=PARIS),
+                "all_day": False, "place": c["lieu"],
+                "description": "\n".join([f"{c['ue']} · {seance}", f"Enseignants : {c['enseignants']}", note, f"Lien : {url}"]),
+                "url": f"{url}#{d}",
+            })
+    return sorted(events, key=lambda e: e["start"])
+
+
 # Une entrée par institution : nom du fichier -> (nom du calendrier, fonction)
 SOURCES = {
     "college-de-france": ("Conférences Collège de France", college_de_france),
@@ -533,6 +564,7 @@ SOURCES = {
     "institut-du-cerveau": ("Conférences Institut du Cerveau", institut_du_cerveau),
     "ehess": ("Conférences EHESS", ehess),
     "ihpst": ("Conférences IHPST", ihpst),
+    "enseignements-ehess": ("Enseignements EHESS sciences cognitives", enseignements_ehess),
 }
 # Anciens noms de fichier (aucun pour le moment)
 LEGACY = {}

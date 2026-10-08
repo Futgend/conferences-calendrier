@@ -540,7 +540,7 @@ def enseignements_ehess():
             note = (f"DATES À CONFIRMER : {c['annonce']} séances annoncées pour {n} créneaux possibles "
                     "(vacances et jours fériés déjà retirés).")
         elif c["statut"] == "confirme":
-            note = "Dates et salles d'après le programme du cours sur Moodle."
+            note = "Dates et salles d'après le programme officiel du cours."
         elif c["statut"] == "calcule":
             note = "Dates calculées d'après les indications de la page (2e mardi du mois)."
         else:
@@ -552,15 +552,18 @@ def enseignements_ehess():
             seance = f"créneau {i} sur {n} possibles" if c["statut"] == "a_confirmer" else f"séance {i}/{n}"
             events.append({
                 "title": c["titre"] + (" · " + extra["sujet"] if extra.get("sujet") else ""),
-                "start": datetime(y, mo, j, h1, m1, tzinfo=PARIS),
-                "end": datetime(y, mo, j, h2, m2, tzinfo=PARIS),
+                "start": datetime(y, mo, j, *map(int, extra.get("debut", c["debut"]).split(":")), tzinfo=PARIS),
+                "end": datetime(y, mo, j, *map(int, extra.get("fin", c["fin"]).split(":")), tzinfo=PARIS),
                 "all_day": False, "place": extra.get("lieu", c["lieu"]),
                 "description": "\n".join(x for x in [
                     f"{c['ue']} · {seance}" + (f" : {extra['sujet']}" if extra.get("sujet") else ""),
                     f"Lecture : {extra['lecture']}" if extra.get("lecture") else "",
+                    f"Intervenant invité : {extra['intervenant']}" if extra.get("intervenant") else "",
+                    f"Supports : {extra['supports']}" if extra.get("supports") else "",
                     f"Enseignants : {c['enseignants']}", note,
-                    f"Moodle : {c['moodle']}" if c.get("moodle") else "", f"Lien : {url}"] if x),
-                "url": f"{c.get('moodle', url)}#{d}",
+                    f"Moodle : {c['moodle']}" if c.get("moodle") else "",
+                    *[f"{n} : {u}" for n, u in c.get("liens", [])], f"Lien : {url}"] if x),
+                "url": f"{c.get('moodle') or c.get('site') or url}#{d}",
             })
     return sorted(events, key=lambda e: e["start"])
 

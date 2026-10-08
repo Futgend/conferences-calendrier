@@ -8,77 +8,77 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:810082070bf08bc1f065d7909bb511e9@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20260907T063000Z
 DTEND:20260907T083000Z
 SUMMARY:Interplay between deep learning and cognitive science · Introduction to Artificial Neural Networks
 LOCATION:Salle Ribot\, ENS\, 29 rue d'Ulm 75005 Paris
-DESCRIPTION:UE244 · séance 1/13 : Introduction to Artificial Neural Networks\nSupports : slides course_1_intro_ann.pdf\, dossier https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy?path=/slides\nEnseignants : Laurent Bonnasse-Gahot\, Jean-Pierre Nadal\nDates et salles d'après le programme officiel du cours.\nMot de passe des documents du cours : à retrouver dans ton app Mots de passe.\nSite du cours : https://l-bg.github.io/dlcs/\nDocuments du cours : https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy\nLien : https://enseignements.ehess.fr/2026-2027/ue/244
+DESCRIPTION:UE244 · séance 1/13 : Introduction to Artificial Neural Networks\nSupports : slides course_1_intro_ann.pdf\, dossier https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy?path=/slides\nEnseignants : Laurent Bonnasse-Gahot\, Jean-Pierre Nadal\nDates et salles d'après le programme officiel du cours.\nSite du cours : https://l-bg.github.io/dlcs/\nDocuments du cours : https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy\nLien : https://enseignements.ehess.fr/2026-2027/ue/244
 URL:https://l-bg.github.io/dlcs/#2026-09-07
 END:VEVENT
 BEGIN:VEVENT
 UID:061510abb8abebb8e6efa966f6ac7a12@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20260914T063000Z
 DTEND:20260914T083000Z
 SUMMARY:Interplay between deep learning and cognitive science · Convolutional Neural Networks & Vision 1/2
 LOCATION:Salle Ribot\, ENS\, 29 rue d'Ulm 75005 Paris
-DESCRIPTION:UE244 · séance 2/13 : Convolutional Neural Networks & Vision 1/2\nSupports : slides course_2_cnn.pdf\, dossier https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy?path=/slides\nEnseignants : Laurent Bonnasse-Gahot\, Jean-Pierre Nadal\nDates et salles d'après le programme officiel du cours.\nMot de passe des documents du cours : à retrouver dans ton app Mots de passe.\nSite du cours : https://l-bg.github.io/dlcs/\nDocuments du cours : https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy\nLien : https://enseignements.ehess.fr/2026-2027/ue/244
+DESCRIPTION:UE244 · séance 2/13 : Convolutional Neural Networks & Vision 1/2\nSupports : slides course_2_cnn.pdf\, dossier https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy?path=/slides\nEnseignants : Laurent Bonnasse-Gahot\, Jean-Pierre Nadal\nDates et salles d'après le programme officiel du cours.\nSite du cours : https://l-bg.github.io/dlcs/\nDocuments du cours : https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy\nLien : https://enseignements.ehess.fr/2026-2027/ue/244
 URL:https://l-bg.github.io/dlcs/#2026-09-14
 END:VEVENT
 BEGIN:VEVENT
 UID:c69a2dbd64b801d83fa838efc560aa19@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20260921T063000Z
 DTEND:20260921T083000Z
 SUMMARY:Interplay between deep learning and cognitive science · Convolutional Neural Networks & Vision 2/2
 LOCATION:Salle Ribot\, ENS\, 29 rue d'Ulm 75005 Paris
-DESCRIPTION:UE244 · séance 3/13 : Convolutional Neural Networks & Vision 2/2\nSupports : slides course_2_cnn.pdf\, dossier https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy?path=/slides\nEnseignants : Laurent Bonnasse-Gahot\, Jean-Pierre Nadal\nDates et salles d'après le programme officiel du cours.\nMot de passe des documents du cours : à retrouver dans ton app Mots de passe.\nSite du cours : https://l-bg.github.io/dlcs/\nDocuments du cours : https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy\nLien : https://enseignements.ehess.fr/2026-2027/ue/244
+DESCRIPTION:UE244 · séance 3/13 : Convolutional Neural Networks & Vision 2/2\nSupports : slides course_2_cnn.pdf\, dossier https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy?path=/slides\nEnseignants : Laurent Bonnasse-Gahot\, Jean-Pierre Nadal\nDates et salles d'après le programme officiel du cours.\nSite du cours : https://l-bg.github.io/dlcs/\nDocuments du cours : https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy\nLien : https://enseignements.ehess.fr/2026-2027/ue/244
 URL:https://l-bg.github.io/dlcs/#2026-09-21
 END:VEVENT
 BEGIN:VEVENT
 UID:2822f1d53d260ec018ea29c0000b4329@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20260928T063000Z
 DTEND:20260928T083000Z
 SUMMARY:Interplay between deep learning and cognitive science · Recurrent Neural Networks
 LOCATION:Salle Ribot\, ENS\, 29 rue d'Ulm 75005 Paris
-DESCRIPTION:UE244 · séance 4/13 : Recurrent Neural Networks\nSupports : slides course_3_rnn.pdf\, dossier https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy?path=/slides\nEnseignants : Laurent Bonnasse-Gahot\, Jean-Pierre Nadal\nDates et salles d'après le programme officiel du cours.\nMot de passe des documents du cours : à retrouver dans ton app Mots de passe.\nSite du cours : https://l-bg.github.io/dlcs/\nDocuments du cours : https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy\nLien : https://enseignements.ehess.fr/2026-2027/ue/244
+DESCRIPTION:UE244 · séance 4/13 : Recurrent Neural Networks\nSupports : slides course_3_rnn.pdf\, dossier https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy?path=/slides\nEnseignants : Laurent Bonnasse-Gahot\, Jean-Pierre Nadal\nDates et salles d'après le programme officiel du cours.\nSite du cours : https://l-bg.github.io/dlcs/\nDocuments du cours : https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy\nLien : https://enseignements.ehess.fr/2026-2027/ue/244
 URL:https://l-bg.github.io/dlcs/#2026-09-28
 END:VEVENT
 BEGIN:VEVENT
 UID:46dd44efb3f58574ba807fabf5e01327@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20261005T063000Z
 DTEND:20261005T083000Z
 SUMMARY:Interplay between deep learning and cognitive science · Attention & Transformers
 LOCATION:Salle Ribot\, ENS\, 29 rue d'Ulm 75005 Paris
-DESCRIPTION:UE244 · séance 5/13 : Attention & Transformers\nSupports : slides course_4_attention_transformer_tmp.pdf (version provisoire)\, dossier https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy?path=/slides\nEnseignants : Laurent Bonnasse-Gahot\, Jean-Pierre Nadal\nDates et salles d'après le programme officiel du cours.\nMot de passe des documents du cours : à retrouver dans ton app Mots de passe.\nSite du cours : https://l-bg.github.io/dlcs/\nDocuments du cours : https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy\nLien : https://enseignements.ehess.fr/2026-2027/ue/244
+DESCRIPTION:UE244 · séance 5/13 : Attention & Transformers\nSupports : slides course_4_attention_transformer_tmp.pdf (version provisoire)\, dossier https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy?path=/slides\nEnseignants : Laurent Bonnasse-Gahot\, Jean-Pierre Nadal\nDates et salles d'après le programme officiel du cours.\nSite du cours : https://l-bg.github.io/dlcs/\nDocuments du cours : https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy\nLien : https://enseignements.ehess.fr/2026-2027/ue/244
 URL:https://l-bg.github.io/dlcs/#2026-10-05
 END:VEVENT
 BEGIN:VEVENT
 UID:1600c394ac966ca95d77a318d85e2afb@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20261009T120000Z
 DTEND:20261009T140000Z
 SUMMARY:Fondements analytiques : philosophie de l'esprit · Studying the Mind
 LOCATION:Salle Langevin\, ENS\, 29 rue d'Ulm 75005 Paris
-DESCRIPTION:UE560 · séance 1/13 : Studying the Mind\nEnseignants : Margherita Arcangeli\, Jérôme Dokic\nDates et salles d'après le programme officiel du cours.\nMot de passe du cours (Moodle) : à retrouver dans ton app Mots de passe.\nMoodle : https://moodle.ehess.fr/course/view.php?id=2238\nLien : https://enseignements.ehess.fr/2026-2027/ue/560
+DESCRIPTION:UE560 · séance 1/13 : Studying the Mind\nEnseignants : Margherita Arcangeli\, Jérôme Dokic\nDates et salles d'après le programme officiel du cours.\nMoodle : https://moodle.ehess.fr/course/view.php?id=2238\nLien : https://enseignements.ehess.fr/2026-2027/ue/560
 URL:https://moodle.ehess.fr/course/view.php?id=2238#2026-10-09
 END:VEVENT
 BEGIN:VEVENT
 UID:b9e671ed0af496408bd1871d9edd67f3@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20261012T063000Z
 DTEND:20261012T083000Z
 SUMMARY:Interplay between deep learning and cognitive science · Large Language Models & Vision Transformers 1/2
 LOCATION:Salle Ribot\, ENS\, 29 rue d'Ulm 75005 Paris
-DESCRIPTION:UE244 · séance 6/13 : Large Language Models & Vision Transformers 1/2\nEnseignants : Laurent Bonnasse-Gahot\, Jean-Pierre Nadal\nDates et salles d'après le programme officiel du cours.\nMot de passe des documents du cours : à retrouver dans ton app Mots de passe.\nSite du cours : https://l-bg.github.io/dlcs/\nDocuments du cours : https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy\nLien : https://enseignements.ehess.fr/2026-2027/ue/244
+DESCRIPTION:UE244 · séance 6/13 : Large Language Models & Vision Transformers 1/2\nEnseignants : Laurent Bonnasse-Gahot\, Jean-Pierre Nadal\nDates et salles d'après le programme officiel du cours.\nSite du cours : https://l-bg.github.io/dlcs/\nDocuments du cours : https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy\nLien : https://enseignements.ehess.fr/2026-2027/ue/244
 URL:https://l-bg.github.io/dlcs/#2026-10-12
 END:VEVENT
 BEGIN:VEVENT
 UID:7966f0bbe13c04c3509f460be55215dd@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20261013T080000Z
 DTEND:20261013T100000Z
 SUMMARY:L'aphantasie entre imagination et sentiments cognitifs
@@ -88,47 +88,47 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/564#2026-10-13
 END:VEVENT
 BEGIN:VEVENT
 UID:d54c303d446fe574ea4ede648f41f75c@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20261016T120000Z
 DTEND:20261016T140000Z
 SUMMARY:Fondements analytiques : philosophie de l'esprit · Intentional Irrealism
 LOCATION:Salle Weil\, ENS\, 45 rue d'Ulm 75005 Paris
-DESCRIPTION:UE560 · séance 2/13 : Intentional Irrealism\nLecture : SEP – Eliminative Materialism (lien sur Moodle)\nEnseignants : Margherita Arcangeli\, Jérôme Dokic\nDates et salles d'après le programme officiel du cours.\nMot de passe du cours (Moodle) : à retrouver dans ton app Mots de passe.\nMoodle : https://moodle.ehess.fr/course/view.php?id=2238\nLien : https://enseignements.ehess.fr/2026-2027/ue/560
+DESCRIPTION:UE560 · séance 2/13 : Intentional Irrealism\nLecture : SEP – Eliminative Materialism (lien sur Moodle)\nEnseignants : Margherita Arcangeli\, Jérôme Dokic\nDates et salles d'après le programme officiel du cours.\nMoodle : https://moodle.ehess.fr/course/view.php?id=2238\nLien : https://enseignements.ehess.fr/2026-2027/ue/560
 URL:https://moodle.ehess.fr/course/view.php?id=2238#2026-10-16
 END:VEVENT
 BEGIN:VEVENT
 UID:0cba2c812b5ff3d76aa5f846474964bf@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20261019T063000Z
 DTEND:20261019T083000Z
 SUMMARY:Interplay between deep learning and cognitive science · Large Language Models & Vision Transformers 2/2
 LOCATION:Salle Ribot\, ENS\, 29 rue d'Ulm 75005 Paris
-DESCRIPTION:UE244 · séance 7/13 : Large Language Models & Vision Transformers 2/2\nEnseignants : Laurent Bonnasse-Gahot\, Jean-Pierre Nadal\nDates et salles d'après le programme officiel du cours.\nMot de passe des documents du cours : à retrouver dans ton app Mots de passe.\nSite du cours : https://l-bg.github.io/dlcs/\nDocuments du cours : https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy\nLien : https://enseignements.ehess.fr/2026-2027/ue/244
+DESCRIPTION:UE244 · séance 7/13 : Large Language Models & Vision Transformers 2/2\nEnseignants : Laurent Bonnasse-Gahot\, Jean-Pierre Nadal\nDates et salles d'après le programme officiel du cours.\nSite du cours : https://l-bg.github.io/dlcs/\nDocuments du cours : https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy\nLien : https://enseignements.ehess.fr/2026-2027/ue/244
 URL:https://l-bg.github.io/dlcs/#2026-10-19
 END:VEVENT
 BEGIN:VEVENT
 UID:bba24e49504491c984e46d9e5f057621@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20261023T120000Z
 DTEND:20261023T140000Z
 SUMMARY:Fondements analytiques : philosophie de l'esprit · Dualism
 LOCATION:Salle Weil\, ENS\, 45 rue d'Ulm 75005 Paris
-DESCRIPTION:UE560 · séance 3/13 : Dualism\nLecture : Kind (2000)\, Dualism\nEnseignants : Margherita Arcangeli\, Jérôme Dokic\nDates et salles d'après le programme officiel du cours.\nMot de passe du cours (Moodle) : à retrouver dans ton app Mots de passe.\nMoodle : https://moodle.ehess.fr/course/view.php?id=2238\nLien : https://enseignements.ehess.fr/2026-2027/ue/560
+DESCRIPTION:UE560 · séance 3/13 : Dualism\nLecture : Kind (2000)\, Dualism\nEnseignants : Margherita Arcangeli\, Jérôme Dokic\nDates et salles d'après le programme officiel du cours.\nMoodle : https://moodle.ehess.fr/course/view.php?id=2238\nLien : https://enseignements.ehess.fr/2026-2027/ue/560
 URL:https://moodle.ehess.fr/course/view.php?id=2238#2026-10-23
 END:VEVENT
 BEGIN:VEVENT
 UID:ede660f13933a27d2c20c505202b9693@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20261102T073000Z
 DTEND:20261102T093000Z
 SUMMARY:Interplay between deep learning and cognitive science · Use of recurrent neural networks to study cognition
 LOCATION:Salle Ribot\, ENS\, 29 rue d'Ulm 75005 Paris
-DESCRIPTION:UE244 · séance 8/13 : Use of recurrent neural networks to study cognition\nIntervenant invité : Philipp Werthmann\nEnseignants : Laurent Bonnasse-Gahot\, Jean-Pierre Nadal\nDates et salles d'après le programme officiel du cours.\nMot de passe des documents du cours : à retrouver dans ton app Mots de passe.\nSite du cours : https://l-bg.github.io/dlcs/\nDocuments du cours : https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy\nLien : https://enseignements.ehess.fr/2026-2027/ue/244
+DESCRIPTION:UE244 · séance 8/13 : Use of recurrent neural networks to study cognition\nIntervenant invité : Philipp Werthmann\nEnseignants : Laurent Bonnasse-Gahot\, Jean-Pierre Nadal\nDates et salles d'après le programme officiel du cours.\nSite du cours : https://l-bg.github.io/dlcs/\nDocuments du cours : https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy\nLien : https://enseignements.ehess.fr/2026-2027/ue/244
 URL:https://l-bg.github.io/dlcs/#2026-11-02
 END:VEVENT
 BEGIN:VEVENT
 UID:cc18b4f08b71fc3adda04356686d2037@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20261103T090000Z
 DTEND:20261103T110000Z
 SUMMARY:L'aphantasie entre imagination et sentiments cognitifs
@@ -138,27 +138,27 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/564#2026-11-03
 END:VEVENT
 BEGIN:VEVENT
 UID:e3501db5c3c34b9f4491f87802741f5a@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20261106T130000Z
 DTEND:20261106T150000Z
 SUMMARY:Fondements analytiques : philosophie de l'esprit · Behaviourism
 LOCATION:Salle Weil\, ENS\, 45 rue d'Ulm 75005 Paris
-DESCRIPTION:UE560 · séance 4/13 : Behaviourism\nLecture : Dennett (1981)\, True Believers\nEnseignants : Margherita Arcangeli\, Jérôme Dokic\nDates et salles d'après le programme officiel du cours.\nMot de passe du cours (Moodle) : à retrouver dans ton app Mots de passe.\nMoodle : https://moodle.ehess.fr/course/view.php?id=2238\nLien : https://enseignements.ehess.fr/2026-2027/ue/560
+DESCRIPTION:UE560 · séance 4/13 : Behaviourism\nLecture : Dennett (1981)\, True Believers\nEnseignants : Margherita Arcangeli\, Jérôme Dokic\nDates et salles d'après le programme officiel du cours.\nMoodle : https://moodle.ehess.fr/course/view.php?id=2238\nLien : https://enseignements.ehess.fr/2026-2027/ue/560
 URL:https://moodle.ehess.fr/course/view.php?id=2238#2026-11-06
 END:VEVENT
 BEGIN:VEVENT
 UID:32e6518fed416d2a8a24f328f3948197@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20261109T073000Z
 DTEND:20261109T093000Z
 SUMMARY:Interplay between deep learning and cognitive science · Bridging symbols and vectors: linguistic representations in LLMs
 LOCATION:Salle Ribot\, ENS\, 29 rue d'Ulm 75005 Paris
-DESCRIPTION:UE244 · séance 9/13 : Bridging symbols and vectors: linguistic representations in LLMs\nIntervenant invité : Pablo Diego\nEnseignants : Laurent Bonnasse-Gahot\, Jean-Pierre Nadal\nDates et salles d'après le programme officiel du cours.\nMot de passe des documents du cours : à retrouver dans ton app Mots de passe.\nSite du cours : https://l-bg.github.io/dlcs/\nDocuments du cours : https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy\nLien : https://enseignements.ehess.fr/2026-2027/ue/244
+DESCRIPTION:UE244 · séance 9/13 : Bridging symbols and vectors: linguistic representations in LLMs\nIntervenant invité : Pablo Diego\nEnseignants : Laurent Bonnasse-Gahot\, Jean-Pierre Nadal\nDates et salles d'après le programme officiel du cours.\nSite du cours : https://l-bg.github.io/dlcs/\nDocuments du cours : https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy\nLien : https://enseignements.ehess.fr/2026-2027/ue/244
 URL:https://l-bg.github.io/dlcs/#2026-11-09
 END:VEVENT
 BEGIN:VEVENT
 UID:710aaa0e9298d4689da8ddd529e608ff@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20261110T090000Z
 DTEND:20261110T110000Z
 SUMMARY:L'aphantasie entre imagination et sentiments cognitifs
@@ -168,7 +168,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/564#2026-11-10
 END:VEVENT
 BEGIN:VEVENT
 UID:2a58b89322afb6cffc26ec801be1c77b@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20261110T133000Z
 DTEND:20261110T153000Z
 SUMMARY:Neuromathématiques
@@ -178,27 +178,27 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/315#2026-11-10
 END:VEVENT
 BEGIN:VEVENT
 UID:d0f6519f36ef147f12575312ec132dec@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20261113T130000Z
 DTEND:20261113T150000Z
 SUMMARY:Fondements analytiques : philosophie de l'esprit · Physicalism
 LOCATION:Salle Weil\, ENS\, 45 rue d'Ulm 75005 Paris
-DESCRIPTION:UE560 · séance 5/13 : Physicalism\nLecture : Kind (2000)\, Physicalism\nEnseignants : Margherita Arcangeli\, Jérôme Dokic\nDates et salles d'après le programme officiel du cours.\nMot de passe du cours (Moodle) : à retrouver dans ton app Mots de passe.\nMoodle : https://moodle.ehess.fr/course/view.php?id=2238\nLien : https://enseignements.ehess.fr/2026-2027/ue/560
+DESCRIPTION:UE560 · séance 5/13 : Physicalism\nLecture : Kind (2000)\, Physicalism\nEnseignants : Margherita Arcangeli\, Jérôme Dokic\nDates et salles d'après le programme officiel du cours.\nMoodle : https://moodle.ehess.fr/course/view.php?id=2238\nLien : https://enseignements.ehess.fr/2026-2027/ue/560
 URL:https://moodle.ehess.fr/course/view.php?id=2238#2026-11-13
 END:VEVENT
 BEGIN:VEVENT
 UID:94f5aaef1add5316e13407f551d6051c@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20261116T073000Z
 DTEND:20261116T093000Z
 SUMMARY:Interplay between deep learning and cognitive science · Neural networks and language acquisition by children
 LOCATION:Salle Ribot\, ENS\, 29 rue d'Ulm 75005 Paris
-DESCRIPTION:UE244 · séance 10/13 : Neural networks and language acquisition by children\nIntervenant invité : Emmanuel Dupoux\nEnseignants : Laurent Bonnasse-Gahot\, Jean-Pierre Nadal\nDates et salles d'après le programme officiel du cours.\nMot de passe des documents du cours : à retrouver dans ton app Mots de passe.\nSite du cours : https://l-bg.github.io/dlcs/\nDocuments du cours : https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy\nLien : https://enseignements.ehess.fr/2026-2027/ue/244
+DESCRIPTION:UE244 · séance 10/13 : Neural networks and language acquisition by children\nIntervenant invité : Emmanuel Dupoux\nEnseignants : Laurent Bonnasse-Gahot\, Jean-Pierre Nadal\nDates et salles d'après le programme officiel du cours.\nSite du cours : https://l-bg.github.io/dlcs/\nDocuments du cours : https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy\nLien : https://enseignements.ehess.fr/2026-2027/ue/244
 URL:https://l-bg.github.io/dlcs/#2026-11-16
 END:VEVENT
 BEGIN:VEVENT
 UID:ea69f9d285392368a87b1bfe457cc9cf@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20261117T090000Z
 DTEND:20261117T110000Z
 SUMMARY:L'aphantasie entre imagination et sentiments cognitifs
@@ -208,17 +208,17 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/564#2026-11-17
 END:VEVENT
 BEGIN:VEVENT
 UID:eda18451dbc655f622c9ab4b369e0744@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20261120T130000Z
 DTEND:20261120T150000Z
 SUMMARY:Fondements analytiques : philosophie de l'esprit · Functionalism I
 LOCATION:Salle Weil\, ENS\, 45 rue d'Ulm 75005 Paris
-DESCRIPTION:UE560 · séance 6/13 : Functionalism I\nLecture : Putnam (1967)\, Nature of Mental States\nEnseignants : Margherita Arcangeli\, Jérôme Dokic\nDates et salles d'après le programme officiel du cours.\nMot de passe du cours (Moodle) : à retrouver dans ton app Mots de passe.\nMoodle : https://moodle.ehess.fr/course/view.php?id=2238\nLien : https://enseignements.ehess.fr/2026-2027/ue/560
+DESCRIPTION:UE560 · séance 6/13 : Functionalism I\nLecture : Putnam (1967)\, Nature of Mental States\nEnseignants : Margherita Arcangeli\, Jérôme Dokic\nDates et salles d'après le programme officiel du cours.\nMoodle : https://moodle.ehess.fr/course/view.php?id=2238\nLien : https://enseignements.ehess.fr/2026-2027/ue/560
 URL:https://moodle.ehess.fr/course/view.php?id=2238#2026-11-20
 END:VEVENT
 BEGIN:VEVENT
 UID:27dfc23cd2495ddd34746982295b5663@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20261124T090000Z
 DTEND:20261124T110000Z
 SUMMARY:L'aphantasie entre imagination et sentiments cognitifs
@@ -228,17 +228,17 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/564#2026-11-24
 END:VEVENT
 BEGIN:VEVENT
 UID:87068c41de8a7a18fad56ffb3ce2f28e@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20261130T073000Z
 DTEND:20261130T093000Z
 SUMMARY:Interplay between deep learning and cognitive science · Artificial neural networks vs the human brain in language processing
 LOCATION:Salle Ribot\, ENS\, 29 rue d'Ulm 75005 Paris
-DESCRIPTION:UE244 · séance 11/13 : Artificial neural networks vs the human brain in language processing\nIntervenant invité : Christophe Pallier\nEnseignants : Laurent Bonnasse-Gahot\, Jean-Pierre Nadal\nDates et salles d'après le programme officiel du cours.\nMot de passe des documents du cours : à retrouver dans ton app Mots de passe.\nSite du cours : https://l-bg.github.io/dlcs/\nDocuments du cours : https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy\nLien : https://enseignements.ehess.fr/2026-2027/ue/244
+DESCRIPTION:UE244 · séance 11/13 : Artificial neural networks vs the human brain in language processing\nIntervenant invité : Christophe Pallier\nEnseignants : Laurent Bonnasse-Gahot\, Jean-Pierre Nadal\nDates et salles d'après le programme officiel du cours.\nSite du cours : https://l-bg.github.io/dlcs/\nDocuments du cours : https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy\nLien : https://enseignements.ehess.fr/2026-2027/ue/244
 URL:https://l-bg.github.io/dlcs/#2026-11-30
 END:VEVENT
 BEGIN:VEVENT
 UID:e5729103c95c5c82b88a9a6b9db1aefa@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20261201T090000Z
 DTEND:20261201T110000Z
 SUMMARY:L'aphantasie entre imagination et sentiments cognitifs
@@ -248,17 +248,17 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/564#2026-12-01
 END:VEVENT
 BEGIN:VEVENT
 UID:be0278e585e531e6b40748fffdfd2db4@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20261204T130000Z
 DTEND:20261204T150000Z
 SUMMARY:Fondements analytiques : philosophie de l'esprit · Functionalism II
 LOCATION:ENS-Ulm\, 75005 Paris (salle à déterminer)
-DESCRIPTION:UE560 · séance 7/13 : Functionalism II\nLecture : Palmer (1999)\, Color Consciousness\nEnseignants : Margherita Arcangeli\, Jérôme Dokic\nDates et salles d'après le programme officiel du cours.\nMot de passe du cours (Moodle) : à retrouver dans ton app Mots de passe.\nMoodle : https://moodle.ehess.fr/course/view.php?id=2238\nLien : https://enseignements.ehess.fr/2026-2027/ue/560
+DESCRIPTION:UE560 · séance 7/13 : Functionalism II\nLecture : Palmer (1999)\, Color Consciousness\nEnseignants : Margherita Arcangeli\, Jérôme Dokic\nDates et salles d'après le programme officiel du cours.\nMoodle : https://moodle.ehess.fr/course/view.php?id=2238\nLien : https://enseignements.ehess.fr/2026-2027/ue/560
 URL:https://moodle.ehess.fr/course/view.php?id=2238#2026-12-04
 END:VEVENT
 BEGIN:VEVENT
 UID:ab8e001e35882709de04b1bfcabe2379@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20261208T090000Z
 DTEND:20261208T110000Z
 SUMMARY:L'aphantasie entre imagination et sentiments cognitifs
@@ -268,7 +268,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/564#2026-12-08
 END:VEVENT
 BEGIN:VEVENT
 UID:9fcf91e90aa1f48b947ee2dd951bde22@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20261208T133000Z
 DTEND:20261208T153000Z
 SUMMARY:Neuromathématiques
@@ -278,37 +278,37 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/315#2026-12-08
 END:VEVENT
 BEGIN:VEVENT
 UID:b4707107523d6820929173cd089fa381@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20261211T130000Z
 DTEND:20261211T150000Z
 SUMMARY:Fondements analytiques : philosophie de l'esprit · Consciousness
 LOCATION:Salle Weil\, ENS\, 45 rue d'Ulm 75005 Paris
-DESCRIPTION:UE560 · séance 8/13 : Consciousness\nLecture : Drayson (2015)\, Phenomenal Consciousness\nEnseignants : Margherita Arcangeli\, Jérôme Dokic\nDates et salles d'après le programme officiel du cours.\nMot de passe du cours (Moodle) : à retrouver dans ton app Mots de passe.\nMoodle : https://moodle.ehess.fr/course/view.php?id=2238\nLien : https://enseignements.ehess.fr/2026-2027/ue/560
+DESCRIPTION:UE560 · séance 8/13 : Consciousness\nLecture : Drayson (2015)\, Phenomenal Consciousness\nEnseignants : Margherita Arcangeli\, Jérôme Dokic\nDates et salles d'après le programme officiel du cours.\nMoodle : https://moodle.ehess.fr/course/view.php?id=2238\nLien : https://enseignements.ehess.fr/2026-2027/ue/560
 URL:https://moodle.ehess.fr/course/view.php?id=2238#2026-12-11
 END:VEVENT
 BEGIN:VEVENT
 UID:8a564b29a993aadaf526dd47fd7a1a28@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20261214T073000Z
 DTEND:20261214T093000Z
 SUMMARY:Interplay between deep learning and cognitive science · Student presentations 1/2
 LOCATION:Salle Ribot\, ENS\, 29 rue d'Ulm 75005 Paris
-DESCRIPTION:UE244 · séance 12/13 : Student presentations 1/2\nEnseignants : Laurent Bonnasse-Gahot\, Jean-Pierre Nadal\nDates et salles d'après le programme officiel du cours.\nMot de passe des documents du cours : à retrouver dans ton app Mots de passe.\nSite du cours : https://l-bg.github.io/dlcs/\nDocuments du cours : https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy\nLien : https://enseignements.ehess.fr/2026-2027/ue/244
+DESCRIPTION:UE244 · séance 12/13 : Student presentations 1/2\nEnseignants : Laurent Bonnasse-Gahot\, Jean-Pierre Nadal\nDates et salles d'après le programme officiel du cours.\nSite du cours : https://l-bg.github.io/dlcs/\nDocuments du cours : https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy\nLien : https://enseignements.ehess.fr/2026-2027/ue/244
 URL:https://l-bg.github.io/dlcs/#2026-12-14
 END:VEVENT
 BEGIN:VEVENT
 UID:483a03dab9b694f6c0385f6e43007e18@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20261214T093000Z
 DTEND:20261214T113000Z
 SUMMARY:Interplay between deep learning and cognitive science · Student presentations 2/2
 LOCATION:Salle Conférence\, ENS\, 46 rue d'Ulm 75005 Paris
-DESCRIPTION:UE244 · séance 13/13 : Student presentations 2/2\nEnseignants : Laurent Bonnasse-Gahot\, Jean-Pierre Nadal\nDates et salles d'après le programme officiel du cours.\nMot de passe des documents du cours : à retrouver dans ton app Mots de passe.\nSite du cours : https://l-bg.github.io/dlcs/\nDocuments du cours : https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy\nLien : https://enseignements.ehess.fr/2026-2027/ue/244
+DESCRIPTION:UE244 · séance 13/13 : Student presentations 2/2\nEnseignants : Laurent Bonnasse-Gahot\, Jean-Pierre Nadal\nDates et salles d'après le programme officiel du cours.\nSite du cours : https://l-bg.github.io/dlcs/\nDocuments du cours : https://mesdocuments.aria.ehess.fr/s/8BdBRzPbXJXSdHy\nLien : https://enseignements.ehess.fr/2026-2027/ue/244
 URL:https://l-bg.github.io/dlcs/#2026-12-14
 END:VEVENT
 BEGIN:VEVENT
 UID:33255fdd7db1438693b0adf64d164835@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20261215T090000Z
 DTEND:20261215T110000Z
 SUMMARY:L'aphantasie entre imagination et sentiments cognitifs
@@ -318,17 +318,17 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/564#2026-12-15
 END:VEVENT
 BEGIN:VEVENT
 UID:bc69b1d164eb8052ca71a469ec98150b@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20261218T130000Z
 DTEND:20261218T150000Z
 SUMMARY:Fondements analytiques : philosophie de l'esprit · Extended Mind I
 LOCATION:Salle W\, ENS\, 45 rue d'Ulm 75005 Paris
-DESCRIPTION:UE560 · séance 9/13 : Extended Mind I\nLecture : Putnam (1975)\, Meaning of Meaning\nEnseignants : Margherita Arcangeli\, Jérôme Dokic\nDates et salles d'après le programme officiel du cours.\nMot de passe du cours (Moodle) : à retrouver dans ton app Mots de passe.\nMoodle : https://moodle.ehess.fr/course/view.php?id=2238\nLien : https://enseignements.ehess.fr/2026-2027/ue/560
+DESCRIPTION:UE560 · séance 9/13 : Extended Mind I\nLecture : Putnam (1975)\, Meaning of Meaning\nEnseignants : Margherita Arcangeli\, Jérôme Dokic\nDates et salles d'après le programme officiel du cours.\nMoodle : https://moodle.ehess.fr/course/view.php?id=2238\nLien : https://enseignements.ehess.fr/2026-2027/ue/560
 URL:https://moodle.ehess.fr/course/view.php?id=2238#2026-12-18
 END:VEVENT
 BEGIN:VEVENT
 UID:f03765f302ab77a63d4fb0e5f195d0d5@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270105T090000Z
 DTEND:20270105T110000Z
 SUMMARY:L'aphantasie entre imagination et sentiments cognitifs
@@ -338,17 +338,17 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/564#2027-01-05
 END:VEVENT
 BEGIN:VEVENT
 UID:f1107b883c6c6d82ec4e1b41f3c985ef@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270108T130000Z
 DTEND:20270108T150000Z
 SUMMARY:Fondements analytiques : philosophie de l'esprit · Extended Mind II
 LOCATION:Salle Borel\, ENS\, 29 rue d'Ulm 75005 Paris
-DESCRIPTION:UE560 · séance 10/13 : Extended Mind II\nLecture : Clark et Chalmers (1998)\, Extended Mind\nEnseignants : Margherita Arcangeli\, Jérôme Dokic\nDates et salles d'après le programme officiel du cours.\nMot de passe du cours (Moodle) : à retrouver dans ton app Mots de passe.\nMoodle : https://moodle.ehess.fr/course/view.php?id=2238\nLien : https://enseignements.ehess.fr/2026-2027/ue/560
+DESCRIPTION:UE560 · séance 10/13 : Extended Mind II\nLecture : Clark et Chalmers (1998)\, Extended Mind\nEnseignants : Margherita Arcangeli\, Jérôme Dokic\nDates et salles d'après le programme officiel du cours.\nMoodle : https://moodle.ehess.fr/course/view.php?id=2238\nLien : https://enseignements.ehess.fr/2026-2027/ue/560
 URL:https://moodle.ehess.fr/course/view.php?id=2238#2027-01-08
 END:VEVENT
 BEGIN:VEVENT
 UID:b59f41177a8f96d032af67ca2810ea5b@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270112T090000Z
 DTEND:20270112T110000Z
 SUMMARY:L'aphantasie entre imagination et sentiments cognitifs
@@ -358,7 +358,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/564#2027-01-12
 END:VEVENT
 BEGIN:VEVENT
 UID:a6e4b5ea742884277b3ec6a1acb51252@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270112T133000Z
 DTEND:20270112T153000Z
 SUMMARY:Neuromathématiques
@@ -368,17 +368,17 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/315#2027-01-12
 END:VEVENT
 BEGIN:VEVENT
 UID:8eacb0ce7387ed099303b97c529ab95c@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270115T130000Z
 DTEND:20270115T150000Z
 SUMMARY:Fondements analytiques : philosophie de l'esprit · Other Minds
 LOCATION:Salle Borel\, ENS\, 29 rue d'Ulm 75005 Paris
-DESCRIPTION:UE560 · séance 11/13 : Other Minds\nLecture : Goldman (2006)\, Mentalizing\nEnseignants : Margherita Arcangeli\, Jérôme Dokic\nDates et salles d'après le programme officiel du cours.\nMot de passe du cours (Moodle) : à retrouver dans ton app Mots de passe.\nMoodle : https://moodle.ehess.fr/course/view.php?id=2238\nLien : https://enseignements.ehess.fr/2026-2027/ue/560
+DESCRIPTION:UE560 · séance 11/13 : Other Minds\nLecture : Goldman (2006)\, Mentalizing\nEnseignants : Margherita Arcangeli\, Jérôme Dokic\nDates et salles d'après le programme officiel du cours.\nMoodle : https://moodle.ehess.fr/course/view.php?id=2238\nLien : https://enseignements.ehess.fr/2026-2027/ue/560
 URL:https://moodle.ehess.fr/course/view.php?id=2238#2027-01-15
 END:VEVENT
 BEGIN:VEVENT
 UID:de7f3d6529e801c43ac75a88233182d7@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270119T090000Z
 DTEND:20270119T110000Z
 SUMMARY:L'aphantasie entre imagination et sentiments cognitifs
@@ -388,17 +388,17 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/564#2027-01-19
 END:VEVENT
 BEGIN:VEVENT
 UID:de34511115c779ee068f95bb4144b39e@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270122T130000Z
 DTEND:20270122T150000Z
 SUMMARY:Fondements analytiques : philosophie de l'esprit · Présentations des étudiants
 LOCATION:Salle Borel\, ENS\, 29 rue d'Ulm 75005 Paris
-DESCRIPTION:UE560 · séance 12/13 : Présentations des étudiants\nEnseignants : Margherita Arcangeli\, Jérôme Dokic\nDates et salles d'après le programme officiel du cours.\nMot de passe du cours (Moodle) : à retrouver dans ton app Mots de passe.\nMoodle : https://moodle.ehess.fr/course/view.php?id=2238\nLien : https://enseignements.ehess.fr/2026-2027/ue/560
+DESCRIPTION:UE560 · séance 12/13 : Présentations des étudiants\nEnseignants : Margherita Arcangeli\, Jérôme Dokic\nDates et salles d'après le programme officiel du cours.\nMoodle : https://moodle.ehess.fr/course/view.php?id=2238\nLien : https://enseignements.ehess.fr/2026-2027/ue/560
 URL:https://moodle.ehess.fr/course/view.php?id=2238#2027-01-22
 END:VEVENT
 BEGIN:VEVENT
 UID:f0b56ca0582a4800d03196d7d4d6d062@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270126T090000Z
 DTEND:20270126T110000Z
 SUMMARY:L'aphantasie entre imagination et sentiments cognitifs
@@ -408,7 +408,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/564#2027-01-26
 END:VEVENT
 BEGIN:VEVENT
 UID:089205771068807a5233f42e8b640b77@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270128T130000Z
 DTEND:20270128T160000Z
 SUMMARY:Algorithms for speech and language processing
@@ -418,17 +418,17 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/811#2027-01-28
 END:VEVENT
 BEGIN:VEVENT
 UID:c046b25bc5aee155d52735090b7a1881@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270129T130000Z
 DTEND:20270129T150000Z
 SUMMARY:Fondements analytiques : philosophie de l'esprit · Présentations des étudiants
 LOCATION:Salle Borel\, ENS\, 29 rue d'Ulm 75005 Paris
-DESCRIPTION:UE560 · séance 13/13 : Présentations des étudiants\nEnseignants : Margherita Arcangeli\, Jérôme Dokic\nDates et salles d'après le programme officiel du cours.\nMot de passe du cours (Moodle) : à retrouver dans ton app Mots de passe.\nMoodle : https://moodle.ehess.fr/course/view.php?id=2238\nLien : https://enseignements.ehess.fr/2026-2027/ue/560
+DESCRIPTION:UE560 · séance 13/13 : Présentations des étudiants\nEnseignants : Margherita Arcangeli\, Jérôme Dokic\nDates et salles d'après le programme officiel du cours.\nMoodle : https://moodle.ehess.fr/course/view.php?id=2238\nLien : https://enseignements.ehess.fr/2026-2027/ue/560
 URL:https://moodle.ehess.fr/course/view.php?id=2238#2027-01-29
 END:VEVENT
 BEGIN:VEVENT
 UID:04cdc5bc37bc4f58c779473474937f1c@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270203T093000Z
 DTEND:20270203T113000Z
 SUMMARY:Experimental methods in cognitive psychology
@@ -438,7 +438,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/329#2027-02-03
 END:VEVENT
 BEGIN:VEVENT
 UID:6c7e3bc2bbf453059a628b5bc090e7eb@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270204T130000Z
 DTEND:20270204T160000Z
 SUMMARY:Algorithms for speech and language processing
@@ -448,7 +448,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/811#2027-02-04
 END:VEVENT
 BEGIN:VEVENT
 UID:61e887e0eef88d0100f3c7f80e582fac@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270209T133000Z
 DTEND:20270209T153000Z
 SUMMARY:Neuromathématiques
@@ -458,7 +458,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/315#2027-02-09
 END:VEVENT
 BEGIN:VEVENT
 UID:813a985a1d94bb0228bb26d94948b7af@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270224T093000Z
 DTEND:20270224T113000Z
 SUMMARY:Experimental methods in cognitive psychology
@@ -468,7 +468,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/329#2027-02-24
 END:VEVENT
 BEGIN:VEVENT
 UID:4966e3a58952219b48a49af090541bef@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270225T130000Z
 DTEND:20270225T160000Z
 SUMMARY:Algorithms for speech and language processing
@@ -478,7 +478,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/811#2027-02-25
 END:VEVENT
 BEGIN:VEVENT
 UID:4664ef6c73f0539ac6ca5d9b19fdd2f1@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270303T093000Z
 DTEND:20270303T113000Z
 SUMMARY:Experimental methods in cognitive psychology
@@ -488,7 +488,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/329#2027-03-03
 END:VEVENT
 BEGIN:VEVENT
 UID:b428ad8d8d40ca6a368774c73f6a8fd0@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270304T130000Z
 DTEND:20270304T160000Z
 SUMMARY:Algorithms for speech and language processing
@@ -498,7 +498,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/811#2027-03-04
 END:VEVENT
 BEGIN:VEVENT
 UID:fbb87a064030b62a515f937f905136c9@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270309T133000Z
 DTEND:20270309T153000Z
 SUMMARY:Neuromathématiques
@@ -508,7 +508,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/315#2027-03-09
 END:VEVENT
 BEGIN:VEVENT
 UID:828d9f0441249e025820b622aa2c481a@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270310T093000Z
 DTEND:20270310T113000Z
 SUMMARY:Experimental methods in cognitive psychology
@@ -518,7 +518,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/329#2027-03-10
 END:VEVENT
 BEGIN:VEVENT
 UID:341e08b0ba07e721f835a0da13286243@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270311T130000Z
 DTEND:20270311T160000Z
 SUMMARY:Algorithms for speech and language processing
@@ -528,7 +528,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/811#2027-03-11
 END:VEVENT
 BEGIN:VEVENT
 UID:eefe9b048256336619d7ffe8a0bf197b@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270317T093000Z
 DTEND:20270317T113000Z
 SUMMARY:Experimental methods in cognitive psychology
@@ -538,7 +538,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/329#2027-03-17
 END:VEVENT
 BEGIN:VEVENT
 UID:5b9a5dbe97f9efaafb19dfc602ad731e@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270318T130000Z
 DTEND:20270318T160000Z
 SUMMARY:Algorithms for speech and language processing
@@ -548,7 +548,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/811#2027-03-18
 END:VEVENT
 BEGIN:VEVENT
 UID:e4319aee6c486de9657c496a06051909@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270324T093000Z
 DTEND:20270324T113000Z
 SUMMARY:Experimental methods in cognitive psychology
@@ -558,7 +558,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/329#2027-03-24
 END:VEVENT
 BEGIN:VEVENT
 UID:46f16279b38b5707a76e622a78ada3e0@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270325T130000Z
 DTEND:20270325T160000Z
 SUMMARY:Algorithms for speech and language processing
@@ -568,7 +568,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/811#2027-03-25
 END:VEVENT
 BEGIN:VEVENT
 UID:0bdc4bee3ee54a854ca51db11722969a@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270331T083000Z
 DTEND:20270331T103000Z
 SUMMARY:Experimental methods in cognitive psychology
@@ -578,7 +578,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/329#2027-03-31
 END:VEVENT
 BEGIN:VEVENT
 UID:f516ff7ce48e9d01672c90bd61bd4f96@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270401T120000Z
 DTEND:20270401T150000Z
 SUMMARY:Algorithms for speech and language processing
@@ -588,7 +588,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/811#2027-04-01
 END:VEVENT
 BEGIN:VEVENT
 UID:0f0ca96866ca6c84b8faf6ca386f5959@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270413T123000Z
 DTEND:20270413T143000Z
 SUMMARY:Neuromathématiques
@@ -598,7 +598,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/315#2027-04-13
 END:VEVENT
 BEGIN:VEVENT
 UID:91f2261a4d8bdb3b8d74cf1b9725c2ac@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270421T083000Z
 DTEND:20270421T103000Z
 SUMMARY:Experimental methods in cognitive psychology
@@ -608,7 +608,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/329#2027-04-21
 END:VEVENT
 BEGIN:VEVENT
 UID:a4ab77bcaaba453764e75f81b7b1ef2f@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270422T120000Z
 DTEND:20270422T150000Z
 SUMMARY:Algorithms for speech and language processing
@@ -618,7 +618,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/811#2027-04-22
 END:VEVENT
 BEGIN:VEVENT
 UID:9daf41050641bcc8e291c991945ed71d@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270428T083000Z
 DTEND:20270428T103000Z
 SUMMARY:Experimental methods in cognitive psychology
@@ -628,7 +628,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/329#2027-04-28
 END:VEVENT
 BEGIN:VEVENT
 UID:9f3b1dd2c2a45e6b8cfd79f15aba2a37@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270429T120000Z
 DTEND:20270429T150000Z
 SUMMARY:Algorithms for speech and language processing
@@ -638,7 +638,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/811#2027-04-29
 END:VEVENT
 BEGIN:VEVENT
 UID:0dae2dc34c4d4438a710dcd03a8ca44e@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270505T083000Z
 DTEND:20270505T103000Z
 SUMMARY:Experimental methods in cognitive psychology
@@ -648,7 +648,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/329#2027-05-05
 END:VEVENT
 BEGIN:VEVENT
 UID:45cdfb86128e945e067a999debd40375@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270511T123000Z
 DTEND:20270511T143000Z
 SUMMARY:Neuromathématiques
@@ -658,7 +658,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/315#2027-05-11
 END:VEVENT
 BEGIN:VEVENT
 UID:7893da36b5cf6d42cd244b49e2f36e95@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270512T083000Z
 DTEND:20270512T103000Z
 SUMMARY:Experimental methods in cognitive psychology
@@ -668,7 +668,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/329#2027-05-12
 END:VEVENT
 BEGIN:VEVENT
 UID:43948498e2207de3fa43b7ea148cfb86@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270513T120000Z
 DTEND:20270513T150000Z
 SUMMARY:Algorithms for speech and language processing
@@ -678,7 +678,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/811#2027-05-13
 END:VEVENT
 BEGIN:VEVENT
 UID:28e16be8689b2338c7f9a3a43ebafa76@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270519T083000Z
 DTEND:20270519T103000Z
 SUMMARY:Experimental methods in cognitive psychology
@@ -688,7 +688,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/329#2027-05-19
 END:VEVENT
 BEGIN:VEVENT
 UID:f3187e9a287db1abb05e6a838a356ad1@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270520T120000Z
 DTEND:20270520T150000Z
 SUMMARY:Algorithms for speech and language processing
@@ -698,7 +698,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/811#2027-05-20
 END:VEVENT
 BEGIN:VEVENT
 UID:b343f45e329eaa4acf6c236cd875c981@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270526T083000Z
 DTEND:20270526T103000Z
 SUMMARY:Experimental methods in cognitive psychology
@@ -708,7 +708,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/329#2027-05-26
 END:VEVENT
 BEGIN:VEVENT
 UID:1b187acd16198862f7322eb2667146a2@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270527T120000Z
 DTEND:20270527T150000Z
 SUMMARY:Algorithms for speech and language processing
@@ -718,7 +718,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/811#2027-05-27
 END:VEVENT
 BEGIN:VEVENT
 UID:2d6aba6290defa306ca0a1c5ed7bcd91@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270602T083000Z
 DTEND:20270602T103000Z
 SUMMARY:Experimental methods in cognitive psychology
@@ -728,7 +728,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/329#2027-06-02
 END:VEVENT
 BEGIN:VEVENT
 UID:59941c30de785334a6d4163c2b1a4897@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270608T123000Z
 DTEND:20270608T143000Z
 SUMMARY:Neuromathématiques
@@ -738,7 +738,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/315#2027-06-08
 END:VEVENT
 BEGIN:VEVENT
 UID:57956c589393f2bb55fa059629b3fe69@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270609T083000Z
 DTEND:20270609T103000Z
 SUMMARY:Experimental methods in cognitive psychology
@@ -748,7 +748,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/329#2027-06-09
 END:VEVENT
 BEGIN:VEVENT
 UID:a1b4c7da8f97bf1e5e6d43061db9b559@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270616T083000Z
 DTEND:20270616T103000Z
 SUMMARY:Experimental methods in cognitive psychology
@@ -758,7 +758,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/329#2027-06-16
 END:VEVENT
 BEGIN:VEVENT
 UID:911f434bd4af53ab49148dc789ed4e2d@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270623T083000Z
 DTEND:20270623T103000Z
 SUMMARY:Experimental methods in cognitive psychology
@@ -768,7 +768,7 @@ URL:https://enseignements.ehess.fr/2026-2027/ue/329#2027-06-23
 END:VEVENT
 BEGIN:VEVENT
 UID:dfb3e7031c7e62bd361e6c193d5a0a16@conferences
-DTSTAMP:20261008T192336Z
+DTSTAMP:20261008T192943Z
 DTSTART:20270630T083000Z
 DTEND:20270630T103000Z
 SUMMARY:Experimental methods in cognitive psychology

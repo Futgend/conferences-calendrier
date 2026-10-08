@@ -582,6 +582,9 @@ def iismm_conferences():
     pr.raise_for_status()
     page = BeautifulSoup(pr.text, "html.parser")
     article = page.select_one("article") or page
+    for s in article.select("sup"):  # « 1er » s'écrit avec <sup>er</sup> : on recolle le mot
+        s.replace_with(s.get_text())
+    article.smooth()
     lignes = [" ".join(l.split()) for l in article.get_text("\n").split("\n")]
     lignes = [l for l in lignes if l]
     texte = " ".join(lignes)

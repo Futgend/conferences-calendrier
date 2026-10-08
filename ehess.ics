@@ -8,17 +8,17 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:f89fd36d5b9b67aa1d9caa64758d0b3f@conferences
-DTSTAMP:20261008T225811Z
+DTSTAMP:20261008T230103Z
 DTSTART:20260930T163000Z
 DTEND:20260930T180000Z
 SUMMARY:IISMM · Genèse de l’islamisation de l’Asie du Sud et du Sud-Est : dynamiques et représentations
 LOCATION:Auditorium de la BULAC\, 65 rue des Grands Moulins 75013 Paris
-DESCRIPTION:Cycle de conférences publiques de l'IISMM 2026-2027 : l'islam en Asie\nEntrée libre sans inscription préalable\n« L’islamisation de l’Inde\, dynamiques et représentations d’une frontière de l’Islam (VIII\ne\n-XV\ne\nsiècle)\nÉric Vallet\n\, historien\, professeur des universités en études arabes et islamiques (Université de Strasbourg)\n« Des routes marchandes aux réseaux religieux : l’islam dans la péninsule Malaise »\nElsa Clavé\n\, historienne\, professeure en études austronésiennes (Institut Afrique-Asie\, Université de Hambourg)\nLien : https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027
+DESCRIPTION:Cycle de conférences publiques de l'IISMM 2026-2027 : l'islam en Asie\nEntrée libre sans inscription préalable\n« L’islamisation de l’Inde\, dynamiques et représentations d’une frontière de l’Islam (VIIIe-XVe siècle)\nÉric Vallet\n\, historien\, professeur des universités en études arabes et islamiques (Université de Strasbourg)\n« Des routes marchandes aux réseaux religieux : l’islam dans la péninsule Malaise »\nElsa Clavé\n\, historienne\, professeure en études austronésiennes (Institut Afrique-Asie\, Université de Hambourg)\nLien : https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027
 URL:https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027#2026-09-30
 END:VEVENT
 BEGIN:VEVENT
 UID:47f2d2df8de290c59aeb1a5a2717602d@conferences
-DTSTAMP:20261008T225811Z
+DTSTAMP:20261008T230103Z
 DTSTART:20261012T070000Z
 DTEND:20261012T150000Z
 SUMMARY:Articuler étude de la sexualité et de la religion : socialisations\, institutions et politisations
@@ -28,7 +28,7 @@ URL:https://www.ehess.fr/jcms/278053_JEvent/fr/articuler-etude-de-la-sexualite-e
 END:VEVENT
 BEGIN:VEVENT
 UID:ac0eaa5d9dcf2097d031e7771c9d84fa@conferences
-DTSTAMP:20261008T225811Z
+DTSTAMP:20261008T230103Z
 DTSTART:20261012T120000Z
 DTEND:20261012T131500Z
 SUMMARY:Réunions d'information "Reprise d'études"
@@ -38,7 +38,7 @@ URL:https://www.ehess.fr/jcms/37175_JEvent/fr/reunions-d-information-reprise-d-e
 END:VEVENT
 BEGIN:VEVENT
 UID:ba01943f648dbd97296090e39c6cb782@conferences
-DTSTAMP:20261008T225811Z
+DTSTAMP:20261008T230103Z
 DTSTART:20261013T070000Z
 DTEND:20261013T170000Z
 SUMMARY:Les rencontres doctorales - SoLaRe
@@ -48,7 +48,7 @@ URL:https://www.ehess.fr/jcms/284330_JEvent/fr/les-rencontres-doctorales-solare
 END:VEVENT
 BEGIN:VEVENT
 UID:03757718d1498be3bb058c681b13af38@conferences
-DTSTAMP:20261008T225811Z
+DTSTAMP:20261008T230103Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261117
 SUMMARY:Le terrain religieux\, un terrain comme un autre ? Matérialités\, postures\, défiances et confiances
@@ -58,7 +58,7 @@ URL:https://www.ehess.fr/jcms/283762_JEvent/fr/le-terrain-religieux-un-terrain-c
 END:VEVENT
 BEGIN:VEVENT
 UID:c480c224508c20e9a60e8b25e9cb981d@conferences
-DTSTAMP:20261008T225811Z
+DTSTAMP:20261008T230103Z
 DTSTART:20261015T070000Z
 DTEND:20261015T170000Z
 SUMMARY:Les violences en milieux éducatifs : quelle histoire\, quelles actrices et quels acteurs\, quels enjeux ?
@@ -68,7 +68,7 @@ URL:https://www.ehess.fr/jcms/268470_JEvent/fr/les-violences-en-milieux-educatif
 END:VEVENT
 BEGIN:VEVENT
 UID:04693afee2b2c0ea4dd1680e129f3bf3@conferences
-DTSTAMP:20261008T225811Z
+DTSTAMP:20261008T230103Z
 DTSTART:20261119T080000Z
 DTEND:20261119T172000Z
 SUMMARY:La psychologisation des violences faites aux femmes
@@ -78,7 +78,7 @@ URL:https://www.ehess.fr/jcms/258092_JEvent/fr/la-psychologisation-des-violences
 END:VEVENT
 BEGIN:VEVENT
 UID:9b5bea8d05dc7ba0b2d2605a28935e95@conferences
-DTSTAMP:20261008T225811Z
+DTSTAMP:20261008T230103Z
 DTSTART:20261119T180000Z
 DTEND:20261119T193000Z
 SUMMARY:IISMM · Quelle place pour l’islam dans la Chine républicaine (1912-1949) ?
@@ -88,7 +88,7 @@ URL:https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-
 END:VEVENT
 BEGIN:VEVENT
 UID:b8079c7a697d9a4074aa01d0be6d96ee@conferences
-DTSTAMP:20261008T225811Z
+DTSTAMP:20261008T230103Z
 DTSTART:20261120T080000Z
 DTEND:20261120T180000Z
 SUMMARY:La psychologisation des violences faites aux femmes
@@ -98,37 +98,37 @@ URL:https://www.ehess.fr/jcms/258092_JEvent/fr/la-psychologisation-des-violences
 END:VEVENT
 BEGIN:VEVENT
 UID:05a41f0e467c85ac545098c89e81f65b@conferences
-DTSTAMP:20261008T225811Z
+DTSTAMP:20261008T230103Z
 DTSTART:20261217T173000Z
 DTEND:20261217T190000Z
 SUMMARY:IISMM · L’islam en Asie centrale sous Tamerlan et les Timourides
 LOCATION:Auditorium de la BULAC\, 65 rue des Grands Moulins 75013 Paris
-DESCRIPTION:Cycle de conférences publiques de l'IISMM 2026-2027 : l'islam en Asie\nEntrée libre sans inscription préalable\n« Courants de l’islam en Asie centrale sous Tamerlan (XIV\ne\nsiècle) »\nAlexandre Papas\n\, historien\, directeur de recherche (CNRS)\, directeur d’études (EPHE)\, directeur du Centre d’études ottomanes (Collège de France)\n« L’action sociale des soufis dans l’Asie centrale timouride »\nDanielle Zwarthoed\n\, historienne\, doctorante (EHESS\, CETOBaC)\nLien : https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027
+DESCRIPTION:Cycle de conférences publiques de l'IISMM 2026-2027 : l'islam en Asie\nEntrée libre sans inscription préalable\n« Courants de l’islam en Asie centrale sous Tamerlan (XIVe siècle) »\nAlexandre Papas\n\, historien\, directeur de recherche (CNRS)\, directeur d’études (EPHE)\, directeur du Centre d’études ottomanes (Collège de France)\n« L’action sociale des soufis dans l’Asie centrale timouride »\nDanielle Zwarthoed\n\, historienne\, doctorante (EHESS\, CETOBaC)\nLien : https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027
 URL:https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027#2026-12-17
 END:VEVENT
 BEGIN:VEVENT
 UID:d9e400beee5ba17c02b484164f5750fa@conferences
-DTSTAMP:20261008T225811Z
+DTSTAMP:20261008T230103Z
 DTSTART:20270107T173000Z
 DTEND:20270107T190000Z
 SUMMARY:IISMM · La coexistence religieuse en Inde des sultanats et des mogholes
 LOCATION:Auditorium de la BULAC\, 65 rue des Grands Moulins 75013 Paris
-DESCRIPTION:Cycle de conférences publiques de l'IISMM 2026-2027 : l'islam en Asie\nEntrée libre sans inscription préalable\n« Le droit hanéfite et la cohabitation interreligieuse en Inde moghole »\nNaveen Kanalu Ramamurthy\n\, historien\, maître de conférences (EHESS\, CRH)\n« Bâtir une mosquée au milieu des temples : conversion et convergence en Inde des sultans\, XIV\ne\n-XV\ne\nsiècles »\nSaarthak Singh\n\, historien de l’art\, maître de conférences (EFEO\, UGent)\nLien : https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027
+DESCRIPTION:Cycle de conférences publiques de l'IISMM 2026-2027 : l'islam en Asie\nEntrée libre sans inscription préalable\n« Le droit hanéfite et la cohabitation interreligieuse en Inde moghole »\nNaveen Kanalu Ramamurthy\n\, historien\, maître de conférences (EHESS\, CRH)\n« Bâtir une mosquée au milieu des temples : conversion et convergence en Inde des sultans\, XIVe-XVe siècles »\nSaarthak Singh\n\, historien de l’art\, maître de conférences (EFEO\, UGent)\nLien : https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027
 URL:https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027#2027-01-07
 END:VEVENT
 BEGIN:VEVENT
 UID:295b47abc7b2a32015a914c988820a28@conferences
-DTSTAMP:20261008T225811Z
+DTSTAMP:20261008T230103Z
 DTSTART:20270204T173000Z
 DTEND:20270204T190000Z
 SUMMARY:IISMM · Faire communauté : identités musulmanes en Inde
 LOCATION:Auditorium de la BULAC\, 65 rue des Grands Moulins 75013 Paris
-DESCRIPTION:Cycle de conférences publiques de l'IISMM 2026-2027 : l'islam en Asie\nEntrée libre sans inscription préalable\n« Les castes contre la communauté ? Tensions identitaires parmi les musulmans dans l’Inde indépendante »\nJulien Levesque\n\, anthropologue politique\, chargé de recherche (CNRS\, GSRL)\n« Émotions\, normes et appartenances dans l’Inde coloniale (19\ne\n-20\ne\nsiècles) »\nEve Tignol\n\, historienne\, chargée de recherche (CNRS\, CESAH)\nLien : https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027
+DESCRIPTION:Cycle de conférences publiques de l'IISMM 2026-2027 : l'islam en Asie\nEntrée libre sans inscription préalable\n« Les castes contre la communauté ? Tensions identitaires parmi les musulmans dans l’Inde indépendante »\nJulien Levesque\n\, anthropologue politique\, chargé de recherche (CNRS\, GSRL)\n« Émotions\, normes et appartenances dans l’Inde coloniale (19e-20e siècles) »\nEve Tignol\n\, historienne\, chargée de recherche (CNRS\, CESAH)\nLien : https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027
 URL:https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027#2027-02-04
 END:VEVENT
 BEGIN:VEVENT
 UID:fc4be98d353b842c81fb5ac3d9813c92@conferences
-DTSTAMP:20261008T225811Z
+DTSTAMP:20261008T230103Z
 DTSTART:20270303T173000Z
 DTEND:20270303T190000Z
 SUMMARY:IISMM · Violence et altérité religieuse en Asie du Sud et du Sud-Est
@@ -137,8 +137,18 @@ DESCRIPTION:Cycle de conférences publiques de l'IISMM 2026-2027 : l'islam en As
 URL:https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027#2027-03-03
 END:VEVENT
 BEGIN:VEVENT
+UID:fdfd2a2bf12408dfbe86fb557b1e379f@conferences
+DTSTAMP:20261008T230103Z
+DTSTART:20270401T163000Z
+DTEND:20270401T180000Z
+SUMMARY:IISMM · Entre javanisme et arabité\, les identités multiples de l’islam indonésien
+LOCATION:Auditorium de la BULAC\, 65 rue des Grands Moulins 75013 Paris
+DESCRIPTION:Cycle de conférences publiques de l'IISMM 2026-2027 : l'islam en Asie\nEntrée libre sans inscription préalable\n« De la synthèse mystique javanaise à la démocratie musulmane\, jalons pour une histoire contemporaine de l’islam en Indonésie (XIXe-XXe siècles) »\nRémy Madinier\n\, historien\, Directeur de recherche (CNRS\, IAO\, ENS de Lyon)\n« La “question arabe” en Indonésie\, de l’ère de l’islam global à celle de l’islam Nusantara »\nStéphane Lacroix\n\, professeur associé de science politique (Sciences Po\, CERI)\nLien : https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027
+URL:https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027#2027-04-01
+END:VEVENT
+BEGIN:VEVENT
 UID:f5f820dcaa89887361ac11fb300646de@conferences
-DTSTAMP:20261008T225811Z
+DTSTAMP:20261008T230103Z
 DTSTART:20270513T163000Z
 DTEND:20270513T180000Z
 SUMMARY:IISMM · Heurs et malheurs du culte des saints musulmans en Asie du Sud
@@ -148,7 +158,7 @@ URL:https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-
 END:VEVENT
 BEGIN:VEVENT
 UID:0c6cd3353945f0e0282aeee64b61ecc8@conferences
-DTSTAMP:20261008T225811Z
+DTSTAMP:20261008T230103Z
 DTSTART:20270617T163000Z
 DTEND:20270617T180000Z
 SUMMARY:IISMM · L’islam minoritaire et l’État : regards croisés sur l’Inde et la Chine

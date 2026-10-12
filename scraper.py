@@ -637,6 +637,125 @@ def ehess_complet():
     return sorted(evenements, key=lambda e: e["start"])
 
 
+from urllib.parse import urljoin
+DEC_PROGRAMME = "https://cognition.ens.fr/en/news/dec-colloquium-10822"
+DEC_AGENDA = "https://cognition.ens.fr/en/agenda"
+DEC_LIEU = "ENS, salle Jaurès, 29 rue d'Ulm, 75005 Paris"
+MOIS_EN = {"january": 1, "february": 2, "march": 3, "april": 4, "may": 5, "june": 6, "july": 7,
+           "august": 8, "september": 9, "october": 10, "november": 11, "december": 12}
+DEC_DATE_RE = re.compile(r"((?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},\s+\d{4})\s*[-–—]\s*", re.I)
+DEC_HEURE_RE = re.compile(r"(\d{1,2})(?::(\d{2}))?\s*(am|pm)?\s*[-–]\s*(\d{1,2})(?::(\d{2}))?\s*(am|pm)", re.I)
+
+
+def dec_horaire(ligne):
+    """'11:30-1PM' -> ((11, 30), (13, 0)) ; None si illisible."""
+    m = DEC_HEURE_RE.search(ligne or "")
+    if not m:
+        return None
+    h2, mn2, suf2 = int(m.group(4)), int(m.group(5) or 0), m.group(6).lower()
+    h2 = h2 % 12 + (12 if suf2 == "pm" else 0)
+    h1, mn1, suf1 = int(m.group(1)), int(m.group(2) or 0), (m.group(3) or "").lower()
+    if suf1:
+        candidats = [h1 % 12 + (12 if suf1 == "pm" else 0)]
+    else:  # pas d'indication am/pm au début : on garde la durée positive la plus courte
+        candidats = [h1 % 12, h1 % 12 + 12]
+    valides = [c for c in candidats if (c, mn1) < (h2, mn2)]
+    if not valides:
+        return None
+    h1 = min(valides, key=lambda c: (h2 * 60 + mn2) - (c * 60 + mn1))
+    return (h1, mn1), (h2, mn2)
+
+
+def dec_page(url):
+    pr = requests.get(url, headers=HEADERS, timeout=30)
+    pr.raise_for_status()
+    return BeautifulSoup(pr.text, "html.parser")
+
+
+def dec_fiche(url):
+    """Titre, résumé, lieu et horaire d'une fiche d'événement du DEC (tout est facultatif)."""
+    page = dec_page(url)
+    lignes = [" ".join(l.split()) for l in page.get_text("\n").split("\n")]
+    lignes = [l for l in lignes if l]
+    titre = txt(page, "h1")
+    resume = ""
+    for l in lignes:
+        if l.startswith("Abstract:") and len(l) > 12:
+            resume = l[9:].strip()[:900]
+            break
+    lieu = ""
+    horaire = None
+    for i, l in enumerate(lignes):
+        if l.lower() == "place" and i + 1 < len(lignes):
+            lieu = lignes[i + 1]
+        if horaire is None and re.search(r"\d.*[-–].*\d.*(am|pm)", l, re.I):
+            horaire = dec_horaire(l)
+    return titre, resume, lieu, horaire
+
+
+def colloquium_dec():
+    """Colloquium mensuel du Département d'études cognitives de l'ENS, une conférence par date."""
+    soup = dec_page(DEC_PROGRAMME)
+    for br in soup.find_all("br"):
+        br.replace_with("\n")
+    texte = soup.get_text("")
+    # fiches d'événements connues : nom de l'intervenant -> lien (via le calendrier du DEC)
+    fiches = {}
+    try:
+        agenda = dec_page(DEC_AGENDA)
+        for h3 in agenda.select("h3"):
+            a = h3.find("a", href=True)
+            suivant = a.find_next("a") if a else None
+            if a and suivant and "/agenda/" in a["href"]:
+                nom = suivant.get_text(" ", strip=True).split("(")[0].strip().lower()
+                fiches[nom] = urljoin(DEC_AGENDA, a["href"])
+    except Exception as exc:
+        print(f"ERREUR agenda DEC: {exc}", file=sys.stderr)
+    liens_prog = {}
+    for a in soup.select("a[href]"):
+        if "/agenda/" in a["href"]:
+            liens_prog[" ".join(a.get_text().split()).strip('"“”« » ').lower()] = urljoin(DEC_PROGRAMME, a["href"])
+    morceaux = DEC_DATE_RE.split(texte)
+    events = {}
+    for k in range(1, len(morceaux) - 1, 2):
+        date_txt, reste = morceaux[k], " ".join(morceaux[k + 1].split())
+        mois, jour, annee = re.match(r"([A-Za-z]+)\s+(\d{1,2}),\s+(\d{4})", date_txt).groups()
+        jour_dt = datetime(int(annee), MOIS_EN[mois.lower()], int(jour), tzinfo=PARIS)
+        m = re.match(r"(.+?)\s*\((.*?)\)\s*(?::\s*(.*))?$", reste)
+        if not m:
+            continue
+        nom, affil, titre = m.group(1).strip(), m.group(2).strip(), (m.group(3) or "").strip().strip('"“”« » ')
+        fiche_url = liens_prog.get(titre.lower()) if titre else None
+        fiche_url = fiche_url or fiches.get(nom.lower())
+        resume, lieu, horaire = "", DEC_LIEU, None
+        if fiche_url:
+            try:
+                t, resume, lieu_f, horaire = dec_fiche(fiche_url)
+                lieu = lieu_f or DEC_LIEU
+                if not titre and t and t.strip().upper() != "TBA":
+                    titre = t.strip()
+            except Exception as exc:
+                print(f"ERREUR fiche DEC {fiche_url}: {exc}", file=sys.stderr)
+        (h1, m1), (h2, m2) = horaire or ((11, 30), (13, 0))
+        start = jour_dt.replace(hour=h1, minute=m1)
+        end = jour_dt.replace(hour=h2, minute=m2)
+        intitule = f"{nom} : {titre}" if titre else f"{nom} ({affil})"
+        desc = [
+            "Colloquium du Département d'études cognitives (ENS) : conférence mensuelle d'un invité international",
+            f"Intervenant : {nom} ({affil})",
+            f"Sujet : {titre}" if titre else "Sujet : à venir",
+            resume,
+            "Accès : le site ne précise pas si l'événement est ouvert aux personnes extérieures",
+            f"Fiche de l'événement : {fiche_url}" if fiche_url else "",
+            f"Programme du colloquium : {DEC_PROGRAMME}",
+            f"Calendrier du DEC : {DEC_AGENDA}",
+        ]
+        events[start] = {"title": f"Colloquium DEC · {intitule}", "start": start, "end": end, "all_day": False,
+                         "place": lieu, "description": "\n".join(x for x in desc if x),
+                         "url": fiche_url or DEC_PROGRAMME}
+    return sorted(events.values(), key=lambda e: e["start"])
+
+
 # Une entrée par institution : nom du fichier -> (nom du calendrier, fonction)
 SOURCES = {
     "college-de-france": ("Conférences Collège de France", college_de_france),
@@ -645,6 +764,7 @@ SOURCES = {
     "ehess": ("Conférences EHESS", ehess_complet),
     "ihpst": ("Conférences IHPST", ihpst),
     "enseignements-ehess": ("Enseignements EHESS sciences cognitives", enseignements_ehess),
+    "colloquium-dec": ("Colloquium DEC (ENS)", colloquium_dec),
 }
 # Anciens noms de fichier (aucun pour le moment)
 LEGACY = {}

@@ -542,6 +542,8 @@ def enseignements_ehess():
         if c["statut"] == "a_confirmer":
             note = (f"DATES À CONFIRMER : {c['annonce']} séances annoncées pour {n} créneaux possibles "
                     "(vacances et jours fériés déjà retirés).")
+        elif c["statut"] == "decale":
+            note = "Programme décalé d'une séance (blocus) : la 1re séance est reportée sur la date de la 2e. Dates et salles à confirmer."
         elif c["statut"] == "confirme":
             note = "Dates et salles d'après le programme officiel du cours."
         elif c["statut"] == "calcule":

@@ -8,17 +8,17 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:6146b92e778e958f74431e531c248859@conferences
-DTSTAMP:20261013T114132Z
+DTSTAMP:20261013T134925Z
 DTSTART:20261020T093000Z
 DTEND:20261020T110000Z
 SUMMARY:Colloquium DEC · Hanna Pickard : Addiction and the Good
-LOCATION:ENS\, Jaurès\, 29 rue d'Ulm\, 75005 Paris
-DESCRIPTION:Colloquium du Département d'études cognitives (ENS) : conférence mensuelle d'un invité international\nIntervenant : Hanna Pickard (Johns Hopkins University)\nSujet : Addiction and the Good\nAddiction science is at an impasse. Rates of addiction remain high. Translational results from decades of research conducted within the dominant brain disease paradigm are shockingly meager. Meanwhile\, theories of addiction multiply and compete\, fomenting disagreement about something as apparently simple as what addiction is. Ultimately the cost of this impasse is borne by people with addiction themselves. How to move forward? By attending to what is puzzling about addiction and what people with addiction say about their relationships with drugs\, I will propose a Carnapian-style explication as a foundation for a new paradigm: Addiction is a pattern of drug use that persists despite evident and severe costs such that it counts profoundly against a person’s own good. The new paradigm is therefore as humanistic as it is scientific\, putting values at the heart of addiction and dialogue with \nAccès : le site ne précise pas si l'événement est ouvert aux personnes extérieures\nFiche de l'événement : https://cognition.ens.fr/en/agenda/addiction-and-good-18622\nProgramme du colloquium : https://cognition.ens.fr/en/news/dec-colloquium-10822\nCalendrier du DEC : https://cognition.ens.fr/en/agenda
+LOCATION:ENS\, salle Jaurès\, 29 rue d'Ulm\, 75005 Paris
+DESCRIPTION:Colloquium du Département d'études cognitives (ENS) : conférence mensuelle d'un invité international\nIntervenant : Hanna Pickard (Johns Hopkins University)\nSujet : Addiction and the Good\nAccès : le site ne précise pas si l'événement est ouvert aux personnes extérieures\nFiche de l'événement : https://cognition.ens.fr/en/agenda/addiction-and-good-18622\nProgramme du colloquium : https://cognition.ens.fr/en/news/dec-colloquium-10822\nCalendrier du DEC : https://cognition.ens.fr/en/agenda
 URL:https://cognition.ens.fr/en/agenda/addiction-and-good-18622
 END:VEVENT
 BEGIN:VEVENT
 UID:717fd530d3932291b966d3a2d11d8634@conferences
-DTSTAMP:20261013T114132Z
+DTSTAMP:20261013T134925Z
 DTSTART:20261117T103000Z
 DTEND:20261117T120000Z
 SUMMARY:Colloquium DEC · Patrick Butlin (Eleos AI)
@@ -28,7 +28,7 @@ URL:https://cognition.ens.fr/en/agenda/tba-18623
 END:VEVENT
 BEGIN:VEVENT
 UID:522eac4637c1b96e97afed8cef7094fe@conferences
-DTSTAMP:20261013T114132Z
+DTSTAMP:20261013T134925Z
 DTSTART:20261215T103000Z
 DTEND:20261215T120000Z
 SUMMARY:Colloquium DEC · Gwenaelle Douaud (Oxford University)
@@ -38,7 +38,7 @@ URL:https://cognition.ens.fr/en/news/dec-colloquium-10822
 END:VEVENT
 BEGIN:VEVENT
 UID:6cd329dbe58ca9cee3761e8510df5e17@conferences
-DTSTAMP:20261013T114132Z
+DTSTAMP:20261013T134925Z
 DTSTART:20270105T103000Z
 DTEND:20270105T120000Z
 SUMMARY:Colloquium DEC · Meike Ramon : Human Natural Identity and Deepfake Processing - Insights from Super-Recognizers\, Law Enforcement and Society
@@ -48,7 +48,7 @@ URL:https://cognition.ens.fr/en/agenda/human-natural-identity-and-deepfake-proce
 END:VEVENT
 BEGIN:VEVENT
 UID:279a8397187ebae73db48d86d4dba965@conferences
-DTSTAMP:20261013T114132Z
+DTSTAMP:20261013T134925Z
 DTSTART:20270223T103000Z
 DTEND:20270223T120000Z
 SUMMARY:Colloquium DEC · Jeffrey Bowers (University of Bristol)
@@ -58,22 +58,32 @@ URL:https://cognition.ens.fr/en/news/dec-colloquium-10822
 END:VEVENT
 BEGIN:VEVENT
 UID:ed334fc5923c851a857affbfb9ba0dcc@conferences
-DTSTAMP:20261013T114132Z
+DTSTAMP:20261013T134925Z
 DTSTART:20270302T103000Z
 DTEND:20270302T120000Z
 SUMMARY:Colloquium DEC · Jonas Obleser (University of Lübeck)
-LOCATION:ENS\, Jaurès\, 29 rue d'Ulm\, 75005 Paris
+LOCATION:ENS\, salle Jaurès\, 29 rue d'Ulm\, 75005 Paris
 DESCRIPTION:Colloquium du Département d'études cognitives (ENS) : conférence mensuelle d'un invité international\nIntervenant : Jonas Obleser (University of Lübeck)\nSujet : à venir\nAccès : le site ne précise pas si l'événement est ouvert aux personnes extérieures\nFiche de l'événement : https://cognition.ens.fr/en/agenda/tba-18625\nProgramme du colloquium : https://cognition.ens.fr/en/news/dec-colloquium-10822\nCalendrier du DEC : https://cognition.ens.fr/en/agenda
 URL:https://cognition.ens.fr/en/agenda/tba-18625
 END:VEVENT
 BEGIN:VEVENT
 UID:347a9a3d01dfa93aa6fe6197257d3909@conferences
-DTSTAMP:20261013T114132Z
+DTSTAMP:20261013T134925Z
 DTSTART:20270518T093000Z
 DTEND:20270518T110000Z
 SUMMARY:Colloquium DEC · Alessandro Tavano (Max Plack Institute)
-LOCATION:ENS\, Jaurès\, 29 rue d'Ulm\, 75005 Paris
+LOCATION:ENS\, salle Jaurès\, 29 rue d'Ulm\, 75005 Paris
 DESCRIPTION:Colloquium du Département d'études cognitives (ENS) : conférence mensuelle d'un invité international\nIntervenant : Alessandro Tavano (Max Plack Institute)\nSujet : à venir\nAccès : le site ne précise pas si l'événement est ouvert aux personnes extérieures\nFiche de l'événement : https://cognition.ens.fr/en/agenda/tba-18626\nProgramme du colloquium : https://cognition.ens.fr/en/news/dec-colloquium-10822\nCalendrier du DEC : https://cognition.ens.fr/en/agenda
 URL:https://cognition.ens.fr/en/agenda/tba-18626
+END:VEVENT
+BEGIN:VEVENT
+UID:f5447e2cf53d22e9686202efd7e3e347@conferences
+DTSTAMP:20261013T134925Z
+DTSTART:20270615T093000Z
+DTEND:20270615T110000Z
+SUMMARY:Colloquium DEC · Peggy Seriès (University of Edinburgh)
+LOCATION:ENS\, salle Jaurès\, 29 rue d'Ulm\, 75005 Paris
+DESCRIPTION:Colloquium du Département d'études cognitives (ENS) : conférence mensuelle d'un invité international\nIntervenant : Peggy Seriès (University of Edinburgh)\nSujet : à venir\nAccès : le site ne précise pas si l'événement est ouvert aux personnes extérieures\nFiche de l'événement : https://cognition.ens.fr/en/agenda/tba-18627\nProgramme du colloquium : https://cognition.ens.fr/en/news/dec-colloquium-10822\nCalendrier du DEC : https://cognition.ens.fr/en/agenda
+URL:https://cognition.ens.fr/en/agenda/tba-18627
 END:VEVENT
 END:VCALENDAR

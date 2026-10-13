@@ -718,7 +718,9 @@ def colloquium_dec():
     morceaux = DEC_DATE_RE.split(texte)
     events = {}
     for k in range(1, len(morceaux) - 1, 2):
-        date_txt, reste = morceaux[k], " ".join(morceaux[k + 1].split())
+        date_txt = morceaux[k]
+        # on coupe le texte qui suit la liste du programme (liens du calendrier, archives…)
+        reste = re.split(r"\s+(?:Join the|Past colloquium|Video and audio|Access restricted)", " ".join(morceaux[k + 1].split()))[0]
         mois, jour, annee = re.match(r"([A-Za-z]+)\s+(\d{1,2}),\s+(\d{4})", date_txt).groups()
         jour_dt = datetime(int(annee), MOIS_EN[mois.lower()], int(jour), tzinfo=PARIS)
         m = re.match(r"(.+?)\s*\((.*?)\)\s*(?::\s*(.*))?$", reste)

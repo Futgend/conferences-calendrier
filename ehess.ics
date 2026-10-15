@@ -7,18 +7,18 @@ X-WR-TIMEZONE:Europe/Paris
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:f89fd36d5b9b67aa1d9caa64758d0b3f@conferences
-DTSTAMP:20261014T092533Z
-DTSTART:20260930T163000Z
-DTEND:20260930T180000Z
-SUMMARY:IISMM · Genèse de l’islamisation de l’Asie du Sud et du Sud-Est : dynamiques et représentations
-LOCATION:Auditorium de la BULAC\, 65 rue des Grands Moulins 75013 Paris
-DESCRIPTION:Cycle de conférences publiques de l'IISMM 2026-2027 : l'islam en Asie\nEntrée libre sans inscription préalable\n« L’islamisation de l’Inde\, dynamiques et représentations d’une frontière de l’Islam (VIIIe-XVe siècle)\nÉric Vallet\n\, historien\, professeur des universités en études arabes et islamiques (Université de Strasbourg)\n« Des routes marchandes aux réseaux religieux : l’islam dans la péninsule Malaise »\nElsa Clavé\n\, historienne\, professeure en études austronésiennes (Institut Afrique-Asie\, Université de Hambourg)\nLien : https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027
-URL:https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027#2026-09-30
+UID:fd6a0e2b419b1cfefbbd3520a8da7cd9@conferences
+DTSTAMP:20261015T090412Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261017
+SUMMARY:"L'animal"
+LOCATION:Collège de France 11\, place Marcelin-Berthelot\, 75005 Paris
+DESCRIPTION:Catégorie : Colloque\nDu 14/10 à 18h00 au 16/10 à 17h30\nPlus que jamais\, l’animal est devenu un problème : écologique (crises sanitaires et environnementales)\, social\, économique et politique (agriculture et élevage)\, juridique et philosophique. Dans les dernières années\, le champ des études animales (animal studies) s’est développé de façon considérable\nLien : https://www.ehess.fr/jcms/297556_JEvent/fr/-l-animal
+URL:https://www.ehess.fr/jcms/297556_JEvent/fr/-l-animal
 END:VEVENT
 BEGIN:VEVENT
 UID:03757718d1498be3bb058c681b13af38@conferences
-DTSTAMP:20261014T092533Z
+DTSTAMP:20261015T090412Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261117
 SUMMARY:Le terrain religieux\, un terrain comme un autre ? Matérialités\, postures\, défiances et confiances
@@ -28,7 +28,7 @@ URL:https://www.ehess.fr/jcms/283762_JEvent/fr/le-terrain-religieux-un-terrain-c
 END:VEVENT
 BEGIN:VEVENT
 UID:5c785e0147ca35a7273909c1fda83576@conferences
-DTSTAMP:20261014T092533Z
+DTSTAMP:20261015T090412Z
 DTSTART:20261015T070000Z
 DTEND:20261015T170000Z
 SUMMARY:[Annulé] Les violences en milieux éducatifs : quelle histoire\, quelles actrices et quels acteurs\, quels enjeux ?
@@ -37,18 +37,48 @@ DESCRIPTION:Catégorie : Journé(e) d'études\nAccès : Entrée libre\nDans le c
 URL:https://www.ehess.fr/jcms/268470_JEvent/fr/-annule-les-violences-en-milieux-educatifs-quelle-histoire-quelles-actrices-et-quels-acteurs-quels-enjeux
 END:VEVENT
 BEGIN:VEVENT
-UID:10ea9282632f87f1ec42c5ea998447d5@conferences
-DTSTAMP:20261014T092533Z
+UID:09f875929e6b7337fbf762c9c41063ff@conferences
+DTSTAMP:20261015T090412Z
 DTSTART:20261020T153000Z
 DTEND:20261020T163000Z
-SUMMARY:Voix aux Chapitres #21 autour de l'ouvrage "Citoyennes soignantes. Guerre\, femmes et fabrique du commun en Ukraine"
+SUMMARY:Voix aux Chapitres #21 : "Citoyennes soignantes. Guerre\, femmes et fabrique du commun en Ukraine"
 LOCATION:EHESS - Paris 54 boulevard Raspail\, 75006 Paris
-DESCRIPTION:Catégorie : Rencontre\nAccès : Entrée libre\nCette séance de Voix aux Chapitres 2026-27 est consacrée au livre de Ioulia Shukan directrice d'études à l'EHESS (CERCEC - CNRS/EHESS)\, (Éditions de la FMSH\, 2025). Elle se tient le mardi 20 octobre 2026 à 17h30 à l'EHESS (hall du 54 boulevard Raspail\, Paris)\, et réunit autour de l'autrice : \, Direc\nLien : https://www.ehess.fr/jcms/296532_JEvent/fr/voix-aux-chapitres-21-autour-de-l-ouvrage-citoyennes-soignantes-guerre-femmes-et-fabrique-du-commun-en-ukraine
-URL:https://www.ehess.fr/jcms/296532_JEvent/fr/voix-aux-chapitres-21-autour-de-l-ouvrage-citoyennes-soignantes-guerre-femmes-et-fabrique-du-commun-en-ukraine
+DESCRIPTION:Catégorie : Rencontre\nAccès : Entrée libre\nCette séance de Voix aux Chapitres 2026-27 est consacrée au livre de Ioulia Shukan directrice d'études à l'EHESS (CERCEC - CNRS/EHESS)\, (Éditions de la FMSH\, 2025). Elle se tient le mardi 20 octobre 2026 à 17h30 à l'EHESS (hall du 54 boulevard Raspail\, Paris)\, et réunit autour de l'autrice : \, Direc\nLien : https://www.ehess.fr/jcms/296532_JEvent/fr/voix-aux-chapitres-21-citoyennes-soignantes-guerre-femmes-et-fabrique-du-commun-en-ukraine
+URL:https://www.ehess.fr/jcms/296532_JEvent/fr/voix-aux-chapitres-21-citoyennes-soignantes-guerre-femmes-et-fabrique-du-commun-en-ukraine
+END:VEVENT
+BEGIN:VEVENT
+UID:f1a91bb9cf6b71eb6771d3cd1283f6c7@conferences
+DTSTAMP:20261015T090412Z
+DTSTART:20261022T150000Z
+DTEND:20261022T180000Z
+SUMMARY:Le Laboratoire Junior fait sa première rentrée
+LOCATION:EHESS - Paris 54 boulevard Raspail\, 75006 Paris
+DESCRIPTION:Catégorie : Débat\nLe dispositif de "Laboratoire Junior" est une initiative étudiante qui rassemble des doctorants\, post-doctorants et masterants de l’EHESS autour de projets de recherche fédératifs et/ou créatifs. Il a pour vocation de susciter des réflexions pluridisciplinaires\, tous laboratoires confondus\, de faire\nLien : https://www.ehess.fr/jcms/297910_JEvent/fr/le-laboratoire-junior-fait-sa-premiere-rentree
+URL:https://www.ehess.fr/jcms/297910_JEvent/fr/le-laboratoire-junior-fait-sa-premiere-rentree
+END:VEVENT
+BEGIN:VEVENT
+UID:687224e833b63a68f63a52a8aecef95b@conferences
+DTSTAMP:20261015T090412Z
+DTSTART:20261109T130000Z
+DTEND:20261109T141500Z
+SUMMARY:Réunions d'information "Reprise d'études"
+LOCATION:En visioconférence Lien communiqué après votre inscription
+DESCRIPTION:Le service de la formation continue de l'EHESS organise des réunions d'informations ouvertes à toute personne intéressée par une reprise d'études. Vous pourrez à cette occasion vous informer sur les diplômes délivrés par l'établissement\, les dispositifs de la formation continue et les possibilités d\nLien : https://www.ehess.fr/jcms/37175_JEvent/fr/reunions-d-information-reprise-d-etudes
+URL:https://www.ehess.fr/jcms/37175_JEvent/fr/reunions-d-information-reprise-d-etudes
+END:VEVENT
+BEGIN:VEVENT
+UID:dba022409b5c12bc1ccabc2bd9325fea@conferences
+DTSTAMP:20261015T090412Z
+DTSTART:20261117T130000Z
+DTEND:20261117T150000Z
+SUMMARY:Raconter une vie engagée : "Marc Bloch\, historien combattant"
+LOCATION:Bibliothèque l'Alcazar 58\, cours Belsunce\, 13001 Marseille
+DESCRIPTION:Catégorie : Rencontre\nAccès : Entrée libre\nDans le cadre de l'entrée au Panthéon de l’historien Marc Bloch en juin 2026\, l’École des hautes études en sciences sociales (EHESS) et les Éditions Tallandier se sont associéespour co-éditer Marc Bloch\, historien combattant\, bande dessinée retraçant la vie et l'oeuvre de l'historien par ailleurs ha\nLien : https://www.ehess.fr/jcms/296967_JEvent/fr/raconter-une-vie-engagee-marc-bloch-historien-combattant
+URL:https://www.ehess.fr/jcms/296967_JEvent/fr/raconter-une-vie-engagee-marc-bloch-historien-combattant
 END:VEVENT
 BEGIN:VEVENT
 UID:7a48032e94544a26a5b397711cb2472f@conferences
-DTSTAMP:20261014T092533Z
+DTSTAMP:20261015T090412Z
 DTSTART:20261117T173000Z
 DTEND:20261117T183000Z
 SUMMARY:L'incomplétude en mouvement : perspectives africaines et pensée de Marc Bloch
@@ -58,7 +88,7 @@ URL:https://www.ehess.fr/jcms/284673_JEvent/fr/l-incompletude-en-mouvement-persp
 END:VEVENT
 BEGIN:VEVENT
 UID:04693afee2b2c0ea4dd1680e129f3bf3@conferences
-DTSTAMP:20261014T092533Z
+DTSTAMP:20261015T090412Z
 DTSTART:20261119T080000Z
 DTEND:20261119T172000Z
 SUMMARY:La psychologisation des violences faites aux femmes
@@ -67,18 +97,8 @@ DESCRIPTION:Catégorie : Colloque\nAccès : Sur inscription\nHoraires d'après l
 URL:https://www.ehess.fr/jcms/258092_JEvent/fr/la-psychologisation-des-violences-faites-aux-femmes
 END:VEVENT
 BEGIN:VEVENT
-UID:9b5bea8d05dc7ba0b2d2605a28935e95@conferences
-DTSTAMP:20261014T092533Z
-DTSTART:20261119T180000Z
-DTEND:20261119T193000Z
-SUMMARY:IISMM · Quelle place pour l’islam dans la Chine républicaine (1912-1949) ?
-LOCATION:Auditorium de la BULAC\, 65 rue des Grands Moulins 75013 Paris
-DESCRIPTION:Cycle de conférences publiques de l'IISMM 2026-2027 : l'islam en Asie\nEntrée libre sans inscription préalable\n« Promouvoir l’éducation des femmes musulmanes : savoirs religieux et éducation moderne en milieu soufi chinois »\nMarie-Paule Hille\n\, historienne et anthropologue\, maîtresse de Conférences (EHESS\, CECMC\, CCJ)\n« L’histoire intellectuelle des musulmans sinophones »\nVincent Mu-chien Chen\n\, historien\, doctorant (CETOBaC\, CCJ)\nLien : https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027
-URL:https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027#2026-11-19
-END:VEVENT
-BEGIN:VEVENT
 UID:b8079c7a697d9a4074aa01d0be6d96ee@conferences
-DTSTAMP:20261014T092533Z
+DTSTAMP:20261015T090412Z
 DTSTART:20261120T080000Z
 DTEND:20261120T180000Z
 SUMMARY:La psychologisation des violences faites aux femmes
@@ -88,7 +108,7 @@ URL:https://www.ehess.fr/jcms/258092_JEvent/fr/la-psychologisation-des-violences
 END:VEVENT
 BEGIN:VEVENT
 UID:d717e7141811007b5e7b4163aa39f124@conferences
-DTSTAMP:20261014T092533Z
+DTSTAMP:20261015T090412Z
 DTSTART:20261124T070000Z
 DTEND:20261124T190000Z
 SUMMARY:Semaine de l'Afrique
@@ -98,7 +118,7 @@ URL:https://www.ehess.fr/jcms/293183_JEvent/fr/semaine-de-l-afrique
 END:VEVENT
 BEGIN:VEVENT
 UID:81a7a98344c5d4dcc90f144e947ca47e@conferences
-DTSTAMP:20261014T092533Z
+DTSTAMP:20261015T090412Z
 DTSTART:20261125T080000Z
 DTEND:20261125T172500Z
 SUMMARY:Semaine de l'Afrique
@@ -108,7 +128,7 @@ URL:https://www.ehess.fr/jcms/293183_JEvent/fr/semaine-de-l-afrique
 END:VEVENT
 BEGIN:VEVENT
 UID:8fe12415db5a2f2fbf4a57617534bfef@conferences
-DTSTAMP:20261014T092533Z
+DTSTAMP:20261015T090412Z
 DTSTART:20261126T080000Z
 DTEND:20261126T174000Z
 SUMMARY:Semaine de l'Afrique
@@ -118,7 +138,7 @@ URL:https://www.ehess.fr/jcms/293183_JEvent/fr/semaine-de-l-afrique
 END:VEVENT
 BEGIN:VEVENT
 UID:93eabf6c82f0ae6fadf03a1442385569@conferences
-DTSTAMP:20261014T092533Z
+DTSTAMP:20261015T090412Z
 DTSTART:20261127T080000Z
 DTEND:20261127T173000Z
 SUMMARY:Semaine de l'Afrique
@@ -127,73 +147,33 @@ DESCRIPTION:Catégorie : Colloque\nAccès : Sur inscription\nHoraires d'après l
 URL:https://www.ehess.fr/jcms/293183_JEvent/fr/semaine-de-l-afrique
 END:VEVENT
 BEGIN:VEVENT
-UID:05a41f0e467c85ac545098c89e81f65b@conferences
-DTSTAMP:20261014T092533Z
-DTSTART:20261217T173000Z
-DTEND:20261217T190000Z
-SUMMARY:IISMM · L’islam en Asie centrale sous Tamerlan et les Timourides
-LOCATION:Auditorium de la BULAC\, 65 rue des Grands Moulins 75013 Paris
-DESCRIPTION:Cycle de conférences publiques de l'IISMM 2026-2027 : l'islam en Asie\nEntrée libre sans inscription préalable\n« Courants de l’islam en Asie centrale sous Tamerlan (XIVe siècle) »\nAlexandre Papas\n\, historien\, directeur de recherche (CNRS)\, directeur d’études (EPHE)\, directeur du Centre d’études ottomanes (Collège de France)\n« L’action sociale des soufis dans l’Asie centrale timouride »\nDanielle Zwarthoed\n\, historienne\, doctorante (EHESS\, CETOBaC)\nLien : https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027
-URL:https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027#2026-12-17
+UID:b932b41a1fcb6785065af4913147e443@conferences
+DTSTAMP:20261015T090412Z
+DTSTART:20261127T090000Z
+DTEND:20261127T100000Z
+SUMMARY:Voix aux Chapitres #22 autour de l'ouvrage "Chroniques de l’intranquillité : Violence\, prédation et protection en situation postcoloniale"
+LOCATION:EHESS - Paris 54 boulevard Raspail\, 75006 Paris
+DESCRIPTION:Catégorie : Rencontre\nAccès : Entrée libre\nCette séance de Voix aux Chapitres 2026-27 est consacrée au livre de \, directeur d'études de l'EHESS (CEMS - EHESS/CNRS - INSERM)\, Chroniques de l’intranquillité : Violence\, prédation et protection en situation postcoloniale (EHESS\, Gallimard Seuil\, 2026). Elle se tient le vendredi 27 novembre 2026 \nLien : https://www.ehess.fr/jcms/296672_JEvent/fr/voix-aux-chapitres-22-autour-de-l-ouvrage-chroniques-de-l-intranquillite-violence-predation-et-protection-en-situation-postcoloniale
+URL:https://www.ehess.fr/jcms/296672_JEvent/fr/voix-aux-chapitres-22-autour-de-l-ouvrage-chroniques-de-l-intranquillite-violence-predation-et-protection-en-situation-postcoloniale
 END:VEVENT
 BEGIN:VEVENT
-UID:d9e400beee5ba17c02b484164f5750fa@conferences
-DTSTAMP:20261014T092533Z
-DTSTART:20270107T173000Z
-DTEND:20270107T190000Z
-SUMMARY:IISMM · La coexistence religieuse en Inde des sultanats et des mogholes
-LOCATION:Auditorium de la BULAC\, 65 rue des Grands Moulins 75013 Paris
-DESCRIPTION:Cycle de conférences publiques de l'IISMM 2026-2027 : l'islam en Asie\nEntrée libre sans inscription préalable\n« Le droit hanéfite et la cohabitation interreligieuse en Inde moghole »\nNaveen Kanalu Ramamurthy\n\, historien\, maître de conférences (EHESS\, CRH)\n« Bâtir une mosquée au milieu des temples : conversion et convergence en Inde des sultans\, XIVe-XVe siècles »\nSaarthak Singh\n\, historien de l’art\, maître de conférences (EFEO\, UGent)\nLien : https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027
-URL:https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027#2027-01-07
+UID:29b246da24c1d7287ead37c46621e746@conferences
+DTSTAMP:20261015T090412Z
+DTSTART:20261201T163000Z
+DTEND:20261201T193000Z
+SUMMARY:Voix aux Chapitres #23 autour de l'ouvrage "Une histoire économique et sociale La France\, de la Préhistoire à nos jours"
+LOCATION:EHESS - Paris 54 boulevard Raspail\, 75006 Paris
+DESCRIPTION:Catégorie : Rencontre\nAccès : Entrée libre\nCette séance de Voix aux Chapitres 2026-27 est consacrée au livre de Pierre-Cyrille Hautcoeur\, directeur d'études de l'EHESS (CEMS - EHESS/CNRS - INSERM) et Catherine Virlouvet\, Une histoire économique et sociale. La France\, de la Préhistoire à nos jours (Passés Composés\, 2025). Elle se tient le mar\nLien : https://www.ehess.fr/jcms/296719_JEvent/fr/voix-aux-chapitres-23-autour-de-l-ouvrage-une-histoire-economique-et-sociale-la-france-de-la-prehistoire-a-nos-jours
+URL:https://www.ehess.fr/jcms/296719_JEvent/fr/voix-aux-chapitres-23-autour-de-l-ouvrage-une-histoire-economique-et-sociale-la-france-de-la-prehistoire-a-nos-jours
 END:VEVENT
 BEGIN:VEVENT
-UID:295b47abc7b2a32015a914c988820a28@conferences
-DTSTAMP:20261014T092533Z
-DTSTART:20270204T173000Z
-DTEND:20270204T190000Z
-SUMMARY:IISMM · Faire communauté : identités musulmanes en Inde
-LOCATION:Auditorium de la BULAC\, 65 rue des Grands Moulins 75013 Paris
-DESCRIPTION:Cycle de conférences publiques de l'IISMM 2026-2027 : l'islam en Asie\nEntrée libre sans inscription préalable\n« Les castes contre la communauté ? Tensions identitaires parmi les musulmans dans l’Inde indépendante »\nJulien Levesque\n\, anthropologue politique\, chargé de recherche (CNRS\, GSRL)\n« Émotions\, normes et appartenances dans l’Inde coloniale (19e-20e siècles) »\nEve Tignol\n\, historienne\, chargée de recherche (CNRS\, CESAH)\nLien : https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027
-URL:https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027#2027-02-04
-END:VEVENT
-BEGIN:VEVENT
-UID:fc4be98d353b842c81fb5ac3d9813c92@conferences
-DTSTAMP:20261014T092533Z
-DTSTART:20270303T173000Z
-DTEND:20270303T190000Z
-SUMMARY:IISMM · Violence et altérité religieuse en Asie du Sud et du Sud-Est
-LOCATION:Auditorium de la BULAC\, 65 rue des Grands Moulins 75013 Paris
-DESCRIPTION:Cycle de conférences publiques de l'IISMM 2026-2027 : l'islam en Asie\nEntrée libre sans inscription préalable\n« Altérisation et violence à référent religieux au Pakistan »\nAmélie Blom\n\, maîtresse de conférences en science politique (Sciences Po Lyon\, Triangle\, CESAH)\n« Violence d’état et condition des Rohingya (Birmanie) »\nAlexandra de Mersan\n\, anthropologue\, maîtresse de conférences (INALCO\, CASE)\nLien : https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027
-URL:https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027#2027-03-03
-END:VEVENT
-BEGIN:VEVENT
-UID:fdfd2a2bf12408dfbe86fb557b1e379f@conferences
-DTSTAMP:20261014T092533Z
-DTSTART:20270401T163000Z
-DTEND:20270401T180000Z
-SUMMARY:IISMM · Entre javanisme et arabité\, les identités multiples de l’islam indonésien
-LOCATION:Auditorium de la BULAC\, 65 rue des Grands Moulins 75013 Paris
-DESCRIPTION:Cycle de conférences publiques de l'IISMM 2026-2027 : l'islam en Asie\nEntrée libre sans inscription préalable\n« De la synthèse mystique javanaise à la démocratie musulmane\, jalons pour une histoire contemporaine de l’islam en Indonésie (XIXe-XXe siècles) »\nRémy Madinier\n\, historien\, Directeur de recherche (CNRS\, IAO\, ENS de Lyon)\n« La “question arabe” en Indonésie\, de l’ère de l’islam global à celle de l’islam Nusantara »\nStéphane Lacroix\n\, professeur associé de science politique (Sciences Po\, CERI)\nLien : https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027
-URL:https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027#2027-04-01
-END:VEVENT
-BEGIN:VEVENT
-UID:f5f820dcaa89887361ac11fb300646de@conferences
-DTSTAMP:20261014T092533Z
-DTSTART:20270513T163000Z
-DTEND:20270513T180000Z
-SUMMARY:IISMM · Heurs et malheurs du culte des saints musulmans en Asie du Sud
-LOCATION:Auditorium de la BULAC\, 65 rue des Grands Moulins 75013 Paris
-DESCRIPTION:Cycle de conférences publiques de l'IISMM 2026-2027 : l'islam en Asie\nEntrée libre sans inscription préalable\n« Le culte des saints : un fait social total »\nDelphine Ortis\n\, anthropologue\, chargée de cours et chercheuse associée (Inalco\, CESAH\, CASE)\n« Scripturalistes dans un lieu enchanté : ce que les sanctuaires soufis disent des frontières de l’islam indien »\nAminah Mohammad-Arif\n\, anthropologue\, directrice de recherche (CNRS\, CESAH)\nLien : https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027
-URL:https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027#2027-05-13
-END:VEVENT
-BEGIN:VEVENT
-UID:0c6cd3353945f0e0282aeee64b61ecc8@conferences
-DTSTAMP:20261014T092533Z
-DTSTART:20270617T163000Z
-DTEND:20270617T180000Z
-SUMMARY:IISMM · L’islam minoritaire et l’État : regards croisés sur l’Inde et la Chine
-LOCATION:Auditorium de la BULAC\, 65 rue des Grands Moulins 75013 Paris
-DESCRIPTION:Cycle de conférences publiques de l'IISMM 2026-2027 : l'islam en Asie\nEntrée libre sans inscription préalable\n« La fabrique de la “minorité” musulmane en Inde coloniale et postcoloniale : ascription identitaire\, mobilisations et résistances »\nLaurence Gautier\n\, historienne\, chercheuse contractuelle (Université de Strasbourg\, ITI-HiSAAR)\n« Islam et politique chez les Ouïghours du Xinjiang (Turkestan oriental) : perspective diachronique »\nRémi Castets\,\npolitiste et sinologue\, maître de conférences (Université Bordeaux-Montaigne\, D2iA)\nLien : https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027
-URL:https://www.ehess.fr/jcms/273181_JEvent/fr/conferences-publiques-de-l-iismm-cycle-2026-2027#2027-06-17
+UID:29db0a719ca696b8122f1405622484d9@conferences
+DTSTAMP:20261015T090412Z
+DTSTART:20261209T163000Z
+DTEND:20261209T193000Z
+SUMMARY:Voix aux Chapitres #24 autour de l'ouvrage "Coluche"
+LOCATION:EHESS - Paris 54 boulevard Raspail\, 75006 Paris
+DESCRIPTION:Catégorie : Rencontre\nAccès : Entrée libre\nCette séance de Voix aux Chapitres 2026-27 est consacrée au livre de \, directeur d'études de l'EHESS (Cespra CNRS/EHESS)\, Coluche (La Découverte\, 2026). Elle se tient le mercredi 09 décembre 2026 à 17h30 à l'EHESS (hall du 54 boulevard Raspail\, Paris)\, et réunit autour des auteurs : Christophe Proch\nLien : https://www.ehess.fr/jcms/296757_JEvent/fr/voix-aux-chapitres-24-autour-de-l-ouvrage-coluche
+URL:https://www.ehess.fr/jcms/296757_JEvent/fr/voix-aux-chapitres-24-autour-de-l-ouvrage-coluche
 END:VEVENT
 END:VCALENDAR

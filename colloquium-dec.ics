@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:6146b92e778e958f74431e531c248859@conferences
-DTSTAMP:20261015T204152Z
+DTSTAMP:20261016T085747Z
 DTSTART:20261020T093000Z
 DTEND:20261020T110000Z
 SUMMARY:Colloquium DEC · Hanna Pickard : Addiction and the Good
@@ -18,7 +18,7 @@ URL:https://cognition.ens.fr/en/agenda/addiction-and-good-18622
 END:VEVENT
 BEGIN:VEVENT
 UID:717fd530d3932291b966d3a2d11d8634@conferences
-DTSTAMP:20261015T204152Z
+DTSTAMP:20261016T085747Z
 DTSTART:20261117T103000Z
 DTEND:20261117T120000Z
 SUMMARY:Colloquium DEC · Patrick Butlin (Eleos AI)
@@ -28,7 +28,7 @@ URL:https://cognition.ens.fr/en/agenda/tba-18623
 END:VEVENT
 BEGIN:VEVENT
 UID:522eac4637c1b96e97afed8cef7094fe@conferences
-DTSTAMP:20261015T204152Z
+DTSTAMP:20261016T085747Z
 DTSTART:20261215T103000Z
 DTEND:20261215T120000Z
 SUMMARY:Colloquium DEC · Gwenaelle Douaud (Oxford University)
@@ -38,17 +38,17 @@ URL:https://cognition.ens.fr/en/news/dec-colloquium-10822
 END:VEVENT
 BEGIN:VEVENT
 UID:6cd329dbe58ca9cee3761e8510df5e17@conferences
-DTSTAMP:20261015T204152Z
+DTSTAMP:20261016T085747Z
 DTSTART:20270105T103000Z
 DTEND:20270105T120000Z
 SUMMARY:Colloquium DEC · Meike Ramon : Human Natural Identity and Deepfake Processing - Insights from Super-Recognizers\, Law Enforcement and Society
-LOCATION:ENS\, salle Jaurès\, 29 rue d'Ulm\, 75005 Paris
+LOCATION:ENS\, Jaurès\, 29 rue d'Ulm\, 75005 Paris
 DESCRIPTION:Colloquium du Département d'études cognitives (ENS) : conférence mensuelle d'un invité international\nIntervenant : Meike Ramon (Bern University)\nSujet : Human Natural Identity and Deepfake Processing - Insights from Super-Recognizers\, Law Enforcement and Society\nAccès : le site ne précise pas si l'événement est ouvert aux personnes extérieures\nFiche de l'événement : https://cognition.ens.fr/en/agenda/human-natural-identity-and-deepfake-processing-insights-super-recognizers-law-enforcement\nProgramme du colloquium : https://cognition.ens.fr/en/news/dec-colloquium-10822\nCalendrier du DEC : https://cognition.ens.fr/en/agenda
 URL:https://cognition.ens.fr/en/agenda/human-natural-identity-and-deepfake-processing-insights-super-recognizers-law-enforcement
 END:VEVENT
 BEGIN:VEVENT
 UID:279a8397187ebae73db48d86d4dba965@conferences
-DTSTAMP:20261015T204152Z
+DTSTAMP:20261016T085747Z
 DTSTART:20270223T103000Z
 DTEND:20270223T120000Z
 SUMMARY:Colloquium DEC · Jeffrey Bowers (University of Bristol)
@@ -58,7 +58,7 @@ URL:https://cognition.ens.fr/en/news/dec-colloquium-10822
 END:VEVENT
 BEGIN:VEVENT
 UID:4cb9d4f0a1af4a27b7c40327edce3185@conferences
-DTSTAMP:20261015T204152Z
+DTSTAMP:20261016T085747Z
 DTSTART:20270302T103000Z
 DTEND:20270302T120000Z
 SUMMARY:Colloquium DEC · Jonas Obleser (University of Lübeck)
@@ -68,7 +68,7 @@ URL:https://cognition.ens.fr/en/news/dec-colloquium-10822
 END:VEVENT
 BEGIN:VEVENT
 UID:3c59de23e41da8bde5cfd6278cd346d3@conferences
-DTSTAMP:20261015T204152Z
+DTSTAMP:20261016T085747Z
 DTSTART:20270518T093000Z
 DTEND:20270518T110000Z
 SUMMARY:Colloquium DEC · Alessandro Tavano (Max Plack Institute)
@@ -78,7 +78,7 @@ URL:https://cognition.ens.fr/en/news/dec-colloquium-10822
 END:VEVENT
 BEGIN:VEVENT
 UID:143fd266fa20c9c52e3a94a317f19c78@conferences
-DTSTAMP:20261015T204152Z
+DTSTAMP:20261016T085747Z
 DTSTART:20270615T093000Z
 DTEND:20270615T110000Z
 SUMMARY:Colloquium DEC · Peggy Seriès (University of Edinburgh)

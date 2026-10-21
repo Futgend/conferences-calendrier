@@ -8,162 +8,112 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:1608a7f79863515582c9165ef03d29be@conferences
-DTSTAMP:20261019T094737Z
+DTSTAMP:20261021T092338Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261028
 SUMMARY:MOTYRÕ : Écologies des images amérindiennes
-LOCATION:EHESS - Paris 54 boulevard Raspail\, 75006 Paris
-DESCRIPTION:Catégorie : Exposition\nAccès : Entrée libre\nCinq artistes autochtones brésiliens seront à Paris en octobre pour présenter leur travail à travers une exposition\, une projection et un colloque : Takumã Kuikuro et Kamikiá Kisêdjê (Xingu)\, Olinda Tupinambá (Bahia)\, ainsi que Sueli et Isael Maxakali (Minas Gerais).\nLien : https://www.ehess.fr/jcms/298545_JEvent/fr/motyro-ecologies-des-images-amerindiennes
+LOCATION:
+DESCRIPTION:Catégorie : Exposition\nLien : https://www.ehess.fr/jcms/298545_JEvent/fr/motyro-ecologies-des-images-amerindiennes
 URL:https://www.ehess.fr/jcms/298545_JEvent/fr/motyro-ecologies-des-images-amerindiennes
 END:VEVENT
 BEGIN:VEVENT
 UID:03757718d1498be3bb058c681b13af38@conferences
-DTSTAMP:20261019T094737Z
+DTSTAMP:20261021T092338Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261117
 SUMMARY:Le terrain religieux\, un terrain comme un autre ? Matérialités\, postures\, défiances et confiances
-LOCATION:Salle Europe de la MISHA 5 allée du Général Rouvillois 67000 Strasbourg
-DESCRIPTION:Du 14/10 à 9h00 au 16/11 à 19h00\nÀ travers des objets et photographies proposées par des doctorants et masterants en sciences sociales du religieux\, l’exposition donne à voir ce qui\, dans l’enquête de terrain\, reste souvent à la marge du texte scientifique : les objets reçus des enquêtés\, les gestes et postures adoptées pour s’inté\nLien : https://www.ehess.fr/jcms/283762_JEvent/fr/le-terrain-religieux-un-terrain-comme-un-autre-materialites-postures-defiances-et-confiances
+LOCATION:Strasbourg
+DESCRIPTION:Du 14/10 à 9h00 au 16/11 à 19h00\nLien : https://www.ehess.fr/jcms/283762_JEvent/fr/le-terrain-religieux-un-terrain-comme-un-autre-materialites-postures-defiances-et-confiances
 URL:https://www.ehess.fr/jcms/283762_JEvent/fr/le-terrain-religieux-un-terrain-comme-un-autre-materialites-postures-defiances-et-confiances
 END:VEVENT
 BEGIN:VEVENT
-UID:09f875929e6b7337fbf762c9c41063ff@conferences
-DTSTAMP:20261019T094737Z
-DTSTART:20261020T153000Z
-DTEND:20261020T163000Z
-SUMMARY:Voix aux Chapitres #21 : "Citoyennes soignantes. Guerre\, femmes et fabrique du commun en Ukraine"
-LOCATION:EHESS - Paris 54 boulevard Raspail\, 75006 Paris
-DESCRIPTION:Catégorie : Rencontre\nAccès : Entrée libre\nCette séance de Voix aux Chapitres 2026-27 est consacrée au livre de Ioulia Shukan directrice d'études à l'EHESS (CERCEC - CNRS/EHESS)\, (Éditions de la FMSH\, 2025). Elle réunit autour de l'autrice : \, Directeur d’études de l'EHESS (CEMS - EHESS/CNRS - INSERM) Anne Rasmussen\, Directrice d’études de l\nLien : https://www.ehess.fr/jcms/296532_JEvent/fr/voix-aux-chapitres-21-citoyennes-soignantes-guerre-femmes-et-fabrique-du-commun-en-ukraine
-URL:https://www.ehess.fr/jcms/296532_JEvent/fr/voix-aux-chapitres-21-citoyennes-soignantes-guerre-femmes-et-fabrique-du-commun-en-ukraine
-END:VEVENT
-BEGIN:VEVENT
 UID:a57ca49a970f40303f1874f9994b319e@conferences
-DTSTAMP:20261019T094737Z
+DTSTAMP:20261021T092338Z
 DTSTART:20261107T080000Z
-DTEND:20261107T180000Z
+DTEND:20261107T100000Z
 SUMMARY:Journée des sciences humaines et sociales #1 : Où penser librement ?
-LOCATION:Fondation Royaumont 3 Jardin de l’abbaye de Royaumont 95270 Asnières-sur-Oise
-DESCRIPTION:Catégorie : Journé(e) d'études\nAccès : Sur inscription\nLa Fondation Royaumont\, pourvue d’un riche passé dans le champ des sciences humaines et sociales\, propose une série de rendez-vous pour comprendre le monde.\nLien : https://www.ehess.fr/jcms/298487_JEvent/fr/journee-des-sciences-humaines-et-sociales-1-ou-penser-librement
+LOCATION:
+DESCRIPTION:Catégorie : Journé(e) d'études\nLien : https://www.ehess.fr/jcms/298487_JEvent/fr/journee-des-sciences-humaines-et-sociales-1-ou-penser-librement
 URL:https://www.ehess.fr/jcms/298487_JEvent/fr/journee-des-sciences-humaines-et-sociales-1-ou-penser-librement
 END:VEVENT
 BEGIN:VEVENT
 UID:687224e833b63a68f63a52a8aecef95b@conferences
-DTSTAMP:20261019T094737Z
+DTSTAMP:20261021T092338Z
 DTSTART:20261109T130000Z
-DTEND:20261109T141500Z
+DTEND:20261109T150000Z
 SUMMARY:Réunions d'information "Reprise d'études"
-LOCATION:En visioconférence Lien communiqué après votre inscription
-DESCRIPTION:Le service de la formation continue de l'EHESS organise des réunions d'informations ouvertes à toute personne intéressée par une reprise d'études. Vous pourrez à cette occasion vous informer sur les diplômes délivrés par l'établissement\, les dispositifs de la formation continue et les possibilités d\nLien : https://www.ehess.fr/jcms/37175_JEvent/fr/reunions-d-information-reprise-d-etudes
+LOCATION:
+DESCRIPTION:Lien : https://www.ehess.fr/jcms/37175_JEvent/fr/reunions-d-information-reprise-d-etudes
 URL:https://www.ehess.fr/jcms/37175_JEvent/fr/reunions-d-information-reprise-d-etudes
 END:VEVENT
 BEGIN:VEVENT
 UID:dba022409b5c12bc1ccabc2bd9325fea@conferences
-DTSTAMP:20261019T094737Z
+DTSTAMP:20261021T092338Z
 DTSTART:20261117T130000Z
 DTEND:20261117T150000Z
 SUMMARY:Raconter une vie engagée : "Marc Bloch\, historien combattant"
-LOCATION:Bibliothèque l'Alcazar 58\, cours Belsunce\, 13001 Marseille
-DESCRIPTION:Catégorie : Rencontre\nAccès : Entrée libre\nDans le cadre de l'entrée au Panthéon de l’historien Marc Bloch en juin 2026\, l’École des hautes études en sciences sociales (EHESS) et les Éditions Tallandier se sont associéespour co-éditer Marc Bloch\, historien combattant\, bande dessinée retraçant la vie et l'oeuvre de l'historien par ailleurs ha\nLien : https://www.ehess.fr/jcms/296967_JEvent/fr/raconter-une-vie-engagee-marc-bloch-historien-combattant
+LOCATION:Marseille
+DESCRIPTION:Catégorie : Rencontre\nLien : https://www.ehess.fr/jcms/296967_JEvent/fr/raconter-une-vie-engagee-marc-bloch-historien-combattant
 URL:https://www.ehess.fr/jcms/296967_JEvent/fr/raconter-une-vie-engagee-marc-bloch-historien-combattant
 END:VEVENT
 BEGIN:VEVENT
 UID:7a48032e94544a26a5b397711cb2472f@conferences
-DTSTAMP:20261019T094737Z
+DTSTAMP:20261021T092338Z
 DTSTART:20261117T173000Z
-DTEND:20261117T183000Z
+DTEND:20261117T193000Z
 SUMMARY:L'incomplétude en mouvement : perspectives africaines et pensée de Marc Bloch
-LOCATION:Unesco 7 place de Fontenoy\, 75007 Paris
-DESCRIPTION:Catégorie : Conférence\nAccès : Interprétation LSF Sur inscription\nDepuis 1979\, l’EHESS donne la parole à d’éminentes personnalités scientifiques lors de sa conférence annuelle Marc Bloch\, un moment de réflexion collective sur les sciences sociales\, sur l’évolution des paradigmes scientifiques et sur les modalités d’interprétations des mondes sociaux. Pour sa 45ᵉ é\nLien : https://www.ehess.fr/jcms/284673_JEvent/fr/l-incompletude-en-mouvement-perspectives-africaines-et-pensee-de-marc-bloch
+LOCATION:Paris
+DESCRIPTION:Catégorie : Conférence\nLien : https://www.ehess.fr/jcms/284673_JEvent/fr/l-incompletude-en-mouvement-perspectives-africaines-et-pensee-de-marc-bloch
 URL:https://www.ehess.fr/jcms/284673_JEvent/fr/l-incompletude-en-mouvement-perspectives-africaines-et-pensee-de-marc-bloch
 END:VEVENT
 BEGIN:VEVENT
-UID:04693afee2b2c0ea4dd1680e129f3bf3@conferences
-DTSTAMP:20261019T094737Z
-DTSTART:20261119T080000Z
-DTEND:20261119T172000Z
+UID:601e8ddf421554e1d79a4a54b895e629@conferences
+DTSTAMP:20261021T092338Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261121
 SUMMARY:La psychologisation des violences faites aux femmes
-LOCATION:Campus Condorcet Cours des Humanités\, 93300 Aubervilliers
-DESCRIPTION:Catégorie : Colloque\nAccès : Sur inscription\nHoraires d'après le programme (heure de fin estimée)\nColloque organisé par Jessica Blouin (Triangle/ENS de Lyon)\, Auréliane Couppey (LIER-FYT/EHESS) et Stéphanie Pache (CIRST/UQAM) les 19 et 20 novembre 2026.\nLien : https://www.ehess.fr/jcms/258092_JEvent/fr/la-psychologisation-des-violences-faites-aux-femmes
+LOCATION:Aubervilliers
+DESCRIPTION:Catégorie : Colloque\nLien : https://www.ehess.fr/jcms/258092_JEvent/fr/la-psychologisation-des-violences-faites-aux-femmes
 URL:https://www.ehess.fr/jcms/258092_JEvent/fr/la-psychologisation-des-violences-faites-aux-femmes
 END:VEVENT
 BEGIN:VEVENT
-UID:b8079c7a697d9a4074aa01d0be6d96ee@conferences
-DTSTAMP:20261019T094737Z
-DTSTART:20261120T080000Z
-DTEND:20261120T180000Z
-SUMMARY:La psychologisation des violences faites aux femmes
-LOCATION:Campus Condorcet Cours des Humanités\, 93300 Aubervilliers
-DESCRIPTION:Catégorie : Colloque\nAccès : Sur inscription\nHoraires d'après le programme (heure de fin estimée)\nColloque organisé par Jessica Blouin (Triangle/ENS de Lyon)\, Auréliane Couppey (LIER-FYT/EHESS) et Stéphanie Pache (CIRST/UQAM) les 19 et 20 novembre 2026.\nLien : https://www.ehess.fr/jcms/258092_JEvent/fr/la-psychologisation-des-violences-faites-aux-femmes
-URL:https://www.ehess.fr/jcms/258092_JEvent/fr/la-psychologisation-des-violences-faites-aux-femmes
-END:VEVENT
-BEGIN:VEVENT
-UID:d717e7141811007b5e7b4163aa39f124@conferences
-DTSTAMP:20261019T094737Z
-DTSTART:20261124T070000Z
-DTEND:20261124T190000Z
+UID:192a7ef1b57b8f6503572f73a74b3d1d@conferences
+DTSTAMP:20261021T092338Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261128
 SUMMARY:Semaine de l'Afrique
-LOCATION:EHESS - Campus Condorcet 2 cours des Humanités\, 93322 Aubervilliers
-DESCRIPTION:Catégorie : Colloque\nAccès : Sur inscription\nHoraires d'après le programme\nL’Afrique comptera plus de 2\,5 milliards d’habitants en 2050. Les enjeux globaux\, du climat à la santé mondiale\, s’y poseront de manière décuplée\, et c’est là qu’ils se négocieront. La Semaine de l’Afrique ouvre un espace de conversation sur les initiatives\, les inventions\, les idées et les esthétiq\nLien : https://www.ehess.fr/jcms/293183_JEvent/fr/semaine-de-l-afrique
-URL:https://www.ehess.fr/jcms/293183_JEvent/fr/semaine-de-l-afrique
-END:VEVENT
-BEGIN:VEVENT
-UID:81a7a98344c5d4dcc90f144e947ca47e@conferences
-DTSTAMP:20261019T094737Z
-DTSTART:20261125T080000Z
-DTEND:20261125T172500Z
-SUMMARY:Semaine de l'Afrique
-LOCATION:EHESS - Campus Condorcet 2 cours des Humanités\, 93322 Aubervilliers
-DESCRIPTION:Catégorie : Colloque\nAccès : Sur inscription\nHoraires d'après le programme\nL’Afrique comptera plus de 2\,5 milliards d’habitants en 2050. Les enjeux globaux\, du climat à la santé mondiale\, s’y poseront de manière décuplée\, et c’est là qu’ils se négocieront. La Semaine de l’Afrique ouvre un espace de conversation sur les initiatives\, les inventions\, les idées et les esthétiq\nLien : https://www.ehess.fr/jcms/293183_JEvent/fr/semaine-de-l-afrique
-URL:https://www.ehess.fr/jcms/293183_JEvent/fr/semaine-de-l-afrique
-END:VEVENT
-BEGIN:VEVENT
-UID:8fe12415db5a2f2fbf4a57617534bfef@conferences
-DTSTAMP:20261019T094737Z
-DTSTART:20261126T080000Z
-DTEND:20261126T174000Z
-SUMMARY:Semaine de l'Afrique
-LOCATION:EHESS - Campus Condorcet 2 cours des Humanités\, 93322 Aubervilliers
-DESCRIPTION:Catégorie : Colloque\nAccès : Sur inscription\nHoraires d'après le programme\nL’Afrique comptera plus de 2\,5 milliards d’habitants en 2050. Les enjeux globaux\, du climat à la santé mondiale\, s’y poseront de manière décuplée\, et c’est là qu’ils se négocieront. La Semaine de l’Afrique ouvre un espace de conversation sur les initiatives\, les inventions\, les idées et les esthétiq\nLien : https://www.ehess.fr/jcms/293183_JEvent/fr/semaine-de-l-afrique
-URL:https://www.ehess.fr/jcms/293183_JEvent/fr/semaine-de-l-afrique
-END:VEVENT
-BEGIN:VEVENT
-UID:93eabf6c82f0ae6fadf03a1442385569@conferences
-DTSTAMP:20261019T094737Z
-DTSTART:20261127T080000Z
-DTEND:20261127T173000Z
-SUMMARY:Semaine de l'Afrique
-LOCATION:EHESS - Campus Condorcet 2 cours des Humanités\, 93322 Aubervilliers
-DESCRIPTION:Catégorie : Colloque\nAccès : Sur inscription\nHoraires d'après le programme\nL’Afrique comptera plus de 2\,5 milliards d’habitants en 2050. Les enjeux globaux\, du climat à la santé mondiale\, s’y poseront de manière décuplée\, et c’est là qu’ils se négocieront. La Semaine de l’Afrique ouvre un espace de conversation sur les initiatives\, les inventions\, les idées et les esthétiq\nLien : https://www.ehess.fr/jcms/293183_JEvent/fr/semaine-de-l-afrique
+LOCATION:Paris
+DESCRIPTION:Catégorie : Colloque\nDu 24/11 à 9h30 au 27/11 à 18h00\nLien : https://www.ehess.fr/jcms/293183_JEvent/fr/semaine-de-l-afrique
 URL:https://www.ehess.fr/jcms/293183_JEvent/fr/semaine-de-l-afrique
 END:VEVENT
 BEGIN:VEVENT
 UID:b932b41a1fcb6785065af4913147e443@conferences
-DTSTAMP:20261019T094737Z
+DTSTAMP:20261021T092338Z
 DTSTART:20261127T090000Z
-DTEND:20261127T100000Z
+DTEND:20261127T110000Z
 SUMMARY:Voix aux Chapitres #22 autour de l'ouvrage "Chroniques de l’intranquillité : Violence\, prédation et protection en situation postcoloniale"
-LOCATION:EHESS - Paris 54 boulevard Raspail\, 75006 Paris
-DESCRIPTION:Catégorie : Rencontre\nAccès : Entrée libre\nCette séance de Voix aux Chapitres 2026-27 est consacrée au livre de \, directeur d'études de l'EHESS (CEMS - EHESS/CNRS - INSERM)\, Chroniques de l’intranquillité : Violence\, prédation et protection en situation postcoloniale (EHESS\, Gallimard Seuil\, 2026). Elle se tient le vendredi 27 novembre 2026 \nLien : https://www.ehess.fr/jcms/296672_JEvent/fr/voix-aux-chapitres-22-autour-de-l-ouvrage-chroniques-de-l-intranquillite-violence-predation-et-protection-en-situation-postcoloniale
+LOCATION:Paris
+DESCRIPTION:Catégorie : Rencontre\nLien : https://www.ehess.fr/jcms/296672_JEvent/fr/voix-aux-chapitres-22-autour-de-l-ouvrage-chroniques-de-l-intranquillite-violence-predation-et-protection-en-situation-postcoloniale
 URL:https://www.ehess.fr/jcms/296672_JEvent/fr/voix-aux-chapitres-22-autour-de-l-ouvrage-chroniques-de-l-intranquillite-violence-predation-et-protection-en-situation-postcoloniale
 END:VEVENT
 BEGIN:VEVENT
 UID:29b246da24c1d7287ead37c46621e746@conferences
-DTSTAMP:20261019T094737Z
+DTSTAMP:20261021T092338Z
 DTSTART:20261201T163000Z
-DTEND:20261201T193000Z
+DTEND:20261201T183000Z
 SUMMARY:Voix aux Chapitres #23 autour de l'ouvrage "Une histoire économique et sociale La France\, de la Préhistoire à nos jours"
-LOCATION:EHESS - Paris 54 boulevard Raspail\, 75006 Paris
-DESCRIPTION:Catégorie : Rencontre\nAccès : Entrée libre\nCette séance de Voix aux Chapitres 2026-27 est consacrée au livre de Pierre-Cyrille Hautcoeur\, directeur d'études de l'EHESS (CEMS - EHESS/CNRS - INSERM) et Catherine Virlouvet\, Une histoire économique et sociale. La France\, de la Préhistoire à nos jours (Passés Composés\, 2025). Elle se tient le mar\nLien : https://www.ehess.fr/jcms/296719_JEvent/fr/voix-aux-chapitres-23-autour-de-l-ouvrage-une-histoire-economique-et-sociale-la-france-de-la-prehistoire-a-nos-jours
+LOCATION:Paris
+DESCRIPTION:Catégorie : Rencontre\nLien : https://www.ehess.fr/jcms/296719_JEvent/fr/voix-aux-chapitres-23-autour-de-l-ouvrage-une-histoire-economique-et-sociale-la-france-de-la-prehistoire-a-nos-jours
 URL:https://www.ehess.fr/jcms/296719_JEvent/fr/voix-aux-chapitres-23-autour-de-l-ouvrage-une-histoire-economique-et-sociale-la-france-de-la-prehistoire-a-nos-jours
 END:VEVENT
 BEGIN:VEVENT
 UID:29db0a719ca696b8122f1405622484d9@conferences
-DTSTAMP:20261019T094737Z
+DTSTAMP:20261021T092338Z
 DTSTART:20261209T163000Z
-DTEND:20261209T193000Z
+DTEND:20261209T183000Z
 SUMMARY:Voix aux Chapitres #24 autour de l'ouvrage "Coluche"
-LOCATION:EHESS - Paris 54 boulevard Raspail\, 75006 Paris
-DESCRIPTION:Catégorie : Rencontre\nAccès : Entrée libre\nCette séance de Voix aux Chapitres 2026-27 est consacrée au livre de \, directeur d'études de l'EHESS (Cespra CNRS/EHESS)\, Coluche (La Découverte\, 2026). Elle se tient le mercredi 09 décembre 2026 à 17h30 à l'EHESS (hall du 54 boulevard Raspail\, Paris)\, et réunit autour des auteurs : Christophe Proch\nLien : https://www.ehess.fr/jcms/296757_JEvent/fr/voix-aux-chapitres-24-autour-de-l-ouvrage-coluche
+LOCATION:Paris
+DESCRIPTION:Catégorie : Rencontre\nLien : https://www.ehess.fr/jcms/296757_JEvent/fr/voix-aux-chapitres-24-autour-de-l-ouvrage-coluche
 URL:https://www.ehess.fr/jcms/296757_JEvent/fr/voix-aux-chapitres-24-autour-de-l-ouvrage-coluche
 END:VEVENT
 END:VCALENDAR

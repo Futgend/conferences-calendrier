@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:1608a7f79863515582c9165ef03d29be@conferences
-DTSTAMP:20261029T104959Z
+DTSTAMP:20261030T104821Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261101
 SUMMARY:MOTYRÕ : Écologies des images amérindiennes
@@ -18,7 +18,7 @@ URL:https://www.ehess.fr/jcms/298545_JEvent/fr/motyro-ecologies-des-images-ameri
 END:VEVENT
 BEGIN:VEVENT
 UID:03757718d1498be3bb058c681b13af38@conferences
-DTSTAMP:20261029T104959Z
+DTSTAMP:20261030T104821Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261117
 SUMMARY:Le terrain religieux\, un terrain comme un autre ? Matérialités\, postures\, défiances et confiances
@@ -28,7 +28,7 @@ URL:https://www.ehess.fr/jcms/283762_JEvent/fr/le-terrain-religieux-un-terrain-c
 END:VEVENT
 BEGIN:VEVENT
 UID:b0aacc25eff4725104e8923d740a9ae7@conferences
-DTSTAMP:20261029T104959Z
+DTSTAMP:20261030T104821Z
 DTSTART:20261102T083000Z
 DTEND:20261102T093000Z
 SUMMARY:Pratiques artistiques et pluralité sociologique : Quelle place pour les approches praxéologiques ?
@@ -38,7 +38,7 @@ URL:https://www.ehess.fr/jcms/302399_JEvent/fr/pratiques-artistiques-et-pluralit
 END:VEVENT
 BEGIN:VEVENT
 UID:06f30f7422a072931edf47646f460ad4@conferences
-DTSTAMP:20261029T104959Z
+DTSTAMP:20261030T104821Z
 DTSTART:20261103T133000Z
 DTEND:20261103T153000Z
 SUMMARY:Bâtir un système colonial. Autour du livre de Gildas Salmon\, "L’Empire de la supervision" (La Découverte\, 2026)
@@ -48,7 +48,7 @@ URL:https://www.ehess.fr/jcms/301580_JEvent/fr/batir-un-systeme-colonial-autour-
 END:VEVENT
 BEGIN:VEVENT
 UID:107afe63d691bcc289bd7959e86219d4@conferences
-DTSTAMP:20261029T104959Z
+DTSTAMP:20261030T104821Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261107
 SUMMARY:PARIS PARIS Quand Paris s’est réapproprié le concept d’art et l’a fusionné avec la mode
@@ -58,7 +58,7 @@ URL:https://www.ehess.fr/jcms/301477_JEvent/fr/paris-paris-quand-paris-s-est-rea
 END:VEVENT
 BEGIN:VEVENT
 UID:a57ca49a970f40303f1874f9994b319e@conferences
-DTSTAMP:20261029T104959Z
+DTSTAMP:20261030T104821Z
 DTSTART:20261107T080000Z
 DTEND:20261107T180000Z
 SUMMARY:Journée des sciences humaines et sociales #1 : Où penser librement ?
@@ -68,7 +68,7 @@ URL:https://www.ehess.fr/jcms/298487_JEvent/fr/journee-des-sciences-humaines-et-
 END:VEVENT
 BEGIN:VEVENT
 UID:687224e833b63a68f63a52a8aecef95b@conferences
-DTSTAMP:20261029T104959Z
+DTSTAMP:20261030T104821Z
 DTSTART:20261109T130000Z
 DTEND:20261109T141500Z
 SUMMARY:Réunions d'information "Reprise d'études"
@@ -78,7 +78,7 @@ URL:https://www.ehess.fr/jcms/37175_JEvent/fr/reunions-d-information-reprise-d-e
 END:VEVENT
 BEGIN:VEVENT
 UID:928bf10a71f77fa5db3f4aa2b38dfda8@conferences
-DTSTAMP:20261029T104959Z
+DTSTAMP:20261030T104821Z
 DTSTART:20261112T090000Z
 DTEND:20261112T151500Z
 SUMMARY:Prix de thèse Systèmes Complexes
@@ -88,7 +88,7 @@ URL:https://www.ehess.fr/jcms/303600_JEvent/fr/prix-de-these-systemes-complexes
 END:VEVENT
 BEGIN:VEVENT
 UID:de7b1f33339b6128442c34c176afc2d2@conferences
-DTSTAMP:20261029T104959Z
+DTSTAMP:20261030T104821Z
 DTSTART:20261112T180000Z
 DTEND:20261112T200000Z
 SUMMARY:Langue des Signes Japonaise et Langue des Signes Française : regards croisés
@@ -98,7 +98,7 @@ URL:https://www.ehess.fr/jcms/302138_JEvent/fr/langue-des-signes-japonaise-et-la
 END:VEVENT
 BEGIN:VEVENT
 UID:902c6a45fb707c5e9db82b920552a86c@conferences
-DTSTAMP:20261029T104959Z
+DTSTAMP:20261030T104821Z
 DTSTART:20261113T083000Z
 DTEND:20261113T153000Z
 SUMMARY:Prix de thèse Systèmes Complexes
@@ -108,7 +108,7 @@ URL:https://www.ehess.fr/jcms/303600_JEvent/fr/prix-de-these-systemes-complexes
 END:VEVENT
 BEGIN:VEVENT
 UID:dba022409b5c12bc1ccabc2bd9325fea@conferences
-DTSTAMP:20261029T104959Z
+DTSTAMP:20261030T104821Z
 DTSTART:20261117T130000Z
 DTEND:20261117T150000Z
 SUMMARY:Raconter une vie engagée : "Marc Bloch\, historien combattant"
@@ -118,7 +118,7 @@ URL:https://www.ehess.fr/jcms/296967_JEvent/fr/raconter-une-vie-engagee-marc-blo
 END:VEVENT
 BEGIN:VEVENT
 UID:a89063c56617ffbd0adad76714a6da91@conferences
-DTSTAMP:20261029T104959Z
+DTSTAMP:20261030T104821Z
 DTSTART:20261117T163000Z
 DTEND:20261117T203000Z
 SUMMARY:L'incomplétude en mouvement
@@ -128,7 +128,7 @@ URL:https://www.ehess.fr/jcms/284673_JEvent/fr/l-incompletude-en-mouvement
 END:VEVENT
 BEGIN:VEVENT
 UID:04693afee2b2c0ea4dd1680e129f3bf3@conferences
-DTSTAMP:20261029T104959Z
+DTSTAMP:20261030T104821Z
 DTSTART:20261119T080000Z
 DTEND:20261119T172000Z
 SUMMARY:La psychologisation des violences faites aux femmes
@@ -138,7 +138,7 @@ URL:https://www.ehess.fr/jcms/258092_JEvent/fr/la-psychologisation-des-violences
 END:VEVENT
 BEGIN:VEVENT
 UID:b8079c7a697d9a4074aa01d0be6d96ee@conferences
-DTSTAMP:20261029T104959Z
+DTSTAMP:20261030T104821Z
 DTSTART:20261120T080000Z
 DTEND:20261120T180000Z
 SUMMARY:La psychologisation des violences faites aux femmes
@@ -148,7 +148,7 @@ URL:https://www.ehess.fr/jcms/258092_JEvent/fr/la-psychologisation-des-violences
 END:VEVENT
 BEGIN:VEVENT
 UID:d717e7141811007b5e7b4163aa39f124@conferences
-DTSTAMP:20261029T104959Z
+DTSTAMP:20261030T104821Z
 DTSTART:20261124T070000Z
 DTEND:20261124T190000Z
 SUMMARY:Semaine de l'Afrique
@@ -158,7 +158,7 @@ URL:https://www.ehess.fr/jcms/293183_JEvent/fr/semaine-de-l-afrique
 END:VEVENT
 BEGIN:VEVENT
 UID:81a7a98344c5d4dcc90f144e947ca47e@conferences
-DTSTAMP:20261029T104959Z
+DTSTAMP:20261030T104821Z
 DTSTART:20261125T080000Z
 DTEND:20261125T172500Z
 SUMMARY:Semaine de l'Afrique
@@ -168,7 +168,7 @@ URL:https://www.ehess.fr/jcms/293183_JEvent/fr/semaine-de-l-afrique
 END:VEVENT
 BEGIN:VEVENT
 UID:8fe12415db5a2f2fbf4a57617534bfef@conferences
-DTSTAMP:20261029T104959Z
+DTSTAMP:20261030T104821Z
 DTSTART:20261126T080000Z
 DTEND:20261126T174000Z
 SUMMARY:Semaine de l'Afrique
@@ -178,7 +178,7 @@ URL:https://www.ehess.fr/jcms/293183_JEvent/fr/semaine-de-l-afrique
 END:VEVENT
 BEGIN:VEVENT
 UID:93eabf6c82f0ae6fadf03a1442385569@conferences
-DTSTAMP:20261029T104959Z
+DTSTAMP:20261030T104821Z
 DTSTART:20261127T080000Z
 DTEND:20261127T173000Z
 SUMMARY:Semaine de l'Afrique
@@ -188,7 +188,7 @@ URL:https://www.ehess.fr/jcms/293183_JEvent/fr/semaine-de-l-afrique
 END:VEVENT
 BEGIN:VEVENT
 UID:b932b41a1fcb6785065af4913147e443@conferences
-DTSTAMP:20261029T104959Z
+DTSTAMP:20261030T104821Z
 DTSTART:20261127T090000Z
 DTEND:20261127T100000Z
 SUMMARY:Voix aux Chapitres #22 autour de l'ouvrage "Chroniques de l’intranquillité : Violence\, prédation et protection en situation postcoloniale"
@@ -198,7 +198,7 @@ URL:https://www.ehess.fr/jcms/296672_JEvent/fr/voix-aux-chapitres-22-autour-de-l
 END:VEVENT
 BEGIN:VEVENT
 UID:29b246da24c1d7287ead37c46621e746@conferences
-DTSTAMP:20261029T104959Z
+DTSTAMP:20261030T104821Z
 DTSTART:20261201T163000Z
 DTEND:20261201T193000Z
 SUMMARY:Voix aux Chapitres #23 autour de l'ouvrage "Une histoire économique et sociale La France\, de la Préhistoire à nos jours"
@@ -208,7 +208,7 @@ URL:https://www.ehess.fr/jcms/296719_JEvent/fr/voix-aux-chapitres-23-autour-de-l
 END:VEVENT
 BEGIN:VEVENT
 UID:491771049afea96dbb7a540c81fbb6e5@conferences
-DTSTAMP:20261029T104959Z
+DTSTAMP:20261030T104821Z
 DTSTART:20261209T110000Z
 DTEND:20261209T123000Z
 SUMMARY:Atelier-rencontre de l'IISMM "Changer d’alphabet. Turquie 1850-1950"
@@ -218,7 +218,7 @@ URL:https://www.ehess.fr/jcms/302060_JEvent/fr/atelier-rencontre-de-l-iismm-chan
 END:VEVENT
 BEGIN:VEVENT
 UID:29db0a719ca696b8122f1405622484d9@conferences
-DTSTAMP:20261029T104959Z
+DTSTAMP:20261030T104821Z
 DTSTART:20261209T163000Z
 DTEND:20261209T193000Z
 SUMMARY:Voix aux Chapitres #24 autour de l'ouvrage "Coluche"

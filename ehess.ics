@@ -7,28 +7,8 @@ X-WR-TIMEZONE:Europe/Paris
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:dba022409b5c12bc1ccabc2bd9325fea@conferences
-DTSTAMP:20261117T130230Z
-DTSTART:20261117T130000Z
-DTEND:20261117T150000Z
-SUMMARY:Raconter une vie engagée Marc Bloch\, historien combattant
-LOCATION:Bibliothèque l'Alcazar 58\, cours Belsunce\, 13001 Marseille
-DESCRIPTION:Catégorie : Rencontre\nAccès : Entrée libre\nDans le cadre de l'entrée au Panthéon de l’historien Marc Bloch en juin 2026\, l’École des hautes études en sciences sociales (EHESS) et les Éditions Tallandier se sont associées pour co-éditer Marc Bloch\, l'historien combattant\, bande dessinée retraçant la vie et l'oeuvre de l'historien par ailleurs\nLien : https://www.ehess.fr/jcms/296967_JEvent/fr/raconter-une-vie-engagee-marc-bloch-historien-combattant
-URL:https://www.ehess.fr/jcms/296967_JEvent/fr/raconter-une-vie-engagee-marc-bloch-historien-combattant
-END:VEVENT
-BEGIN:VEVENT
-UID:681b0c1a1c795f81a32e0a5761311ff0@conferences
-DTSTAMP:20261117T130230Z
-DTSTART:20261117T173000Z
-DTEND:20261117T183000Z
-SUMMARY:L'incomplétude en mouvement
-LOCATION:Maison de l'UNESCO 125 Avenue de Suffren\, 75007 Paris
-DESCRIPTION:Catégorie : Conférence\nAccès : Interprétation LSF Gratuit sur inscription\nDepuis 1979\, l’EHESS donne la parole à d’éminentes personnalités scientifiques lors de sa Conférence Marc Bloch\, un moment de réflexion collective sur les sciences sociales\, sur l’évolution des paradigmes scientifiques et sur les modalités d’interprétations des mondes sociaux. Pour sa 45ᵉ édition\, l\nLien : https://www.ehess.fr/jcms/284673_JEvent/fr/l-incompletude-en-mouvement
-URL:https://www.ehess.fr/jcms/284673_JEvent/fr/l-incompletude-en-mouvement
-END:VEVENT
-BEGIN:VEVENT
 UID:0a19709bc2572a50eaf2f15649cbca70@conferences
-DTSTAMP:20261117T130230Z
+DTSTAMP:20261118T125442Z
 DTSTART:20261118T170000Z
 DTEND:20261118T180000Z
 SUMMARY:« Lygia Clark et les pédagogies d’artistes »
@@ -38,7 +18,7 @@ URL:https://www.ehess.fr/jcms/314285_JEvent/fr/-lygia-clark-et-les-pedagogies-d-
 END:VEVENT
 BEGIN:VEVENT
 UID:04693afee2b2c0ea4dd1680e129f3bf3@conferences
-DTSTAMP:20261117T130230Z
+DTSTAMP:20261118T125442Z
 DTSTART:20261119T080000Z
 DTEND:20261119T172000Z
 SUMMARY:La psychologisation des violences faites aux femmes
@@ -48,7 +28,7 @@ URL:https://www.ehess.fr/jcms/258092_JEvent/fr/la-psychologisation-des-violences
 END:VEVENT
 BEGIN:VEVENT
 UID:b8079c7a697d9a4074aa01d0be6d96ee@conferences
-DTSTAMP:20261117T130230Z
+DTSTAMP:20261118T125442Z
 DTSTART:20261120T080000Z
 DTEND:20261120T180000Z
 SUMMARY:La psychologisation des violences faites aux femmes
@@ -58,7 +38,7 @@ URL:https://www.ehess.fr/jcms/258092_JEvent/fr/la-psychologisation-des-violences
 END:VEVENT
 BEGIN:VEVENT
 UID:d717e7141811007b5e7b4163aa39f124@conferences
-DTSTAMP:20261117T130230Z
+DTSTAMP:20261118T125442Z
 DTSTART:20261124T070000Z
 DTEND:20261124T190000Z
 SUMMARY:Semaine de l'Afrique
@@ -68,7 +48,7 @@ URL:https://www.ehess.fr/jcms/293183_JEvent/fr/semaine-de-l-afrique
 END:VEVENT
 BEGIN:VEVENT
 UID:81a7a98344c5d4dcc90f144e947ca47e@conferences
-DTSTAMP:20261117T130230Z
+DTSTAMP:20261118T125442Z
 DTSTART:20261125T080000Z
 DTEND:20261125T172500Z
 SUMMARY:Semaine de l'Afrique
@@ -78,7 +58,7 @@ URL:https://www.ehess.fr/jcms/293183_JEvent/fr/semaine-de-l-afrique
 END:VEVENT
 BEGIN:VEVENT
 UID:d81d3cb383376ef3ffe49c9431088b10@conferences
-DTSTAMP:20261117T130230Z
+DTSTAMP:20261118T125442Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261128
 SUMMARY:L’ « histoire des religions »
@@ -88,7 +68,7 @@ URL:https://www.ehess.fr/jcms/305341_JEvent/fr/l-histoire-des-religions
 END:VEVENT
 BEGIN:VEVENT
 UID:8fe12415db5a2f2fbf4a57617534bfef@conferences
-DTSTAMP:20261117T130230Z
+DTSTAMP:20261118T125442Z
 DTSTART:20261126T080000Z
 DTEND:20261126T174000Z
 SUMMARY:Semaine de l'Afrique
@@ -98,7 +78,7 @@ URL:https://www.ehess.fr/jcms/293183_JEvent/fr/semaine-de-l-afrique
 END:VEVENT
 BEGIN:VEVENT
 UID:93eabf6c82f0ae6fadf03a1442385569@conferences
-DTSTAMP:20261117T130230Z
+DTSTAMP:20261118T125442Z
 DTSTART:20261127T080000Z
 DTEND:20261127T173000Z
 SUMMARY:Semaine de l'Afrique
@@ -108,7 +88,7 @@ URL:https://www.ehess.fr/jcms/293183_JEvent/fr/semaine-de-l-afrique
 END:VEVENT
 BEGIN:VEVENT
 UID:b932b41a1fcb6785065af4913147e443@conferences
-DTSTAMP:20261117T130230Z
+DTSTAMP:20261118T125442Z
 DTSTART:20261127T090000Z
 DTEND:20261127T100000Z
 SUMMARY:Voix aux Chapitres #22 autour de l'ouvrage "Chroniques de l’intranquillité : Violence\, prédation et protection en situation postcoloniale"
@@ -118,7 +98,7 @@ URL:https://www.ehess.fr/jcms/296672_JEvent/fr/voix-aux-chapitres-22-autour-de-l
 END:VEVENT
 BEGIN:VEVENT
 UID:c1154ebf076f76a0403d935c5cfe8fe1@conferences
-DTSTAMP:20261117T130230Z
+DTSTAMP:20261118T125442Z
 DTSTART:20261128T132000Z
 DTEND:20261128T190000Z
 SUMMARY:L’EHESS au festival Vrai de Vrai organisé par LaScam
@@ -128,7 +108,7 @@ URL:https://www.ehess.fr/jcms/312529_JEvent/fr/l-ehess-au-festival-vrai-de-vrai-
 END:VEVENT
 BEGIN:VEVENT
 UID:29b246da24c1d7287ead37c46621e746@conferences
-DTSTAMP:20261117T130230Z
+DTSTAMP:20261118T125442Z
 DTSTART:20261201T163000Z
 DTEND:20261201T193000Z
 SUMMARY:Voix aux Chapitres #23 autour de l'ouvrage "Une histoire économique et sociale La France\, de la Préhistoire à nos jours"
@@ -137,8 +117,28 @@ DESCRIPTION:Catégorie : Rencontre\nAccès : Entrée libre\nCette séance de Voi
 URL:https://www.ehess.fr/jcms/296719_JEvent/fr/voix-aux-chapitres-23-autour-de-l-ouvrage-une-histoire-economique-et-sociale-la-france-de-la-prehistoire-a-nos-jours
 END:VEVENT
 BEGIN:VEVENT
+UID:506dbe73a4c3506237b41be7c2e41564@conferences
+DTSTAMP:20261118T125442Z
+DTSTART:20261202T080000Z
+DTEND:20261202T170000Z
+SUMMARY:Sources de l’autorité religieuse en Asie (1)
+LOCATION:Maison de l’Asie 22 avenue du Président Wilson\, Paris 16e
+DESCRIPTION:Catégorie : Journé(e) d'études\nAccès : EHESS\nRituels et prières pour la bonne fortune Comité d’organisation : Hélène Bloch (CNRS\, CéSor)\, Pascal Bourdeaux (EPHE\, GSRL)\, Florence Galmiche (UPCité\, CCJ\, IUF)\, Marie-Paule Hille (EHESS\, CCJ) Partenaires : CCJ\, CéSor\, GSRL\, ReligiS\, EFEO\nLien : https://www.ehess.fr/jcms/318185_JEvent/fr/sources-de-l-autorite-religieuse-en-asie-1
+URL:https://www.ehess.fr/jcms/318185_JEvent/fr/sources-de-l-autorite-religieuse-en-asie-1
+END:VEVENT
+BEGIN:VEVENT
+UID:f485b2599ef1b6ec76cf2f47bbb9b213@conferences
+DTSTAMP:20261118T125442Z
+DTSTART:20261204T180000Z
+DTEND:20261204T200000Z
+SUMMARY:Une histoire de Paris. Pollutions\, économie & inégalités environnementales aux XVIIIᵉ et XIXᵉ siècles
+LOCATION:Médiathèque Jean-Pierre Melville 79 Rue Nationale\, 75013 Paris
+DESCRIPTION:Catégorie : Conférence\, EHESS\, Rencontre\nAccès : Entrée libre\nAnimée par Thomas Le Roux\, la rencontre se consacre à l'histoire des pollutions industrielles\, aux dynamiques économiques et aux inégalités environnementales — territoriales\, sociales mais aussi de genre — aux XVIIIe et XIXe siècles. À travers une histoire de Paris aux échos contemporains\, Thomas Le\nLien : https://www.ehess.fr/jcms/317433_JEvent/fr/une-histoire-de-paris-pollutions-economie-inegalites-environnementales-aux-xviii-et-xix-siecles
+URL:https://www.ehess.fr/jcms/317433_JEvent/fr/une-histoire-de-paris-pollutions-economie-inegalites-environnementales-aux-xviii-et-xix-siecles
+END:VEVENT
+BEGIN:VEVENT
 UID:491771049afea96dbb7a540c81fbb6e5@conferences
-DTSTAMP:20261117T130230Z
+DTSTAMP:20261118T125442Z
 DTSTART:20261209T110000Z
 DTEND:20261209T123000Z
 SUMMARY:Atelier-rencontre de l'IISMM "Changer d’alphabet. Turquie 1850-1950"

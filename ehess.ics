@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:d717e7141811007b5e7b4163aa39f124@conferences
-DTSTAMP:20261122T122637Z
+DTSTAMP:20261123T142037Z
 DTSTART:20261124T070000Z
 DTEND:20261124T190000Z
 SUMMARY:Semaine de l'Afrique
@@ -18,7 +18,7 @@ URL:https://www.ehess.fr/jcms/293183_JEvent/fr/semaine-de-l-afrique
 END:VEVENT
 BEGIN:VEVENT
 UID:81a7a98344c5d4dcc90f144e947ca47e@conferences
-DTSTAMP:20261122T122637Z
+DTSTAMP:20261123T142037Z
 DTSTART:20261125T080000Z
 DTEND:20261125T172500Z
 SUMMARY:Semaine de l'Afrique
@@ -28,7 +28,7 @@ URL:https://www.ehess.fr/jcms/293183_JEvent/fr/semaine-de-l-afrique
 END:VEVENT
 BEGIN:VEVENT
 UID:d81d3cb383376ef3ffe49c9431088b10@conferences
-DTSTAMP:20261122T122637Z
+DTSTAMP:20261123T142037Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261128
 SUMMARY:L’ « histoire des religions »
@@ -38,7 +38,7 @@ URL:https://www.ehess.fr/jcms/305341_JEvent/fr/l-histoire-des-religions
 END:VEVENT
 BEGIN:VEVENT
 UID:8fe12415db5a2f2fbf4a57617534bfef@conferences
-DTSTAMP:20261122T122637Z
+DTSTAMP:20261123T142037Z
 DTSTART:20261126T080000Z
 DTEND:20261126T174000Z
 SUMMARY:Semaine de l'Afrique
@@ -48,7 +48,7 @@ URL:https://www.ehess.fr/jcms/293183_JEvent/fr/semaine-de-l-afrique
 END:VEVENT
 BEGIN:VEVENT
 UID:93eabf6c82f0ae6fadf03a1442385569@conferences
-DTSTAMP:20261122T122637Z
+DTSTAMP:20261123T142037Z
 DTSTART:20261127T080000Z
 DTEND:20261127T173000Z
 SUMMARY:Semaine de l'Afrique
@@ -58,7 +58,7 @@ URL:https://www.ehess.fr/jcms/293183_JEvent/fr/semaine-de-l-afrique
 END:VEVENT
 BEGIN:VEVENT
 UID:b932b41a1fcb6785065af4913147e443@conferences
-DTSTAMP:20261122T122637Z
+DTSTAMP:20261123T142037Z
 DTSTART:20261127T090000Z
 DTEND:20261127T100000Z
 SUMMARY:Voix aux Chapitres #22 autour de l'ouvrage "Chroniques de l’intranquillité : Violence\, prédation et protection en situation postcoloniale"
@@ -68,7 +68,7 @@ URL:https://www.ehess.fr/jcms/296672_JEvent/fr/voix-aux-chapitres-22-autour-de-l
 END:VEVENT
 BEGIN:VEVENT
 UID:c1154ebf076f76a0403d935c5cfe8fe1@conferences
-DTSTAMP:20261122T122637Z
+DTSTAMP:20261123T142037Z
 DTSTART:20261128T132000Z
 DTEND:20261128T190000Z
 SUMMARY:L’EHESS au festival Vrai de Vrai organisé par LaScam
@@ -78,7 +78,7 @@ URL:https://www.ehess.fr/jcms/312529_JEvent/fr/l-ehess-au-festival-vrai-de-vrai-
 END:VEVENT
 BEGIN:VEVENT
 UID:69181bcc35f66b2f8133696162e7ff4c@conferences
-DTSTAMP:20261122T122637Z
+DTSTAMP:20261123T142037Z
 DTSTART:20261128T140000Z
 DTEND:20261128T150000Z
 SUMMARY:Monnaie\, pouvoir et crises : une histoire de France
@@ -88,7 +88,7 @@ URL:https://www.ehess.fr/jcms/320325_JEvent/fr/monnaie-pouvoir-et-crises-une-his
 END:VEVENT
 BEGIN:VEVENT
 UID:29b246da24c1d7287ead37c46621e746@conferences
-DTSTAMP:20261122T122637Z
+DTSTAMP:20261123T142037Z
 DTSTART:20261201T163000Z
 DTEND:20261201T193000Z
 SUMMARY:Voix aux Chapitres #23 autour de l'ouvrage "Une histoire économique et sociale La France\, de la Préhistoire à nos jours"
@@ -98,7 +98,7 @@ URL:https://www.ehess.fr/jcms/296719_JEvent/fr/voix-aux-chapitres-23-autour-de-l
 END:VEVENT
 BEGIN:VEVENT
 UID:506dbe73a4c3506237b41be7c2e41564@conferences
-DTSTAMP:20261122T122637Z
+DTSTAMP:20261123T142037Z
 DTSTART:20261202T080000Z
 DTEND:20261202T170000Z
 SUMMARY:Sources de l’autorité religieuse en Asie (1)
@@ -108,7 +108,7 @@ URL:https://www.ehess.fr/jcms/318185_JEvent/fr/sources-de-l-autorite-religieuse-
 END:VEVENT
 BEGIN:VEVENT
 UID:b6dc0c1a0fe94a8bab49493d61965c80@conferences
-DTSTAMP:20261122T122637Z
+DTSTAMP:20261123T142037Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261206
 SUMMARY:Karl Mannheim et la sociologie aujourd’hui
@@ -118,7 +118,7 @@ URL:https://www.ehess.fr/jcms/319671_JEvent/fr/karl-mannheim-et-la-sociologie-au
 END:VEVENT
 BEGIN:VEVENT
 UID:f485b2599ef1b6ec76cf2f47bbb9b213@conferences
-DTSTAMP:20261122T122637Z
+DTSTAMP:20261123T142037Z
 DTSTART:20261204T180000Z
 DTEND:20261204T200000Z
 SUMMARY:Une histoire de Paris. Pollutions\, économie & inégalités environnementales aux XVIIIᵉ et XIXᵉ siècles
@@ -128,7 +128,7 @@ URL:https://www.ehess.fr/jcms/317433_JEvent/fr/une-histoire-de-paris-pollutions-
 END:VEVENT
 BEGIN:VEVENT
 UID:491771049afea96dbb7a540c81fbb6e5@conferences
-DTSTAMP:20261122T122637Z
+DTSTAMP:20261123T142037Z
 DTSTART:20261209T110000Z
 DTEND:20261209T123000Z
 SUMMARY:Atelier-rencontre de l'IISMM "Changer d’alphabet. Turquie 1850-1950"

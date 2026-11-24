@@ -1,6 +1,7 @@
 {
   "flux": [
-    {"nom": "Practical Philosophy Club - Paris", "ical": "https://www.meetup.com/practical-philosophy-paris/events/ical/"}
+    {"nom": "Practical Philosophy Club - Paris", "ical": "https://www.meetup.com/practical-philosophy-paris/events/ical/"},
+    {"nom": "Paris Café Psycho", "ical": "https://www.meetup.com/paris-cafe-psycho/events/ical/"}
   ],
   "evenements": []
 }

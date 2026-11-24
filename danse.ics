@@ -7,8 +7,18 @@ X-WR-TIMEZONE:Europe/Paris
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
+UID:a4c616613f7ac4ba5f4bfd458f414f10@conferences
+DTSTAMP:20261124T211910Z
+DTSTART:20261124T180000Z
+DTEND:20261125T000000Z
+SUMMARY:Agua Party · soirée salsa & bachata du mardi
+LOCATION:Péniche Concorde Atlantique\, 23 quai Anatole France\, 75007 Paris
+DESCRIPTION:À CONFIRMER\nCours 19h-21h (salsa et bachata\, 4 niveaux : 19h initiation et intermédiaire\, 20h débutant et avancé)\, puis soirée DJ jusqu'à 1h. Rythme hebdomadaire d'après le site\, sans liste de dates : vérifier fermetures et vacances.\nLien : https://aguapartyparis.fr/la-soiree/
+URL:https://aguapartyparis.fr/la-soiree/
+END:VEVENT
+BEGIN:VEVENT
 UID:a318738151c1ec2f01fa745d268eb0f2@conferences
-DTSTAMP:20261124T211214Z
+DTSTAMP:20261124T211910Z
 DTSTART:20261130T180000Z
 DTEND:20261130T233000Z
 SUMMARY:Rock That Boat
@@ -17,8 +27,18 @@ DESCRIPTION:Rock 4 You · soirées rock\n\nLa soirée Rock incontournable du lun
 URL:https://www.rock4you.dance/event-details/rock-that-boat-2026-11-30-19-00
 END:VEVENT
 BEGIN:VEVENT
+UID:9654ca22cdf24b36858c1b987715ebf0@conferences
+DTSTAMP:20261124T211910Z
+DTSTART:20261201T180000Z
+DTEND:20261202T000000Z
+SUMMARY:Agua Party · soirée salsa & bachata du mardi
+LOCATION:Péniche Concorde Atlantique\, 23 quai Anatole France\, 75007 Paris
+DESCRIPTION:À CONFIRMER\nCours 19h-21h (salsa et bachata\, 4 niveaux : 19h initiation et intermédiaire\, 20h débutant et avancé)\, puis soirée DJ jusqu'à 1h. Rythme hebdomadaire d'après le site\, sans liste de dates : vérifier fermetures et vacances.\nLien : https://aguapartyparis.fr/la-soiree/
+URL:https://aguapartyparis.fr/la-soiree/
+END:VEVENT
+BEGIN:VEVENT
 UID:256de2fe7cbf50a96a212042c3c70f2e@conferences
-DTSTAMP:20261124T211214Z
+DTSTAMP:20261124T211910Z
 DTSTART:20261207T180000Z
 DTEND:20261207T233000Z
 SUMMARY:Rock That Boat
@@ -27,8 +47,18 @@ DESCRIPTION:Rock 4 You · soirées rock\n\nLa soirée Rock incontournable du lun
 URL:https://www.rock4you.dance/event-details/rock-that-boat-2026-12-07-19-00
 END:VEVENT
 BEGIN:VEVENT
+UID:d6e40735f7085382e60113f814f23832@conferences
+DTSTAMP:20261124T211910Z
+DTSTART:20261208T180000Z
+DTEND:20261209T000000Z
+SUMMARY:Agua Party · soirée salsa & bachata du mardi
+LOCATION:Péniche Concorde Atlantique\, 23 quai Anatole France\, 75007 Paris
+DESCRIPTION:À CONFIRMER\nCours 19h-21h (salsa et bachata\, 4 niveaux : 19h initiation et intermédiaire\, 20h débutant et avancé)\, puis soirée DJ jusqu'à 1h. Rythme hebdomadaire d'après le site\, sans liste de dates : vérifier fermetures et vacances.\nLien : https://aguapartyparis.fr/la-soiree/
+URL:https://aguapartyparis.fr/la-soiree/
+END:VEVENT
+BEGIN:VEVENT
 UID:ae0bb8e464d6bd940ddda3c6ae6fb1e0@conferences
-DTSTAMP:20261124T211214Z
+DTSTAMP:20261124T211910Z
 DTSTART:20261214T180000Z
 DTEND:20261214T233000Z
 SUMMARY:Rock That Boat
@@ -37,8 +67,18 @@ DESCRIPTION:Rock 4 You · soirées rock\n\nLa soirée Rock incontournable du lun
 URL:https://www.rock4you.dance/event-details/rock-that-boat-2026-12-14-19-00
 END:VEVENT
 BEGIN:VEVENT
+UID:dbdf995da3d1041c6e4ddaf767c92858@conferences
+DTSTAMP:20261124T211910Z
+DTSTART:20261215T180000Z
+DTEND:20261216T000000Z
+SUMMARY:Agua Party · soirée salsa & bachata du mardi
+LOCATION:Péniche Concorde Atlantique\, 23 quai Anatole France\, 75007 Paris
+DESCRIPTION:À CONFIRMER\nCours 19h-21h (salsa et bachata\, 4 niveaux : 19h initiation et intermédiaire\, 20h débutant et avancé)\, puis soirée DJ jusqu'à 1h. Rythme hebdomadaire d'après le site\, sans liste de dates : vérifier fermetures et vacances.\nLien : https://aguapartyparis.fr/la-soiree/
+URL:https://aguapartyparis.fr/la-soiree/
+END:VEVENT
+BEGIN:VEVENT
 UID:7a58a8d0f4f4dd0801b6a5a7f1712c03@conferences
-DTSTAMP:20261124T211214Z
+DTSTAMP:20261124T211910Z
 DTSTART:20261218T180000Z
 DTEND:20261219T010000Z
 SUMMARY:Rock That Loft n°3 — Soirée de Noël
@@ -47,8 +87,28 @@ DESCRIPTION:Rock 4 You · soirées rock\n\n🎄 Rock That Loft fête Noël à Pa
 URL:https://www.rock4you.dance/event-details/rock-that-loft-n-3
 END:VEVENT
 BEGIN:VEVENT
+UID:2cd2fb3d877701cdc4ad16e3ffef3db9@conferences
+DTSTAMP:20261124T211910Z
+DTSTART:20261222T180000Z
+DTEND:20261223T000000Z
+SUMMARY:Agua Party · soirée salsa & bachata du mardi
+LOCATION:Péniche Concorde Atlantique\, 23 quai Anatole France\, 75007 Paris
+DESCRIPTION:À CONFIRMER\nCours 19h-21h (salsa et bachata\, 4 niveaux : 19h initiation et intermédiaire\, 20h débutant et avancé)\, puis soirée DJ jusqu'à 1h. Rythme hebdomadaire d'après le site\, sans liste de dates : vérifier fermetures et vacances.\nLien : https://aguapartyparis.fr/la-soiree/
+URL:https://aguapartyparis.fr/la-soiree/
+END:VEVENT
+BEGIN:VEVENT
+UID:bb73d52ab8ff91dc05947ce2ea4f96c9@conferences
+DTSTAMP:20261124T211910Z
+DTSTART:20261229T180000Z
+DTEND:20261230T000000Z
+SUMMARY:Agua Party · soirée salsa & bachata du mardi
+LOCATION:Péniche Concorde Atlantique\, 23 quai Anatole France\, 75007 Paris
+DESCRIPTION:À CONFIRMER\nCours 19h-21h (salsa et bachata\, 4 niveaux : 19h initiation et intermédiaire\, 20h débutant et avancé)\, puis soirée DJ jusqu'à 1h. Rythme hebdomadaire d'après le site\, sans liste de dates : vérifier fermetures et vacances.\nLien : https://aguapartyparis.fr/la-soiree/
+URL:https://aguapartyparis.fr/la-soiree/
+END:VEVENT
+BEGIN:VEVENT
 UID:055bb8e413d527698d67fa30563b9404@conferences
-DTSTAMP:20261124T211214Z
+DTSTAMP:20261124T211910Z
 DTSTART:20261231T190000Z
 DTEND:20270101T010000Z
 SUMMARY:Nouvel An Rock 4 You
@@ -58,7 +118,7 @@ URL:https://www.rock4you.dance/event-details/nouvel-an-rock-4-you-2
 END:VEVENT
 BEGIN:VEVENT
 UID:2390d1045d58edd027c59586e1c02961@conferences
-DTSTAMP:20261124T211214Z
+DTSTAMP:20261124T211910Z
 DTSTART:20270104T180000Z
 DTEND:20270104T233000Z
 SUMMARY:Rock That Boat
@@ -67,8 +127,18 @@ DESCRIPTION:Rock 4 You · soirées rock\n\nLa soirée Rock incontournable du lun
 URL:https://www.rock4you.dance/event-details/rock-that-boat-2027-01-04-19-00
 END:VEVENT
 BEGIN:VEVENT
+UID:7e1970de2a20075faa2a781a44327834@conferences
+DTSTAMP:20261124T211910Z
+DTSTART:20270105T180000Z
+DTEND:20270106T000000Z
+SUMMARY:Agua Party · soirée salsa & bachata du mardi
+LOCATION:Péniche Concorde Atlantique\, 23 quai Anatole France\, 75007 Paris
+DESCRIPTION:À CONFIRMER\nCours 19h-21h (salsa et bachata\, 4 niveaux : 19h initiation et intermédiaire\, 20h débutant et avancé)\, puis soirée DJ jusqu'à 1h. Rythme hebdomadaire d'après le site\, sans liste de dates : vérifier fermetures et vacances.\nLien : https://aguapartyparis.fr/la-soiree/
+URL:https://aguapartyparis.fr/la-soiree/
+END:VEVENT
+BEGIN:VEVENT
 UID:0421c9317189cbf74b7f63017472782b@conferences
-DTSTAMP:20261124T211214Z
+DTSTAMP:20261124T211910Z
 DTSTART:20270111T180000Z
 DTEND:20270111T233000Z
 SUMMARY:Rock That Boat
@@ -77,8 +147,18 @@ DESCRIPTION:Rock 4 You · soirées rock\n\nLa soirée Rock incontournable du lun
 URL:https://www.rock4you.dance/event-details/rock-that-boat-2027-01-11-19-00
 END:VEVENT
 BEGIN:VEVENT
+UID:a5b6c5b042fd4e7a3692f6de715852d9@conferences
+DTSTAMP:20261124T211910Z
+DTSTART:20270112T180000Z
+DTEND:20270113T000000Z
+SUMMARY:Agua Party · soirée salsa & bachata du mardi
+LOCATION:Péniche Concorde Atlantique\, 23 quai Anatole France\, 75007 Paris
+DESCRIPTION:À CONFIRMER\nCours 19h-21h (salsa et bachata\, 4 niveaux : 19h initiation et intermédiaire\, 20h débutant et avancé)\, puis soirée DJ jusqu'à 1h. Rythme hebdomadaire d'après le site\, sans liste de dates : vérifier fermetures et vacances.\nLien : https://aguapartyparis.fr/la-soiree/
+URL:https://aguapartyparis.fr/la-soiree/
+END:VEVENT
+BEGIN:VEVENT
 UID:69e7de1b0d41e2b5f0463bbc498e0409@conferences
-DTSTAMP:20261124T211214Z
+DTSTAMP:20261124T211910Z
 DTSTART:20270115T180000Z
 DTEND:20270116T010000Z
 SUMMARY:Rock That Loft n°4
@@ -88,7 +168,7 @@ URL:https://www.rock4you.dance/event-details/rock-that-loft-n-4
 END:VEVENT
 BEGIN:VEVENT
 UID:8c23deeb8d6a431f0daafc5d7af932f7@conferences
-DTSTAMP:20261124T211214Z
+DTSTAMP:20261124T211910Z
 DTSTART:20270118T180000Z
 DTEND:20270118T233000Z
 SUMMARY:Rock That Boat
@@ -97,8 +177,18 @@ DESCRIPTION:Rock 4 You · soirées rock\n\nLa soirée Rock incontournable du lun
 URL:https://www.rock4you.dance/event-details/rock-that-boat-2027-01-18-19-00
 END:VEVENT
 BEGIN:VEVENT
+UID:feefcb967928776d79db6e3113770673@conferences
+DTSTAMP:20261124T211910Z
+DTSTART:20270119T180000Z
+DTEND:20270120T000000Z
+SUMMARY:Agua Party · soirée salsa & bachata du mardi
+LOCATION:Péniche Concorde Atlantique\, 23 quai Anatole France\, 75007 Paris
+DESCRIPTION:À CONFIRMER\nCours 19h-21h (salsa et bachata\, 4 niveaux : 19h initiation et intermédiaire\, 20h débutant et avancé)\, puis soirée DJ jusqu'à 1h. Rythme hebdomadaire d'après le site\, sans liste de dates : vérifier fermetures et vacances.\nLien : https://aguapartyparis.fr/la-soiree/
+URL:https://aguapartyparis.fr/la-soiree/
+END:VEVENT
+BEGIN:VEVENT
 UID:35d62e0ea0d206e377ea4e27ce7764ea@conferences
-DTSTAMP:20261124T211214Z
+DTSTAMP:20261124T211910Z
 DTSTART:20270125T180000Z
 DTEND:20270125T233000Z
 SUMMARY:Rock That Boat
@@ -107,8 +197,18 @@ DESCRIPTION:Rock 4 You · soirées rock\n\nLa soirée Rock incontournable du lun
 URL:https://www.rock4you.dance/event-details/rock-that-boat-2027-01-25-19-00
 END:VEVENT
 BEGIN:VEVENT
+UID:6be9c13aedc72ac630b761ddbc2cc218@conferences
+DTSTAMP:20261124T211910Z
+DTSTART:20270126T180000Z
+DTEND:20270127T000000Z
+SUMMARY:Agua Party · soirée salsa & bachata du mardi
+LOCATION:Péniche Concorde Atlantique\, 23 quai Anatole France\, 75007 Paris
+DESCRIPTION:À CONFIRMER\nCours 19h-21h (salsa et bachata\, 4 niveaux : 19h initiation et intermédiaire\, 20h débutant et avancé)\, puis soirée DJ jusqu'à 1h. Rythme hebdomadaire d'après le site\, sans liste de dates : vérifier fermetures et vacances.\nLien : https://aguapartyparis.fr/la-soiree/
+URL:https://aguapartyparis.fr/la-soiree/
+END:VEVENT
+BEGIN:VEVENT
 UID:1d57e16622629d77503d01a048b958c3@conferences
-DTSTAMP:20261124T211214Z
+DTSTAMP:20261124T211910Z
 DTSTART:20270130T180000Z
 DTEND:20270131T000000Z
 SUMMARY:Rock That STAPS | Soirée Rock 4 Temps
@@ -118,7 +218,7 @@ URL:https://www.rock4you.dance/event-details/rock-that-staps-soiree-rock-4-temps
 END:VEVENT
 BEGIN:VEVENT
 UID:114d814513ec45d7ebf2f8899bbe952b@conferences
-DTSTAMP:20261124T211214Z
+DTSTAMP:20261124T211910Z
 DTSTART:20270201T180000Z
 DTEND:20270201T233000Z
 SUMMARY:Rock That Boat
@@ -127,8 +227,18 @@ DESCRIPTION:Rock 4 You · soirées rock\n\nLa soirée Rock incontournable du lun
 URL:https://www.rock4you.dance/event-details/rock-that-boat-2027-02-01-19-00
 END:VEVENT
 BEGIN:VEVENT
+UID:d0707d5ab7a7e3114293f81884b945aa@conferences
+DTSTAMP:20261124T211910Z
+DTSTART:20270202T180000Z
+DTEND:20270203T000000Z
+SUMMARY:Agua Party · soirée salsa & bachata du mardi
+LOCATION:Péniche Concorde Atlantique\, 23 quai Anatole France\, 75007 Paris
+DESCRIPTION:À CONFIRMER\nCours 19h-21h (salsa et bachata\, 4 niveaux : 19h initiation et intermédiaire\, 20h débutant et avancé)\, puis soirée DJ jusqu'à 1h. Rythme hebdomadaire d'après le site\, sans liste de dates : vérifier fermetures et vacances.\nLien : https://aguapartyparis.fr/la-soiree/
+URL:https://aguapartyparis.fr/la-soiree/
+END:VEVENT
+BEGIN:VEVENT
 UID:4b3d5ef5dea6de4387add52c58be310d@conferences
-DTSTAMP:20261124T211214Z
+DTSTAMP:20261124T211910Z
 DTSTART:20270205T180000Z
 DTEND:20270206T010000Z
 SUMMARY:Rock That Loft n°5
@@ -138,7 +248,7 @@ URL:https://www.rock4you.dance/event-details/rock-that-loft-n-5
 END:VEVENT
 BEGIN:VEVENT
 UID:c2e1df1e099c1a0d459075f64923ef0d@conferences
-DTSTAMP:20261124T211214Z
+DTSTAMP:20261124T211910Z
 DTSTART:20270208T180000Z
 DTEND:20270208T233000Z
 SUMMARY:Rock That Boat
@@ -147,8 +257,18 @@ DESCRIPTION:Rock 4 You · soirées rock\n\nLa soirée Rock incontournable du lun
 URL:https://www.rock4you.dance/event-details/rock-that-boat-2027-02-08-19-00
 END:VEVENT
 BEGIN:VEVENT
+UID:ac2c04e86fb303bc471d0cabebd25461@conferences
+DTSTAMP:20261124T211910Z
+DTSTART:20270209T180000Z
+DTEND:20270210T000000Z
+SUMMARY:Agua Party · soirée salsa & bachata du mardi
+LOCATION:Péniche Concorde Atlantique\, 23 quai Anatole France\, 75007 Paris
+DESCRIPTION:À CONFIRMER\nCours 19h-21h (salsa et bachata\, 4 niveaux : 19h initiation et intermédiaire\, 20h débutant et avancé)\, puis soirée DJ jusqu'à 1h. Rythme hebdomadaire d'après le site\, sans liste de dates : vérifier fermetures et vacances.\nLien : https://aguapartyparis.fr/la-soiree/
+URL:https://aguapartyparis.fr/la-soiree/
+END:VEVENT
+BEGIN:VEVENT
 UID:9106e6fc367e33039e40549fadf55c6b@conferences
-DTSTAMP:20261124T211214Z
+DTSTAMP:20261124T211910Z
 DTSTART:20270215T180000Z
 DTEND:20270215T233000Z
 SUMMARY:Rock That Boat
@@ -157,8 +277,18 @@ DESCRIPTION:Rock 4 You · soirées rock\n\nLa soirée Rock incontournable du lun
 URL:https://www.rock4you.dance/event-details/rock-that-boat-2027-02-15-19-00
 END:VEVENT
 BEGIN:VEVENT
+UID:54b5a6cda06889b6201a77df4f60de99@conferences
+DTSTAMP:20261124T211910Z
+DTSTART:20270216T180000Z
+DTEND:20270217T000000Z
+SUMMARY:Agua Party · soirée salsa & bachata du mardi
+LOCATION:Péniche Concorde Atlantique\, 23 quai Anatole France\, 75007 Paris
+DESCRIPTION:À CONFIRMER\nCours 19h-21h (salsa et bachata\, 4 niveaux : 19h initiation et intermédiaire\, 20h débutant et avancé)\, puis soirée DJ jusqu'à 1h. Rythme hebdomadaire d'après le site\, sans liste de dates : vérifier fermetures et vacances.\nLien : https://aguapartyparis.fr/la-soiree/
+URL:https://aguapartyparis.fr/la-soiree/
+END:VEVENT
+BEGIN:VEVENT
 UID:1a908b726760883fa9ff9029ea80da7c@conferences
-DTSTAMP:20261124T211214Z
+DTSTAMP:20261124T211910Z
 DTSTART:20270222T180000Z
 DTEND:20270222T233000Z
 SUMMARY:Rock That Boat
@@ -168,7 +298,7 @@ URL:https://www.rock4you.dance/event-details/rock-that-boat-2027-02-22-19-00
 END:VEVENT
 BEGIN:VEVENT
 UID:5670e3e3b9b7018e265db7692868becb@conferences
-DTSTAMP:20261124T211214Z
+DTSTAMP:20261124T211910Z
 DTSTART:20270301T180000Z
 DTEND:20270301T233000Z
 SUMMARY:Rock That Boat
@@ -178,7 +308,7 @@ URL:https://www.rock4you.dance/event-details/rock-that-boat-2027-03-01-19-00
 END:VEVENT
 BEGIN:VEVENT
 UID:3c84c28b2f249446c16bd60068129e32@conferences
-DTSTAMP:20261124T211214Z
+DTSTAMP:20261124T211910Z
 DTSTART:20270308T180000Z
 DTEND:20270308T233000Z
 SUMMARY:Rock That Boat

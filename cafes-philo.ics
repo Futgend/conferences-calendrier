@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:cf82276e0385df11cba51bba87ce52e6@conferences
-DTSTAMP:20261124T201527Z
+DTSTAMP:20261124T202042Z
 DTSTART:20261125T180000Z
 DTEND:20261125T200000Z
 SUMMARY:Practical Philosophy Meetup - Paris 🇫🇷
@@ -17,8 +17,28 @@ DESCRIPTION:Practical Philosophy Club - Paris\n\nPractical Philosophy Club - Par
 URL:https://www.meetup.com/practical-philosophy-paris/events/313982005/
 END:VEVENT
 BEGIN:VEVENT
+UID:4e6c610eaf1c33e572d5979ac2e399ca@conferences
+DTSTAMP:20261124T202042Z
+DTSTART:20261125T183000Z
+DTEND:20261125T200000Z
+SUMMARY:[SOIRÉE PHILO] Comment renaître après une épreuve ?
+LOCATION:
+DESCRIPTION:Meetup Paris Philosophie\n\nGroupe Meetup Paris Philosophie\n*Ce que les Mystères d'Éleusis enseignaient sur les fins et les renaissances\, et ce qu'ils peuvent encore nous apprendre.*\n\n[SOIRÉE PHILO PRATIQUE]\n\nUn deuil\, une séparation\, une crise\, un monde qui change : chacun traverse un jour une épreuve qui semble tout emporter.\n\nLes Grecs anciens connaissaient cette expérience. Pendant près de deux mille ans\, des foules ont emprunté la Voie sacrée d'Athènes à Éleusis pour vivre une initiation dont le secret fut remarquablement gardé.\n\nAu cœur de ces Mystères\, un mythe : **Déméter**\, accablée par la perte de sa fille Perséphone\, plonge le monde dans l'hiver\, jusqu'au jour où Perséphone revient à la lumière et le printemps avec elle.\n\nCicéron\, lui-même initié\, écrivait qu'on y apprenait à vivre dans la joie et à mourir…\n\nLien : https://www.meetup.com/groupe-meetup-paris-philosophie/events/317466940/
+URL:https://www.meetup.com/groupe-meetup-paris-philosophie/events/317466940/
+END:VEVENT
+BEGIN:VEVENT
+UID:0267a4fb8b8bbbf27f044c0b4a3a66cf@conferences
+DTSTAMP:20261124T202042Z
+DTSTART:20261127T183000Z
+DTEND:20261127T200000Z
+SUMMARY:Être vivant parmi les vivants - Habiter le monde
+LOCATION:
+DESCRIPTION:Meetup Paris Philosophie\n\nGroupe Meetup Paris Philosophie\nExplorer les mille visages du vivant avec Tarik Chekchak\n\nIl n'existe pas une seule manière de penser le vivant\, mais une multitude. Cette deuxième soirée est une traversée anthropologique et culturelle des visions du monde : des philosophies occidentales héritées des Grecs aux cosmovisions amérindiennes\, asiatiques\, africaines et océaniennes. Chacune tisse un rapport singulier aux plantes\, aux animaux\, aux ancêtres et à la terre. Avec le madhyamaka de Nāgārjuna\, rien n'existe par soi-même : tout n'advient qu'en relation. Le taoïsme\, lui\, pense le vivant comme un flux\, où les contraires se répondent plus qu'ils ne s'opposent. De la Pachamama andine à l'ubuntu africain\, de ces sagesses asiatiques aux ontologies animistes\, se dessine la notion de plurivers : u…\n\nLien : https://www.meetup.com/groupe-meetup-paris-philosophie/events/316762171/
+URL:https://www.meetup.com/groupe-meetup-paris-philosophie/events/316762171/
+END:VEVENT
+BEGIN:VEVENT
 UID:aea12607eaa2b80c7cd43ce88064f536@conferences
-DTSTAMP:20261124T201527Z
+DTSTAMP:20261124T202042Z
 DTSTART:20261202T180000Z
 DTEND:20261202T200000Z
 SUMMARY:Practical Philosophy Meetup - Paris 🇫🇷
@@ -27,8 +47,18 @@ DESCRIPTION:Practical Philosophy Club - Paris\n\nPractical Philosophy Club - Par
 URL:https://www.meetup.com/practical-philosophy-paris/events/313982011/
 END:VEVENT
 BEGIN:VEVENT
+UID:7b96a0676e530ce339eca89ac14a3840@conferences
+DTSTAMP:20261124T202042Z
+DTSTART:20261202T183000Z
+DTEND:20261202T203000Z
+SUMMARY:Qu'est-ce que la philo pratique ? [ATELIER DÉCOUVERTE]
+LOCATION:
+DESCRIPTION:Meetup Paris Philosophie\n\nGroupe Meetup Paris Philosophie\n***[Envie de rejoindre une commu sans filtres ? Découvre le cycle d'ateliers de philo pratique ! Une soirée pour découvrir\, penser et agir !](https://www.eventbrite.fr/e/billets-quest-ce-que-la-philo-pratique-atelier-decouverte-685647639547?aff=oddtdtcreator&_gl=1*x2pc8x*_up*MQ..*_ga*MjE0NDExNjExNi4xNzkwMDU4MzQ1*_ga_TQVES5V6SH*czE3OTAwNTgzNDQkbzEkZzEkdDE3OTAwNTgzNTUkajQ5JGwwJGgw)***\n\n**Une soirée philo sans scroll et sans filtres !**\nEt si on se parlait vrai\, le temps d'une soirée ? C'est le concept de nos ateliers découverte pour tester\, en vrai\, ce que la philosophie peut t'apporter au quotidien. Une grande question\, un animateur\, des références philo\, un espace d'expression.\n\n**[Prends ton ticket pour un atelier découverte !](https://www.eventbrite.fr/e/b…\n\nLien : https://www.meetup.com/groupe-meetup-paris-philosophie/events/317255756/
+URL:https://www.meetup.com/groupe-meetup-paris-philosophie/events/317255756/
+END:VEVENT
+BEGIN:VEVENT
 UID:45a06f4b8f312c5aad6aa3d0b343da2c@conferences
-DTSTAMP:20261124T201527Z
+DTSTAMP:20261124T202042Z
 DTSTART:20261209T180000Z
 DTEND:20261209T200000Z
 SUMMARY:Practical Philosophy Meetup - Paris 🇫🇷
@@ -37,8 +67,38 @@ DESCRIPTION:Practical Philosophy Club - Paris\n\nPractical Philosophy Club - Par
 URL:https://www.meetup.com/practical-philosophy-paris/events/313982012/
 END:VEVENT
 BEGIN:VEVENT
+UID:b7a52bbdf5e217f3e442e75191463663@conferences
+DTSTAMP:20261124T202042Z
+DTSTART:20261209T183000Z
+DTEND:20261209T203000Z
+SUMMARY:Qu'est-ce que la philo pratique ? [ATELIER DÉCOUVERTE]
+LOCATION:
+DESCRIPTION:Meetup Paris Philosophie\n\nGroupe Meetup Paris Philosophie\n***[Envie de rejoindre une commu sans filtres ? Découvre le cycle d'ateliers de philo pratique ! Une soirée pour découvrir\, penser et agir !](https://www.eventbrite.fr/e/billets-quest-ce-que-la-philo-pratique-atelier-decouverte-685647639547?aff=oddtdtcreator&_gl=1*x2pc8x*_up*MQ..*_ga*MjE0NDExNjExNi4xNzkwMDU4MzQ1*_ga_TQVES5V6SH*czE3OTAwNTgzNDQkbzEkZzEkdDE3OTAwNTgzNTUkajQ5JGwwJGgw)***\n\n**Une soirée philo sans scroll et sans filtres !**\nEt si on se parlait vrai\, le temps d'une soirée ? C'est le concept de nos ateliers découverte pour tester\, en vrai\, ce que la philosophie peut t'apporter au quotidien. Une grande question\, un animateur\, des références philo\, un espace d'expression.\n\n**[Prends ton ticket pour un atelier découverte !](https://www.eventbrite.fr/e/b…\n\nLien : https://www.meetup.com/groupe-meetup-paris-philosophie/events/317051338/
+URL:https://www.meetup.com/groupe-meetup-paris-philosophie/events/317051338/
+END:VEVENT
+BEGIN:VEVENT
+UID:d365878318b3453cfc66ccf43236da10@conferences
+DTSTAMP:20261124T202042Z
+DTSTART:20261211T183000Z
+DTEND:20261211T203000Z
+SUMMARY:L'Intuition. Cette intelligence qui nous éclaire.
+LOCATION:
+DESCRIPTION:Meetup Paris Philosophie\n\nGroupe Meetup Paris Philosophie\n**Places limitées\, inscription recommandée sur ce lien :** https://www.eventbrite.fr/e/lintuition-cette-intelligence-qui-nous-eclaire-tickets-2005218554676?\n\n**L’Intuition. Cette intelligence qui nous éclaire.**\nIl y a des vérités que l’on ne déduit pas : on les pressent.\nCe dialogue avec Victoria Pellé Reimers\, autrice de *Tous Intuitifs !* nous invitera à questionner une faculté profonde : cette connaissance silencieuse qui surgit avant les mots\, avant l'épreuve\, avant des certitudes.\n\nUne rencontre pour interroger cette voie subtile qui nous traverse parfois avant même que la raison ne parle et apprendre à l'écouter sans renoncer à penser.\n\nLien : https://www.meetup.com/groupe-meetup-paris-philosophie/events/317535813/
+URL:https://www.meetup.com/groupe-meetup-paris-philosophie/events/317535813/
+END:VEVENT
+BEGIN:VEVENT
+UID:1c20618bd175e14a46dd74c7dfcc00d6@conferences
+DTSTAMP:20261124T202042Z
+DTSTART:20261213T160000Z
+DTEND:20261213T173000Z
+SUMMARY:Café philo : Trump vs Socrate : Le pouvoir rend-il nécessairement fou ?
+LOCATION:
+DESCRIPTION:Meetup Paris Philosophie\n\nGroupe Meetup Paris Philosophie\n➡️ Réservation obligatoire depuis la billetterie :\nhttps://www.eventbrite.fr/e/1995562125035?aff=oddtdtcreator\n\n☕ Les rencontres CAFÉ PHILO de l'Espace Le Moulin ☕\n\n⏰ Une à deux soirées par mois\n\n💬 Pour dialoguer en profondeur\, sur une question philosophique\, en lien avec l’actualité.\n\n🙋 Exercer sa pensée\, pratiquer l'art de l'écoute et de la reformulation.\n\n💚 Pendant cette période particulière que nous traversons\, le besoin d'échanger sur des sujets profonds se fait essentiel ! L'actualité\, à la fois riche et tragique\, donne beaucoup de matière à réfléchir.\nRéfléchir... ou simplement réagir en pensant ses émotions ?\nC'est ce que nous verrons à travers nos prochains cafés philo\, qui auront lieu dans notre espace.\n\nOuvert à tous\nTarif : 7 euros (boisson inclu…\n\nLien : https://www.meetup.com/groupe-meetup-paris-philosophie/events/315864677/
+URL:https://www.meetup.com/groupe-meetup-paris-philosophie/events/315864677/
+END:VEVENT
+BEGIN:VEVENT
 UID:f05fc4cbec6758cb4bb71fb0b23e159a@conferences
-DTSTAMP:20261124T201527Z
+DTSTAMP:20261124T202042Z
 DTSTART:20261216T180000Z
 DTEND:20261216T200000Z
 SUMMARY:Practical Philosophy Meetup - Paris 🇫🇷
@@ -47,8 +107,18 @@ DESCRIPTION:Practical Philosophy Club - Paris\n\nPractical Philosophy Club - Par
 URL:https://www.meetup.com/practical-philosophy-paris/events/313982013/
 END:VEVENT
 BEGIN:VEVENT
+UID:e4e568959cea02307279cad46bb6012c@conferences
+DTSTAMP:20261124T202042Z
+DTSTART:20261216T183000Z
+DTEND:20261216T203000Z
+SUMMARY:Corps\, émotions\, mental... Et après ? [Atelier philo pratique] 
+LOCATION:
+DESCRIPTION:Meetup Paris Philosophie\n\nGroupe Meetup Paris Philosophie\n[Billetterie](https://www.eventbrite.fr/e/billets-quest-ce-que-la-philo-pratique-atelier-decouverte-2003621858916)[ ](https://www.eventbrite.fr/e/2002820402739?aff=oddtdtcreator)\n\n**Que reste-t-il à découvrir en soi quand on croit déjà se connaître ?**\n\nEntre le travail\, les écrans et les mille rôles qu'on joue chaque jour\, on finit parfois par se réduire à ce qu'on fait. Et si on était plus vaste que ça ?\nIl y a trois mille ans\, l'Inde décrivait l'être humain en sept dimensions : du corps aux émotions\, de la pensée à ce qui donne un sens à tout le reste. Les Grecs\, eux\, voyaient en chacun un « petit univers ».\nIci\, on ne vous demande ni d'y croire ni de le rejeter : on teste. Ce modèle vous aide-t-il à voir autrement votre quotidien ?\n\n**Concrètement**\nUn p…\n\nLien : https://www.meetup.com/groupe-meetup-paris-philosophie/events/317051529/
+URL:https://www.meetup.com/groupe-meetup-paris-philosophie/events/317051529/
+END:VEVENT
+BEGIN:VEVENT
 UID:859455ba0bdac7cb73f4396ef8608b11@conferences
-DTSTAMP:20261124T201527Z
+DTSTAMP:20261124T202042Z
 DTSTART:20270106T180000Z
 DTEND:20270106T200000Z
 SUMMARY:Practical Philosophy Meetup - Paris 🇫🇷
@@ -58,7 +128,7 @@ URL:https://www.meetup.com/practical-philosophy-paris/events/317186373/
 END:VEVENT
 BEGIN:VEVENT
 UID:90708c6be9a79424fd555e9298adfe10@conferences
-DTSTAMP:20261124T201527Z
+DTSTAMP:20261124T202042Z
 DTSTART:20270113T180000Z
 DTEND:20270113T200000Z
 SUMMARY:Practical Philosophy Meetup - Paris 🇫🇷
@@ -68,7 +138,7 @@ URL:https://www.meetup.com/practical-philosophy-paris/events/317285923/
 END:VEVENT
 BEGIN:VEVENT
 UID:6e2f06bff9da718dfc29574404c5e6c5@conferences
-DTSTAMP:20261124T201527Z
+DTSTAMP:20261124T202042Z
 DTSTART:20270120T180000Z
 DTEND:20270120T200000Z
 SUMMARY:Practical Philosophy Meetup - Paris 🇫🇷
@@ -78,7 +148,7 @@ URL:https://www.meetup.com/practical-philosophy-paris/events/317285927/
 END:VEVENT
 BEGIN:VEVENT
 UID:4888656ba35340cedcbdcc4b9786b2d2@conferences
-DTSTAMP:20261124T201527Z
+DTSTAMP:20261124T202042Z
 DTSTART:20270127T180000Z
 DTEND:20270127T200000Z
 SUMMARY:Practical Philosophy Meetup - Paris 🇫🇷
@@ -87,8 +157,18 @@ DESCRIPTION:Practical Philosophy Club - Paris\n\nPractical Philosophy Club - Par
 URL:https://www.meetup.com/practical-philosophy-paris/events/317285930/
 END:VEVENT
 BEGIN:VEVENT
+UID:e4be0cbe7897a7fa5bbc7c6212b0bc68@conferences
+DTSTAMP:20261124T202042Z
+DTSTART:20270129T183000Z
+DTEND:20270129T200000Z
+SUMMARY:Être vivant parmi les vivants - Perspectives métaphysiques et mystiques
+LOCATION:
+DESCRIPTION:Meetup Paris Philosophie\n\nGroupe Meetup Paris Philosophie\nAvec Tarik Chekchak\n\nAu-delà de la science et des cultures\, il y a l'expérience directe. Cette dernière soirée s'aventure sur le terrain métaphysique et mystique : que révèlent les grandes traditions contemplatives lorsqu'elles cessent de parler du vivant pour l'éprouver de l'intérieur ? Tarik Chekchak y partagera\, de manière personnelle\, son cheminement dans le Dzogchen — cette voie tibétaine de la conscience nue\, où la frontière entre soi et le monde se dissout. Une soirée pour expérimenter ce « qu’être vivant parmi les vivants » peut vouloir dire au plus intime.\n\n**RÉSERVATION :** [https://www.eventbrite.fr/e/etre-vivant-parmi-les-vivants-perspectives-metaphysiques-et-mystiques-tickets-1997080481480](https://www.eventbrite.fr/e/etre-vivant-parmi-les-vivan…\n\nLien : https://www.meetup.com/groupe-meetup-paris-philosophie/events/316762192/
+URL:https://www.meetup.com/groupe-meetup-paris-philosophie/events/316762192/
+END:VEVENT
+BEGIN:VEVENT
 UID:a79fd7c83284fdb65668e3b69c572f44@conferences
-DTSTAMP:20261124T201527Z
+DTSTAMP:20261124T202042Z
 DTSTART:20270203T180000Z
 DTEND:20270203T200000Z
 SUMMARY:Practical Philosophy Meetup - Paris 🇫🇷
@@ -98,7 +178,7 @@ URL:https://www.meetup.com/practical-philosophy-paris/events/317285932/
 END:VEVENT
 BEGIN:VEVENT
 UID:906857fe595ecc04f2e57ac406bf16f2@conferences
-DTSTAMP:20261124T201527Z
+DTSTAMP:20261124T202042Z
 DTSTART:20270210T180000Z
 DTEND:20270210T200000Z
 SUMMARY:Practical Philosophy Meetup - Paris 🇫🇷

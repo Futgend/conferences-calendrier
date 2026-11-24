@@ -886,6 +886,8 @@ def calendrier_perso(fichier):
                 start = j.replace(hour=int(ev["debut"][:2]), minute=int(ev["debut"][3:5]), tzinfo=PARIS)
                 fin_h = ev.get("fin") or f"{(start.hour + 2) % 24:02d}:{start.minute:02d}"
                 end = j.replace(hour=int(fin_h[:2]), minute=int(fin_h[3:5]), tzinfo=PARIS)
+                if end <= start:  # se termine après minuit
+                    end += timedelta(days=1)
                 all_day = False
             else:
                 start, end, all_day = j, j + timedelta(days=1), True

@@ -959,6 +959,7 @@ SOURCES = {
     "colloquium-dec": ("Colloquium DEC (ENS)", colloquium_dec),
     "cafes-philo": ("Cafés philo", lambda: calendrier_perso("cafes-philo.json")),
     "danse": ("Danse", lambda: calendrier_perso("danse.json")),
+    "theatre": ("Théâtre", lambda: calendrier_perso("theatre.json")),
 }
 # Anciens noms de fichier (aucun pour le moment)
 LEGACY = {}

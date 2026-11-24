@@ -2,7 +2,12 @@
   "flux": [
     {"nom": "Practical Philosophy Club - Paris", "ical": "https://www.meetup.com/practical-philosophy-paris/events/ical/"},
     {"nom": "Paris Café Psycho", "ical": "https://www.meetup.com/paris-cafe-psycho/events/ical/"},
-    {"nom": "Meetup Paris Philosophie", "ical": "https://www.meetup.com/groupe-meetup-paris-philosophie/events/ical/"}
+    {"nom": "Meetup Paris Philosophie", "ical": "https://www.meetup.com/groupe-meetup-paris-philosophie/events/ical/"},
+    {"nom": "Café Philo Bastille", "type": "forum-bastille",
+     "url": "https://cafephilobastille.exprimetoi.net/t708-calendrier-2026-des-animations-aux-associes-et-au-qg",
+     "debut": "11:00", "fin": "13:00",
+     "lieux": [["Les Associés", "Café Les Associés, 50 boulevard de la Bastille, 75012 Paris"],
+               ["Le QG", "Café Le QG, 32 rue de la Roquette, 75011 Paris"]]}
   ],
   "evenements": []
 }

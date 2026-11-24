@@ -801,13 +801,44 @@ def lire_ical(url, nom):
     return events
 
 
+def lire_forum_bastille(flux):
+    """Tableau annuel du Café Philo Bastille (forum) : une ligne par dimanche, une colonne par café.
+    Les cases « Pas de séance » / « Annulé » sont ignorées ; le nom des animateurs n'est pas repris."""
+    r = requests.get(flux["url"], headers=HEADERS, timeout=30)
+    r.encoding = "utf-8"
+    post = BeautifulSoup(r.text, "html.parser").select(".postbody")[0]
+    lignes = [[c.get_text(" ", strip=True) for c in tr.find_all(["td", "th"])] for tr in post.select("tr")]
+    annee = int(re.search(r"\d{4}", lignes[0][0]).group())
+    h1, m1 = map(int, flux["debut"].split(":"))
+    h2, m2 = map(int, flux["fin"].split(":"))
+    events = []
+    for ligne in lignes[1:]:
+        m = re.match(r"(\d{1,2})-(\S+)", ligne[0]) if ligne else None
+        if not m or not mois_abr(m.group(2)):
+            continue
+        jour = (annee, mois_abr(m.group(2)), int(m.group(1)))
+        for (cafe, lieu), case in zip(flux["lieux"], ligne[1:]):
+            bas = case.lower()
+            if not case or "pas de séance" in bas or "annul" in bas:
+                continue
+            titre = f"{flux['nom']} · {cafe}" + (" (ciné-débat)" if "ciné" in bas else "")
+            events.append({"title": titre, "start": datetime(*jour, h1, m1, tzinfo=PARIS),
+                           "end": datetime(*jour, h2, m2, tzinfo=PARIS), "all_day": False, "place": lieu,
+                           "description": f"{flux['nom']}, séance à {cafe}.\nProgramme : {flux['url']}",
+                           "url": f"{flux['url']}#{cafe}"})
+    return events
+
+
 def calendrier_perso(fichier):
     with open(fichier, encoding="utf-8") as f:
         data = json.load(f)
     events = []
     for flux in data.get("flux", []):
         try:
-            events += lire_ical(flux["ical"], flux["nom"])
+            if flux.get("type") == "forum-bastille":
+                events += lire_forum_bastille(flux)
+            else:
+                events += lire_ical(flux["ical"], flux["nom"])
         except Exception as exc:  # un flux en panne ne bloque pas le reste
             print(f"ERREUR flux {flux['nom']}: {exc}", file=sys.stderr)
     aujourdhui = datetime.now(PARIS).replace(hour=0, minute=0, second=0, microsecond=0, tzinfo=None)

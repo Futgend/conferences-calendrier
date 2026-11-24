@@ -1,0 +1,109 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendrier-conferences//FR
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Cafés philo
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:cf82276e0385df11cba51bba87ce52e6@conferences
+DTSTAMP:20261124T201233Z
+DTSTART:20261125T180000Z
+DTEND:20261125T200000Z
+SUMMARY:Practical Philosophy Meetup - Paris 🇫🇷
+LOCATION:
+DESCRIPTION:Practical Philosophy Club - Paris\n\nPractical Philosophy Club - Paris 🇫🇷\nBonjour à tous.tes ! Je m'appelle Emma\, je suis l'organisatrice Practical Philosophy Paris :)\n\nPractical Philosophy est un mouvement né au Mexique et qui est présent partout dans le monde aujourd'hui. J'ai découvert Practical Philosophy au Canada et j'ai tellement aimé que j'ai décidé de l'importer à Paris (il y a aussi une branche à Lyon si vous n'êtes pas de la région).\n\n**🏛️ C’EST QUOI\, LA PRACTICAL PHILOSOPHY ?**\n\nPractical philosophy\, c’est un rendez-vous hebdomadaire où des esprits curieux se retrouvent pour creuser un sujet\, affûter leur façon de s’exprimer et tisser des liens. Pas besoin d’être un pro de la philo pour participer\, tout le monde est le bienvenu ! 😎\n\nL’idée\, c’est que la philosophie\, ce n’est pas juste pour les profs d’université. …\n\nLien : https://www.meetup.com/practical-philosophy-paris/events/313982005/
+URL:https://www.meetup.com/practical-philosophy-paris/events/313982005/
+END:VEVENT
+BEGIN:VEVENT
+UID:aea12607eaa2b80c7cd43ce88064f536@conferences
+DTSTAMP:20261124T201233Z
+DTSTART:20261202T180000Z
+DTEND:20261202T200000Z
+SUMMARY:Practical Philosophy Meetup - Paris 🇫🇷
+LOCATION:
+DESCRIPTION:Practical Philosophy Club - Paris\n\nPractical Philosophy Club - Paris 🇫🇷\nBonjour à tous.tes ! Je m'appelle Emma\, je suis l'organisatrice Practical Philosophy Paris :)\n\nPractical Philosophy est un mouvement né au Mexique et qui est présent partout dans le monde aujourd'hui. J'ai découvert Practical Philosophy au Canada et j'ai tellement aimé que j'ai décidé de l'importer à Paris (il y a aussi une branche à Lyon si vous n'êtes pas de la région).\n\n**🏛️ C’EST QUOI\, LA PRACTICAL PHILOSOPHY ?**\n\nPractical philosophy\, c’est un rendez-vous hebdomadaire où des esprits curieux se retrouvent pour creuser un sujet\, affûter leur façon de s’exprimer et tisser des liens. Pas besoin d’être un pro de la philo pour participer\, tout le monde est le bienvenu ! 😎\n\nL’idée\, c’est que la philosophie\, ce n’est pas juste pour les profs d’université. …\n\nLien : https://www.meetup.com/practical-philosophy-paris/events/313982011/
+URL:https://www.meetup.com/practical-philosophy-paris/events/313982011/
+END:VEVENT
+BEGIN:VEVENT
+UID:45a06f4b8f312c5aad6aa3d0b343da2c@conferences
+DTSTAMP:20261124T201233Z
+DTSTART:20261209T180000Z
+DTEND:20261209T200000Z
+SUMMARY:Practical Philosophy Meetup - Paris 🇫🇷
+LOCATION:
+DESCRIPTION:Practical Philosophy Club - Paris\n\nPractical Philosophy Club - Paris 🇫🇷\nBonjour à tous.tes ! Je m'appelle Emma\, je suis l'organisatrice Practical Philosophy Paris :)\n\nPractical Philosophy est un mouvement né au Mexique et qui est présent partout dans le monde aujourd'hui. J'ai découvert Practical Philosophy au Canada et j'ai tellement aimé que j'ai décidé de l'importer à Paris (il y a aussi une branche à Lyon si vous n'êtes pas de la région).\n\n**🏛️ C’EST QUOI\, LA PRACTICAL PHILOSOPHY ?**\n\nPractical philosophy\, c’est un rendez-vous hebdomadaire où des esprits curieux se retrouvent pour creuser un sujet\, affûter leur façon de s’exprimer et tisser des liens. Pas besoin d’être un pro de la philo pour participer\, tout le monde est le bienvenu ! 😎\n\nL’idée\, c’est que la philosophie\, ce n’est pas juste pour les profs d’université. …\n\nLien : https://www.meetup.com/practical-philosophy-paris/events/313982012/
+URL:https://www.meetup.com/practical-philosophy-paris/events/313982012/
+END:VEVENT
+BEGIN:VEVENT
+UID:f05fc4cbec6758cb4bb71fb0b23e159a@conferences
+DTSTAMP:20261124T201233Z
+DTSTART:20261216T180000Z
+DTEND:20261216T200000Z
+SUMMARY:Practical Philosophy Meetup - Paris 🇫🇷
+LOCATION:
+DESCRIPTION:Practical Philosophy Club - Paris\n\nPractical Philosophy Club - Paris 🇫🇷\nBonjour à tous.tes ! Je m'appelle Emma\, je suis l'organisatrice Practical Philosophy Paris :)\n\nPractical Philosophy est un mouvement né au Mexique et qui est présent partout dans le monde aujourd'hui. J'ai découvert Practical Philosophy au Canada et j'ai tellement aimé que j'ai décidé de l'importer à Paris (il y a aussi une branche à Lyon si vous n'êtes pas de la région).\n\n**🏛️ C’EST QUOI\, LA PRACTICAL PHILOSOPHY ?**\n\nPractical philosophy\, c’est un rendez-vous hebdomadaire où des esprits curieux se retrouvent pour creuser un sujet\, affûter leur façon de s’exprimer et tisser des liens. Pas besoin d’être un pro de la philo pour participer\, tout le monde est le bienvenu ! 😎\n\nL’idée\, c’est que la philosophie\, ce n’est pas juste pour les profs d’université. …\n\nLien : https://www.meetup.com/practical-philosophy-paris/events/313982013/
+URL:https://www.meetup.com/practical-philosophy-paris/events/313982013/
+END:VEVENT
+BEGIN:VEVENT
+UID:859455ba0bdac7cb73f4396ef8608b11@conferences
+DTSTAMP:20261124T201233Z
+DTSTART:20270106T180000Z
+DTEND:20270106T200000Z
+SUMMARY:Practical Philosophy Meetup - Paris 🇫🇷
+LOCATION:
+DESCRIPTION:Practical Philosophy Club - Paris\n\nPractical Philosophy Club - Paris 🇫🇷\nBonjour à tous.tes ! Je m'appelle Emma\, je suis l'organisatrice Practical Philosophy Paris :)\n\nPractical Philosophy est un mouvement né au Mexique et qui est présent partout dans le monde aujourd'hui. J'ai découvert Practical Philosophy au Canada et j'ai tellement aimé que j'ai décidé de l'importer à Paris (il y a aussi une branche à Lyon si vous n'êtes pas de la région).\n\n**🏛️ C’EST QUOI\, LA PRACTICAL PHILOSOPHY ?**\n\nPractical philosophy\, c’est un rendez-vous hebdomadaire où des esprits curieux se retrouvent pour creuser un sujet\, affûter leur façon de s’exprimer et tisser des liens. Pas besoin d’être un pro de la philo pour participer\, tout le monde est le bienvenu ! 😎\n\nL’idée\, c’est que la philosophie\, ce n’est pas juste pour les profs d’université. …\n\nLien : https://www.meetup.com/practical-philosophy-paris/events/317186373/
+URL:https://www.meetup.com/practical-philosophy-paris/events/317186373/
+END:VEVENT
+BEGIN:VEVENT
+UID:90708c6be9a79424fd555e9298adfe10@conferences
+DTSTAMP:20261124T201233Z
+DTSTART:20270113T180000Z
+DTEND:20270113T200000Z
+SUMMARY:Practical Philosophy Meetup - Paris 🇫🇷
+LOCATION:
+DESCRIPTION:Practical Philosophy Club - Paris\n\nPractical Philosophy Club - Paris 🇫🇷\nBonjour à tous.tes ! Je m'appelle Emma\, je suis l'organisatrice Practical Philosophy Paris :)\n\nPractical Philosophy est un mouvement né au Mexique et qui est présent partout dans le monde aujourd'hui. J'ai découvert Practical Philosophy au Canada et j'ai tellement aimé que j'ai décidé de l'importer à Paris (il y a aussi une branche à Lyon si vous n'êtes pas de la région).\n\n**🏛️ C’EST QUOI\, LA PRACTICAL PHILOSOPHY ?**\n\nPractical philosophy\, c’est un rendez-vous hebdomadaire où des esprits curieux se retrouvent pour creuser un sujet\, affûter leur façon de s’exprimer et tisser des liens. Pas besoin d’être un pro de la philo pour participer\, tout le monde est le bienvenu ! 😎\n\nL’idée\, c’est que la philosophie\, ce n’est pas juste pour les profs d’université. …\n\nLien : https://www.meetup.com/practical-philosophy-paris/events/317285923/
+URL:https://www.meetup.com/practical-philosophy-paris/events/317285923/
+END:VEVENT
+BEGIN:VEVENT
+UID:6e2f06bff9da718dfc29574404c5e6c5@conferences
+DTSTAMP:20261124T201233Z
+DTSTART:20270120T180000Z
+DTEND:20270120T200000Z
+SUMMARY:Practical Philosophy Meetup - Paris 🇫🇷
+LOCATION:
+DESCRIPTION:Practical Philosophy Club - Paris\n\nPractical Philosophy Club - Paris 🇫🇷\nBonjour à tous.tes ! Je m'appelle Emma\, je suis l'organisatrice Practical Philosophy Paris :)\n\nPractical Philosophy est un mouvement né au Mexique et qui est présent partout dans le monde aujourd'hui. J'ai découvert Practical Philosophy au Canada et j'ai tellement aimé que j'ai décidé de l'importer à Paris (il y a aussi une branche à Lyon si vous n'êtes pas de la région).\n\n**🏛️ C’EST QUOI\, LA PRACTICAL PHILOSOPHY ?**\n\nPractical philosophy\, c’est un rendez-vous hebdomadaire où des esprits curieux se retrouvent pour creuser un sujet\, affûter leur façon de s’exprimer et tisser des liens. Pas besoin d’être un pro de la philo pour participer\, tout le monde est le bienvenu ! 😎\n\nL’idée\, c’est que la philosophie\, ce n’est pas juste pour les profs d’université. …\n\nLien : https://www.meetup.com/practical-philosophy-paris/events/317285927/
+URL:https://www.meetup.com/practical-philosophy-paris/events/317285927/
+END:VEVENT
+BEGIN:VEVENT
+UID:4888656ba35340cedcbdcc4b9786b2d2@conferences
+DTSTAMP:20261124T201233Z
+DTSTART:20270127T180000Z
+DTEND:20270127T200000Z
+SUMMARY:Practical Philosophy Meetup - Paris 🇫🇷
+LOCATION:
+DESCRIPTION:Practical Philosophy Club - Paris\n\nPractical Philosophy Club - Paris 🇫🇷\nBonjour à tous.tes ! Je m'appelle Emma\, je suis l'organisatrice Practical Philosophy Paris :)\n\nPractical Philosophy est un mouvement né au Mexique et qui est présent partout dans le monde aujourd'hui. J'ai découvert Practical Philosophy au Canada et j'ai tellement aimé que j'ai décidé de l'importer à Paris (il y a aussi une branche à Lyon si vous n'êtes pas de la région).\n\n**🏛️ C’EST QUOI\, LA PRACTICAL PHILOSOPHY ?**\n\nPractical philosophy\, c’est un rendez-vous hebdomadaire où des esprits curieux se retrouvent pour creuser un sujet\, affûter leur façon de s’exprimer et tisser des liens. Pas besoin d’être un pro de la philo pour participer\, tout le monde est le bienvenu ! 😎\n\nL’idée\, c’est que la philosophie\, ce n’est pas juste pour les profs d’université. …\n\nLien : https://www.meetup.com/practical-philosophy-paris/events/317285930/
+URL:https://www.meetup.com/practical-philosophy-paris/events/317285930/
+END:VEVENT
+BEGIN:VEVENT
+UID:a79fd7c83284fdb65668e3b69c572f44@conferences
+DTSTAMP:20261124T201233Z
+DTSTART:20270203T180000Z
+DTEND:20270203T200000Z
+SUMMARY:Practical Philosophy Meetup - Paris 🇫🇷
+LOCATION:
+DESCRIPTION:Practical Philosophy Club - Paris\n\nPractical Philosophy Club - Paris 🇫🇷\nBonjour à tous.tes ! Je m'appelle Emma\, je suis l'organisatrice Practical Philosophy Paris :)\n\nPractical Philosophy est un mouvement né au Mexique et qui est présent partout dans le monde aujourd'hui. J'ai découvert Practical Philosophy au Canada et j'ai tellement aimé que j'ai décidé de l'importer à Paris (il y a aussi une branche à Lyon si vous n'êtes pas de la région).\n\n**🏛️ C’EST QUOI\, LA PRACTICAL PHILOSOPHY ?**\n\nPractical philosophy\, c’est un rendez-vous hebdomadaire où des esprits curieux se retrouvent pour creuser un sujet\, affûter leur façon de s’exprimer et tisser des liens. Pas besoin d’être un pro de la philo pour participer\, tout le monde est le bienvenu ! 😎\n\nL’idée\, c’est que la philosophie\, ce n’est pas juste pour les profs d’université. …\n\nLien : https://www.meetup.com/practical-philosophy-paris/events/317285932/
+URL:https://www.meetup.com/practical-philosophy-paris/events/317285932/
+END:VEVENT
+BEGIN:VEVENT
+UID:906857fe595ecc04f2e57ac406bf16f2@conferences
+DTSTAMP:20261124T201233Z
+DTSTART:20270210T180000Z
+DTEND:20270210T200000Z
+SUMMARY:Practical Philosophy Meetup - Paris 🇫🇷
+LOCATION:
+DESCRIPTION:Practical Philosophy Club - Paris\n\nPractical Philosophy Club - Paris 🇫🇷\nBonjour à tous.tes ! Je m'appelle Emma\, je suis l'organisatrice Practical Philosophy Paris :)\n\nPractical Philosophy est un mouvement né au Mexique et qui est présent partout dans le monde aujourd'hui. J'ai découvert Practical Philosophy au Canada et j'ai tellement aimé que j'ai décidé de l'importer à Paris (il y a aussi une branche à Lyon si vous n'êtes pas de la région).\n\n**🏛️ C’EST QUOI\, LA PRACTICAL PHILOSOPHY ?**\n\nPractical philosophy\, c’est un rendez-vous hebdomadaire où des esprits curieux se retrouvent pour creuser un sujet\, affûter leur façon de s’exprimer et tisser des liens. Pas besoin d’être un pro de la philo pour participer\, tout le monde est le bienvenu ! 😎\n\nL’idée\, c’est que la philosophie\, ce n’est pas juste pour les profs d’université. …\n\nLien : https://www.meetup.com/practical-philosophy-paris/events/317285933/
+URL:https://www.meetup.com/practical-philosophy-paris/events/317285933/
+END:VEVENT
+END:VCALENDAR

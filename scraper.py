@@ -758,6 +758,86 @@ def colloquium_dec():
     return sorted(events.values(), key=lambda e: e["start"])
 
 
+# ---------- Calendriers perso (cafés philo, danse…) ----------
+# Fichier JSON : {"flux": [...], "evenements": [...]}
+#  - flux : {"nom": "…", "ical": "https://www.meetup.com/<groupe>/events/ical/"} -> dates récupérées chaque nuit
+#  - evenements : {"titre", "lieu", "debut": "19:00", "fin": "21:00", "lien", "note", "a_confirmer": true,
+#                  et soit "dates": ["2026-12-03", …], soit "chaque": "dimanche" (+ "jusqu_au": "2027-06-30")}
+#    Sans "debut", l'événement dure toute la journée.
+
+def ical_val(v):
+    return v.replace("\\n", "\n").replace("\\N", "\n").replace("\\,", ",").replace("\\;", ";").replace("\\\\", "\\")
+
+
+def ical_dt(cle, val):
+    if val.endswith("Z"):
+        return datetime.strptime(val, "%Y%m%dT%H%M%SZ").replace(tzinfo=timezone.utc).astimezone(PARIS)
+    tz = re.search(r"TZID=([^;:]+)", cle)
+    return datetime.strptime(val[:15], "%Y%m%dT%H%M%S").replace(tzinfo=ZoneInfo(tz.group(1)) if tz else PARIS)
+
+
+def lire_ical(url, nom):
+    texte = requests.get(url, headers=HEADERS, timeout=30).content.decode("utf-8", errors="replace")
+    texte = re.sub(r"\r?\n[ \t]", "", texte)  # lignes repliées
+    events = []
+    for bloc in texte.split("BEGIN:VEVENT")[1:]:
+        c = {}
+        for ligne in bloc.splitlines():
+            if ":" in ligne:
+                cle, val = ligne.split(":", 1)
+                c.setdefault(cle.split(";")[0], (cle, val))
+        if "DTSTART" not in c or c.get("STATUS", ("", ""))[1] == "CANCELLED":
+            continue
+        start = ical_dt(*c["DTSTART"])
+        end = ical_dt(*c["DTEND"]) if "DTEND" in c else start + timedelta(hours=2)
+        lien = c.get("URL", ("", ""))[1]
+        desc = ical_val(c.get("DESCRIPTION", ("", ""))[1])
+        if len(desc) > 800:
+            desc = desc[:800] + "…"
+        events.append({"title": ical_val(c.get("SUMMARY", ("", nom))[1]), "start": start, "end": end,
+                       "all_day": False, "place": ical_val(c.get("LOCATION", ("", ""))[1]),
+                       "description": "\n\n".join(x for x in [nom, desc, f"Lien : {lien}" if lien else ""] if x),
+                       "url": lien or url})
+    return events
+
+
+def calendrier_perso(fichier):
+    with open(fichier, encoding="utf-8") as f:
+        data = json.load(f)
+    events = []
+    for flux in data.get("flux", []):
+        try:
+            events += lire_ical(flux["ical"], flux["nom"])
+        except Exception as exc:  # un flux en panne ne bloque pas le reste
+            print(f"ERREUR flux {flux['nom']}: {exc}", file=sys.stderr)
+    aujourdhui = datetime.now(PARIS).replace(hour=0, minute=0, second=0, microsecond=0, tzinfo=None)
+    for ev in data.get("evenements", []):
+        if "dates" in ev:
+            jours = [datetime.fromisoformat(d) for d in ev["dates"]]
+        else:
+            fin = datetime.fromisoformat(ev["jusqu_au"]) if ev.get("jusqu_au") else aujourdhui + timedelta(days=90)
+            j = aujourdhui + timedelta(days=(JOURS_FR.index(ev["chaque"].lower()) - aujourdhui.weekday()) % 7)
+            jours = []
+            while j <= fin:
+                jours.append(j)
+                j += timedelta(days=7)
+        lien = ev.get("lien", "")
+        url = lien or "https://github.com/Futgend/conferences-calendrier#" + hashlib.md5(ev["titre"].encode()).hexdigest()[:8]
+        desc = "\n".join(x for x in ["À CONFIRMER" if ev.get("a_confirmer") else "", ev.get("note", ""),
+                                      f"Lien : {lien}" if lien else ""] if x)
+        for j in jours:
+            if ev.get("debut"):
+                start = j.replace(hour=int(ev["debut"][:2]), minute=int(ev["debut"][3:5]), tzinfo=PARIS)
+                fin_h = ev.get("fin") or f"{(start.hour + 2) % 24:02d}:{start.minute:02d}"
+                end = j.replace(hour=int(fin_h[:2]), minute=int(fin_h[3:5]), tzinfo=PARIS)
+                all_day = False
+            else:
+                start, end, all_day = j, j + timedelta(days=1), True
+            events.append({"title": ev["titre"], "start": start, "end": end, "all_day": all_day,
+                           "place": ev.get("lieu", ""), "description": desc, "url": url})
+    return sorted(events, key=lambda e: e["start"].replace(tzinfo=None) if e["all_day"] else e["start"].astimezone(PARIS).replace(tzinfo=None))
+
+
 # Une entrée par institution : nom du fichier -> (nom du calendrier, fonction)
 SOURCES = {
     "college-de-france": ("Conférences Collège de France", college_de_france),
@@ -767,6 +847,7 @@ SOURCES = {
     "ihpst": ("Conférences IHPST", ihpst),
     "enseignements-ehess": ("Enseignements EHESS sciences cognitives", enseignements_ehess),
     "colloquium-dec": ("Colloquium DEC (ENS)", colloquium_dec),
+    "cafes-philo": ("Cafés philo", lambda: calendrier_perso("cafes-philo.json")),
 }
 # Anciens noms de fichier (aucun pour le moment)
 LEGACY = {}

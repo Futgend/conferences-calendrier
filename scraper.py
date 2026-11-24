@@ -845,11 +845,27 @@ def lire_wix_events(flux):
     for m in WIX_EVENT_RE.finditer(texte):
         lien = f"{base}/event-details/{m['slug']}"
         lieu = ", ".join(x for x in [js(m["lieu"]), js(m["adr"])] if x)
-        events[lien] = {"title": js(m["titre"]), "start": parse_dt(m["debut"]), "end": parse_dt(m["fin"]),
-                        "all_day": False, "place": lieu,
-                        "description": "\n\n".join(x for x in [flux["nom"], js(m["desc"]), f"Lien : {lien}"] if x),
+        titre, desc, start, end = js(m["titre"]), js(m["desc"]), parse_dt(m["debut"]), parse_dt(m["fin"])
+        note = ""
+        if flux.get("cours"):  # ne garder que le créneau des cours, pas la soirée
+            start, end, note = horaire_cours(desc, start)
+            titre += " · cours"
+        events[lien] = {"title": titre, "start": start, "end": end, "all_day": False, "place": lieu,
+                        "description": "\n\n".join(x for x in [note, flux["nom"], desc, f"Lien : {lien}"] if x),
                         "url": lien}
     return list(events.values())
+
+
+def horaire_cours(desc, debut_soiree):
+    """Créneau des cours d'après le texte (« cours de 19h à 20h », « cours débutant à 19h30 »),
+    sinon 1 h à partir du début de la soirée, marqué à confirmer."""
+    a_h = lambda h, mi: debut_soiree.replace(hour=int(h), minute=int(mi or 0))
+    m = re.search(r"[Cc]ours[^.\n]*?(\d{1,2})\s*h\s*(\d{2})?\s*(?:à|-|–)\s*(\d{1,2})\s*h\s*(\d{2})?", desc)
+    if m:
+        return a_h(m[1], m[2]), a_h(m[3], m[4]), ""
+    m = re.search(r"[Cc]ours[^.\n]*?\bà\s*(\d{1,2})\s*h\s*(\d{2})?", desc)
+    debut = a_h(m[1], m[2]) if m else debut_soiree
+    return debut, debut + timedelta(hours=1), "HORAIRE DU COURS À CONFIRMER (fin du cours non indiquée : 1 h par défaut)."
 
 
 def calendrier_perso(fichier):

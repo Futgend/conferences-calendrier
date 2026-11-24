@@ -1,15 +1,32 @@
 {
   "flux": [
-    {"nom": "Rock 4 You · soirées rock", "type": "wix", "url": "https://www.rock4you.dance/soirees-rock-paris"}
+    {
+      "nom": "Rock 4 You · soirées rock",
+      "type": "wix",
+      "url": "https://www.rock4you.dance/soirees-rock-paris",
+      "cours": true
+    }
   ],
   "evenements": [
-    {"titre": "Agua Party · soirée salsa & bachata du mardi", "chaque": "mardi", "debut": "19:00", "fin": "01:00",
-     "lieu": "Péniche Concorde Atlantique, 23 quai Anatole France, 75007 Paris",
-     "note": "Cours 19h-21h (salsa et bachata, 4 niveaux : 19h initiation et intermédiaire, 20h débutant et avancé), puis soirée DJ jusqu'à 1h. Rythme hebdomadaire d'après le site, sans liste de dates : vérifier fermetures et vacances.",
-     "lien": "https://aguapartyparis.fr/la-soiree/", "a_confirmer": true},
-    {"titre": "Agua Party · soirée bachata & salsa porto du dimanche", "chaque": "dimanche", "debut": "19:00", "fin": "00:00",
-     "lieu": "Quai de la Photo, 9 quai de la Gare, 75013 Paris",
-     "note": "Cours 19h-21h (bachata et salsa porto, 4 niveaux : 19h initiation et intermédiaire, 20h débutant et avancé), puis soirée DJ jusqu'à minuit. Rythme hebdomadaire d'après le site, sans liste de dates : vérifier fermetures et vacances.",
-     "lien": "https://aguapartyparis.fr/la-soiree-dimanche/", "a_confirmer": true}
+    {
+      "titre": "Agua Party · cours salsa & bachata du mardi",
+      "chaque": "mardi",
+      "debut": "19:00",
+      "fin": "21:00",
+      "lieu": "Péniche Concorde Atlantique, 23 quai Anatole France, 75007 Paris",
+      "note": "Cours 19h-21h (salsa et bachata, 4 niveaux : 19h initiation et intermédiaire, 20h débutant et avancé). Rythme hebdomadaire d'après le site, sans liste de dates : vérifier fermetures et vacances.",
+      "lien": "https://aguapartyparis.fr/la-soiree/",
+      "a_confirmer": true
+    },
+    {
+      "titre": "Agua Party · cours bachata & salsa porto du dimanche",
+      "chaque": "dimanche",
+      "debut": "19:00",
+      "fin": "21:00",
+      "lieu": "Quai de la Photo, 9 quai de la Gare, 75013 Paris",
+      "note": "Cours 19h-21h (bachata et salsa porto, 4 niveaux : 19h initiation et intermédiaire, 20h débutant et avancé). Rythme hebdomadaire d'après le site, sans liste de dates : vérifier fermetures et vacances.",
+      "lien": "https://aguapartyparis.fr/la-soiree-dimanche/",
+      "a_confirmer": true
+    }
   ]
 }

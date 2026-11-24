@@ -5,6 +5,16 @@
       "type": "wix",
       "url": "https://www.rock4you.dance/soirees-rock-paris",
       "cours": true
+    },
+    {
+      "nom": "Balajo · cours de rock (mercredi)",
+      "type": "dates-texte",
+      "jour": "Mercredi",
+      "url": "https://www.balajo.fr/mercredis",
+      "debut": "20:00",
+      "fin": "21:00",
+      "lieu": "Le Balajo, 9 rue de Lappe, 75011 Paris",
+      "note": "Cours de rock avec Miss Dee, débutant et intermédiaire, 20h-21h. Un mercredi par mois (dates lues sur le site)."
     }
   ],
   "evenements": [
@@ -27,6 +37,52 @@
       "note": "Cours 19h-21h (bachata et salsa porto, 4 niveaux : 19h initiation et intermédiaire, 20h débutant et avancé). Rythme hebdomadaire d'après le site, sans liste de dates : vérifier fermetures et vacances.",
       "lien": "https://aguapartyparis.fr/la-soiree-dimanche/",
       "a_confirmer": true
+    },
+    {
+      "titre": "Balajo · cours de salsa cubaine (mardi)",
+      "chaque": "mardi",
+      "debut": "19:30",
+      "fin": "21:30",
+      "lieu": "Le Balajo, 9 rue de Lappe, 75011 Paris",
+      "note": "Cours de salsa cubaine avec Carole et Herminio : débutant à 19h30, intermédiaire à 20h30. Tous les mardis d'après le site.",
+      "lien": "https://www.balajo.fr/mardis"
+    },
+    {
+      "titre": "Balajo · cours de salsa cubaine (jeudi)",
+      "chaque": "jeudi",
+      "debut": "19:30",
+      "fin": "21:30",
+      "lieu": "Le Balajo, 9 rue de Lappe, 75011 Paris",
+      "note": "Cours de salsa cubaine avec Carole et Herminio : débutant à 19h30, intermédiaire à 20h30. Tous les jeudis d'après le site.",
+      "lien": "https://www.balajo.fr/jeudis"
+    },
+    {
+      "titre": "Lunes de Mambo · cours de salsa porto On1",
+      "chaque": "lundi",
+      "debut": "19:30",
+      "fin": "20:30",
+      "lieu": "Le Cirque, 141 rue Saint-Martin, 75004 Paris (1er étage)",
+      "note": "Cours de salsa porto On1 dès 19h30 (heure de fin non indiquée : 1 h par défaut). Les dates affichées sur le site s'arrêtent en avril 2026 : vérifier que la soirée continue.",
+      "lien": "https://salsa-paris.fr/agenda/lunes-de-mambo/",
+      "a_confirmer": true
+    },
+    {
+      "titre": "Café Oz · Paris Latino, cours de salsa cubaine (jeudi)",
+      "chaque": "jeudi",
+      "debut": "20:00",
+      "fin": "21:30",
+      "lieu": "Café Oz Châtelet, Paris",
+      "note": "Cours de salsa cubaine : débutants à 20h, intermédiaires à 20h45. Entrée gratuite. Tous les jeudis d'après le site.",
+      "lien": "https://cafe-oz.com/agenda-des-soirees/"
+    },
+    {
+      "titre": "Café Oz · Salsa Sundays, cours de danse (dimanche)",
+      "chaque": "dimanche",
+      "debut": "17:30",
+      "fin": "19:00",
+      "lieu": "Café Oz Grands Boulevards, Paris",
+      "note": "Cours de danse (salsa) 17h30-19h. Entrée gratuite. Tous les dimanches d'après le site.",
+      "lien": "https://cafe-oz.com/agenda-des-soirees/"
     }
   ]
 }

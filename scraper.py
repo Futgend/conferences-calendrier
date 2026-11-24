@@ -869,6 +869,39 @@ def horaire_cours(desc, debut_soiree):
     return debut, debut + timedelta(hours=1), "HORAIRE DU COURS À CONFIRMER (fin du cours non indiquée : 1 h par défaut)."
 
 
+def lire_dates_texte(flux):
+    """Page qui liste ses prochaines dates en texte, sans année (ex. « Mercredi 9 décembre »).
+    L'année retenue est celle où la date tombe bien ce jour-là, au plus près d'aujourd'hui."""
+    r = requests.get(flux["url"], headers=HEADERS, timeout=30)
+    r.encoding = "utf-8"
+    texte = BeautifulSoup(r.text, "html.parser").get_text(" ", strip=True)
+    jour_sem = JOURS_FR.index(flux["jour"].lower())
+    aujourdhui = datetime.now(PARIS).replace(tzinfo=None)
+    events = {}
+    for m in re.finditer(rf"{flux['jour']}\s+(\d{{1,2}})(?:er)?\s+([^\W\d_]+)", texte, re.I):
+        mois = mois_abr(m[2])
+        if not mois:
+            continue
+        candidats = []
+        for an in (aujourdhui.year - 1, aujourdhui.year, aujourdhui.year + 1):
+            try:
+                d = datetime(an, mois, int(m[1]))
+            except ValueError:
+                continue
+            if d.weekday() == jour_sem:
+                candidats.append(d)
+        if not candidats:
+            continue
+        d = min(candidats, key=lambda x: abs((x - aujourdhui).days))
+        h1, m1 = map(int, flux["debut"].split(":"))
+        h2, m2 = map(int, flux["fin"].split(":"))
+        events[d] = {"title": flux["nom"], "start": d.replace(hour=h1, minute=m1, tzinfo=PARIS),
+                     "end": d.replace(hour=h2, minute=m2, tzinfo=PARIS), "all_day": False,
+                     "place": flux.get("lieu", ""), "url": flux["url"],
+                     "description": "\n".join(x for x in [flux.get("note", ""), f"Lien : {flux['url']}"] if x)}
+    return list(events.values())
+
+
 def calendrier_perso(fichier):
     with open(fichier, encoding="utf-8") as f:
         data = json.load(f)
@@ -879,6 +912,8 @@ def calendrier_perso(fichier):
                 events += lire_forum_bastille(flux)
             elif flux.get("type") == "wix":
                 events += lire_wix_events(flux)
+            elif flux.get("type") == "dates-texte":
+                events += lire_dates_texte(flux)
             else:
                 events += lire_ical(flux["ical"], flux["nom"])
         except Exception as exc:  # un flux en panne ne bloque pas le reste

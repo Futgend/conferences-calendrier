@@ -57,6 +57,15 @@
       "lien": "https://www.balajo.fr/jeudis"
     },
     {
+      "titre": "Balajo · thé dansant (lundi, sans cours)",
+      "chaque": "lundi",
+      "debut": "14:00",
+      "fin": "19:00",
+      "lieu": "Le Balajo, 9 rue de Lappe, 75011 Paris",
+      "note": "Thé dansant rétro, sans cours. Entrée 8 € avec un soft, 10 € avec un alcool, vestiaire inclus. Tous les lundis d'après le site.",
+      "lien": "https://www.balajo.fr/lundis"
+    },
+    {
       "titre": "Lunes de Mambo · cours de salsa porto On1",
       "chaque": "lundi",
       "debut": "19:30",

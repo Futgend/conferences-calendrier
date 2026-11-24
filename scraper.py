@@ -859,12 +859,13 @@ def lire_wix_events(flux):
 def horaire_cours(desc, debut_soiree):
     """Créneau des cours d'après le texte (« cours de 19h à 20h », « cours débutant à 19h30 »),
     sinon 1 h à partir du début de la soirée, marqué à confirmer."""
-    a_h = lambda h, mi: debut_soiree.replace(hour=int(h), minute=int(mi or 0))
+    a_h = lambda h, mi: debut_soiree.replace(hour=int(h) % 24, minute=int(mi or 0))
+    plausible = lambda dt: debut_soiree - timedelta(hours=1) <= dt <= debut_soiree + timedelta(hours=3)
     m = re.search(r"[Cc]ours[^.\n]*?(\d{1,2})\s*h\s*(\d{2})?\s*(?:à|-|–)\s*(\d{1,2})\s*h\s*(\d{2})?", desc)
-    if m:
+    if m and plausible(a_h(m[1], m[2])) and plausible(a_h(m[3], m[4])) and a_h(m[1], m[2]) < a_h(m[3], m[4]):
         return a_h(m[1], m[2]), a_h(m[3], m[4]), ""
-    m = re.search(r"[Cc]ours[^.\n]*?\bà\s*(\d{1,2})\s*h\s*(\d{2})?", desc)
-    debut = a_h(m[1], m[2]) if m else debut_soiree
+    m = re.search(r"[Cc]ours[^.\n]*?(?<!jusqu’)(?<!jusqu')\bà\s*(\d{1,2})\s*h\s*(\d{2})?", desc)
+    debut = a_h(m[1], m[2]) if m and plausible(a_h(m[1], m[2])) else debut_soiree
     return debut, debut + timedelta(hours=1), "HORAIRE DU COURS À CONFIRMER (fin du cours non indiquée : 1 h par défaut)."
 
 

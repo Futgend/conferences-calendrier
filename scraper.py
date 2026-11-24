@@ -829,6 +829,29 @@ def lire_forum_bastille(flux):
     return events
 
 
+WIX_EVENT_RE = re.compile(
+    r'"location":\{"name":"(?P<lieu>(?:[^"\\]|\\.)*)".*?"address":"(?P<adr>(?:[^"\\]|\\.)*)"'
+    r'.*?"startDate":"(?P<debut>[^"]+)","endDate":"(?P<fin>[^"]+)"'
+    r'.*?"title":"(?P<titre>(?:[^"\\]|\\.)*)","description":"(?P<desc>(?:[^"\\]|\\.)*)"'
+    r'.*?"slug":"(?P<slug>[^"]+)"', re.S)
+
+
+def lire_wix_events(flux):
+    """Page « événements » d'un site Wix : les données sont incluses dans le HTML."""
+    texte = requests.get(flux["url"], headers=HEADERS, timeout=30).content.decode("utf-8", errors="replace")
+    base = re.match(r"https?://[^/]+", flux["url"]).group()
+    js = lambda s: json.loads(f'"{s}"')
+    events = {}
+    for m in WIX_EVENT_RE.finditer(texte):
+        lien = f"{base}/event-details/{m['slug']}"
+        lieu = ", ".join(x for x in [js(m["lieu"]), js(m["adr"])] if x)
+        events[lien] = {"title": js(m["titre"]), "start": parse_dt(m["debut"]), "end": parse_dt(m["fin"]),
+                        "all_day": False, "place": lieu,
+                        "description": "\n\n".join(x for x in [flux["nom"], js(m["desc"]), f"Lien : {lien}"] if x),
+                        "url": lien}
+    return list(events.values())
+
+
 def calendrier_perso(fichier):
     with open(fichier, encoding="utf-8") as f:
         data = json.load(f)
@@ -837,6 +860,8 @@ def calendrier_perso(fichier):
         try:
             if flux.get("type") == "forum-bastille":
                 events += lire_forum_bastille(flux)
+            elif flux.get("type") == "wix":
+                events += lire_wix_events(flux)
             else:
                 events += lire_ical(flux["ical"], flux["nom"])
         except Exception as exc:  # un flux en panne ne bloque pas le reste
@@ -879,6 +904,7 @@ SOURCES = {
     "enseignements-ehess": ("Enseignements EHESS sciences cognitives", enseignements_ehess),
     "colloquium-dec": ("Colloquium DEC (ENS)", colloquium_dec),
     "cafes-philo": ("Cafés philo", lambda: calendrier_perso("cafes-philo.json")),
+    "danse": ("Danse", lambda: calendrier_perso("danse.json")),
 }
 # Anciens noms de fichier (aucun pour le moment)
 LEGACY = {}

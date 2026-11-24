@@ -1,0 +1,189 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//calendrier-conferences//FR
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Danse
+X-WR-TIMEZONE:Europe/Paris
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:a318738151c1ec2f01fa745d268eb0f2@conferences
+DTSTAMP:20261124T211214Z
+DTSTART:20261130T180000Z
+DTEND:20261130T233000Z
+SUMMARY:Rock That Boat
+LOCATION:Péniche Concorde Atlantique\, 23 Quai Anatole France\, 75007 Paris\, France
+DESCRIPTION:Rock 4 You · soirées rock\n\nLa soirée Rock incontournable du lundi à Paris !\n\nLien : https://www.rock4you.dance/event-details/rock-that-boat-2026-11-30-19-00
+URL:https://www.rock4you.dance/event-details/rock-that-boat-2026-11-30-19-00
+END:VEVENT
+BEGIN:VEVENT
+UID:256de2fe7cbf50a96a212042c3c70f2e@conferences
+DTSTAMP:20261124T211214Z
+DTSTART:20261207T180000Z
+DTEND:20261207T233000Z
+SUMMARY:Rock That Boat
+LOCATION:Péniche Concorde Atlantique\, 23 Quai Anatole France\, 75007 Paris\, France
+DESCRIPTION:Rock 4 You · soirées rock\n\nLa soirée Rock incontournable du lundi à Paris !\n\nLien : https://www.rock4you.dance/event-details/rock-that-boat-2026-12-07-19-00
+URL:https://www.rock4you.dance/event-details/rock-that-boat-2026-12-07-19-00
+END:VEVENT
+BEGIN:VEVENT
+UID:ae0bb8e464d6bd940ddda3c6ae6fb1e0@conferences
+DTSTAMP:20261124T211214Z
+DTSTART:20261214T180000Z
+DTEND:20261214T233000Z
+SUMMARY:Rock That Boat
+LOCATION:Péniche Concorde Atlantique\, 23 Quai Anatole France\, 75007 Paris\, France
+DESCRIPTION:Rock 4 You · soirées rock\n\nLa soirée Rock incontournable du lundi à Paris !\n\nLien : https://www.rock4you.dance/event-details/rock-that-boat-2026-12-14-19-00
+URL:https://www.rock4you.dance/event-details/rock-that-boat-2026-12-14-19-00
+END:VEVENT
+BEGIN:VEVENT
+UID:7a58a8d0f4f4dd0801b6a5a7f1712c03@conferences
+DTSTAMP:20261124T211214Z
+DTSTART:20261218T180000Z
+DTEND:20261219T010000Z
+SUMMARY:Rock That Loft n°3 — Soirée de Noël
+LOCATION:Le Tripot Régnier\, 10 Rue Mathurin Régnier\, 75015 Paris\, France
+DESCRIPTION:Rock 4 You · soirées rock\n\n🎄 Rock That Loft fête Noël à Paris 15e le vendredi 18 décembre 2026 ! Retrouvez une salle superbe de 700 m² pour une soirée rock de 19h à 2h. Cours débutant à 19h30 et inter-avancé à 19h45\, puis danse jusqu’au bout de la nuit ! 📸 Pixomath présent. Vestiaire gratuit\, softs et friandises offerts.\n\nLien : https://www.rock4you.dance/event-details/rock-that-loft-n-3
+URL:https://www.rock4you.dance/event-details/rock-that-loft-n-3
+END:VEVENT
+BEGIN:VEVENT
+UID:055bb8e413d527698d67fa30563b9404@conferences
+DTSTAMP:20261124T211214Z
+DTSTART:20261231T190000Z
+DTEND:20270101T010000Z
+SUMMARY:Nouvel An Rock 4 You
+LOCATION:Danse Cadix\, 2 Rue de Cadix\, 75015 Paris\, France
+DESCRIPTION:Rock 4 You · soirées rock\n\nVenez danser le soir du nouvel an\, échanger et déguster champagne et petits fours !\n\nLien : https://www.rock4you.dance/event-details/nouvel-an-rock-4-you-2
+URL:https://www.rock4you.dance/event-details/nouvel-an-rock-4-you-2
+END:VEVENT
+BEGIN:VEVENT
+UID:2390d1045d58edd027c59586e1c02961@conferences
+DTSTAMP:20261124T211214Z
+DTSTART:20270104T180000Z
+DTEND:20270104T233000Z
+SUMMARY:Rock That Boat
+LOCATION:Péniche Concorde Atlantique\, 23 Quai Anatole France\, 75007 Paris\, France
+DESCRIPTION:Rock 4 You · soirées rock\n\nLa soirée Rock incontournable du lundi à Paris !\n\nLien : https://www.rock4you.dance/event-details/rock-that-boat-2027-01-04-19-00
+URL:https://www.rock4you.dance/event-details/rock-that-boat-2027-01-04-19-00
+END:VEVENT
+BEGIN:VEVENT
+UID:0421c9317189cbf74b7f63017472782b@conferences
+DTSTAMP:20261124T211214Z
+DTSTART:20270111T180000Z
+DTEND:20270111T233000Z
+SUMMARY:Rock That Boat
+LOCATION:Péniche Concorde Atlantique\, 23 Quai Anatole France\, 75007 Paris\, France
+DESCRIPTION:Rock 4 You · soirées rock\n\nLa soirée Rock incontournable du lundi à Paris !\n\nLien : https://www.rock4you.dance/event-details/rock-that-boat-2027-01-11-19-00
+URL:https://www.rock4you.dance/event-details/rock-that-boat-2027-01-11-19-00
+END:VEVENT
+BEGIN:VEVENT
+UID:69e7de1b0d41e2b5f0463bbc498e0409@conferences
+DTSTAMP:20261124T211214Z
+DTSTART:20270115T180000Z
+DTEND:20270116T010000Z
+SUMMARY:Rock That Loft n°4
+LOCATION:Le Tripot Régnier\, 10 Rue Mathurin Régnier\, 75015 Paris\, France
+DESCRIPTION:Rock 4 You · soirées rock\n\nRock That Loft n°4 le vendredi 15 janvier 2027 à la Villa Régnier\, Paris 15e : 700 m² pour danser\, cours de rock 4 temps puis soirée jusqu’à 2 h.\n\nLien : https://www.rock4you.dance/event-details/rock-that-loft-n-4
+URL:https://www.rock4you.dance/event-details/rock-that-loft-n-4
+END:VEVENT
+BEGIN:VEVENT
+UID:8c23deeb8d6a431f0daafc5d7af932f7@conferences
+DTSTAMP:20261124T211214Z
+DTSTART:20270118T180000Z
+DTEND:20270118T233000Z
+SUMMARY:Rock That Boat
+LOCATION:Péniche Concorde Atlantique\, 23 Quai Anatole France\, 75007 Paris\, France
+DESCRIPTION:Rock 4 You · soirées rock\n\nLa soirée Rock incontournable du lundi à Paris !\n\nLien : https://www.rock4you.dance/event-details/rock-that-boat-2027-01-18-19-00
+URL:https://www.rock4you.dance/event-details/rock-that-boat-2027-01-18-19-00
+END:VEVENT
+BEGIN:VEVENT
+UID:35d62e0ea0d206e377ea4e27ce7764ea@conferences
+DTSTAMP:20261124T211214Z
+DTSTART:20270125T180000Z
+DTEND:20270125T233000Z
+SUMMARY:Rock That Boat
+LOCATION:Péniche Concorde Atlantique\, 23 Quai Anatole France\, 75007 Paris\, France
+DESCRIPTION:Rock 4 You · soirées rock\n\nLa soirée Rock incontournable du lundi à Paris !\n\nLien : https://www.rock4you.dance/event-details/rock-that-boat-2027-01-25-19-00
+URL:https://www.rock4you.dance/event-details/rock-that-boat-2027-01-25-19-00
+END:VEVENT
+BEGIN:VEVENT
+UID:1d57e16622629d77503d01a048b958c3@conferences
+DTSTAMP:20261124T211214Z
+DTSTART:20270130T180000Z
+DTEND:20270131T000000Z
+SUMMARY:Rock That STAPS | Soirée Rock 4 Temps
+LOCATION:Staps\, Université René Descartes Paris V\, 1 Rue Lacretelle\, 75015 Paris\, France
+DESCRIPTION:Rock 4 You · soirées rock\n\nBienvenu aux soirées Rock That STAPS ! Cours débutant et inter-avancé\, soirée Rock jusqu’à 1h et photos professionnelles dans le nouveau gymnase de 650 m² du STAPS Paris 15e.\n\nLien : https://www.rock4you.dance/event-details/rock-that-staps-soiree-rock-4-temps-2027-01-30-19-00
+URL:https://www.rock4you.dance/event-details/rock-that-staps-soiree-rock-4-temps-2027-01-30-19-00
+END:VEVENT
+BEGIN:VEVENT
+UID:114d814513ec45d7ebf2f8899bbe952b@conferences
+DTSTAMP:20261124T211214Z
+DTSTART:20270201T180000Z
+DTEND:20270201T233000Z
+SUMMARY:Rock That Boat
+LOCATION:Péniche Concorde Atlantique\, 23 Quai Anatole France\, 75007 Paris\, France
+DESCRIPTION:Rock 4 You · soirées rock\n\nLa soirée Rock incontournable du lundi à Paris !\n\nLien : https://www.rock4you.dance/event-details/rock-that-boat-2027-02-01-19-00
+URL:https://www.rock4you.dance/event-details/rock-that-boat-2027-02-01-19-00
+END:VEVENT
+BEGIN:VEVENT
+UID:4b3d5ef5dea6de4387add52c58be310d@conferences
+DTSTAMP:20261124T211214Z
+DTSTART:20270205T180000Z
+DTEND:20270206T010000Z
+SUMMARY:Rock That Loft n°5
+LOCATION:Le Tripot Régnier\, 10 Rue Mathurin Régnier\, 75015 Paris\, France
+DESCRIPTION:Rock 4 You · soirées rock\n\nRock That Loft n°5 le vendredi 5 février 2027 à la Villa Régnier\, Paris 15e : 700 m² pour danser\, cours de rock 4 temps puis soirée jusqu’à 2 h.\n\nLien : https://www.rock4you.dance/event-details/rock-that-loft-n-5
+URL:https://www.rock4you.dance/event-details/rock-that-loft-n-5
+END:VEVENT
+BEGIN:VEVENT
+UID:c2e1df1e099c1a0d459075f64923ef0d@conferences
+DTSTAMP:20261124T211214Z
+DTSTART:20270208T180000Z
+DTEND:20270208T233000Z
+SUMMARY:Rock That Boat
+LOCATION:Péniche Concorde Atlantique\, 23 Quai Anatole France\, 75007 Paris\, France
+DESCRIPTION:Rock 4 You · soirées rock\n\nLa soirée Rock incontournable du lundi à Paris !\n\nLien : https://www.rock4you.dance/event-details/rock-that-boat-2027-02-08-19-00
+URL:https://www.rock4you.dance/event-details/rock-that-boat-2027-02-08-19-00
+END:VEVENT
+BEGIN:VEVENT
+UID:9106e6fc367e33039e40549fadf55c6b@conferences
+DTSTAMP:20261124T211214Z
+DTSTART:20270215T180000Z
+DTEND:20270215T233000Z
+SUMMARY:Rock That Boat
+LOCATION:Péniche Concorde Atlantique\, 23 Quai Anatole France\, 75007 Paris\, France
+DESCRIPTION:Rock 4 You · soirées rock\n\nLa soirée Rock incontournable du lundi à Paris !\n\nLien : https://www.rock4you.dance/event-details/rock-that-boat-2027-02-15-19-00
+URL:https://www.rock4you.dance/event-details/rock-that-boat-2027-02-15-19-00
+END:VEVENT
+BEGIN:VEVENT
+UID:1a908b726760883fa9ff9029ea80da7c@conferences
+DTSTAMP:20261124T211214Z
+DTSTART:20270222T180000Z
+DTEND:20270222T233000Z
+SUMMARY:Rock That Boat
+LOCATION:Péniche Concorde Atlantique\, 23 Quai Anatole France\, 75007 Paris\, France
+DESCRIPTION:Rock 4 You · soirées rock\n\nLa soirée Rock incontournable du lundi à Paris !\n\nLien : https://www.rock4you.dance/event-details/rock-that-boat-2027-02-22-19-00
+URL:https://www.rock4you.dance/event-details/rock-that-boat-2027-02-22-19-00
+END:VEVENT
+BEGIN:VEVENT
+UID:5670e3e3b9b7018e265db7692868becb@conferences
+DTSTAMP:20261124T211214Z
+DTSTART:20270301T180000Z
+DTEND:20270301T233000Z
+SUMMARY:Rock That Boat
+LOCATION:Péniche Concorde Atlantique\, 23 Quai Anatole France\, 75007 Paris\, France
+DESCRIPTION:Rock 4 You · soirées rock\n\nLa soirée Rock incontournable du lundi à Paris !\n\nLien : https://www.rock4you.dance/event-details/rock-that-boat-2027-03-01-19-00
+URL:https://www.rock4you.dance/event-details/rock-that-boat-2027-03-01-19-00
+END:VEVENT
+BEGIN:VEVENT
+UID:3c84c28b2f249446c16bd60068129e32@conferences
+DTSTAMP:20261124T211214Z
+DTSTART:20270308T180000Z
+DTEND:20270308T233000Z
+SUMMARY:Rock That Boat
+LOCATION:Péniche Concorde Atlantique\, 23 Quai Anatole France\, 75007 Paris\, France
+DESCRIPTION:Rock 4 You · soirées rock\n\nLa soirée Rock incontournable du lundi à Paris !\n\nLien : https://www.rock4you.dance/event-details/rock-that-boat-2027-03-08-19-00
+URL:https://www.rock4you.dance/event-details/rock-that-boat-2027-03-08-19-00
+END:VEVENT
+END:VCALENDAR

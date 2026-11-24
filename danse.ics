@@ -7,8 +7,38 @@ X-WR-TIMEZONE:Europe/Paris
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
+UID:dfdc99c2026f4f1f5cc1362be6ecc357@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20260916T180000Z
+DTEND:20260916T190000Z
+SUMMARY:Balajo · cours de rock (mercredi)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Cours de rock avec Miss Dee\, débutant et intermédiaire\, 20h-21h. Un mercredi par mois (dates lues sur le site).\nLien : https://www.balajo.fr/mercredis
+URL:https://www.balajo.fr/mercredis
+END:VEVENT
+BEGIN:VEVENT
+UID:4f11a661fc6e0f10d3e425f84133b936@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261014T180000Z
+DTEND:20261014T190000Z
+SUMMARY:Balajo · cours de rock (mercredi)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Cours de rock avec Miss Dee\, débutant et intermédiaire\, 20h-21h. Un mercredi par mois (dates lues sur le site).\nLien : https://www.balajo.fr/mercredis
+URL:https://www.balajo.fr/mercredis
+END:VEVENT
+BEGIN:VEVENT
+UID:22f82941a41d7018abde6de0eb1e1af3@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261111T190000Z
+DTEND:20261111T200000Z
+SUMMARY:Balajo · cours de rock (mercredi)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Cours de rock avec Miss Dee\, débutant et intermédiaire\, 20h-21h. Un mercredi par mois (dates lues sur le site).\nLien : https://www.balajo.fr/mercredis
+URL:https://www.balajo.fr/mercredis
+END:VEVENT
+BEGIN:VEVENT
 UID:a4c616613f7ac4ba5f4bfd458f414f10@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20261124T180000Z
 DTEND:20261124T200000Z
 SUMMARY:Agua Party · cours salsa & bachata du mardi
@@ -17,8 +47,48 @@ DESCRIPTION:À CONFIRMER\nCours 19h-21h (salsa et bachata\, 4 niveaux : 19h init
 URL:https://aguapartyparis.fr/la-soiree/
 END:VEVENT
 BEGIN:VEVENT
+UID:2dbdc019080ee4660a6f4d8c0f141777@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261124T183000Z
+DTEND:20261124T203000Z
+SUMMARY:Balajo · cours de salsa cubaine (mardi)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Cours de salsa cubaine avec Carole et Herminio : débutant à 19h30\, intermédiaire à 20h30. Tous les mardis d'après le site.\nLien : https://www.balajo.fr/mardis
+URL:https://www.balajo.fr/mardis
+END:VEVENT
+BEGIN:VEVENT
+UID:4651720dc38743af4a1d039af4e4235e@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261126T183000Z
+DTEND:20261126T203000Z
+SUMMARY:Balajo · cours de salsa cubaine (jeudi)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Cours de salsa cubaine avec Carole et Herminio : débutant à 19h30\, intermédiaire à 20h30. Tous les jeudis d'après le site.\nLien : https://www.balajo.fr/jeudis
+URL:https://www.balajo.fr/jeudis
+END:VEVENT
+BEGIN:VEVENT
+UID:6d9f1f4f3c6cca500853c07bc5452141@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261126T190000Z
+DTEND:20261126T203000Z
+SUMMARY:Café Oz · Paris Latino\, cours de salsa cubaine (jeudi)
+LOCATION:Café Oz Châtelet\, Paris
+DESCRIPTION:Cours de salsa cubaine : débutants à 20h\, intermédiaires à 20h45. Entrée gratuite. Tous les jeudis d'après le site.\nLien : https://cafe-oz.com/agenda-des-soirees/
+URL:https://cafe-oz.com/agenda-des-soirees/
+END:VEVENT
+BEGIN:VEVENT
+UID:51d64d3749687bb1ab027786a7a4f44f@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261129T163000Z
+DTEND:20261129T180000Z
+SUMMARY:Café Oz · Salsa Sundays\, cours de danse (dimanche)
+LOCATION:Café Oz Grands Boulevards\, Paris
+DESCRIPTION:Cours de danse (salsa) 17h30-19h. Entrée gratuite. Tous les dimanches d'après le site.\nLien : https://cafe-oz.com/agenda-des-soirees/
+URL:https://cafe-oz.com/agenda-des-soirees/
+END:VEVENT
+BEGIN:VEVENT
 UID:1d41058c5f19b3c4fc9e1fd42e57dab8@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20261129T180000Z
 DTEND:20261129T200000Z
 SUMMARY:Agua Party · cours bachata & salsa porto du dimanche
@@ -27,8 +97,18 @@ DESCRIPTION:À CONFIRMER\nCours 19h-21h (bachata et salsa porto\, 4 niveaux : 19
 URL:https://aguapartyparis.fr/la-soiree-dimanche/
 END:VEVENT
 BEGIN:VEVENT
+UID:fac58a85c2268c660ee352c9f9e863a6@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261130T130000Z
+DTEND:20261130T180000Z
+SUMMARY:Balajo · thé dansant (lundi\, sans cours)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Thé dansant rétro\, sans cours. Entrée 8 € avec un soft\, 10 € avec un alcool\, vestiaire inclus. Tous les lundis d'après le site.\nLien : https://www.balajo.fr/lundis
+URL:https://www.balajo.fr/lundis
+END:VEVENT
+BEGIN:VEVENT
 UID:a318738151c1ec2f01fa745d268eb0f2@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20261130T180000Z
 DTEND:20261130T190000Z
 SUMMARY:Rock That Boat · cours
@@ -37,8 +117,18 @@ DESCRIPTION:HORAIRE DU COURS À CONFIRMER (fin du cours non indiquée : 1 h par 
 URL:https://www.rock4you.dance/event-details/rock-that-boat-2026-11-30-19-00
 END:VEVENT
 BEGIN:VEVENT
+UID:8a7e08ce89737592c6b97691c7bbe565@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261130T183000Z
+DTEND:20261130T193000Z
+SUMMARY:Lunes de Mambo · cours de salsa porto On1
+LOCATION:Le Cirque\, 141 rue Saint-Martin\, 75004 Paris (1er étage)
+DESCRIPTION:À CONFIRMER\nCours de salsa porto On1 dès 19h30 (heure de fin non indiquée : 1 h par défaut). Les dates affichées sur le site s'arrêtent en avril 2026 : vérifier que la soirée continue.\nLien : https://salsa-paris.fr/agenda/lunes-de-mambo/
+URL:https://salsa-paris.fr/agenda/lunes-de-mambo/
+END:VEVENT
+BEGIN:VEVENT
 UID:9654ca22cdf24b36858c1b987715ebf0@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20261201T180000Z
 DTEND:20261201T200000Z
 SUMMARY:Agua Party · cours salsa & bachata du mardi
@@ -47,8 +137,48 @@ DESCRIPTION:À CONFIRMER\nCours 19h-21h (salsa et bachata\, 4 niveaux : 19h init
 URL:https://aguapartyparis.fr/la-soiree/
 END:VEVENT
 BEGIN:VEVENT
+UID:e828ebd790319e82e8429278bf6015e7@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261201T183000Z
+DTEND:20261201T203000Z
+SUMMARY:Balajo · cours de salsa cubaine (mardi)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Cours de salsa cubaine avec Carole et Herminio : débutant à 19h30\, intermédiaire à 20h30. Tous les mardis d'après le site.\nLien : https://www.balajo.fr/mardis
+URL:https://www.balajo.fr/mardis
+END:VEVENT
+BEGIN:VEVENT
+UID:d41ef6b830720291eba8ffd8c4f073ab@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261203T183000Z
+DTEND:20261203T203000Z
+SUMMARY:Balajo · cours de salsa cubaine (jeudi)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Cours de salsa cubaine avec Carole et Herminio : débutant à 19h30\, intermédiaire à 20h30. Tous les jeudis d'après le site.\nLien : https://www.balajo.fr/jeudis
+URL:https://www.balajo.fr/jeudis
+END:VEVENT
+BEGIN:VEVENT
+UID:efaedc19cd26f0accc8b420e5340e8f5@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261203T190000Z
+DTEND:20261203T203000Z
+SUMMARY:Café Oz · Paris Latino\, cours de salsa cubaine (jeudi)
+LOCATION:Café Oz Châtelet\, Paris
+DESCRIPTION:Cours de salsa cubaine : débutants à 20h\, intermédiaires à 20h45. Entrée gratuite. Tous les jeudis d'après le site.\nLien : https://cafe-oz.com/agenda-des-soirees/
+URL:https://cafe-oz.com/agenda-des-soirees/
+END:VEVENT
+BEGIN:VEVENT
+UID:7e4aa45dca3aab732a65132c04af2b48@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261206T163000Z
+DTEND:20261206T180000Z
+SUMMARY:Café Oz · Salsa Sundays\, cours de danse (dimanche)
+LOCATION:Café Oz Grands Boulevards\, Paris
+DESCRIPTION:Cours de danse (salsa) 17h30-19h. Entrée gratuite. Tous les dimanches d'après le site.\nLien : https://cafe-oz.com/agenda-des-soirees/
+URL:https://cafe-oz.com/agenda-des-soirees/
+END:VEVENT
+BEGIN:VEVENT
 UID:e2a518ee7a8d01464f7c30296bc87050@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20261206T180000Z
 DTEND:20261206T200000Z
 SUMMARY:Agua Party · cours bachata & salsa porto du dimanche
@@ -57,8 +187,18 @@ DESCRIPTION:À CONFIRMER\nCours 19h-21h (bachata et salsa porto\, 4 niveaux : 19
 URL:https://aguapartyparis.fr/la-soiree-dimanche/
 END:VEVENT
 BEGIN:VEVENT
+UID:ae9a111e4fe3b97d4d3cea96064a3146@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261207T130000Z
+DTEND:20261207T180000Z
+SUMMARY:Balajo · thé dansant (lundi\, sans cours)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Thé dansant rétro\, sans cours. Entrée 8 € avec un soft\, 10 € avec un alcool\, vestiaire inclus. Tous les lundis d'après le site.\nLien : https://www.balajo.fr/lundis
+URL:https://www.balajo.fr/lundis
+END:VEVENT
+BEGIN:VEVENT
 UID:256de2fe7cbf50a96a212042c3c70f2e@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20261207T180000Z
 DTEND:20261207T190000Z
 SUMMARY:Rock That Boat · cours
@@ -67,8 +207,18 @@ DESCRIPTION:HORAIRE DU COURS À CONFIRMER (fin du cours non indiquée : 1 h par 
 URL:https://www.rock4you.dance/event-details/rock-that-boat-2026-12-07-19-00
 END:VEVENT
 BEGIN:VEVENT
+UID:f9e57e163de33bf008c9242573ddce52@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261207T183000Z
+DTEND:20261207T193000Z
+SUMMARY:Lunes de Mambo · cours de salsa porto On1
+LOCATION:Le Cirque\, 141 rue Saint-Martin\, 75004 Paris (1er étage)
+DESCRIPTION:À CONFIRMER\nCours de salsa porto On1 dès 19h30 (heure de fin non indiquée : 1 h par défaut). Les dates affichées sur le site s'arrêtent en avril 2026 : vérifier que la soirée continue.\nLien : https://salsa-paris.fr/agenda/lunes-de-mambo/
+URL:https://salsa-paris.fr/agenda/lunes-de-mambo/
+END:VEVENT
+BEGIN:VEVENT
 UID:d6e40735f7085382e60113f814f23832@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20261208T180000Z
 DTEND:20261208T200000Z
 SUMMARY:Agua Party · cours salsa & bachata du mardi
@@ -77,8 +227,58 @@ DESCRIPTION:À CONFIRMER\nCours 19h-21h (salsa et bachata\, 4 niveaux : 19h init
 URL:https://aguapartyparis.fr/la-soiree/
 END:VEVENT
 BEGIN:VEVENT
+UID:ace61c1823e5c12af7f25c80654e90d9@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261208T183000Z
+DTEND:20261208T203000Z
+SUMMARY:Balajo · cours de salsa cubaine (mardi)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Cours de salsa cubaine avec Carole et Herminio : débutant à 19h30\, intermédiaire à 20h30. Tous les mardis d'après le site.\nLien : https://www.balajo.fr/mardis
+URL:https://www.balajo.fr/mardis
+END:VEVENT
+BEGIN:VEVENT
+UID:1db72017afa5ccae476086f1d5895571@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261209T190000Z
+DTEND:20261209T200000Z
+SUMMARY:Balajo · cours de rock (mercredi)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Cours de rock avec Miss Dee\, débutant et intermédiaire\, 20h-21h. Un mercredi par mois (dates lues sur le site).\nLien : https://www.balajo.fr/mercredis
+URL:https://www.balajo.fr/mercredis
+END:VEVENT
+BEGIN:VEVENT
+UID:9dd66ec6c9e3c11afc4936c08ce632c0@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261210T183000Z
+DTEND:20261210T203000Z
+SUMMARY:Balajo · cours de salsa cubaine (jeudi)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Cours de salsa cubaine avec Carole et Herminio : débutant à 19h30\, intermédiaire à 20h30. Tous les jeudis d'après le site.\nLien : https://www.balajo.fr/jeudis
+URL:https://www.balajo.fr/jeudis
+END:VEVENT
+BEGIN:VEVENT
+UID:f64bf84e4859193114435eab971b9905@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261210T190000Z
+DTEND:20261210T203000Z
+SUMMARY:Café Oz · Paris Latino\, cours de salsa cubaine (jeudi)
+LOCATION:Café Oz Châtelet\, Paris
+DESCRIPTION:Cours de salsa cubaine : débutants à 20h\, intermédiaires à 20h45. Entrée gratuite. Tous les jeudis d'après le site.\nLien : https://cafe-oz.com/agenda-des-soirees/
+URL:https://cafe-oz.com/agenda-des-soirees/
+END:VEVENT
+BEGIN:VEVENT
+UID:0074b1ef215c79d0c3e63fa2f5a5253b@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261213T163000Z
+DTEND:20261213T180000Z
+SUMMARY:Café Oz · Salsa Sundays\, cours de danse (dimanche)
+LOCATION:Café Oz Grands Boulevards\, Paris
+DESCRIPTION:Cours de danse (salsa) 17h30-19h. Entrée gratuite. Tous les dimanches d'après le site.\nLien : https://cafe-oz.com/agenda-des-soirees/
+URL:https://cafe-oz.com/agenda-des-soirees/
+END:VEVENT
+BEGIN:VEVENT
 UID:7763e3d5394b6d0148a2e20ad2b58ce5@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20261213T180000Z
 DTEND:20261213T200000Z
 SUMMARY:Agua Party · cours bachata & salsa porto du dimanche
@@ -87,8 +287,18 @@ DESCRIPTION:À CONFIRMER\nCours 19h-21h (bachata et salsa porto\, 4 niveaux : 19
 URL:https://aguapartyparis.fr/la-soiree-dimanche/
 END:VEVENT
 BEGIN:VEVENT
+UID:093a5d615f9d91072af89fa36bb50224@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261214T130000Z
+DTEND:20261214T180000Z
+SUMMARY:Balajo · thé dansant (lundi\, sans cours)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Thé dansant rétro\, sans cours. Entrée 8 € avec un soft\, 10 € avec un alcool\, vestiaire inclus. Tous les lundis d'après le site.\nLien : https://www.balajo.fr/lundis
+URL:https://www.balajo.fr/lundis
+END:VEVENT
+BEGIN:VEVENT
 UID:ae0bb8e464d6bd940ddda3c6ae6fb1e0@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20261214T180000Z
 DTEND:20261214T190000Z
 SUMMARY:Rock That Boat · cours
@@ -97,8 +307,18 @@ DESCRIPTION:HORAIRE DU COURS À CONFIRMER (fin du cours non indiquée : 1 h par 
 URL:https://www.rock4you.dance/event-details/rock-that-boat-2026-12-14-19-00
 END:VEVENT
 BEGIN:VEVENT
+UID:7da1794a24654cb5d3bf98ddfdfb6c44@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261214T183000Z
+DTEND:20261214T193000Z
+SUMMARY:Lunes de Mambo · cours de salsa porto On1
+LOCATION:Le Cirque\, 141 rue Saint-Martin\, 75004 Paris (1er étage)
+DESCRIPTION:À CONFIRMER\nCours de salsa porto On1 dès 19h30 (heure de fin non indiquée : 1 h par défaut). Les dates affichées sur le site s'arrêtent en avril 2026 : vérifier que la soirée continue.\nLien : https://salsa-paris.fr/agenda/lunes-de-mambo/
+URL:https://salsa-paris.fr/agenda/lunes-de-mambo/
+END:VEVENT
+BEGIN:VEVENT
 UID:dbdf995da3d1041c6e4ddaf767c92858@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20261215T180000Z
 DTEND:20261215T200000Z
 SUMMARY:Agua Party · cours salsa & bachata du mardi
@@ -107,8 +327,38 @@ DESCRIPTION:À CONFIRMER\nCours 19h-21h (salsa et bachata\, 4 niveaux : 19h init
 URL:https://aguapartyparis.fr/la-soiree/
 END:VEVENT
 BEGIN:VEVENT
+UID:b77d4e15acfd19cbe97b308b657f97c5@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261215T183000Z
+DTEND:20261215T203000Z
+SUMMARY:Balajo · cours de salsa cubaine (mardi)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Cours de salsa cubaine avec Carole et Herminio : débutant à 19h30\, intermédiaire à 20h30. Tous les mardis d'après le site.\nLien : https://www.balajo.fr/mardis
+URL:https://www.balajo.fr/mardis
+END:VEVENT
+BEGIN:VEVENT
+UID:94182e8e522ed2f1ed70073edbcac154@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261217T183000Z
+DTEND:20261217T203000Z
+SUMMARY:Balajo · cours de salsa cubaine (jeudi)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Cours de salsa cubaine avec Carole et Herminio : débutant à 19h30\, intermédiaire à 20h30. Tous les jeudis d'après le site.\nLien : https://www.balajo.fr/jeudis
+URL:https://www.balajo.fr/jeudis
+END:VEVENT
+BEGIN:VEVENT
+UID:23e1f7f56727506236bde9905546ca5d@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261217T190000Z
+DTEND:20261217T203000Z
+SUMMARY:Café Oz · Paris Latino\, cours de salsa cubaine (jeudi)
+LOCATION:Café Oz Châtelet\, Paris
+DESCRIPTION:Cours de salsa cubaine : débutants à 20h\, intermédiaires à 20h45. Entrée gratuite. Tous les jeudis d'après le site.\nLien : https://cafe-oz.com/agenda-des-soirees/
+URL:https://cafe-oz.com/agenda-des-soirees/
+END:VEVENT
+BEGIN:VEVENT
 UID:be74e2b4a4269f0039a597a3e6dd3cad@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20261218T183000Z
 DTEND:20261218T193000Z
 SUMMARY:Rock That Loft n°3 — Soirée de Noël · cours
@@ -117,8 +367,18 @@ DESCRIPTION:HORAIRE DU COURS À CONFIRMER (fin du cours non indiquée : 1 h par 
 URL:https://www.rock4you.dance/event-details/rock-that-loft-n-3
 END:VEVENT
 BEGIN:VEVENT
+UID:5b11cfdfbb311928fb9e0304ac77dec4@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261220T163000Z
+DTEND:20261220T180000Z
+SUMMARY:Café Oz · Salsa Sundays\, cours de danse (dimanche)
+LOCATION:Café Oz Grands Boulevards\, Paris
+DESCRIPTION:Cours de danse (salsa) 17h30-19h. Entrée gratuite. Tous les dimanches d'après le site.\nLien : https://cafe-oz.com/agenda-des-soirees/
+URL:https://cafe-oz.com/agenda-des-soirees/
+END:VEVENT
+BEGIN:VEVENT
 UID:27712392a8c47a2ad126fbe3e5f5dab3@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20261220T180000Z
 DTEND:20261220T200000Z
 SUMMARY:Agua Party · cours bachata & salsa porto du dimanche
@@ -127,8 +387,28 @@ DESCRIPTION:À CONFIRMER\nCours 19h-21h (bachata et salsa porto\, 4 niveaux : 19
 URL:https://aguapartyparis.fr/la-soiree-dimanche/
 END:VEVENT
 BEGIN:VEVENT
+UID:50b723788242477558949b51afa3686e@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261221T130000Z
+DTEND:20261221T180000Z
+SUMMARY:Balajo · thé dansant (lundi\, sans cours)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Thé dansant rétro\, sans cours. Entrée 8 € avec un soft\, 10 € avec un alcool\, vestiaire inclus. Tous les lundis d'après le site.\nLien : https://www.balajo.fr/lundis
+URL:https://www.balajo.fr/lundis
+END:VEVENT
+BEGIN:VEVENT
+UID:805812305b7836eff8059fdbca012bad@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261221T183000Z
+DTEND:20261221T193000Z
+SUMMARY:Lunes de Mambo · cours de salsa porto On1
+LOCATION:Le Cirque\, 141 rue Saint-Martin\, 75004 Paris (1er étage)
+DESCRIPTION:À CONFIRMER\nCours de salsa porto On1 dès 19h30 (heure de fin non indiquée : 1 h par défaut). Les dates affichées sur le site s'arrêtent en avril 2026 : vérifier que la soirée continue.\nLien : https://salsa-paris.fr/agenda/lunes-de-mambo/
+URL:https://salsa-paris.fr/agenda/lunes-de-mambo/
+END:VEVENT
+BEGIN:VEVENT
 UID:2cd2fb3d877701cdc4ad16e3ffef3db9@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20261222T180000Z
 DTEND:20261222T200000Z
 SUMMARY:Agua Party · cours salsa & bachata du mardi
@@ -137,8 +417,48 @@ DESCRIPTION:À CONFIRMER\nCours 19h-21h (salsa et bachata\, 4 niveaux : 19h init
 URL:https://aguapartyparis.fr/la-soiree/
 END:VEVENT
 BEGIN:VEVENT
+UID:b8e4833e36b9c1ff2aeb66f0000448e6@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261222T183000Z
+DTEND:20261222T203000Z
+SUMMARY:Balajo · cours de salsa cubaine (mardi)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Cours de salsa cubaine avec Carole et Herminio : débutant à 19h30\, intermédiaire à 20h30. Tous les mardis d'après le site.\nLien : https://www.balajo.fr/mardis
+URL:https://www.balajo.fr/mardis
+END:VEVENT
+BEGIN:VEVENT
+UID:65d7df212da8e82576068cfe08b8d65b@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261224T183000Z
+DTEND:20261224T203000Z
+SUMMARY:Balajo · cours de salsa cubaine (jeudi)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Cours de salsa cubaine avec Carole et Herminio : débutant à 19h30\, intermédiaire à 20h30. Tous les jeudis d'après le site.\nLien : https://www.balajo.fr/jeudis
+URL:https://www.balajo.fr/jeudis
+END:VEVENT
+BEGIN:VEVENT
+UID:bc2ce971d60946a6420d32ee230ddd18@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261224T190000Z
+DTEND:20261224T203000Z
+SUMMARY:Café Oz · Paris Latino\, cours de salsa cubaine (jeudi)
+LOCATION:Café Oz Châtelet\, Paris
+DESCRIPTION:Cours de salsa cubaine : débutants à 20h\, intermédiaires à 20h45. Entrée gratuite. Tous les jeudis d'après le site.\nLien : https://cafe-oz.com/agenda-des-soirees/
+URL:https://cafe-oz.com/agenda-des-soirees/
+END:VEVENT
+BEGIN:VEVENT
+UID:c08e44bb917dcc62278f271a927db681@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261227T163000Z
+DTEND:20261227T180000Z
+SUMMARY:Café Oz · Salsa Sundays\, cours de danse (dimanche)
+LOCATION:Café Oz Grands Boulevards\, Paris
+DESCRIPTION:Cours de danse (salsa) 17h30-19h. Entrée gratuite. Tous les dimanches d'après le site.\nLien : https://cafe-oz.com/agenda-des-soirees/
+URL:https://cafe-oz.com/agenda-des-soirees/
+END:VEVENT
+BEGIN:VEVENT
 UID:e173aad95f340f920ffe475f85b9bb63@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20261227T180000Z
 DTEND:20261227T200000Z
 SUMMARY:Agua Party · cours bachata & salsa porto du dimanche
@@ -147,8 +467,28 @@ DESCRIPTION:À CONFIRMER\nCours 19h-21h (bachata et salsa porto\, 4 niveaux : 19
 URL:https://aguapartyparis.fr/la-soiree-dimanche/
 END:VEVENT
 BEGIN:VEVENT
+UID:235edb4a97ab996d6e25fae87bb60c6f@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261228T130000Z
+DTEND:20261228T180000Z
+SUMMARY:Balajo · thé dansant (lundi\, sans cours)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Thé dansant rétro\, sans cours. Entrée 8 € avec un soft\, 10 € avec un alcool\, vestiaire inclus. Tous les lundis d'après le site.\nLien : https://www.balajo.fr/lundis
+URL:https://www.balajo.fr/lundis
+END:VEVENT
+BEGIN:VEVENT
+UID:71e214d452d34c1dd264935dde24009d@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261228T183000Z
+DTEND:20261228T193000Z
+SUMMARY:Lunes de Mambo · cours de salsa porto On1
+LOCATION:Le Cirque\, 141 rue Saint-Martin\, 75004 Paris (1er étage)
+DESCRIPTION:À CONFIRMER\nCours de salsa porto On1 dès 19h30 (heure de fin non indiquée : 1 h par défaut). Les dates affichées sur le site s'arrêtent en avril 2026 : vérifier que la soirée continue.\nLien : https://salsa-paris.fr/agenda/lunes-de-mambo/
+URL:https://salsa-paris.fr/agenda/lunes-de-mambo/
+END:VEVENT
+BEGIN:VEVENT
 UID:bb73d52ab8ff91dc05947ce2ea4f96c9@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20261229T180000Z
 DTEND:20261229T200000Z
 SUMMARY:Agua Party · cours salsa & bachata du mardi
@@ -157,8 +497,28 @@ DESCRIPTION:À CONFIRMER\nCours 19h-21h (salsa et bachata\, 4 niveaux : 19h init
 URL:https://aguapartyparis.fr/la-soiree/
 END:VEVENT
 BEGIN:VEVENT
+UID:5abce7f5021be6e2670ad02e4089939b@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261229T183000Z
+DTEND:20261229T203000Z
+SUMMARY:Balajo · cours de salsa cubaine (mardi)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Cours de salsa cubaine avec Carole et Herminio : débutant à 19h30\, intermédiaire à 20h30. Tous les mardis d'après le site.\nLien : https://www.balajo.fr/mardis
+URL:https://www.balajo.fr/mardis
+END:VEVENT
+BEGIN:VEVENT
+UID:2d3e255feae848a5538db7b6f156fe92@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261231T183000Z
+DTEND:20261231T203000Z
+SUMMARY:Balajo · cours de salsa cubaine (jeudi)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Cours de salsa cubaine avec Carole et Herminio : débutant à 19h30\, intermédiaire à 20h30. Tous les jeudis d'après le site.\nLien : https://www.balajo.fr/jeudis
+URL:https://www.balajo.fr/jeudis
+END:VEVENT
+BEGIN:VEVENT
 UID:055bb8e413d527698d67fa30563b9404@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20261231T190000Z
 DTEND:20261231T200000Z
 SUMMARY:Nouvel An Rock 4 You · cours
@@ -167,8 +527,28 @@ DESCRIPTION:HORAIRE DU COURS À CONFIRMER (fin du cours non indiquée : 1 h par 
 URL:https://www.rock4you.dance/event-details/nouvel-an-rock-4-you-2
 END:VEVENT
 BEGIN:VEVENT
+UID:57f7faa17093e2282768317ac24464e3@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20261231T190000Z
+DTEND:20261231T203000Z
+SUMMARY:Café Oz · Paris Latino\, cours de salsa cubaine (jeudi)
+LOCATION:Café Oz Châtelet\, Paris
+DESCRIPTION:Cours de salsa cubaine : débutants à 20h\, intermédiaires à 20h45. Entrée gratuite. Tous les jeudis d'après le site.\nLien : https://cafe-oz.com/agenda-des-soirees/
+URL:https://cafe-oz.com/agenda-des-soirees/
+END:VEVENT
+BEGIN:VEVENT
+UID:5cdc0d94f79fc63d5374cb2a7472ff2c@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270103T163000Z
+DTEND:20270103T180000Z
+SUMMARY:Café Oz · Salsa Sundays\, cours de danse (dimanche)
+LOCATION:Café Oz Grands Boulevards\, Paris
+DESCRIPTION:Cours de danse (salsa) 17h30-19h. Entrée gratuite. Tous les dimanches d'après le site.\nLien : https://cafe-oz.com/agenda-des-soirees/
+URL:https://cafe-oz.com/agenda-des-soirees/
+END:VEVENT
+BEGIN:VEVENT
 UID:68d36cc0aeeb36ea59ad22edd065c9e8@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20270103T180000Z
 DTEND:20270103T200000Z
 SUMMARY:Agua Party · cours bachata & salsa porto du dimanche
@@ -177,8 +557,18 @@ DESCRIPTION:À CONFIRMER\nCours 19h-21h (bachata et salsa porto\, 4 niveaux : 19
 URL:https://aguapartyparis.fr/la-soiree-dimanche/
 END:VEVENT
 BEGIN:VEVENT
+UID:9fbc63f80b7012a4bbdee42c6582beed@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270104T130000Z
+DTEND:20270104T180000Z
+SUMMARY:Balajo · thé dansant (lundi\, sans cours)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Thé dansant rétro\, sans cours. Entrée 8 € avec un soft\, 10 € avec un alcool\, vestiaire inclus. Tous les lundis d'après le site.\nLien : https://www.balajo.fr/lundis
+URL:https://www.balajo.fr/lundis
+END:VEVENT
+BEGIN:VEVENT
 UID:2390d1045d58edd027c59586e1c02961@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20270104T180000Z
 DTEND:20270104T190000Z
 SUMMARY:Rock That Boat · cours
@@ -187,8 +577,18 @@ DESCRIPTION:HORAIRE DU COURS À CONFIRMER (fin du cours non indiquée : 1 h par 
 URL:https://www.rock4you.dance/event-details/rock-that-boat-2027-01-04-19-00
 END:VEVENT
 BEGIN:VEVENT
+UID:0e1bb61f753cc6d01b1dd68833da20cd@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270104T183000Z
+DTEND:20270104T193000Z
+SUMMARY:Lunes de Mambo · cours de salsa porto On1
+LOCATION:Le Cirque\, 141 rue Saint-Martin\, 75004 Paris (1er étage)
+DESCRIPTION:À CONFIRMER\nCours de salsa porto On1 dès 19h30 (heure de fin non indiquée : 1 h par défaut). Les dates affichées sur le site s'arrêtent en avril 2026 : vérifier que la soirée continue.\nLien : https://salsa-paris.fr/agenda/lunes-de-mambo/
+URL:https://salsa-paris.fr/agenda/lunes-de-mambo/
+END:VEVENT
+BEGIN:VEVENT
 UID:7e1970de2a20075faa2a781a44327834@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20270105T180000Z
 DTEND:20270105T200000Z
 SUMMARY:Agua Party · cours salsa & bachata du mardi
@@ -197,8 +597,48 @@ DESCRIPTION:À CONFIRMER\nCours 19h-21h (salsa et bachata\, 4 niveaux : 19h init
 URL:https://aguapartyparis.fr/la-soiree/
 END:VEVENT
 BEGIN:VEVENT
+UID:0d387dee16c58467edc533d722b3412b@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270105T183000Z
+DTEND:20270105T203000Z
+SUMMARY:Balajo · cours de salsa cubaine (mardi)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Cours de salsa cubaine avec Carole et Herminio : débutant à 19h30\, intermédiaire à 20h30. Tous les mardis d'après le site.\nLien : https://www.balajo.fr/mardis
+URL:https://www.balajo.fr/mardis
+END:VEVENT
+BEGIN:VEVENT
+UID:9b093d3828e46e705ce7bf9ecc8c876d@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270107T183000Z
+DTEND:20270107T203000Z
+SUMMARY:Balajo · cours de salsa cubaine (jeudi)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Cours de salsa cubaine avec Carole et Herminio : débutant à 19h30\, intermédiaire à 20h30. Tous les jeudis d'après le site.\nLien : https://www.balajo.fr/jeudis
+URL:https://www.balajo.fr/jeudis
+END:VEVENT
+BEGIN:VEVENT
+UID:f49b420e49328050d7d88096197ce348@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270107T190000Z
+DTEND:20270107T203000Z
+SUMMARY:Café Oz · Paris Latino\, cours de salsa cubaine (jeudi)
+LOCATION:Café Oz Châtelet\, Paris
+DESCRIPTION:Cours de salsa cubaine : débutants à 20h\, intermédiaires à 20h45. Entrée gratuite. Tous les jeudis d'après le site.\nLien : https://cafe-oz.com/agenda-des-soirees/
+URL:https://cafe-oz.com/agenda-des-soirees/
+END:VEVENT
+BEGIN:VEVENT
+UID:2560e91c12d9943dfc4daee8bf262ba7@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270110T163000Z
+DTEND:20270110T180000Z
+SUMMARY:Café Oz · Salsa Sundays\, cours de danse (dimanche)
+LOCATION:Café Oz Grands Boulevards\, Paris
+DESCRIPTION:Cours de danse (salsa) 17h30-19h. Entrée gratuite. Tous les dimanches d'après le site.\nLien : https://cafe-oz.com/agenda-des-soirees/
+URL:https://cafe-oz.com/agenda-des-soirees/
+END:VEVENT
+BEGIN:VEVENT
 UID:b4c4acd337025917a7a04601a160d3a9@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20270110T180000Z
 DTEND:20270110T200000Z
 SUMMARY:Agua Party · cours bachata & salsa porto du dimanche
@@ -207,8 +647,18 @@ DESCRIPTION:À CONFIRMER\nCours 19h-21h (bachata et salsa porto\, 4 niveaux : 19
 URL:https://aguapartyparis.fr/la-soiree-dimanche/
 END:VEVENT
 BEGIN:VEVENT
+UID:aef8831dd01a5598667ccf0d2e59a726@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270111T130000Z
+DTEND:20270111T180000Z
+SUMMARY:Balajo · thé dansant (lundi\, sans cours)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Thé dansant rétro\, sans cours. Entrée 8 € avec un soft\, 10 € avec un alcool\, vestiaire inclus. Tous les lundis d'après le site.\nLien : https://www.balajo.fr/lundis
+URL:https://www.balajo.fr/lundis
+END:VEVENT
+BEGIN:VEVENT
 UID:0421c9317189cbf74b7f63017472782b@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20270111T180000Z
 DTEND:20270111T190000Z
 SUMMARY:Rock That Boat · cours
@@ -217,8 +667,18 @@ DESCRIPTION:HORAIRE DU COURS À CONFIRMER (fin du cours non indiquée : 1 h par 
 URL:https://www.rock4you.dance/event-details/rock-that-boat-2027-01-11-19-00
 END:VEVENT
 BEGIN:VEVENT
+UID:eac902c320b0ef09e2bdc241bd5be141@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270111T183000Z
+DTEND:20270111T193000Z
+SUMMARY:Lunes de Mambo · cours de salsa porto On1
+LOCATION:Le Cirque\, 141 rue Saint-Martin\, 75004 Paris (1er étage)
+DESCRIPTION:À CONFIRMER\nCours de salsa porto On1 dès 19h30 (heure de fin non indiquée : 1 h par défaut). Les dates affichées sur le site s'arrêtent en avril 2026 : vérifier que la soirée continue.\nLien : https://salsa-paris.fr/agenda/lunes-de-mambo/
+URL:https://salsa-paris.fr/agenda/lunes-de-mambo/
+END:VEVENT
+BEGIN:VEVENT
 UID:a5b6c5b042fd4e7a3692f6de715852d9@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20270112T180000Z
 DTEND:20270112T200000Z
 SUMMARY:Agua Party · cours salsa & bachata du mardi
@@ -227,8 +687,38 @@ DESCRIPTION:À CONFIRMER\nCours 19h-21h (salsa et bachata\, 4 niveaux : 19h init
 URL:https://aguapartyparis.fr/la-soiree/
 END:VEVENT
 BEGIN:VEVENT
+UID:8c250bd8d36db97d5a49c630a762c214@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270112T183000Z
+DTEND:20270112T203000Z
+SUMMARY:Balajo · cours de salsa cubaine (mardi)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Cours de salsa cubaine avec Carole et Herminio : débutant à 19h30\, intermédiaire à 20h30. Tous les mardis d'après le site.\nLien : https://www.balajo.fr/mardis
+URL:https://www.balajo.fr/mardis
+END:VEVENT
+BEGIN:VEVENT
+UID:9fa8d9c4458760772ac20050fed710fd@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270114T183000Z
+DTEND:20270114T203000Z
+SUMMARY:Balajo · cours de salsa cubaine (jeudi)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Cours de salsa cubaine avec Carole et Herminio : débutant à 19h30\, intermédiaire à 20h30. Tous les jeudis d'après le site.\nLien : https://www.balajo.fr/jeudis
+URL:https://www.balajo.fr/jeudis
+END:VEVENT
+BEGIN:VEVENT
+UID:89c14cf1ddefadd8a4ae776fa1098d8f@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270114T190000Z
+DTEND:20270114T203000Z
+SUMMARY:Café Oz · Paris Latino\, cours de salsa cubaine (jeudi)
+LOCATION:Café Oz Châtelet\, Paris
+DESCRIPTION:Cours de salsa cubaine : débutants à 20h\, intermédiaires à 20h45. Entrée gratuite. Tous les jeudis d'après le site.\nLien : https://cafe-oz.com/agenda-des-soirees/
+URL:https://cafe-oz.com/agenda-des-soirees/
+END:VEVENT
+BEGIN:VEVENT
 UID:69e7de1b0d41e2b5f0463bbc498e0409@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20270115T180000Z
 DTEND:20270115T190000Z
 SUMMARY:Rock That Loft n°4 · cours
@@ -237,8 +727,18 @@ DESCRIPTION:HORAIRE DU COURS À CONFIRMER (fin du cours non indiquée : 1 h par 
 URL:https://www.rock4you.dance/event-details/rock-that-loft-n-4
 END:VEVENT
 BEGIN:VEVENT
+UID:18bd767d7619223e9724f0794f04b33e@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270117T163000Z
+DTEND:20270117T180000Z
+SUMMARY:Café Oz · Salsa Sundays\, cours de danse (dimanche)
+LOCATION:Café Oz Grands Boulevards\, Paris
+DESCRIPTION:Cours de danse (salsa) 17h30-19h. Entrée gratuite. Tous les dimanches d'après le site.\nLien : https://cafe-oz.com/agenda-des-soirees/
+URL:https://cafe-oz.com/agenda-des-soirees/
+END:VEVENT
+BEGIN:VEVENT
 UID:2b6f9d03ff9ce16b27865b7a4dca205b@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20270117T180000Z
 DTEND:20270117T200000Z
 SUMMARY:Agua Party · cours bachata & salsa porto du dimanche
@@ -247,8 +747,18 @@ DESCRIPTION:À CONFIRMER\nCours 19h-21h (bachata et salsa porto\, 4 niveaux : 19
 URL:https://aguapartyparis.fr/la-soiree-dimanche/
 END:VEVENT
 BEGIN:VEVENT
+UID:0219f66d7c130c644df5b9adfaff6767@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270118T130000Z
+DTEND:20270118T180000Z
+SUMMARY:Balajo · thé dansant (lundi\, sans cours)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Thé dansant rétro\, sans cours. Entrée 8 € avec un soft\, 10 € avec un alcool\, vestiaire inclus. Tous les lundis d'après le site.\nLien : https://www.balajo.fr/lundis
+URL:https://www.balajo.fr/lundis
+END:VEVENT
+BEGIN:VEVENT
 UID:8c23deeb8d6a431f0daafc5d7af932f7@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20270118T180000Z
 DTEND:20270118T190000Z
 SUMMARY:Rock That Boat · cours
@@ -257,8 +767,18 @@ DESCRIPTION:HORAIRE DU COURS À CONFIRMER (fin du cours non indiquée : 1 h par 
 URL:https://www.rock4you.dance/event-details/rock-that-boat-2027-01-18-19-00
 END:VEVENT
 BEGIN:VEVENT
+UID:4285d73389be53d9894cbd7235326253@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270118T183000Z
+DTEND:20270118T193000Z
+SUMMARY:Lunes de Mambo · cours de salsa porto On1
+LOCATION:Le Cirque\, 141 rue Saint-Martin\, 75004 Paris (1er étage)
+DESCRIPTION:À CONFIRMER\nCours de salsa porto On1 dès 19h30 (heure de fin non indiquée : 1 h par défaut). Les dates affichées sur le site s'arrêtent en avril 2026 : vérifier que la soirée continue.\nLien : https://salsa-paris.fr/agenda/lunes-de-mambo/
+URL:https://salsa-paris.fr/agenda/lunes-de-mambo/
+END:VEVENT
+BEGIN:VEVENT
 UID:feefcb967928776d79db6e3113770673@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20270119T180000Z
 DTEND:20270119T200000Z
 SUMMARY:Agua Party · cours salsa & bachata du mardi
@@ -267,8 +787,48 @@ DESCRIPTION:À CONFIRMER\nCours 19h-21h (salsa et bachata\, 4 niveaux : 19h init
 URL:https://aguapartyparis.fr/la-soiree/
 END:VEVENT
 BEGIN:VEVENT
+UID:41f7eba3c7aac21a0f9c13eadc6092da@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270119T183000Z
+DTEND:20270119T203000Z
+SUMMARY:Balajo · cours de salsa cubaine (mardi)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Cours de salsa cubaine avec Carole et Herminio : débutant à 19h30\, intermédiaire à 20h30. Tous les mardis d'après le site.\nLien : https://www.balajo.fr/mardis
+URL:https://www.balajo.fr/mardis
+END:VEVENT
+BEGIN:VEVENT
+UID:630e019125954ce62f7f06500e950011@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270121T183000Z
+DTEND:20270121T203000Z
+SUMMARY:Balajo · cours de salsa cubaine (jeudi)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Cours de salsa cubaine avec Carole et Herminio : débutant à 19h30\, intermédiaire à 20h30. Tous les jeudis d'après le site.\nLien : https://www.balajo.fr/jeudis
+URL:https://www.balajo.fr/jeudis
+END:VEVENT
+BEGIN:VEVENT
+UID:9463ebde0f843b6ddc62d0bc60ee7863@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270121T190000Z
+DTEND:20270121T203000Z
+SUMMARY:Café Oz · Paris Latino\, cours de salsa cubaine (jeudi)
+LOCATION:Café Oz Châtelet\, Paris
+DESCRIPTION:Cours de salsa cubaine : débutants à 20h\, intermédiaires à 20h45. Entrée gratuite. Tous les jeudis d'après le site.\nLien : https://cafe-oz.com/agenda-des-soirees/
+URL:https://cafe-oz.com/agenda-des-soirees/
+END:VEVENT
+BEGIN:VEVENT
+UID:108ff4c910702cb79eb0ae4cdcffaea5@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270124T163000Z
+DTEND:20270124T180000Z
+SUMMARY:Café Oz · Salsa Sundays\, cours de danse (dimanche)
+LOCATION:Café Oz Grands Boulevards\, Paris
+DESCRIPTION:Cours de danse (salsa) 17h30-19h. Entrée gratuite. Tous les dimanches d'après le site.\nLien : https://cafe-oz.com/agenda-des-soirees/
+URL:https://cafe-oz.com/agenda-des-soirees/
+END:VEVENT
+BEGIN:VEVENT
 UID:f6cbc95e84d40711304e3c58f9687f8b@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20270124T180000Z
 DTEND:20270124T200000Z
 SUMMARY:Agua Party · cours bachata & salsa porto du dimanche
@@ -277,8 +837,18 @@ DESCRIPTION:À CONFIRMER\nCours 19h-21h (bachata et salsa porto\, 4 niveaux : 19
 URL:https://aguapartyparis.fr/la-soiree-dimanche/
 END:VEVENT
 BEGIN:VEVENT
+UID:c4c9313f749526df7e91b620751574cc@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270125T130000Z
+DTEND:20270125T180000Z
+SUMMARY:Balajo · thé dansant (lundi\, sans cours)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Thé dansant rétro\, sans cours. Entrée 8 € avec un soft\, 10 € avec un alcool\, vestiaire inclus. Tous les lundis d'après le site.\nLien : https://www.balajo.fr/lundis
+URL:https://www.balajo.fr/lundis
+END:VEVENT
+BEGIN:VEVENT
 UID:35d62e0ea0d206e377ea4e27ce7764ea@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20270125T180000Z
 DTEND:20270125T190000Z
 SUMMARY:Rock That Boat · cours
@@ -287,8 +857,18 @@ DESCRIPTION:HORAIRE DU COURS À CONFIRMER (fin du cours non indiquée : 1 h par 
 URL:https://www.rock4you.dance/event-details/rock-that-boat-2027-01-25-19-00
 END:VEVENT
 BEGIN:VEVENT
+UID:8c7b698c9dcd2425f20b6e0990d41744@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270125T183000Z
+DTEND:20270125T193000Z
+SUMMARY:Lunes de Mambo · cours de salsa porto On1
+LOCATION:Le Cirque\, 141 rue Saint-Martin\, 75004 Paris (1er étage)
+DESCRIPTION:À CONFIRMER\nCours de salsa porto On1 dès 19h30 (heure de fin non indiquée : 1 h par défaut). Les dates affichées sur le site s'arrêtent en avril 2026 : vérifier que la soirée continue.\nLien : https://salsa-paris.fr/agenda/lunes-de-mambo/
+URL:https://salsa-paris.fr/agenda/lunes-de-mambo/
+END:VEVENT
+BEGIN:VEVENT
 UID:6be9c13aedc72ac630b761ddbc2cc218@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20270126T180000Z
 DTEND:20270126T200000Z
 SUMMARY:Agua Party · cours salsa & bachata du mardi
@@ -297,8 +877,38 @@ DESCRIPTION:À CONFIRMER\nCours 19h-21h (salsa et bachata\, 4 niveaux : 19h init
 URL:https://aguapartyparis.fr/la-soiree/
 END:VEVENT
 BEGIN:VEVENT
+UID:e23adb0d9dbdccb41f4e5de8e083a626@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270126T183000Z
+DTEND:20270126T203000Z
+SUMMARY:Balajo · cours de salsa cubaine (mardi)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Cours de salsa cubaine avec Carole et Herminio : débutant à 19h30\, intermédiaire à 20h30. Tous les mardis d'après le site.\nLien : https://www.balajo.fr/mardis
+URL:https://www.balajo.fr/mardis
+END:VEVENT
+BEGIN:VEVENT
+UID:09a74fc182dfbd44cceacb0009007b5f@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270128T183000Z
+DTEND:20270128T203000Z
+SUMMARY:Balajo · cours de salsa cubaine (jeudi)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Cours de salsa cubaine avec Carole et Herminio : débutant à 19h30\, intermédiaire à 20h30. Tous les jeudis d'après le site.\nLien : https://www.balajo.fr/jeudis
+URL:https://www.balajo.fr/jeudis
+END:VEVENT
+BEGIN:VEVENT
+UID:b9116c67b96f20ddb5b89085ef55c800@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270128T190000Z
+DTEND:20270128T203000Z
+SUMMARY:Café Oz · Paris Latino\, cours de salsa cubaine (jeudi)
+LOCATION:Café Oz Châtelet\, Paris
+DESCRIPTION:Cours de salsa cubaine : débutants à 20h\, intermédiaires à 20h45. Entrée gratuite. Tous les jeudis d'après le site.\nLien : https://cafe-oz.com/agenda-des-soirees/
+URL:https://cafe-oz.com/agenda-des-soirees/
+END:VEVENT
+BEGIN:VEVENT
 UID:1d57e16622629d77503d01a048b958c3@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20270130T180000Z
 DTEND:20270130T190000Z
 SUMMARY:Rock That STAPS | Soirée Rock 4 Temps · cours
@@ -307,8 +917,18 @@ DESCRIPTION:HORAIRE DU COURS À CONFIRMER (fin du cours non indiquée : 1 h par 
 URL:https://www.rock4you.dance/event-details/rock-that-staps-soiree-rock-4-temps-2027-01-30-19-00
 END:VEVENT
 BEGIN:VEVENT
+UID:712816e378fba4c07343ec12b8e62c6e@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270131T163000Z
+DTEND:20270131T180000Z
+SUMMARY:Café Oz · Salsa Sundays\, cours de danse (dimanche)
+LOCATION:Café Oz Grands Boulevards\, Paris
+DESCRIPTION:Cours de danse (salsa) 17h30-19h. Entrée gratuite. Tous les dimanches d'après le site.\nLien : https://cafe-oz.com/agenda-des-soirees/
+URL:https://cafe-oz.com/agenda-des-soirees/
+END:VEVENT
+BEGIN:VEVENT
 UID:ceb87213139c9912f416f43b2a8252f6@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20270131T180000Z
 DTEND:20270131T200000Z
 SUMMARY:Agua Party · cours bachata & salsa porto du dimanche
@@ -317,8 +937,18 @@ DESCRIPTION:À CONFIRMER\nCours 19h-21h (bachata et salsa porto\, 4 niveaux : 19
 URL:https://aguapartyparis.fr/la-soiree-dimanche/
 END:VEVENT
 BEGIN:VEVENT
+UID:85e882377ceda0b8764dac8322044f6a@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270201T130000Z
+DTEND:20270201T180000Z
+SUMMARY:Balajo · thé dansant (lundi\, sans cours)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Thé dansant rétro\, sans cours. Entrée 8 € avec un soft\, 10 € avec un alcool\, vestiaire inclus. Tous les lundis d'après le site.\nLien : https://www.balajo.fr/lundis
+URL:https://www.balajo.fr/lundis
+END:VEVENT
+BEGIN:VEVENT
 UID:114d814513ec45d7ebf2f8899bbe952b@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20270201T180000Z
 DTEND:20270201T190000Z
 SUMMARY:Rock That Boat · cours
@@ -327,8 +957,18 @@ DESCRIPTION:HORAIRE DU COURS À CONFIRMER (fin du cours non indiquée : 1 h par 
 URL:https://www.rock4you.dance/event-details/rock-that-boat-2027-02-01-19-00
 END:VEVENT
 BEGIN:VEVENT
+UID:1c685d4e8ff8efe5e48f446496c4fda9@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270201T183000Z
+DTEND:20270201T193000Z
+SUMMARY:Lunes de Mambo · cours de salsa porto On1
+LOCATION:Le Cirque\, 141 rue Saint-Martin\, 75004 Paris (1er étage)
+DESCRIPTION:À CONFIRMER\nCours de salsa porto On1 dès 19h30 (heure de fin non indiquée : 1 h par défaut). Les dates affichées sur le site s'arrêtent en avril 2026 : vérifier que la soirée continue.\nLien : https://salsa-paris.fr/agenda/lunes-de-mambo/
+URL:https://salsa-paris.fr/agenda/lunes-de-mambo/
+END:VEVENT
+BEGIN:VEVENT
 UID:d0707d5ab7a7e3114293f81884b945aa@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20270202T180000Z
 DTEND:20270202T200000Z
 SUMMARY:Agua Party · cours salsa & bachata du mardi
@@ -337,8 +977,38 @@ DESCRIPTION:À CONFIRMER\nCours 19h-21h (salsa et bachata\, 4 niveaux : 19h init
 URL:https://aguapartyparis.fr/la-soiree/
 END:VEVENT
 BEGIN:VEVENT
+UID:2ee17031592938f8cf6c940fc15b27ce@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270202T183000Z
+DTEND:20270202T203000Z
+SUMMARY:Balajo · cours de salsa cubaine (mardi)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Cours de salsa cubaine avec Carole et Herminio : débutant à 19h30\, intermédiaire à 20h30. Tous les mardis d'après le site.\nLien : https://www.balajo.fr/mardis
+URL:https://www.balajo.fr/mardis
+END:VEVENT
+BEGIN:VEVENT
+UID:1edf7032d6c50fb726e87b1cf3aab093@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270204T183000Z
+DTEND:20270204T203000Z
+SUMMARY:Balajo · cours de salsa cubaine (jeudi)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Cours de salsa cubaine avec Carole et Herminio : débutant à 19h30\, intermédiaire à 20h30. Tous les jeudis d'après le site.\nLien : https://www.balajo.fr/jeudis
+URL:https://www.balajo.fr/jeudis
+END:VEVENT
+BEGIN:VEVENT
+UID:ac6e69bacf736558b046d3acd948edef@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270204T190000Z
+DTEND:20270204T203000Z
+SUMMARY:Café Oz · Paris Latino\, cours de salsa cubaine (jeudi)
+LOCATION:Café Oz Châtelet\, Paris
+DESCRIPTION:Cours de salsa cubaine : débutants à 20h\, intermédiaires à 20h45. Entrée gratuite. Tous les jeudis d'après le site.\nLien : https://cafe-oz.com/agenda-des-soirees/
+URL:https://cafe-oz.com/agenda-des-soirees/
+END:VEVENT
+BEGIN:VEVENT
 UID:4b3d5ef5dea6de4387add52c58be310d@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20270205T180000Z
 DTEND:20270205T190000Z
 SUMMARY:Rock That Loft n°5 · cours
@@ -347,8 +1017,18 @@ DESCRIPTION:HORAIRE DU COURS À CONFIRMER (fin du cours non indiquée : 1 h par 
 URL:https://www.rock4you.dance/event-details/rock-that-loft-n-5
 END:VEVENT
 BEGIN:VEVENT
+UID:ceea031471a77a515debe8f033b9284f@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270207T163000Z
+DTEND:20270207T180000Z
+SUMMARY:Café Oz · Salsa Sundays\, cours de danse (dimanche)
+LOCATION:Café Oz Grands Boulevards\, Paris
+DESCRIPTION:Cours de danse (salsa) 17h30-19h. Entrée gratuite. Tous les dimanches d'après le site.\nLien : https://cafe-oz.com/agenda-des-soirees/
+URL:https://cafe-oz.com/agenda-des-soirees/
+END:VEVENT
+BEGIN:VEVENT
 UID:09f86d39e877636d9b1f3ff81945e051@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20270207T180000Z
 DTEND:20270207T200000Z
 SUMMARY:Agua Party · cours bachata & salsa porto du dimanche
@@ -357,8 +1037,18 @@ DESCRIPTION:À CONFIRMER\nCours 19h-21h (bachata et salsa porto\, 4 niveaux : 19
 URL:https://aguapartyparis.fr/la-soiree-dimanche/
 END:VEVENT
 BEGIN:VEVENT
+UID:9c8e58c151a75d0062950704bec7c449@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270208T130000Z
+DTEND:20270208T180000Z
+SUMMARY:Balajo · thé dansant (lundi\, sans cours)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Thé dansant rétro\, sans cours. Entrée 8 € avec un soft\, 10 € avec un alcool\, vestiaire inclus. Tous les lundis d'après le site.\nLien : https://www.balajo.fr/lundis
+URL:https://www.balajo.fr/lundis
+END:VEVENT
+BEGIN:VEVENT
 UID:c2e1df1e099c1a0d459075f64923ef0d@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20270208T180000Z
 DTEND:20270208T190000Z
 SUMMARY:Rock That Boat · cours
@@ -367,8 +1057,18 @@ DESCRIPTION:HORAIRE DU COURS À CONFIRMER (fin du cours non indiquée : 1 h par 
 URL:https://www.rock4you.dance/event-details/rock-that-boat-2027-02-08-19-00
 END:VEVENT
 BEGIN:VEVENT
+UID:1c9e1e396cf209b8805a3f6d4d498994@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270208T183000Z
+DTEND:20270208T193000Z
+SUMMARY:Lunes de Mambo · cours de salsa porto On1
+LOCATION:Le Cirque\, 141 rue Saint-Martin\, 75004 Paris (1er étage)
+DESCRIPTION:À CONFIRMER\nCours de salsa porto On1 dès 19h30 (heure de fin non indiquée : 1 h par défaut). Les dates affichées sur le site s'arrêtent en avril 2026 : vérifier que la soirée continue.\nLien : https://salsa-paris.fr/agenda/lunes-de-mambo/
+URL:https://salsa-paris.fr/agenda/lunes-de-mambo/
+END:VEVENT
+BEGIN:VEVENT
 UID:ac2c04e86fb303bc471d0cabebd25461@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20270209T180000Z
 DTEND:20270209T200000Z
 SUMMARY:Agua Party · cours salsa & bachata du mardi
@@ -377,8 +1077,48 @@ DESCRIPTION:À CONFIRMER\nCours 19h-21h (salsa et bachata\, 4 niveaux : 19h init
 URL:https://aguapartyparis.fr/la-soiree/
 END:VEVENT
 BEGIN:VEVENT
+UID:e9cea147a8e720b30ebfa61a7488457c@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270209T183000Z
+DTEND:20270209T203000Z
+SUMMARY:Balajo · cours de salsa cubaine (mardi)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Cours de salsa cubaine avec Carole et Herminio : débutant à 19h30\, intermédiaire à 20h30. Tous les mardis d'après le site.\nLien : https://www.balajo.fr/mardis
+URL:https://www.balajo.fr/mardis
+END:VEVENT
+BEGIN:VEVENT
+UID:95c0aa5d5aa30297034eb2804a073fcf@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270211T183000Z
+DTEND:20270211T203000Z
+SUMMARY:Balajo · cours de salsa cubaine (jeudi)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Cours de salsa cubaine avec Carole et Herminio : débutant à 19h30\, intermédiaire à 20h30. Tous les jeudis d'après le site.\nLien : https://www.balajo.fr/jeudis
+URL:https://www.balajo.fr/jeudis
+END:VEVENT
+BEGIN:VEVENT
+UID:6d1b60488318e3930be1f49882288407@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270211T190000Z
+DTEND:20270211T203000Z
+SUMMARY:Café Oz · Paris Latino\, cours de salsa cubaine (jeudi)
+LOCATION:Café Oz Châtelet\, Paris
+DESCRIPTION:Cours de salsa cubaine : débutants à 20h\, intermédiaires à 20h45. Entrée gratuite. Tous les jeudis d'après le site.\nLien : https://cafe-oz.com/agenda-des-soirees/
+URL:https://cafe-oz.com/agenda-des-soirees/
+END:VEVENT
+BEGIN:VEVENT
+UID:5c3d114315c2ce50445db0fd3f759f1c@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270214T163000Z
+DTEND:20270214T180000Z
+SUMMARY:Café Oz · Salsa Sundays\, cours de danse (dimanche)
+LOCATION:Café Oz Grands Boulevards\, Paris
+DESCRIPTION:Cours de danse (salsa) 17h30-19h. Entrée gratuite. Tous les dimanches d'après le site.\nLien : https://cafe-oz.com/agenda-des-soirees/
+URL:https://cafe-oz.com/agenda-des-soirees/
+END:VEVENT
+BEGIN:VEVENT
 UID:74c9a6b1b6d5fb21812825a498120643@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20270214T180000Z
 DTEND:20270214T200000Z
 SUMMARY:Agua Party · cours bachata & salsa porto du dimanche
@@ -387,8 +1127,18 @@ DESCRIPTION:À CONFIRMER\nCours 19h-21h (bachata et salsa porto\, 4 niveaux : 19
 URL:https://aguapartyparis.fr/la-soiree-dimanche/
 END:VEVENT
 BEGIN:VEVENT
+UID:de6471f49f27c89c44c105c59c1bce72@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270215T130000Z
+DTEND:20270215T180000Z
+SUMMARY:Balajo · thé dansant (lundi\, sans cours)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Thé dansant rétro\, sans cours. Entrée 8 € avec un soft\, 10 € avec un alcool\, vestiaire inclus. Tous les lundis d'après le site.\nLien : https://www.balajo.fr/lundis
+URL:https://www.balajo.fr/lundis
+END:VEVENT
+BEGIN:VEVENT
 UID:9106e6fc367e33039e40549fadf55c6b@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20270215T180000Z
 DTEND:20270215T190000Z
 SUMMARY:Rock That Boat · cours
@@ -397,8 +1147,18 @@ DESCRIPTION:HORAIRE DU COURS À CONFIRMER (fin du cours non indiquée : 1 h par 
 URL:https://www.rock4you.dance/event-details/rock-that-boat-2027-02-15-19-00
 END:VEVENT
 BEGIN:VEVENT
+UID:35689ba2ffd2a84dbfe4d51e0ec62f02@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270215T183000Z
+DTEND:20270215T193000Z
+SUMMARY:Lunes de Mambo · cours de salsa porto On1
+LOCATION:Le Cirque\, 141 rue Saint-Martin\, 75004 Paris (1er étage)
+DESCRIPTION:À CONFIRMER\nCours de salsa porto On1 dès 19h30 (heure de fin non indiquée : 1 h par défaut). Les dates affichées sur le site s'arrêtent en avril 2026 : vérifier que la soirée continue.\nLien : https://salsa-paris.fr/agenda/lunes-de-mambo/
+URL:https://salsa-paris.fr/agenda/lunes-de-mambo/
+END:VEVENT
+BEGIN:VEVENT
 UID:54b5a6cda06889b6201a77df4f60de99@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20270216T180000Z
 DTEND:20270216T200000Z
 SUMMARY:Agua Party · cours salsa & bachata du mardi
@@ -407,8 +1167,48 @@ DESCRIPTION:À CONFIRMER\nCours 19h-21h (salsa et bachata\, 4 niveaux : 19h init
 URL:https://aguapartyparis.fr/la-soiree/
 END:VEVENT
 BEGIN:VEVENT
+UID:4b66be335ad831850be4a5080e304532@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270216T183000Z
+DTEND:20270216T203000Z
+SUMMARY:Balajo · cours de salsa cubaine (mardi)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Cours de salsa cubaine avec Carole et Herminio : débutant à 19h30\, intermédiaire à 20h30. Tous les mardis d'après le site.\nLien : https://www.balajo.fr/mardis
+URL:https://www.balajo.fr/mardis
+END:VEVENT
+BEGIN:VEVENT
+UID:ca4bd8a575fdc61e3861b2fa0ddfcac9@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270218T183000Z
+DTEND:20270218T203000Z
+SUMMARY:Balajo · cours de salsa cubaine (jeudi)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Cours de salsa cubaine avec Carole et Herminio : débutant à 19h30\, intermédiaire à 20h30. Tous les jeudis d'après le site.\nLien : https://www.balajo.fr/jeudis
+URL:https://www.balajo.fr/jeudis
+END:VEVENT
+BEGIN:VEVENT
+UID:1f3fa6659c12a18f381d3372975a744e@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270218T190000Z
+DTEND:20270218T203000Z
+SUMMARY:Café Oz · Paris Latino\, cours de salsa cubaine (jeudi)
+LOCATION:Café Oz Châtelet\, Paris
+DESCRIPTION:Cours de salsa cubaine : débutants à 20h\, intermédiaires à 20h45. Entrée gratuite. Tous les jeudis d'après le site.\nLien : https://cafe-oz.com/agenda-des-soirees/
+URL:https://cafe-oz.com/agenda-des-soirees/
+END:VEVENT
+BEGIN:VEVENT
+UID:cd8f2cb569c7712e49c71ae5dc3a8b49@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270221T163000Z
+DTEND:20270221T180000Z
+SUMMARY:Café Oz · Salsa Sundays\, cours de danse (dimanche)
+LOCATION:Café Oz Grands Boulevards\, Paris
+DESCRIPTION:Cours de danse (salsa) 17h30-19h. Entrée gratuite. Tous les dimanches d'après le site.\nLien : https://cafe-oz.com/agenda-des-soirees/
+URL:https://cafe-oz.com/agenda-des-soirees/
+END:VEVENT
+BEGIN:VEVENT
 UID:b90ac743a62421c1a1e445e3288b7474@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20270221T180000Z
 DTEND:20270221T200000Z
 SUMMARY:Agua Party · cours bachata & salsa porto du dimanche
@@ -417,8 +1217,18 @@ DESCRIPTION:À CONFIRMER\nCours 19h-21h (bachata et salsa porto\, 4 niveaux : 19
 URL:https://aguapartyparis.fr/la-soiree-dimanche/
 END:VEVENT
 BEGIN:VEVENT
+UID:7a7d42a28b6e135b204510f50c38c250@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270222T130000Z
+DTEND:20270222T180000Z
+SUMMARY:Balajo · thé dansant (lundi\, sans cours)
+LOCATION:Le Balajo\, 9 rue de Lappe\, 75011 Paris
+DESCRIPTION:Thé dansant rétro\, sans cours. Entrée 8 € avec un soft\, 10 € avec un alcool\, vestiaire inclus. Tous les lundis d'après le site.\nLien : https://www.balajo.fr/lundis
+URL:https://www.balajo.fr/lundis
+END:VEVENT
+BEGIN:VEVENT
 UID:1a908b726760883fa9ff9029ea80da7c@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20270222T180000Z
 DTEND:20270222T190000Z
 SUMMARY:Rock That Boat · cours
@@ -427,8 +1237,18 @@ DESCRIPTION:HORAIRE DU COURS À CONFIRMER (fin du cours non indiquée : 1 h par 
 URL:https://www.rock4you.dance/event-details/rock-that-boat-2027-02-22-19-00
 END:VEVENT
 BEGIN:VEVENT
+UID:fc54dd36b19dd325c5a76cac4da69302@conferences
+DTSTAMP:20261124T213927Z
+DTSTART:20270222T183000Z
+DTEND:20270222T193000Z
+SUMMARY:Lunes de Mambo · cours de salsa porto On1
+LOCATION:Le Cirque\, 141 rue Saint-Martin\, 75004 Paris (1er étage)
+DESCRIPTION:À CONFIRMER\nCours de salsa porto On1 dès 19h30 (heure de fin non indiquée : 1 h par défaut). Les dates affichées sur le site s'arrêtent en avril 2026 : vérifier que la soirée continue.\nLien : https://salsa-paris.fr/agenda/lunes-de-mambo/
+URL:https://salsa-paris.fr/agenda/lunes-de-mambo/
+END:VEVENT
+BEGIN:VEVENT
 UID:5670e3e3b9b7018e265db7692868becb@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20270301T180000Z
 DTEND:20270301T190000Z
 SUMMARY:Rock That Boat · cours
@@ -438,7 +1258,7 @@ URL:https://www.rock4you.dance/event-details/rock-that-boat-2027-03-01-19-00
 END:VEVENT
 BEGIN:VEVENT
 UID:3c84c28b2f249446c16bd60068129e32@conferences
-DTSTAMP:20261124T212351Z
+DTSTAMP:20261124T213927Z
 DTSTART:20270308T180000Z
 DTEND:20270308T190000Z
 SUMMARY:Rock That Boat · cours

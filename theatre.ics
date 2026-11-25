@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:91b9d48c8aedc0dbed8b56b78574bb51@conferences
-DTSTAMP:20261124T220543Z
+DTSTAMP:20261125T141052Z
 DTSTART:20261127T190000Z
 DTEND:20261127T210000Z
 SUMMARY:Théâtre d’impro 🚀 - by Kpten Impro -
@@ -18,7 +18,7 @@ URL:https://www.meetup.com/meetup-group-fcufnrue/events/317513841/
 END:VEVENT
 BEGIN:VEVENT
 UID:d7f38f4f185c3e400ccd76167ea73914@conferences
-DTSTAMP:20261124T220543Z
+DTSTAMP:20261125T141052Z
 DTSTART:20261128T140000Z
 DTEND:20261128T160000Z
 SUMMARY:Théâtre d’impro 🚀 - by Kpten Impro -
@@ -28,17 +28,17 @@ URL:https://www.meetup.com/meetup-group-fcufnrue/events/317513845/
 END:VEVENT
 BEGIN:VEVENT
 UID:840cc8c0bfc96ec986db517ad85047e1@conferences
-DTSTAMP:20261124T220543Z
+DTSTAMP:20261125T141052Z
 DTSTART:20261128T160000Z
 DTEND:20261128T180000Z
-SUMMARY:Théâtre d’impro 🚀 - by Kpten Impro - répét
+SUMMARY:Théâtre d’impro 🚀 - by Kpten Impro
 LOCATION:
 DESCRIPTION:Ateliers de théâtre d'improvisation (Kpten Impro)\n\nAteliers de théâtre d’improvisation 🎬🚀\nAtelier d’impro\n\nDécouvre les joies de l'impro\, optimise ta créativité et libère ton potentiel !\n\nL'improvisation théâtrale est un excellent outil de développement personnel et une formidable aventure collective !\n\nSi tu as envie de [re]découvrir l'impro dans un cadre ludique et bienveillant cet atelier est fait pour toi !\n\nCes séances sont ouvertes à tous\, débutants\, intermédiaires\, confirmés.\n\nL'atelier se déroule en 2 heures\, au programme :\n\nDes échauffements dynamiques pour être à l’aise rapidement avec le groupe.\n\nLa gestion du stress et le lâcher prise\,\n\nDes jeux ludiques pour construire avec ses partenaires des histoires éphémères\,\n\nDu rire\, du [Fun] et des rencontres …\n\nInfos pratiques :\n\n- Nombre de participants limité\n\n- Prévoir une tenue co…\n\nLien : https://www.meetup.com/meetup-group-fcufnrue/events/317513848/
 URL:https://www.meetup.com/meetup-group-fcufnrue/events/317513848/
 END:VEVENT
 BEGIN:VEVENT
 UID:cdeb28f61573fe160c8be97df0fe2f1e@conferences
-DTSTAMP:20261124T220543Z
+DTSTAMP:20261125T141052Z
 DTSTART:20261129T140000Z
 DTEND:20261129T160000Z
 SUMMARY:Théâtre d’impro 🚀 - by Kpten Impro

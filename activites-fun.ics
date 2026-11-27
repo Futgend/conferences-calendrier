@@ -7,18 +7,8 @@ X-WR-TIMEZONE:Europe/Paris
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:183277bf8e67097605b393bea4a2dc84@conferences
-DTSTAMP:20261126T134439Z
-DTSTART:20261126T173000Z
-DTEND:20261126T213000Z
-SUMMARY:Board Games in English / Jeux en Anglais
-LOCATION:
-DESCRIPTION:Au Bonheur des Jeux de Société\n\nAu Bonheur Des Jeux de Société\nCome speak English while having fun! Beginner\, intermediate or native\, join us for board games in English.\n\nThe cafe's entry fee is 12€\, which includes one drink and access to 300+ board games.\n\nIf you show up late\, that's fine\, but we can only guarantee chairs for this event until 7pm\, after that it's first come\, first serve :)\n\nEnvie de parler anglais en s’amusant ? Que vous soyez débutants\, intermédiaires ou natifs\, soyez les bienvenus pour une soirée jeux en anglais.\n\nPrix d'entrée du café à 12 €\, dont une boisson comprise et des jeux à volonté.\n\nPas besoin d'arriver pile à 18h30 pour ceux qui veulent venir en cours de soirée\, mais nous ne pouvons garantir les places que jusqu'à 19h\, ensuite ça dépendra de l'affluence :)\n\nLien : https://www.meetup.com/au-bonheur-des-jeux-de-societe/events/316404029/
-URL:https://www.meetup.com/au-bonheur-des-jeux-de-societe/events/316404029/
-END:VEVENT
-BEGIN:VEVENT
 UID:11edf53dba0e6f232921474cbb339dae@conferences
-DTSTAMP:20261126T134439Z
+DTSTAMP:20261127T134306Z
 DTSTART:20261127T183000Z
 DTEND:20261127T203000Z
 SUMMARY:Soirée Blind Test Musical & Jeux de Société
@@ -28,7 +18,7 @@ URL:https://www.meetup.com/au-bonheur-des-jeux-de-societe/events/317174696/
 END:VEVENT
 BEGIN:VEVENT
 UID:5b6ee4dc4be39a4ec87d1daa768cb7bf@conferences
-DTSTAMP:20261126T134439Z
+DTSTAMP:20261127T134306Z
 DTSTART:20261128T140000Z
 DTEND:20261128T203000Z
 SUMMARY:Aprem Jeux de Société (samedi)
@@ -38,7 +28,7 @@ URL:https://www.meetup.com/au-bonheur-des-jeux-de-societe/events/316335646/
 END:VEVENT
 BEGIN:VEVENT
 UID:c86cf1856106aa4994974a6bd23e035e@conferences
-DTSTAMP:20261126T134439Z
+DTSTAMP:20261127T134306Z
 DTSTART:20261129T140000Z
 DTEND:20261129T190000Z
 SUMMARY:Après-Midi Jeux de Société
@@ -48,7 +38,7 @@ URL:https://www.meetup.com/au-bonheur-des-jeux-de-societe/events/316214858/
 END:VEVENT
 BEGIN:VEVENT
 UID:00e8d300607a032ccf541f9f10cf5107@conferences
-DTSTAMP:20261126T134439Z
+DTSTAMP:20261127T134306Z
 DTSTART:20261130T173000Z
 DTEND:20261130T213000Z
 SUMMARY:Soirée Jeux de Société (lundi)
@@ -58,7 +48,7 @@ URL:https://www.meetup.com/au-bonheur-des-jeux-de-societe/events/317370961/
 END:VEVENT
 BEGIN:VEVENT
 UID:fd3725c01e3e44c3fd5787b9bcb6648f@conferences
-DTSTAMP:20261126T134439Z
+DTSTAMP:20261127T134306Z
 DTSTART:20261201T170000Z
 DTEND:20261201T200000Z
 SUMMARY:Soirée Jeux de Société STRATEGIE/EXPERT
@@ -68,7 +58,7 @@ URL:https://www.meetup.com/au-bonheur-des-jeux-de-societe/events/316660791/
 END:VEVENT
 BEGIN:VEVENT
 UID:6e63ef5573d5d041d36a03bc72601067@conferences
-DTSTAMP:20261126T134439Z
+DTSTAMP:20261127T134306Z
 DTSTART:20261202T173000Z
 DTEND:20261202T193000Z
 SUMMARY:Tournoi Codenames
@@ -78,7 +68,7 @@ URL:https://www.meetup.com/au-bonheur-des-jeux-de-societe/events/317468399/
 END:VEVENT
 BEGIN:VEVENT
 UID:0fe9a799b6e8591c6e0aa4948035f9be@conferences
-DTSTAMP:20261126T134439Z
+DTSTAMP:20261127T134306Z
 DTSTART:20261203T173000Z
 DTEND:20261203T213000Z
 SUMMARY:Soirée Jeux de Société (jeudi)\n
@@ -88,7 +78,7 @@ URL:https://www.meetup.com/au-bonheur-des-jeux-de-societe/events/317413955/
 END:VEVENT
 BEGIN:VEVENT
 UID:275f117c614e57047a1f1829f2602fd5@conferences
-DTSTAMP:20261126T134439Z
+DTSTAMP:20261127T134306Z
 DTSTART:20261204T173000Z
 DTEND:20261204T193000Z
 SUMMARY:Soirée Jeux de Société (vendredi)
@@ -98,12 +88,22 @@ URL:https://www.meetup.com/au-bonheur-des-jeux-de-societe/events/317387137/
 END:VEVENT
 BEGIN:VEVENT
 UID:c8a96d6aef859f454a43722508977782@conferences
-DTSTAMP:20261126T134439Z
+DTSTAMP:20261127T134306Z
 DTSTART:20261205T140000Z
 DTEND:20261205T203000Z
 SUMMARY:Aprem Jeux de Société (samedi)
 LOCATION:
 DESCRIPTION:Au Bonheur des Jeux de Société\n\nAu Bonheur Des Jeux de Société\nUn samedi fun et convivial autour des jeux de société :)\n\nVenez seul(e) ou en binôme et on formera des groupes sur place !\n\nPrix d'entrée du café-jeux à 12 €\, dont une boisson comprise et des jeux à volonté.\n\n! Attention !\nNous réservons vos places jusqu'à 15h30\, ensuite ce sera uniquement en fonction de l'affluence au café.\n\nPar ailleurs\, pensez à vous désinscrire si vous savez que vous ne venez pas\, par respect pour nous et les participants en liste d'attente.\n\nMerci :)\n\nLien : https://www.meetup.com/au-bonheur-des-jeux-de-societe/events/316335647/
 URL:https://www.meetup.com/au-bonheur-des-jeux-de-societe/events/316335647/
+END:VEVENT
+BEGIN:VEVENT
+UID:bf50cfa30bd509bd53c15ebd1a04af9d@conferences
+DTSTAMP:20261127T134306Z
+DTSTART:20261206T140000Z
+DTEND:20261206T190000Z
+SUMMARY:Après-Midi Jeux de Société
+LOCATION:
+DESCRIPTION:Au Bonheur des Jeux de Société\n\nAu Bonheur Des Jeux de Société\nUn dimanche après-midi fun et convivial autour des jeux de société :)\n\nVenez seul(e) ou en binôme et on formera des groupes sur place !\n\nPrix d'entrée du café-jeux à 12 €\, dont une boisson comprise et des jeux à volonté.\n\n! Attention !\nNous réservons vos places jusqu'à 15h30\, ensuite ce sera uniquement en fonction de l'affluence au café.\nPar ailleurs\, pensez à vous désinscrire si vous savez que vous ne venez pas\, par respect pour nous et les participants en liste d'attente.\n\nMerci :)\n\nLien : https://www.meetup.com/au-bonheur-des-jeux-de-societe/events/316214859/
+URL:https://www.meetup.com/au-bonheur-des-jeux-de-societe/events/316214859/
 END:VEVENT
 END:VCALENDAR

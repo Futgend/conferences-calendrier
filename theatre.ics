@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:91b9d48c8aedc0dbed8b56b78574bb51@conferences
-DTSTAMP:20261126T134439Z
+DTSTAMP:20261127T134306Z
 DTSTART:20261127T190000Z
 DTEND:20261127T210000Z
 SUMMARY:Théâtre d’impro 🚀 - by Kpten Impro -
@@ -18,7 +18,7 @@ URL:https://www.meetup.com/meetup-group-fcufnrue/events/317513841/
 END:VEVENT
 BEGIN:VEVENT
 UID:d7f38f4f185c3e400ccd76167ea73914@conferences
-DTSTAMP:20261126T134439Z
+DTSTAMP:20261127T134306Z
 DTSTART:20261128T140000Z
 DTEND:20261128T160000Z
 SUMMARY:Théâtre d’impro 🚀 - by Kpten Impro -
@@ -28,7 +28,7 @@ URL:https://www.meetup.com/meetup-group-fcufnrue/events/317513845/
 END:VEVENT
 BEGIN:VEVENT
 UID:840cc8c0bfc96ec986db517ad85047e1@conferences
-DTSTAMP:20261126T134439Z
+DTSTAMP:20261127T134306Z
 DTSTART:20261128T160000Z
 DTEND:20261128T180000Z
 SUMMARY:Théâtre d’impro 🚀 - by Kpten Impro
@@ -38,12 +38,52 @@ URL:https://www.meetup.com/meetup-group-fcufnrue/events/317513848/
 END:VEVENT
 BEGIN:VEVENT
 UID:cdeb28f61573fe160c8be97df0fe2f1e@conferences
-DTSTAMP:20261126T134439Z
+DTSTAMP:20261127T134306Z
 DTSTART:20261129T140000Z
 DTEND:20261129T160000Z
 SUMMARY:Théâtre d’impro 🚀 - by Kpten Impro
 LOCATION:
 DESCRIPTION:Ateliers de théâtre d'improvisation (Kpten Impro)\n\nAteliers de théâtre d’improvisation 🎬🚀\nAtelier d’impro\n\nDécouvre les joies de l'impro\, optimise ta créativité et libère ton potentiel !\n\nL'improvisation théâtrale est un excellent outil de développement personnel et une formidable aventure collective !\n\nSi tu as envie de [re]découvrir l'impro dans un cadre ludique et bienveillant cet atelier est fait pour toi !\n\nCes séances sont ouvertes à tous\, débutants\, intermédiaires\, confirmés.\n\nL'atelier se déroule en 2 heures\, au programme :\n\nDes échauffements dynamiques pour être à l’aise rapidement avec le groupe.\n\nLa gestion du stress et le lâcher prise\,\n\nDes jeux ludiques pour construire avec ses partenaires des histoires éphémères\,\n\nDu rire\, du [Fun] et des rencontres …\n\nInfos pratiques :\n\n- Nombre de participants limité\n\n- Prévoir une tenue co…\n\nLien : https://www.meetup.com/meetup-group-fcufnrue/events/317513851/
 URL:https://www.meetup.com/meetup-group-fcufnrue/events/317513851/
+END:VEVENT
+BEGIN:VEVENT
+UID:de85cdf744b518cab83dafb9a5cb9596@conferences
+DTSTAMP:20261127T134306Z
+DTSTART:20261204T190000Z
+DTEND:20261204T210000Z
+SUMMARY:Théâtre d’impro 🚀 - by Kpten Impro
+LOCATION:
+DESCRIPTION:Ateliers de théâtre d'improvisation (Kpten Impro)\n\nAteliers de théâtre d’improvisation 🎬🚀\nAtelier d’impro\n\nDécouvre les joies de l'impro\, optimise ta créativité et libère ton potentiel !\n\nL'improvisation théâtrale est un excellent outil de développement personnel et une formidable aventure collective !\n\nSi tu as envie de [re]découvrir l'impro dans un cadre ludique et bienveillant cet atelier est fait pour toi !\n\nCes séances sont ouvertes à tous\, débutants\, intermédiaires\, confirmés.\n\nL'atelier se déroule en 2 heures\, au programme :\n\nDes échauffements dynamiques pour être à l’aise rapidement avec le groupe.\n\nLa gestion du stress et le lâcher prise\,\n\nDes jeux ludiques pour construire avec ses partenaires des histoires éphémères\,\n\nDu rire\, du [Fun] et des rencontres …\n\nInfos pratiques :\n\n- Nombre de participants limité\n\n- Prévoir une tenue co…\n\nLien : https://www.meetup.com/meetup-group-fcufnrue/events/317603880/
+URL:https://www.meetup.com/meetup-group-fcufnrue/events/317603880/
+END:VEVENT
+BEGIN:VEVENT
+UID:cda5fb82df9d86752a003e47ef87482c@conferences
+DTSTAMP:20261127T134306Z
+DTSTART:20261205T140000Z
+DTEND:20261205T160000Z
+SUMMARY:Théâtre d’impro 🚀 - by Kpten Impro
+LOCATION:
+DESCRIPTION:Ateliers de théâtre d'improvisation (Kpten Impro)\n\nAteliers de théâtre d’improvisation 🎬🚀\nAtelier d’impro\n\nDécouvre les joies de l'impro\, optimise ta créativité et libère ton potentiel !\n\nL'improvisation théâtrale est un excellent outil de développement personnel et une formidable aventure collective !\n\nSi tu as envie de [re]découvrir l'impro dans un cadre ludique et bienveillant cet atelier est fait pour toi !\n\nCes séances sont ouvertes à tous\, débutants\, intermédiaires\, confirmés.\n\nL'atelier se déroule en 2 heures\, au programme :\n\nDes échauffements dynamiques pour être à l’aise rapidement avec le groupe.\n\nLa gestion du stress et le lâcher prise\,\n\nDes jeux ludiques pour construire avec ses partenaires des histoires éphémères\,\n\nDu rire\, du [Fun] et des rencontres …\n\nInfos pratiques :\n\n- Nombre de participants limité\n\n- Prévoir une tenue co…\n\nLien : https://www.meetup.com/meetup-group-fcufnrue/events/317603882/
+URL:https://www.meetup.com/meetup-group-fcufnrue/events/317603882/
+END:VEVENT
+BEGIN:VEVENT
+UID:90b8e90d6da17b50eeea1cc13780313a@conferences
+DTSTAMP:20261127T134306Z
+DTSTART:20261205T160000Z
+DTEND:20261205T180000Z
+SUMMARY:Théâtre d’impro 🚀 - by Kpten Impro - répét
+LOCATION:
+DESCRIPTION:Ateliers de théâtre d'improvisation (Kpten Impro)\n\nAteliers de théâtre d’improvisation 🎬🚀\nAtelier d’impro\n\nDécouvre les joies de l'impro\, optimise ta créativité et libère ton potentiel !\n\nL'improvisation théâtrale est un excellent outil de développement personnel et une formidable aventure collective !\n\nSi tu as envie de [re]découvrir l'impro dans un cadre ludique et bienveillant cet atelier est fait pour toi !\n\nCes séances sont ouvertes à tous\, débutants\, intermédiaires\, confirmés.\n\nL'atelier se déroule en 2 heures\, au programme :\n\nDes échauffements dynamiques pour être à l’aise rapidement avec le groupe.\n\nLa gestion du stress et le lâcher prise\,\n\nDes jeux ludiques pour construire avec ses partenaires des histoires éphémères\,\n\nDu rire\, du [Fun] et des rencontres …\n\nInfos pratiques :\n\n- Nombre de participants limité\n\n- Prévoir une tenue co…\n\nLien : https://www.meetup.com/meetup-group-fcufnrue/events/317603886/
+URL:https://www.meetup.com/meetup-group-fcufnrue/events/317603886/
+END:VEVENT
+BEGIN:VEVENT
+UID:6872f72600da2cbd2a3b487dae63494c@conferences
+DTSTAMP:20261127T134306Z
+DTSTART:20261206T140000Z
+DTEND:20261206T160000Z
+SUMMARY:Théâtre d’impro 🚀 - by Kpten Impro
+LOCATION:
+DESCRIPTION:Ateliers de théâtre d'improvisation (Kpten Impro)\n\nAteliers de théâtre d’improvisation 🎬🚀\nAtelier d’impro\n\nDécouvre les joies de l'impro\, optimise ta créativité et libère ton potentiel !\n\nL'improvisation théâtrale est un excellent outil de développement personnel et une formidable aventure collective !\n\nSi tu as envie de [re]découvrir l'impro dans un cadre ludique et bienveillant cet atelier est fait pour toi !\n\nCes séances sont ouvertes à tous\, débutants\, intermédiaires\, confirmés.\n\nL'atelier se déroule en 2 heures\, au programme :\n\nDes échauffements dynamiques pour être à l’aise rapidement avec le groupe.\n\nLa gestion du stress et le lâcher prise\,\n\nDes jeux ludiques pour construire avec ses partenaires des histoires éphémères\,\n\nDu rire\, du [Fun] et des rencontres …\n\nInfos pratiques :\n\n- Nombre de participants limité\n\n- Prévoir une tenue co…\n\nLien : https://www.meetup.com/meetup-group-fcufnrue/events/317603887/
+URL:https://www.meetup.com/meetup-group-fcufnrue/events/317603887/
 END:VEVENT
 END:VCALENDAR
